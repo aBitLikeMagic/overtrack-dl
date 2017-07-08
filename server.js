@@ -11,7 +11,7 @@ const app = express();
 
 app.use(require('body-parser').urlencoded({extended: true}));
 
-const listener = app.listen(process.env.PORT, () => {
+const listener = app.listen(process.env.PORT || 8080, () => {
   console.log('Your app is listening on port ' + listener.address().port);
 });
 
