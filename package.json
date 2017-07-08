@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "7.x"
+  },
   "dependencies": {
     "fs-extra": "^3.0.1",
     "json-stable-stringify": "^1.0.1",
