@@ -17,6 +17,8 @@ const getGames = async (sessionId) => {
     games.push(await getGameDetails(metadata));
   }
   
+  games.sort((a, b) => a.meta.time - b.meta.time);
+  
   return games;
 };
 
@@ -46,6 +48,7 @@ const getGameDetails = async (gameMetadata) => {
   } catch (error) {
     const response = await fetch(gameMetadata['url']);
     data = {
+      name: fileKey,
       meta: gameMetadata,
       data: await response.json()
     }

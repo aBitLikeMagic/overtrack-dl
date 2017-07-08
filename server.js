@@ -20,6 +20,15 @@ app.get('/', async (request, response) => {
     <style>
       * { font-family: monospace; }
       img { vertical-align: middle; height: 48px; }
+      a:target {
+        border: 2px solid currentColor;
+        border-top-right-radius: 1em;
+        border-bottom-right-radius: 1em;
+        padding: .5em;
+        padding-right: 10em;
+        border-left: 0;
+        padding-left: 0;
+      }
     </style>
 
     <h1>
@@ -40,7 +49,8 @@ app.get('/', async (request, response) => {
   
   for (const filename of await fs.readdir('games')) {
     if (filename.match(/\.json$/)) {
-      lines.push(`<p><a href="games/${he.escape(filename)}">${he.escape(filename)}</a></p>`);
+      const en = he.escape(filename);
+      lines.push(`<p><a href="games/${en}" id="games/${en}">${en}</a></p>`);
     }
   }
   response.send(lines.join('\n'));
@@ -48,7 +58,7 @@ app.get('/', async (request, response) => {
 
 app.post('/', async (request, response) => {
   const games = await odl.getGames(request.body.session);
-  response.redirect('/');
+  response.redirect(`/#games/${games[games.length - 1].name}.json`);
 })
 
 app.use('/games', express.static('games'));
