@@ -4,18 +4,22 @@ const jsonStableStringify = require('json-stable-stringify');
 
 
 
-const main = async () => {
-  const sessionId = process.env['session'];
+const getGames = async (sessionId) => {
   if (!sessionId) {
     throw new Error("Missing session ID as 'session' in env.");
   };
 
   console.log("Getting game list from server.");
-  const games = await getGameList(sessionId);
+  const gameMetas = await getGameList(sessionId);
+  const games = [];
 
-  for (const metadata of games) {
-    await getGameDetails(metadata);
+  for (const metadata of gameMetas) {
+    games.push(await getGameDetails(metadata));
   }
+  
+  games.sort((a, b) => a.meta.time - b.meta.time);
+  
+  return games;
 };
 
 
@@ -51,6 +55,7 @@ const getGameDetails = async (gameMetadata) => {
     console.log(`Fetched ${path}.`);
   }
 
+  data.name = fileKey;
   return data;
 };
 
@@ -60,5 +65,4 @@ const stringify = (object) => {
 };
 
 
-
-main().then(null, error => console.error(error));;
+module.exports = {getGames};

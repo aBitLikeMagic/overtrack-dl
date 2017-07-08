@@ -1,10 +1,17 @@
 {
+  "engines": {
+    "node": "7.x"
+  },
   "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
     "fs-extra": "^3.0.1",
+    "he": "^1.1.1",
     "json-stable-stringify": "^1.0.1",
     "node-fetch": "^1.7.1"
   },
   "scripts": {
-    "start": "node ."
+    "start": "node server.js",
+    "main": "node main.js"
   }
 }
