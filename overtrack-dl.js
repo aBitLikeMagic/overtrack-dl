@@ -48,7 +48,6 @@ const getGameDetails = async (gameMetadata) => {
   } catch (error) {
     const response = await fetch(gameMetadata['url']);
     data = {
-      name: fileKey,
       meta: gameMetadata,
       data: await response.json()
     }
@@ -56,6 +55,7 @@ const getGameDetails = async (gameMetadata) => {
     console.log(`Fetched ${path}.`);
   }
 
+  data.name = fileKey;
   return data;
 };
 
