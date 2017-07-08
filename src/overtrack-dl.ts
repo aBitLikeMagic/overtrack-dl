@@ -1,18 +1,40 @@
-const fetch = require('node-fetch');
-const fs = require('fs-extra');
+import fetch from 'node-fetch';
+import * as fs from 'fs-extra';
 const jsonStableStringify = require('json-stable-stringify');
 
 
+// The short metadata used to display this in Overtrack game lsits.
+interface RawOvertrackGameMetadata {
+  // The timestamp at which the game started.
+  time: number;
+  // The name of the current player.
+  player_name: string;
+  // The name of the map.
+  map: string;
+  // The URL where the full detailed parsed game information is available.
+  url: string;
+}
 
-class OvertrackUser {
-  constructor(sessionId) {
+
+// The full detailed parsed game information used to display the game view.
+interface RawOvertrackGameData {
+  // The Overtrack user ID which owns this game.
+  user_id: number;
+}
+
+
+export class OvertrackUser {
+  sessionId_: string;
+  games_: OvertrackGame[];
+  
+  constructor(sessionId: string) {
     if (!sessionId) throw new Error("Missing session ID");
     
     this.sessionId_ = sessionId;
     this.games_ = [];
   }
   
-  async getGames() {
+  async getGames(): Promise<OvertrackGame[]> {
     if (this.games_.length > 0) return this.games_;
     
     const response = await fetch('https://api.overtrack.gg/games', {
@@ -21,14 +43,14 @@ class OvertrackUser {
       }
     });
     const data = await response.json();
-    const games = data['games'].map(game => new OvertrackGame(game));
+    const games:OvertrackGame[] = data['games'].map((game: Object) => new OvertrackGame(game));
     
     games.sort((a, b) => a.meta.time - b.meta.time);
     
     return this.games_ = games;
   }
   
-  async getGamesWithData() {
+  async getGamesWithData(): Promise<OvertrackGame[]> {
     const games = await this.getGames();
     for (const game of games) {
       await game.getData();
@@ -36,22 +58,23 @@ class OvertrackUser {
     return games;
   }
   
-  static async getGamesWithData(sessionId) {
+  static async getGamesWithData(sessionId: string) {
     return new OvertrackUser(sessionId).getGamesWithData();
   }
 }
 
 
-class OvertrackGame {
-  constructor(meta) {
-    // meta is the short metadata used to display this in Overtrack game lsits.
-    this.meta = meta;
-    // data is the full detailed parsed game information used to display the game view.
-    this.data = null;
+export class OvertrackGame {
+  meta: RawOvertrackGameMetadata;
+  data?: RawOvertrackGameData;
+
+  constructor(meta: Object) {
+    this.meta = meta as any;
+    this.data = undefined;
   }
 
   // A string key derived from meta to uniqely identify this game.
-  key() {
+  key(): string {
     return [
       this.meta.player_name,
       new Date(this.meta.time * 1000).toISOString().replace(/[^0-9]|000Z$/g, ''),
@@ -59,39 +82,32 @@ class OvertrackGame {
     ].join('-').toLowerCase().replace(/[^a-z0-9]+/g, '-');
   }
   
-  toJSON() {
+  toJSON(): Object {
     return {
       meta: this.meta,
       data: this.data
     }
   }
   
-  stringify() {
+  stringify(): string {
     return jsonStableStringify(this, {space: 2});
   }
   
-  async getData() {
+  async getData(): Promise<RawOvertrackGameData> {
     if (this.data) return this.data;
     
     const path = `games/${this.key()}.json`;
-    let data;
-    
+
     try {
-      this.data = JSON.parse(await fs.readFile(path)).data;
+      this.data = JSON.parse(await fs.readFile(path, 'utf8')).data;
       console.log(`Loaded ${path}.`);
     } catch (error) {
-      const response = await fetch(this.meta['url']);
+      const response = await fetch(this.meta.url);
       this.data = await response.json();
       console.log(`Fetched ${path}.`);
       await fs.writeFile(path, this.stringify());
     }
 
-    return this.data;
+    return this.data as RawOvertrackGameData;
   }
 }
-
-
-module.exports = {
-  OvertrackUser,
-  OvertrackGame
-};

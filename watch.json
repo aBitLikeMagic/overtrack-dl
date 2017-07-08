@@ -1,0 +1,21 @@
+{
+  "install": {
+    "include": [
+      "^package\\.json$",
+      "^\\.env$"
+    ]
+  },
+  "restart": {
+    "exclude": [
+      "^data/",
+      "^dist/",
+      "^games/"
+    ],
+    "include": [
+      "\\.ts$",
+      "\\.js$",
+      "\\.json$"
+    ]
+  },
+  "throttle": 100
+}
