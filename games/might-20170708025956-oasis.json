@@ -145,7 +145,7 @@
       2256
     ],
     "custom_game": false,
-    "deaths": 13,
+    "deaths": 11,
     "end_sr": 2354,
     "game_duration": 1292,
     "game_ended": 1499484224,
@@ -159,7 +159,7 @@
         "healing": 3125,
         "hero_stat_1": 21,
         "hero_stat_2": 5,
-        "hero_stat_3": 20,
+        "hero_stat_3": 18,
         "hero_stat_5": 35,
         "hero_stat_6": 1292285,
         "objective_kills": 24,
@@ -230,18 +230,6 @@
     "key": "Magic-11407/2017-07-08-03-23-a5fxJp7jWMTBDeWdcn47wH",
     "killfeed": [
       [
-        94650,
-        1,
-        "lucio",
-        "CLYNAR",
-        "dva_mech",
-        "CLASSYDINO",
-        [
-          "mercy"
-        ],
-        null
-      ],
-      [
         96062,
         0,
         "dva",
@@ -249,18 +237,6 @@
         "mccree",
         "TWISTYCAP",
         [
-        ],
-        null
-      ],
-      [
-        99360,
-        1,
-        "lucio",
-        "CLYNAR",
-        "dva",
-        "CLASSYDINO",
-        [
-          "mercy"
         ],
         null
       ],
@@ -281,7 +257,7 @@
       [
         101032,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "zenyatta",
         "AK47",
@@ -292,30 +268,41 @@
       [
         102635,
         1,
-        "junkrat",
-        "MIGHT",
+        "lucio",
+        "TOYEBOX",
+        "zenyatta",
+        "AK47",
+        [
+        ],
+        null
+      ],
+      [
+        108716,
+        1,
         "winston",
-        "COLTTRYHARD",
+        "TOASTMACHINE",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
           "mercy"
         ],
         null
       ],
       [
-        122812,
+        123510,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
         null
       ],
       [
-        140817,
+        141968,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "dva_mech",
         "CLASSYDINO",
@@ -326,16 +313,24 @@
       [
         144349,
         1,
-        "junkrat",
-        "MIGHT",
-        "winston",
-        "COLTTRYHARD",
+        "lucio",
+        "TOYEBOX",
+        "dva_mech",
+        "CLASSYDINO",
         [
         ],
+        null
+      ],
+      [
+        147822,
+        1,
+        "mccree",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
-          "junkrat",
-          "steeltrap"
-        ]
+        ],
+        null
       ],
       [
         153107,
@@ -360,6 +355,17 @@
         null
       ],
       [
+        187601,
+        1,
+        "junkrat",
+        "MIGHT",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
         190391,
         1,
         "junkrat",
@@ -367,7 +373,6 @@
         "winston",
         "COLTTRYHARD",
         [
-          "mercy"
         ],
         null
       ],
@@ -399,18 +404,6 @@
       [
         191202,
         1,
-        "zarya",
-        "TOYEBOX",
-        "dva_mech",
-        "CLASSYDINO",
-        [
-          "mercy"
-        ],
-        null
-      ],
-      [
-        191202,
-        1,
         "mccree",
         "TWISTYCAP",
         "dva",
@@ -424,22 +417,30 @@
       ],
       [
         192000,
+        1,
+        "torb_turret",
+        "TOYEBOX",
+        "dva_mech",
+        "CLASSYDINO",
+        [
+        ],
+        null
+      ],
+      [
+        192000,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         "lucio",
         "CLYNAR",
         [
         ],
-        [
-          "pharah",
-          "barrage"
-        ]
+        null
       ],
       [
         196792,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         "mccree",
         "TWISTYCAP",
@@ -478,9 +479,9 @@
       [
         202111,
         1,
-        "zarya",
+        "lucio",
         "TOYEBOX",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -503,10 +504,22 @@
       [
         228442,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         "mercy",
         "GHST",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        231028,
+        1,
+        "winston",
+        "TOASTMACHINE",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
         ],
         null
@@ -523,29 +536,18 @@
         null
       ],
       [
-        231580,
+        234768,
         0,
         "winston",
         "COLTTRYHARD",
-        "zarya",
+        "lucio",
         "TOYEBOX",
         [
         ],
         null
       ],
       [
-        232981,
-        1,
-        "winston",
-        "TOASTMACHINE",
-        "mercy",
-        "@UNKNOWN_RED#0",
-        [
-        ],
-        null
-      ],
-      [
-        245102,
+        246003,
         0,
         "reaper",
         "MANTULLA42O",
@@ -567,26 +569,43 @@
         null
       ],
       [
-        277506,
-        1,
-        "lucio",
-        "CLYNAR",
-        "reaper",
-        "MANTULLA42O",
+        293073,
+        0,
+        "zenyatta",
+        "AK47",
+        "torb_turret",
+        "TOYEBOX",
         [
         ],
         null
       ],
       [
-        292258,
-        0,
-        "zenyatta",
-        "AK47",
-        "zarya",
-        "TOYEBOX",
+        314270,
+        1,
+        "mccree",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
         ],
-        null
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        314270,
+        0,
+        "dva",
+        "CLASSYDINO",
+        "mercy",
+        "GHST",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
       ],
       [
         316429,
@@ -600,11 +619,11 @@
         null
       ],
       [
-        319423,
+        320354,
         1,
         null,
         null,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -639,9 +658,9 @@
         ]
       ],
       [
-        326861,
+        328030,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "dva_mech",
         "CLASSYDINO",
@@ -650,7 +669,7 @@
         null
       ],
       [
-        328905,
+        332386,
         1,
         "lucio",
         "CLYNAR",
@@ -661,7 +680,7 @@
         null
       ],
       [
-        331633,
+        333531,
         1,
         "winston",
         "TOASTMACHINE",
@@ -674,7 +693,7 @@
       [
         334520,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "zenyatta",
         "AK47",
@@ -683,23 +702,20 @@
         null
       ],
       [
-        342017,
-        2,
+        345263,
+        1,
+        "mccree",
+        "TWISTYCAP",
         "mercy",
         "@UNKNOWN_RED#0",
-        "dva",
-        "CLASSYDINO",
         [
         ],
-        [
-          "mercy",
-          "resurrect"
-        ]
+        null
       ],
       [
         350624,
         1,
-        "zarya",
+        "lucio",
         "TOYEBOX",
         "dva_mech",
         "CLASSYDINO",
@@ -708,7 +724,62 @@
         null
       ],
       [
-        351890,
+        354244,
+        0,
+        "zenyatta",
+        "HYBRIDZERO1",
+        "mercy",
+        "GHST",
+        [
+        ],
+        null
+      ],
+      [
+        354244,
+        0,
+        "zenyatta",
+        "HYBRIDZERO1",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        355076,
+        1,
+        "torb_turret",
+        "TOYEBOX",
+        "dva_mech",
+        "CLASSYDINO",
+        [
+        ],
+        null
+      ],
+      [
+        355076,
+        0,
+        "symmetra_shieldgen",
+        "HYBRIDZERO1",
+        "mercy",
+        "GHST",
+        [
+        ],
+        null
+      ],
+      [
+        355076,
+        0,
+        "winston",
+        "HYBRIDZERO1",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        356445,
         1,
         "winston",
         "TOASTMACHINE",
@@ -719,18 +790,15 @@
         null
       ],
       [
-        354244,
+        356445,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
-        "junkrat",
-        "MIGHT",
+        "mercy",
+        "GHST",
         [
         ],
-        [
-          "pharah",
-          "barrage"
-        ]
+        null
       ],
       [
         359617,
@@ -748,7 +816,7 @@
         0,
         "reaper",
         "MANTULLA42O",
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         [
         ],
@@ -759,7 +827,7 @@
         1,
         "mccree",
         "TWISTYCAP",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -799,9 +867,20 @@
         null
       ],
       [
+        408785,
+        1,
+        "winston",
+        "TOASTMACHINE",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
         415111,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         "junkrat",
         "MIGHT",
@@ -835,34 +914,23 @@
         null
       ],
       [
+        419431,
+        0,
+        "winston",
+        "COLTTRYHARD",
+        "mercy",
+        "GHST",
+        [
+        ],
+        null
+      ],
+      [
         426608,
         0,
         "dva",
         "CLASSYDINO",
         "lucio",
         "CLYNAR",
-        [
-        ],
-        null
-      ],
-      [
-        429438,
-        0,
-        "dva",
-        "CLASSYDINO",
-        "lucio",
-        "CLYNAR",
-        [
-        ],
-        null
-      ],
-      [
-        429438,
-        0,
-        "reaper",
-        "MANTULLA42O",
-        "junkrat",
-        "MIGHT",
         [
         ],
         null
@@ -894,7 +962,7 @@
         0,
         "winston",
         "COLTTRYHARD",
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         [
         ],
@@ -913,6 +981,17 @@
       ],
       [
         513959,
+        0,
+        "zenyatta",
+        "AK47",
+        "zenyatta",
+        "TWISTYCAP",
+        [
+        ],
+        null
+      ],
+      [
+        514801,
         0,
         "zenyatta",
         "AK47",
@@ -967,9 +1046,20 @@
         null
       ],
       [
+        527612,
+        1,
+        "junkrat",
+        "MIGHT",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
         533024,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "zenyatta",
         "AK47",
@@ -980,7 +1070,7 @@
       [
         534793,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         "mercy",
         "CLYNAR",
@@ -991,7 +1081,7 @@
       [
         536070,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "winston",
         "COLTTRYHARD",
@@ -1004,7 +1094,7 @@
         1,
         "winston",
         "TOASTMACHINE",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1024,10 +1114,32 @@
       [
         584351,
         1,
-        "s76",
+        "zenyatta",
         "TWISTYCAP",
         "reaper",
         "MANTULLA42O",
+        [
+        ],
+        null
+      ],
+      [
+        593487,
+        1,
+        "s76",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
+        595062,
+        1,
+        "zenyatta",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
         ],
         null
@@ -1037,7 +1149,7 @@
         1,
         "junkrat",
         "MIGHT",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1045,6 +1157,17 @@
       ],
       [
         610909,
+        1,
+        "zenyatta",
+        "TWISTYCAP",
+        "reaper",
+        "MANTULLA42O",
+        [
+        ],
+        null
+      ],
+      [
+        611512,
         1,
         "s76",
         "TWISTYCAP",
@@ -1057,7 +1180,7 @@
       [
         618812,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "zenyatta",
         "AK47",
@@ -1077,6 +1200,17 @@
         null
       ],
       [
+        619848,
+        1,
+        "lucio",
+        "TOYEBOX",
+        "zenyatta",
+        "AK47",
+        [
+        ],
+        null
+      ],
+      [
         620990,
         1,
         "symmetra",
@@ -1088,40 +1222,12 @@
         null
       ],
       [
-        623014,
-        1,
-        "junkrat",
-        "MIGHT",
-        "winston",
-        "COLTTRYHARD",
-        [
-        ],
-        [
-          "junkrat",
-          "riptire"
-        ]
-      ],
-      [
         625103,
         2,
         "mercy",
         "@UNKNOWN_RED#0",
         "winston",
         "COLTTRYHARD",
-        [
-        ],
-        [
-          "mercy",
-          "resurrect"
-        ]
-      ],
-      [
-        625103,
-        2,
-        "mercy",
-        "@UNKNOWN_RED#0",
-        "zenyatta",
-        "AK47",
         [
         ],
         [
@@ -1144,7 +1250,18 @@
         ]
       ],
       [
-        630720,
+        631974,
+        1,
+        "orisa",
+        "GHST",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
+        633032,
         1,
         "s76",
         "TWISTYCAP",
@@ -1155,18 +1272,15 @@
         null
       ],
       [
-        631974,
+        633032,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "zenyatta",
         "AK47",
         [
         ],
-        [
-          "zarya",
-          "gravitonsurge"
-        ]
+        null
       ],
       [
         657716,
@@ -1206,7 +1320,7 @@
         1,
         "s76",
         "TWISTYCAP",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1217,25 +1331,11 @@
         0,
         "mccree",
         "MANTULLA42O",
-        "zarya",
+        "lucio",
         "TOYEBOX",
         [
         ],
         null
-      ],
-      [
-        670351,
-        1,
-        "junkrat",
-        "MIGHT",
-        "winston",
-        "COLTTRYHARD",
-        [
-        ],
-        [
-          "junkrat",
-          "concussionmine"
-        ]
       ],
       [
         675297,
@@ -1253,16 +1353,41 @@
       ],
       [
         675297,
+        1,
+        "zenyatta",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
+        675297,
         3,
         "mercy",
         "CLYNAR",
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         [
         ],
         [
           "mercy",
           "resurrect"
+        ]
+      ],
+      [
+        679797,
+        1,
+        "s76",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
         ]
       ],
       [
@@ -1291,18 +1416,7 @@
         null
       ],
       [
-        751781,
-        1,
-        "zarya",
-        "TOYEBOX",
-        "zenyatta",
-        "AK47",
-        [
-        ],
-        null
-      ],
-      [
-        756271,
+        752699,
         0,
         "s76",
         "MANTULLA42O",
@@ -1313,11 +1427,11 @@
         null
       ],
       [
-        757912,
+        759538,
         1,
         null,
         null,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1338,18 +1452,29 @@
         ]
       ],
       [
+        767913,
+        1,
+        "mei",
+        "GHST",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
         773488,
         1,
         "zenyatta",
         "MIGHT",
-        "zarya",
+        "lucio",
         "CLASSYDINO",
         [
         ],
         null
       ],
       [
-        777025,
+        777854,
         1,
         "s76",
         "TWISTYCAP",
@@ -1364,7 +1489,7 @@
         1,
         "s76",
         "TWISTYCAP",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1385,73 +1510,107 @@
         ]
       ],
       [
-        853691,
+        847517,
         1,
-        "reaper",
-        "GHST",
-        "zarya",
-        "CLASSYDINO",
-        [
-        ],
-        null
-      ],
-      [
-        853691,
-        2,
-        "mercy",
-        "@UNKNOWN_RED#0",
-        "s76",
+        "winston",
+        "TOASTMACHINE",
+        "zenyatta",
         "MANTULLA42O",
         [
         ],
         [
-          "mercy",
-          "resurrect"
+          "winston",
+          "primalrage"
         ]
       ],
       [
-        853691,
-        2,
-        "mercy",
-        "@UNKNOWN_RED#0",
-        "zarya",
+        852856,
+        1,
+        "mei",
+        "GHST",
+        "torb_turret",
         "CLASSYDINO",
         [
         ],
+        null
+      ],
+      [
+        855198,
+        1,
+        "mei",
+        "GHST",
+        "lucio",
+        "CLASSYDINO",
         [
-          "mercy",
-          "resurrect"
+        ],
+        null
+      ],
+      [
+        860760,
+        0,
+        "s76",
+        "MANTULLA42O",
+        "mercy",
+        "CLYNAR",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
         ]
+      ],
+      [
+        861554,
+        0,
+        "zenyatta",
+        "MANTULLA42O",
+        "mercy",
+        "CLYNAR",
+        [
+        ],
+        null
       ],
       [
         865005,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         "s76",
         "TWISTYCAP",
         [
+          "zarya"
         ],
         null
       ],
       [
-        868453,
-        0,
-        "winston",
-        "COLTTRYHARD",
+        865838,
+        1,
         "zenyatta",
         "MIGHT",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
         ],
         null
       ],
       [
-        869574,
+        870096,
         0,
-        "zarya",
+        "torb_turret",
         "CLASSYDINO",
         "winston",
         "TOASTMACHINE",
+        [
+        ],
+        null
+      ],
+      [
+        870648,
+        0,
+        "winston",
+        "HYBRIDZERO1",
+        "mei",
+        "GHST",
         [
         ],
         null
@@ -1461,25 +1620,22 @@
         0,
         "s76",
         "MANTULLA42O",
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         [
         ],
         null
       ],
       [
-        907163,
+        875326,
         0,
-        "pharah",
-        "HYBRIDZERO1",
         "s76",
-        "TWISTYCAP",
+        "MANTULLA42O",
+        "lucio",
+        "TOYEBOX",
         [
         ],
-        [
-          "pharah",
-          "barrage"
-        ]
+        null
       ],
       [
         908740,
@@ -1496,53 +1652,22 @@
         ]
       ],
       [
-        908740,
+        911070,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         [
         ],
-        [
-          "pharah",
-          "barrage"
-        ]
+        null
       ],
       [
         911070,
         3,
         "mercy",
         "CLYNAR",
-        "zenyatta",
-        "MIGHT",
-        [
-        ],
-        [
-          "mercy",
-          "resurrect"
-        ]
-      ],
-      [
-        911070,
-        3,
-        "mercy",
-        "CLYNAR",
-        "s76",
-        "TWISTYCAP",
-        [
-        ],
-        [
-          "mercy",
-          "resurrect"
-        ]
-      ],
-      [
-        911070,
-        3,
-        "mercy",
-        "CLYNAR",
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         [
         ],
@@ -1552,7 +1677,7 @@
         ]
       ],
       [
-        911070,
+        912231,
         0,
         "winston",
         "COLTTRYHARD",
@@ -1565,9 +1690,9 @@
       [
         921480,
         1,
-        "zarya",
+        "lucio",
         "TOYEBOX",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1576,10 +1701,32 @@
       [
         935679,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "zenyatta",
         "AK47",
+        [
+        ],
+        null
+      ],
+      [
+        935679,
+        1,
+        "zenyatta",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
+        937119,
+        1,
+        "s76",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
         ],
         null
@@ -1589,18 +1736,29 @@
         1,
         "s76",
         "TWISTYCAP",
-        "zarya",
+        "lucio",
         "CLASSYDINO",
         [
         ],
         null
       ],
       [
-        946648,
+        945730,
+        1,
+        "s76",
+        "TWISTYCAP",
+        "torb_turret",
+        "CLASSYDINO",
+        [
+        ],
+        null
+      ],
+      [
+        947514,
         1,
         "winston",
         "TOASTMACHINE",
-        "s76",
+        "zenyatta",
         "MANTULLA42O",
         [
         ],
@@ -1611,41 +1769,49 @@
         1,
         "zenyatta",
         "MIGHT",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
-          "zenyatta"
         ],
         null
       ],
       [
-        955546,
+        983007,
         1,
-        "sombra",
+        "mei",
         "GHST",
-        "winston",
-        "COLTTRYHARD",
+        "s76",
+        "MANTULLA42O",
         [
-          "zenyatta"
         ],
         null
       ],
       [
-        985979,
+        986849,
         0,
         "winston",
         "COLTTRYHARD",
         "mercy",
         "CLYNAR",
         [
-          "zenyatta"
+        ],
+        null
+      ],
+      [
+        988452,
+        1,
+        "mei",
+        "GHST",
+        "zenyatta",
+        "AK47",
+        [
         ],
         null
       ],
       [
         992175,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         "zenyatta",
         "MIGHT",
@@ -1658,19 +1824,19 @@
         0,
         "winston",
         "COLTTRYHARD",
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         [
         ],
         null
       ],
       [
-        998288,
+        994780,
         1,
         "winston",
         "TOASTMACHINE",
-        "winston",
-        "COLTTRYHARD",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
         ],
         null
@@ -1680,7 +1846,7 @@
         1,
         "s76",
         "TWISTYCAP",
-        "zarya",
+        "torb_turret",
         "CLASSYDINO",
         [
         ],
@@ -1690,11 +1856,38 @@
         ]
       ],
       [
-        1006666,
+        1001412,
         1,
         "s76",
         "TWISTYCAP",
-        "pharah",
+        "lucio",
+        "CLASSYDINO",
+        [
+          "zenyatta"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        1002191,
+        1,
+        "zenyatta",
+        "TWISTYCAP",
+        "torb_turret",
+        "CLASSYDINO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        1006666,
+        1,
+        "zenyatta",
+        "TWISTYCAP",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1702,17 +1895,18 @@
       ],
       [
         1010713,
-        0,
+        1,
         "s76",
-        "MANTULLA42O",
+        "TWISTYCAP",
         "winston",
-        "TOASTMACHINE",
+        "HYBRIDZERO1",
         [
+          "zenyatta"
         ],
         null
       ],
       [
-        1074038,
+        1077390,
         0,
         "junkrat",
         "AK47",
@@ -1726,7 +1920,7 @@
         ]
       ],
       [
-        1079381,
+        1084108,
         1,
         "mccree",
         "TWISTYCAP",
@@ -1748,29 +1942,18 @@
         null
       ],
       [
-        1109394,
-        1,
-        "winston",
-        "TOASTMACHINE",
-        "s76",
-        "MANTULLA42O",
-        [
-        ],
-        null
-      ],
-      [
         1121506,
         1,
         "mccree",
         "TWISTYCAP",
-        "zarya",
+        "torb_turret",
         "CLASSYDINO",
         [
         ],
         null
       ],
       [
-        1129779,
+        1128957,
         1,
         "junkrat",
         "MIGHT",
@@ -1807,20 +1990,6 @@
         1,
         "junkrat",
         "MIGHT",
-        "winston",
-        "COLTTRYHARD",
-        [
-        ],
-        [
-          "junkrat",
-          "riptire"
-        ]
-      ],
-      [
-        1137965,
-        1,
-        "junkrat",
-        "MIGHT",
         "s76",
         "MANTULLA42O",
         [
@@ -1831,11 +2000,11 @@
         ]
       ],
       [
-        1140287,
+        1142506,
         1,
         "winston",
         "TOASTMACHINE",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1844,16 +2013,13 @@
       [
         1181785,
         0,
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         "junkrat",
         "MIGHT",
         [
         ],
-        [
-          "pharah",
-          "barrage"
-        ]
+        null
       ],
       [
         1189011,
@@ -1868,6 +2034,17 @@
           "s76",
           "tacticalvisor"
         ]
+      ],
+      [
+        1189724,
+        0,
+        "zenyatta",
+        "MANTULLA42O",
+        "lucio",
+        "CLYNAR",
+        [
+        ],
+        null
       ],
       [
         1190880,
@@ -1888,8 +2065,63 @@
         1,
         "mccree",
         "TWISTYCAP",
+        "zenyatta",
+        "MANTULLA42O",
+        [
+        ],
+        null
+      ],
+      [
+        1196111,
+        0,
+        "winston",
+        "HYBRIDZERO1",
+        "mercy",
+        "GHST",
+        [
+        ],
+        null
+      ],
+      [
+        1197024,
+        1,
+        "mccree",
+        "TWISTYCAP",
         "s76",
         "MANTULLA42O",
+        [
+        ],
+        null
+      ],
+      [
+        1197024,
+        0,
+        "mercy",
+        "@UNKNOWN_RED#0",
+        "winston",
+        "TOASTMACHINE",
+        [
+        ],
+        null
+      ],
+      [
+        1198293,
+        1,
+        "torb_turret",
+        "TOYEBOX",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
+        1201255,
+        1,
+        "lucio",
+        "TOYEBOX",
+        "mercy",
+        "@UNKNOWN_RED#0",
         [
         ],
         null
@@ -1899,7 +2131,7 @@
         1,
         "mccree",
         "TWISTYCAP",
-        "pharah",
+        "winston",
         "HYBRIDZERO1",
         [
         ],
@@ -1910,7 +2142,7 @@
         1,
         "junkrat",
         "MIGHT",
-        "zarya",
+        "lucio",
         "CLASSYDINO",
         [
         ],
@@ -1918,17 +2150,6 @@
           "junkrat",
           "concussionmine"
         ]
-      ],
-      [
-        1223111,
-        1,
-        "winston",
-        "TOASTMACHINE",
-        "winston",
-        "COLTTRYHARD",
-        [
-        ],
-        null
       ],
       [
         1225522,
@@ -1942,6 +2163,20 @@
         null
       ],
       [
+        1230764,
+        1,
+        "mccree",
+        "TWISTYCAP",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
         1233055,
         1,
         "winston",
@@ -1949,40 +2184,26 @@
         "junkrat",
         "AK47",
         [
-          "zarya"
         ],
         null
       ],
       [
         1234317,
         1,
-        "zarya",
+        "torb_turret",
         "TOYEBOX",
         "reaper",
         "MANTULLA42O",
         [
-          "zarya"
-        ],
-        null
-      ],
-      [
-        1248179,
-        1,
-        "zarya",
-        "TOYEBOX",
-        "pharah",
-        "HYBRIDZERO1",
-        [
-          "zarya"
         ],
         null
       ],
       [
         1259376,
         1,
-        "zarya",
+        "lucio",
         "TOYEBOX",
-        "zarya",
+        "torb_turret",
         "CLASSYDINO",
         [
         ],
@@ -2622,7 +2843,7 @@
             {
               "end": 1259376,
               "hero": "junkrat",
-              "start": 1129779
+              "start": 1128957
             }
           ],
           "name": "MIGHT"
@@ -2630,24 +2851,34 @@
         {
           "heroes": [
             {
-              "end": 416408,
+              "end": 419431,
               "hero": "mercy",
               "start": 200291
             },
             {
-              "end": 681542,
+              "end": 620990,
               "hero": "symmetra",
               "start": 521439
             },
             {
-              "end": 853691,
-              "hero": "reaper",
-              "start": 853691
+              "end": 631974,
+              "hero": "orisa",
+              "start": 631974
+            },
+            {
+              "end": 681542,
+              "hero": "symmetra",
+              "start": 660315
+            },
+            {
+              "end": 988452,
+              "hero": "mei",
+              "start": 767913
             },
             {
               "end": 1259376,
-              "hero": "sombra",
-              "start": 955546
+              "hero": "mercy",
+              "start": 1196111
             }
           ],
           "name": "GHST"
@@ -2655,12 +2886,12 @@
         {
           "heroes": [
             {
-              "end": 429438,
+              "end": 426608,
               "hero": "lucio",
-              "start": 94650
+              "start": 192000
             },
             {
-              "end": 985979,
+              "end": 986849,
               "hero": "mercy",
               "start": 534793
             },
@@ -2677,7 +2908,7 @@
             {
               "end": 1259376,
               "hero": "winston",
-              "start": 153107
+              "start": 108716
             }
           ],
           "name": "TOASTMACHINE"
@@ -2690,14 +2921,69 @@
               "start": 96062
             },
             {
-              "end": 1006666,
-              "hero": "s76",
+              "end": 513959,
+              "hero": "zenyatta",
               "start": 513959
+            },
+            {
+              "end": 514801,
+              "hero": "s76",
+              "start": 514801
+            },
+            {
+              "end": 584351,
+              "hero": "zenyatta",
+              "start": 584351
+            },
+            {
+              "end": 593487,
+              "hero": "s76",
+              "start": 593487
+            },
+            {
+              "end": 610909,
+              "hero": "zenyatta",
+              "start": 595062
+            },
+            {
+              "end": 675297,
+              "hero": "s76",
+              "start": 611512
+            },
+            {
+              "end": 675297,
+              "hero": "zenyatta",
+              "start": 675297
+            },
+            {
+              "end": 865005,
+              "hero": "s76",
+              "start": 679797
+            },
+            {
+              "end": 935679,
+              "hero": "zenyatta",
+              "start": 935679
+            },
+            {
+              "end": 1001412,
+              "hero": "s76",
+              "start": 937119
+            },
+            {
+              "end": 1006666,
+              "hero": "zenyatta",
+              "start": 1002191
+            },
+            {
+              "end": 1010713,
+              "hero": "s76",
+              "start": 1010713
             },
             {
               "end": 1259376,
               "hero": "mccree",
-              "start": 1079381
+              "start": 1084108
             }
           ],
           "name": "TWISTYCAP"
@@ -2706,8 +2992,8 @@
           "heroes": [
             {
               "end": 1259376,
-              "hero": "zarya",
-              "start": 101032
+              "hero": "lucio",
+              "start": 102635
             }
           ],
           "name": "TOYEBOX"
@@ -2717,9 +3003,29 @@
         {
           "heroes": [
             {
-              "end": 1259376,
+              "end": 320354,
+              "hero": "winston",
+              "start": 123510
+            },
+            {
+              "end": 354244,
+              "hero": "zenyatta",
+              "start": 354244
+            },
+            {
+              "end": 870648,
+              "hero": "winston",
+              "start": 355076
+            },
+            {
+              "end": 908740,
               "hero": "pharah",
-              "start": 122812
+              "start": 908740
+            },
+            {
+              "end": 1259376,
+              "hero": "winston",
+              "start": 911070
             }
           ],
           "name": "HYBRIDZERO1"
@@ -2733,7 +3039,7 @@
             },
             {
               "end": 1259376,
-              "hero": "zarya",
+              "hero": "lucio",
               "start": 773488
             }
           ],
@@ -2744,7 +3050,7 @@
             {
               "end": 1259376,
               "hero": "mercy",
-              "start": 232981
+              "start": 108716
             }
           ],
           "name": "@UNKNOWN_RED#0"
@@ -2752,14 +3058,14 @@
         {
           "heroes": [
             {
-              "end": 935679,
+              "end": 988452,
               "hero": "zenyatta",
               "start": 101032
             },
             {
               "end": 1259376,
               "hero": "junkrat",
-              "start": 1074038
+              "start": 1077390
             }
           ],
           "name": "AK47"
@@ -2769,7 +3075,7 @@
             {
               "end": 1259376,
               "hero": "winston",
-              "start": 102635
+              "start": 190391
             }
           ],
           "name": "COLTTRYHARD"
@@ -2777,7 +3083,7 @@
         {
           "heroes": [
             {
-              "end": 610909,
+              "end": 611512,
               "hero": "reaper",
               "start": 100217
             },
@@ -2787,9 +3093,49 @@
               "start": 670351
             },
             {
-              "end": 1195406,
+              "end": 845055,
               "hero": "s76",
-              "start": 756271
+              "start": 752699
+            },
+            {
+              "end": 847517,
+              "hero": "zenyatta",
+              "start": 847517
+            },
+            {
+              "end": 860760,
+              "hero": "s76",
+              "start": 860760
+            },
+            {
+              "end": 861554,
+              "hero": "zenyatta",
+              "start": 861554
+            },
+            {
+              "end": 875326,
+              "hero": "s76",
+              "start": 874384
+            },
+            {
+              "end": 947514,
+              "hero": "zenyatta",
+              "start": 947514
+            },
+            {
+              "end": 1189011,
+              "hero": "s76",
+              "start": 983007
+            },
+            {
+              "end": 1195406,
+              "hero": "zenyatta",
+              "start": 1189724
+            },
+            {
+              "end": 1197024,
+              "hero": "s76",
+              "start": 1197024
             },
             {
               "end": 1259376,
