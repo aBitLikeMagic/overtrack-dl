@@ -1,4 +1,4 @@
-const odl = require('./overtrack-dl');
+const {OvertrackUser} = require('./overtrack-dl');
 
 
-odl.getGames(process.env['session']);
+OvertrackUser.getGamesWithData(process.env['session']);

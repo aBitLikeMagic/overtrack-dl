@@ -2,8 +2,7 @@ const fs = require('fs-extra');
 const he = require('he');
 const express = require('express');
 
-
-const odl = require('./overtrack-dl');
+const {OvertrackUser} = require('./overtrack-dl');
 
 
 
@@ -57,8 +56,8 @@ app.get('/', async (request, response) => {
 });
 
 app.post('/', async (request, response) => {
-  const games = await odl.getGames(request.body.session);
-  response.redirect(`/#games/${games[games.length - 1].name}.json`);
+  const games = await OvertrackUser.getGamesWithData(request.body.session);
+  response.redirect(`/#games/${games[games.length - 1].key()}.json`);
 })
 
 app.use('/games', express.static('games'));
