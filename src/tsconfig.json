@@ -2,12 +2,8 @@
   "compilerOptions": {
     "target": "es6",
     "module": "commonjs",
-    "sourceMap": true,                     /* Generates corresponding '.map' file. */
     "outDir": "../dist",                   /* Redirect output structure to the directory. */
-    "downlevelIteration": true,            /* Provide full support for iterables in 'for-of', spread, and destructuring when targeting 'ES5' or 'ES3'. */
 
-    
-    /* Strict Type-Checking Options */
     "strict": true,                        /* Enable all strict type-checking options. */
 
     /* Additional Checks */

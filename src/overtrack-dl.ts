@@ -1,6 +1,6 @@
 import fetch from 'node-fetch';
 import * as fs from 'fs-extra';
-const jsonStableStringify = require('json-stable-stringify');
+import * as jsonStableStringify from 'json-stable-stringify';
 
 
 // The short metadata used to display this in Overtrack game lsits.
