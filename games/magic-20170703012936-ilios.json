@@ -1,0 +1,947 @@
+{
+  "data": {
+    "assists": [
+      [
+        106604,
+        "DEVILZ",
+        1,
+        0
+      ],
+      [
+        187741,
+        "MQMJFANF",
+        1,
+        0
+      ],
+      [
+        202514,
+        "DEVILZ",
+        1,
+        0
+      ],
+      [
+        311206,
+        "MQMJFANF",
+        1,
+        0
+      ],
+      [
+        408835,
+        "DEVILZ",
+        1,
+        0
+      ],
+      [
+        490455,
+        "FFL",
+        1,
+        0
+      ],
+      [
+        572543,
+        "DEVILZ",
+        1,
+        0
+      ],
+      [
+        635805,
+        "DEVILZ",
+        1,
+        0
+      ],
+      [
+        813314,
+        "DEVILZ",
+        1,
+        0
+      ],
+      [
+        821390,
+        "FFL",
+        1,
+        0
+      ],
+      [
+        1260427,
+        "DEVILZ",
+        1,
+        0
+      ],
+      [
+        1385817,
+        "DEVILZ",
+        1,
+        0
+      ],
+      [
+        1490820,
+        "DEVILZ",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 4,
+    "end_sr": 2368,
+    "game_duration": 1530,
+    "game_ended": 1499046912,
+    "game_started": 1499045376,
+    "group_size": null,
+    "hero_statistics": {
+    },
+    "heroes_played": [
+      [
+        "s76",
+        0.9256330968739792
+      ],
+      [
+        "tracer",
+        0.07436690312602073
+      ]
+    ],
+    "key": "Magic-11407/2017-07-03-01-55-MqbZVy4KCo8EPFPsX3n9L5",
+    "killfeed": [
+      [
+        104067,
+        0,
+        "dva",
+        "FFL",
+        "dva_mech",
+        "DFNNIF",
+        [
+        ],
+        null
+      ],
+      [
+        163177,
+        0,
+        "winston",
+        "MQMJFANF",
+        "junkrat",
+        "MQQUL",
+        [
+        ],
+        null
+      ],
+      [
+        200798,
+        1,
+        "junkrat",
+        "MOGUL",
+        "dva_mech",
+        "FFL",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        200798,
+        0,
+        "pharah",
+        "THQRAXFF",
+        "mercy",
+        "LIANA",
+        [
+        ],
+        null
+      ],
+      [
+        200798,
+        0,
+        "mccree",
+        "OFVIL7",
+        "junkrat",
+        "MQQUL",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        202514,
+        1,
+        "s76",
+        "MAC",
+        "mccree",
+        "DEVILZ",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        204162,
+        1,
+        "dva",
+        "DFNNIF",
+        "pharah",
+        "THQRAXFF",
+        [
+        ],
+        null
+      ],
+      [
+        205436,
+        1,
+        "s76",
+        "MAC",
+        "dva",
+        "FFL",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        310650,
+        0,
+        "pharah",
+        "THQRAXFF",
+        "s76",
+        "MAC",
+        [
+        ],
+        null
+      ],
+      [
+        313360,
+        0,
+        "dva",
+        "FFL",
+        "junkrat",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        313894,
+        0,
+        "mccree",
+        "OFVIL7",
+        "lucio",
+        "ALFCX",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        325812,
+        0,
+        "mccree",
+        "OFVIL7",
+        "junkrat",
+        "MQQUL",
+        [
+        ],
+        null
+      ],
+      [
+        329451,
+        1,
+        "dva",
+        "DFNNIF",
+        "mccree",
+        "OFVIL7",
+        [
+        ],
+        null
+      ],
+      [
+        423945,
+        0,
+        "roadhog",
+        "MQMJFANF",
+        "junkrat",
+        "MQQUL",
+        [
+        ],
+        null
+      ],
+      [
+        426406,
+        1,
+        "s76",
+        "MAC",
+        "pharah",
+        "THQRAXFF",
+        [
+        ],
+        null
+      ],
+      [
+        506820,
+        0,
+        "winston",
+        "OFVIL7",
+        "junkrat",
+        "MQQUL",
+        [
+        ],
+        null
+      ],
+      [
+        647350,
+        0,
+        "s76",
+        "MQMJFANF",
+        "pharah",
+        "MOGUL",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        647350,
+        0,
+        "winston",
+        "OFVIL7",
+        "s76",
+        "MAC",
+        [
+        ],
+        null
+      ],
+      [
+        676480,
+        0,
+        "s76",
+        "MQMJFANF",
+        "pharah",
+        "MQQUL",
+        [
+        ],
+        null
+      ],
+      [
+        676480,
+        0,
+        "pharah",
+        "THQRAXFF",
+        "lucio",
+        "ALFCX",
+        [
+        ],
+        null
+      ],
+      [
+        737235,
+        0,
+        "winston",
+        "OFVIL7",
+        "dva",
+        "DFNNIF",
+        [
+        ],
+        null
+      ],
+      [
+        738744,
+        0,
+        "pharah",
+        "THQRAXFF",
+        "junkrat",
+        "MQQUL",
+        [
+        ],
+        null
+      ],
+      [
+        753304,
+        1,
+        "s76",
+        "MAC",
+        "s76",
+        "MQMJFANF",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        774535,
+        0,
+        "s76",
+        "MQMJFANF",
+        "junkrat",
+        "MOGUL",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        774535,
+        1,
+        "s76",
+        "MAC",
+        "dva_mech",
+        "FFL",
+        [
+        ],
+        null
+      ],
+      [
+        799186,
+        0,
+        "dva",
+        "FFL",
+        "s76",
+        "MAC",
+        [
+        ],
+        null
+      ],
+      [
+        813314,
+        1,
+        "s76",
+        "MAC",
+        "pharah",
+        "THQRAXFF",
+        [
+        ],
+        null
+      ],
+      [
+        813314,
+        0,
+        "pharah",
+        "THQRAXFF",
+        "dva_mech",
+        "DFNNIF",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        813314,
+        1,
+        null,
+        null,
+        "winston",
+        "DEVILZ",
+        [
+        ],
+        null
+      ],
+      [
+        903112,
+        0,
+        "reaper",
+        "MQMJFANF",
+        "dva_mech",
+        "DFNNIF",
+        [
+        ],
+        null
+      ],
+      [
+        916742,
+        0,
+        "s76",
+        "THQRAXFF",
+        "lucio",
+        "ALFCX",
+        [
+        ],
+        null
+      ],
+      [
+        916742,
+        0,
+        "s76",
+        "THQRAXFF",
+        "junkrat",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        957425,
+        0,
+        "winston",
+        "DEVILZ",
+        "lucio",
+        "ALFCX",
+        [
+        ],
+        null
+      ],
+      [
+        957425,
+        0,
+        "dva",
+        "FFL",
+        "dva_mech",
+        "DFNNIF",
+        [
+        ],
+        null
+      ],
+      [
+        957425,
+        0,
+        "dva",
+        "FFL",
+        "junkrat",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        1092088,
+        1,
+        "junkrat",
+        "MOGUL",
+        "dva_mech",
+        "FFL",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        1092088,
+        0,
+        "s76",
+        "THQRAXFF",
+        "junkrat",
+        "MQQUL",
+        [
+        ],
+        null
+      ],
+      [
+        1096383,
+        0,
+        "dva",
+        "FFL",
+        "mercy",
+        "LIANA",
+        [
+        ],
+        null
+      ],
+      [
+        1128232,
+        0,
+        "reaper",
+        "MQMJFANF",
+        "junkrat",
+        "MQQUL",
+        [
+        ],
+        null
+      ],
+      [
+        1128771,
+        0,
+        "reaper",
+        "MQMJFANF",
+        "mercy",
+        "LIANA",
+        [
+        ],
+        null
+      ],
+      [
+        1133058,
+        0,
+        "dva",
+        "FFL",
+        "lucio",
+        "ALFCX",
+        [
+        ],
+        null
+      ],
+      [
+        1262524,
+        0,
+        "reaper",
+        "MQMJFANF",
+        "lucio",
+        "ALFCX",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        1262524,
+        1,
+        "dva",
+        "MOGUL",
+        "winston",
+        "OFVIL7",
+        [
+        ],
+        null
+      ],
+      [
+        1300234,
+        0,
+        "reaper",
+        "MQMJFANF",
+        "mercy",
+        "LIANA",
+        [
+        ],
+        null
+      ],
+      [
+        1300234,
+        0,
+        "dva",
+        "FFL",
+        "dva",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        1301751,
+        1,
+        "genji",
+        "DFNNIF",
+        "s76",
+        "THQRAXFF",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        1318112,
+        0,
+        "reaper",
+        "MQMJFANF",
+        "genji",
+        "DFNNIF",
+        [
+        ],
+        null
+      ],
+      [
+        1344779,
+        0,
+        "reaper",
+        "MQMJFANF",
+        "pharah",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        1344779,
+        1,
+        "tracer",
+        "MAC",
+        "s76",
+        "THQRAXFF",
+        [
+        ],
+        null
+      ],
+      [
+        1346283,
+        0,
+        "reaper",
+        "MQMJFANF",
+        "tracer",
+        "MAC",
+        [
+        ],
+        null
+      ],
+      [
+        1410122,
+        0,
+        "s76",
+        "THQRAXFF",
+        "pharah",
+        "MQQUL",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Ilios",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MAC",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2342,
+    "tab_statistics": null,
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 813314,
+              "hero": "s76",
+              "start": 202514
+            },
+            {
+              "end": 1410122,
+              "hero": "tracer",
+              "start": 1344779
+            }
+          ],
+          "name": "MAC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 313360,
+              "hero": "junkrat",
+              "start": 200798
+            },
+            {
+              "end": 647350,
+              "hero": "pharah",
+              "start": 647350
+            },
+            {
+              "end": 1092088,
+              "hero": "junkrat",
+              "start": 774535
+            },
+            {
+              "end": 1300234,
+              "hero": "dva",
+              "start": 1262524
+            },
+            {
+              "end": 1410122,
+              "hero": "pharah",
+              "start": 1344779
+            }
+          ],
+          "name": "MOGUL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 506820,
+              "hero": "junkrat",
+              "start": 163177
+            },
+            {
+              "end": 676480,
+              "hero": "pharah",
+              "start": 676480
+            },
+            {
+              "end": 1128232,
+              "hero": "junkrat",
+              "start": 738744
+            },
+            {
+              "end": 1410122,
+              "hero": "pharah",
+              "start": 1410122
+            }
+          ],
+          "name": "MQQUL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1410122,
+              "hero": "lucio",
+              "start": 313894
+            }
+          ],
+          "name": "ALFCX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1410122,
+              "hero": "mercy",
+              "start": 200798
+            }
+          ],
+          "name": "LIANA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 737235,
+              "hero": "dva",
+              "start": 204162
+            },
+            {
+              "end": 1410122,
+              "hero": "genji",
+              "start": 1301751
+            }
+          ],
+          "name": "DFNNIF"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 1410122,
+              "hero": "dva",
+              "start": 104067
+            }
+          ],
+          "name": "FFL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 163177,
+              "hero": "winston",
+              "start": 163177
+            },
+            {
+              "end": 423945,
+              "hero": "roadhog",
+              "start": 423945
+            },
+            {
+              "end": 774535,
+              "hero": "s76",
+              "start": 647350
+            },
+            {
+              "end": 1410122,
+              "hero": "reaper",
+              "start": 903112
+            }
+          ],
+          "name": "MQMJFANF"
+        },
+        {
+          "heroes": [
+            {
+              "end": 813314,
+              "hero": "pharah",
+              "start": 200798
+            },
+            {
+              "end": 1410122,
+              "hero": "s76",
+              "start": 916742
+            }
+          ],
+          "name": "THQRAXFF"
+        },
+        {
+          "heroes": [
+            {
+              "end": 329451,
+              "hero": "mccree",
+              "start": 200798
+            },
+            {
+              "end": 1410122,
+              "hero": "winston",
+              "start": 506820
+            }
+          ],
+          "name": "OFVIL7"
+        },
+        {
+          "heroes": [
+            {
+              "end": 202514,
+              "hero": "mccree",
+              "start": 202514
+            },
+            {
+              "end": 1410122,
+              "hero": "winston",
+              "start": 813314
+            }
+          ],
+          "name": "DEVILZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 813314,
+              "hero": "s76",
+              "start": 202514
+            },
+            {
+              "end": 1410122,
+              "hero": "tracer",
+              "start": 1344779
+            }
+          ],
+          "name": "MAC"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 1530,
+    "end_sr": 2368,
+    "heroes_played": [
+      [
+        "s76",
+        0.9256330968739792
+      ],
+      [
+        "tracer",
+        0.07436690312602073
+      ]
+    ],
+    "key": "Magic-11407/2017-07-03-01-55-MqbZVy4KCo8EPFPsX3n9L5",
+    "map": "Ilios",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2342,
+    "time": 1499045376,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-03-01-55-MqbZVy4KCo8EPFPsX3n9L5/game.json",
+    "user_id": 151467
+  }
+}

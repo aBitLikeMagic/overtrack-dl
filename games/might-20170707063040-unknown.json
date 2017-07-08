@@ -1,0 +1,1826 @@
+{
+  "data": {
+    "assists": [
+      [
+        106225,
+        "MEMEDOGGO",
+        1,
+        0
+      ],
+      [
+        107226,
+        "FABE",
+        1,
+        0
+      ],
+      [
+        137681,
+        "FABE",
+        1,
+        0
+      ],
+      [
+        306905,
+        "OLDMANBFNJY",
+        1,
+        0
+      ],
+      [
+        318433,
+        "YEABOI",
+        1,
+        0
+      ],
+      [
+        325787,
+        "MEMEDOGGO",
+        1,
+        0
+      ],
+      [
+        464904,
+        "MEMEDOGGO",
+        1,
+        0
+      ],
+      [
+        476989,
+        "BATTLEPANTS",
+        1,
+        0
+      ],
+      [
+        480187,
+        "ADOLPHONZO",
+        1,
+        0
+      ],
+      [
+        484636,
+        "YEABOI",
+        1,
+        0
+      ],
+      [
+        486231,
+        "OLDMANBFNJY",
+        1,
+        0
+      ],
+      [
+        535119,
+        "BATTLEPANTS",
+        1,
+        0
+      ],
+      [
+        537625,
+        "MEMEDOGGO",
+        1,
+        0
+      ],
+      [
+        548983,
+        "FABE",
+        1,
+        0
+      ],
+      [
+        554434,
+        "ADOLPHONZO",
+        1,
+        0
+      ],
+      [
+        639443,
+        "FABE",
+        1,
+        0
+      ],
+      [
+        810834,
+        "BATTLEPANTS",
+        1,
+        0
+      ],
+      [
+        899241,
+        "OLDMANBFNJY",
+        1,
+        0
+      ],
+      [
+        930552,
+        "BATTLEPANTS",
+        1,
+        0
+      ],
+      [
+        961846,
+        "OLDMANBFNJY",
+        1,
+        0
+      ],
+      [
+        966852,
+        "MEMEDOGGO",
+        1,
+        0
+      ],
+      [
+        982707,
+        "YEABOI",
+        1,
+        0
+      ],
+      [
+        989533,
+        "BATTLEPANTS",
+        1,
+        0
+      ],
+      [
+        1090970,
+        "YEABOI",
+        1,
+        0
+      ],
+      [
+        1096666,
+        "OLDMANBFNJY",
+        1,
+        0
+      ],
+      [
+        1259818,
+        "OLDMANBFNJY",
+        1,
+        0
+      ],
+      [
+        1265068,
+        "FABE",
+        1,
+        0
+      ],
+      [
+        1277375,
+        "MEMEDOGGO",
+        1,
+        0
+      ],
+      [
+        1279782,
+        "YEABOI",
+        1,
+        0
+      ],
+      [
+        1347113,
+        "OLDMANBFNJY",
+        1,
+        0
+      ],
+      [
+        1407925,
+        "MEMEDOGGO",
+        1,
+        0
+      ],
+      [
+        1446813,
+        "BATTLEPANTS",
+        1,
+        0
+      ],
+      [
+        1449806,
+        "ADOLPHONZO",
+        1,
+        0
+      ],
+      [
+        1454911,
+        "YEABOI",
+        1,
+        0
+      ],
+      [
+        1455421,
+        "OLDMANBFNJY",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      230,
+      2309
+    ],
+    "custom_game": false,
+    "deaths": 20,
+    "end_sr": 2332,
+    "game_duration": 1457,
+    "game_ended": 1499410506,
+    "game_started": 1499409040,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 11464,
+        "deaths": 21,
+        "elims": 34,
+        "healing": 0,
+        "hero_stat_1": 35,
+        "hero_stat_2": 0,
+        "hero_stat_3": 10,
+        "hero_stat_5": 35,
+        "hero_stat_6": 1457829,
+        "objective_kills": 19,
+        "objective_time": 159,
+        "tab_health": 0.2916666666666667,
+        "time_played": 1399003
+      },
+      "junkrat": {
+        "damage": 12107,
+        "deaths": 17,
+        "elims": 22,
+        "healing": 0,
+        "hero_stat_1": 13,
+        "hero_stat_2": 8,
+        "hero_stat_3": 7,
+        "hero_stat_4": 1,
+        "hero_stat_5": 18,
+        "objective_kills": 14,
+        "objective_time": 114,
+        "tab_health": 0.2916666666666667,
+        "time_played": 821587
+      },
+      "pharah": {
+        "damage": 11464,
+        "deaths": 4,
+        "elims": 6,
+        "healing": 0,
+        "hero_stat_1": 3,
+        "hero_stat_2": 1,
+        "hero_stat_3": 1,
+        "hero_stat_4": 14,
+        "hero_stat_5": 4,
+        "objective_kills": 4,
+        "objective_time": 29,
+        "tab_health": 0.2916666666666667,
+        "time_played": 250412
+      }
+    },
+    "heroes_played": [
+      [
+        "junkrat",
+        0.6003217320319638
+      ],
+      [
+        "pharah",
+        0.3996782679680361
+      ]
+    ],
+    "key": "Magic-11407/2017-07-07-06-55-Khn96s8t9xwmoLot8KjkzD",
+    "killfeed": [
+      [
+        145623,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "pharah",
+        "MIGHT",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        180169,
+        0,
+        "pharah",
+        "MEMEDOGGO",
+        "winston",
+        "BREWSKILAD",
+        [
+        ],
+        null
+      ],
+      [
+        180169,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        180169,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "lucio",
+        "CURRY",
+        [
+        ],
+        null
+      ],
+      [
+        184340,
+        0,
+        "lucio",
+        "FABE",
+        "s76",
+        "XTOASTBUNZX",
+        [
+          "mercy"
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        234197,
+        0,
+        null,
+        null,
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        235794,
+        1,
+        "s76",
+        "XTOASTBUNZX",
+        "s76",
+        "OLDMANBFNJY",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        238822,
+        1,
+        "s76",
+        "XTOASTBUNZX",
+        "mercy",
+        "YEABOI",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        274747,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        329407,
+        1,
+        "pharah",
+        "MIGHT",
+        "pharah",
+        "MEMEDOGGO",
+        [
+        ],
+        null
+      ],
+      [
+        331074,
+        0,
+        "tracer",
+        "ADOLPHONZO",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        331074,
+        0,
+        "tracer",
+        "ADOLPHONZO",
+        "dva_mech",
+        "MCREAPER",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        331074,
+        1,
+        "lucio",
+        "CURRY",
+        "tracer",
+        "ADOLPHONZO",
+        [
+        ],
+        null
+      ],
+      [
+        332395,
+        0,
+        "lucio",
+        "FABE",
+        "s76",
+        "XTOASTBUNZX",
+        [
+        ],
+        null
+      ],
+      [
+        333498,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "mercy",
+        "JHANK",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        406877,
+        3,
+        "mercy",
+        "JHANK",
+        "dva",
+        "MCREAPER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        406877,
+        0,
+        "dva",
+        "BATTLEPANTS",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        412304,
+        0,
+        "tracer",
+        "ADOLPHONZO",
+        "pharah",
+        "XTOASTBUNZX",
+        [
+        ],
+        null
+      ],
+      [
+        481840,
+        1,
+        "dva",
+        "MCREAPER",
+        "dva_mech",
+        "BATTLEPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        481840,
+        1,
+        "junkrat",
+        "MIGHT",
+        "tracer",
+        "ADOLPHONZO",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        481840,
+        1,
+        null,
+        null,
+        "tracer",
+        "ADOLPHONZO",
+        [
+        ],
+        null
+      ],
+      [
+        481840,
+        1,
+        null,
+        null,
+        "dva",
+        "BATTLEPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        504397,
+        1,
+        "junkrat",
+        "MIGHT",
+        "dva",
+        "BATTLEPANTS",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        504397,
+        0,
+        "reaper",
+        "MEMEDOGGO",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        505588,
+        1,
+        "winston",
+        "BREWSKILAD",
+        "reaper",
+        "MEMEDOGGO",
+        [
+        ],
+        null
+      ],
+      [
+        651309,
+        1,
+        "dva",
+        "MCREAPER",
+        "dva_mech",
+        "BATTLEPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        651309,
+        0,
+        "pharah",
+        "YEABOI",
+        "lucio",
+        "CURRY",
+        [
+        ],
+        null
+      ],
+      [
+        651309,
+        1,
+        "pharah",
+        "XTOASTBUNZX",
+        "ana",
+        "MEMEDOGGO",
+        [
+        ],
+        null
+      ],
+      [
+        651309,
+        0,
+        "dva",
+        "BATTLEPANTS",
+        "dva_mech",
+        "MCREAPER",
+        [
+        ],
+        null
+      ],
+      [
+        651309,
+        1,
+        "winston",
+        "BREWSKILAD",
+        "dva",
+        "BATTLEPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        651309,
+        0,
+        "pharah",
+        "YEABOI",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        653491,
+        1,
+        "dva",
+        "MCREAPER",
+        "pharah",
+        "YEABOI",
+        [
+        ],
+        null
+      ],
+      [
+        681073,
+        0,
+        "pharah",
+        "YEABOI",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        681073,
+        0,
+        null,
+        null,
+        "lucio",
+        "CURRY",
+        [
+        ],
+        null
+      ],
+      [
+        746296,
+        1,
+        "dva",
+        "MCREAPER",
+        "pharah",
+        "YEABOI",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        746296,
+        0,
+        "hanzo",
+        "ADOLPHONZO",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        766898,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "mercy",
+        "JHANK",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        766898,
+        0,
+        "hanzo",
+        "ADOLPHONZO",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        770634,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "dva_mech",
+        "MCREAPER",
+        [
+        ],
+        null
+      ],
+      [
+        810834,
+        0,
+        "lucio",
+        "FABE",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        810834,
+        1,
+        "junkrat",
+        "MIGHT",
+        "dva_mech",
+        "BATTLEPANTS",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        816926,
+        1,
+        "lucio",
+        "CURRY",
+        "dva",
+        "BATTLEPANTS",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        1042902,
+        0,
+        "hanzo",
+        "ADOLPHONZO",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        1042902,
+        0,
+        "hanzo",
+        "ADOLPHONZO",
+        "winston",
+        "BREWSKILAD",
+        [
+        ],
+        null
+      ],
+      [
+        1042902,
+        0,
+        "mei",
+        "OLDMANBFNJY",
+        "dva",
+        "MCREAPER",
+        [
+        ],
+        null
+      ],
+      [
+        1042902,
+        0,
+        "reaper",
+        "YEABOI",
+        "mercy",
+        "JHANK",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        1044110,
+        0,
+        "mei",
+        "OLDMANBFNJY",
+        "genji",
+        "XTOASTBUNZX",
+        [
+        ],
+        null
+      ],
+      [
+        1105048,
+        0,
+        "hanzo",
+        "ADOLPHONZO",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        1138162,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "pharah",
+        "XTOASTBUNZX",
+        [
+        ],
+        null
+      ],
+      [
+        1138162,
+        1,
+        "lucio",
+        "CURRY",
+        "reaper",
+        "YEABOI",
+        [
+        ],
+        null
+      ],
+      [
+        1138162,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        1175061,
+        0,
+        "dva",
+        "BATTLEPANTS",
+        "dva_mech",
+        "MCREAPER",
+        [
+        ],
+        null
+      ],
+      [
+        1175061,
+        0,
+        "lucio",
+        "FABE",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        1177526,
+        0,
+        "hanzo",
+        "ADOLPHONZO",
+        "dva",
+        "MCREAPER",
+        [
+        ],
+        null
+      ],
+      [
+        1182908,
+        0,
+        "lucio",
+        "FABE",
+        "lucio",
+        "CURRY",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        1265068,
+        1,
+        "pharah",
+        "MIGHT",
+        "s76",
+        "OLDMANBFNJY",
+        [
+        ],
+        null
+      ],
+      [
+        1265068,
+        0,
+        "reaper",
+        "YEABOI",
+        "reaper",
+        "XTOASTBUNZX",
+        [
+        ],
+        null
+      ],
+      [
+        1285521,
+        0,
+        "dva",
+        "BATTLEPANTS",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        1351718,
+        1,
+        "pharah",
+        "MIGHT",
+        "s76",
+        "OLDMANBFNJY",
+        [
+          "mercy"
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        1351718,
+        0,
+        "reaper",
+        "YEABOI",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        1351718,
+        0,
+        "reaper",
+        "YEABOI",
+        "zarya",
+        "BREWSKILAD",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        1376038,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        1376038,
+        0,
+        "hanzo",
+        "ADOLPHONZO",
+        "winston",
+        "MCREAPER",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        1422072,
+        0,
+        "reaper",
+        "YEABOI",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        1424267,
+        0,
+        "s76",
+        "OLDMANBFNJY",
+        "lucio",
+        "CURRY",
+        [
+        ],
+        null
+      ],
+      [
+        1446813,
+        1,
+        "dva",
+        "MCREAPER",
+        "dva_mech",
+        "BATTLEPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        1449806,
+        1,
+        "winston",
+        "BREWSKILAD",
+        "dva",
+        "BATTLEPANTS",
+        [
+        ],
+        [
+          "winston",
+          "jumppack"
+        ]
+      ],
+      [
+        1450648,
+        1,
+        "junkrat",
+        "MIGHT",
+        "tracer",
+        "ADOLPHONZO",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        1452113,
+        1,
+        null,
+        null,
+        "dva",
+        "BATTLEPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        1452113,
+        1,
+        null,
+        null,
+        "tracer",
+        "ADOLPHONZO",
+        [
+        ],
+        null
+      ],
+      [
+        1453237,
+        2,
+        "mercy",
+        "YEABOI",
+        "tracer",
+        "ADOLPHONZO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        1453237,
+        2,
+        "mercy",
+        "YEABOI",
+        "s76",
+        "OLDMANBFNJY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        1453956,
+        1,
+        null,
+        null,
+        "s76",
+        "OLDMANBFNJY",
+        [
+        ],
+        null
+      ],
+      [
+        1454911,
+        1,
+        "junkrat",
+        "MIGHT",
+        "tracer",
+        "ADOLPHONZO",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        1454911,
+        1,
+        "junkrat",
+        "MIGHT",
+        "s76",
+        "OLDMANBFNJY",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        1454911,
+        1,
+        "junkrat",
+        "MIGHT",
+        "mercy",
+        "YEABOI",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ]
+    ],
+    "map": "UNKNOWN",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2357,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        2874,
+        4477,
+        4477,
+        6167,
+        2000,
+        2000,
+        2227,
+        2769,
+        2769,
+        2769,
+        2769,
+        9988,
+        10722,
+        11611,
+        11611,
+        12107,
+        12107,
+        12102,
+        12818,
+        11466,
+        11464
+      ],
+      "deaths": [
+        0,
+        0,
+        6,
+        7,
+        7,
+        8,
+        8,
+        8,
+        10,
+        12,
+        12,
+        12,
+        12,
+        12,
+        14,
+        11,
+        11,
+        17,
+        17,
+        17,
+        18,
+        21,
+        21
+      ],
+      "elims": [
+        0,
+        0,
+        6,
+        6,
+        6,
+        12,
+        17,
+        17,
+        19,
+        19,
+        19,
+        19,
+        19,
+        26,
+        26,
+        28,
+        28,
+        28,
+        28,
+        28,
+        32,
+        34,
+        34
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "pharah",
+        "pharah",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "pharah",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        17,
+        17,
+        14,
+        15,
+        15,
+        14,
+        12,
+        30,
+        12,
+        12,
+        14,
+        13,
+        14,
+        14,
+        13,
+        13,
+        30,
+        31,
+        33,
+        33
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        2,
+        8,
+        8,
+        8,
+        8,
+        8,
+        1,
+        1,
+        2,
+        2
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        6,
+        6,
+        6,
+        6,
+        3,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        3,
+        4,
+        4,
+        4
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        14,
+        2,
+        2,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        14,
+        21,
+        28,
+        28
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        10,
+        10,
+        11,
+        11,
+        3,
+        11,
+        11,
+        16,
+        16,
+        18,
+        18,
+        18,
+        18,
+        3,
+        6,
+        7,
+        7
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        4,
+        9,
+        9,
+        10,
+        10,
+        10,
+        10,
+        10,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        18,
+        19,
+        19
+      ],
+      "objective_time": [
+        0,
+        0,
+        16,
+        33,
+        33,
+        58,
+        86,
+        86,
+        89,
+        96,
+        96,
+        96,
+        96,
+        127,
+        129,
+        129,
+        129,
+        130,
+        130,
+        130,
+        138,
+        159,
+        159
+      ],
+      "time": [
+        39661,
+        71318,
+        347239,
+        423187,
+        430559,
+        523859,
+        563838,
+        575237,
+        712994,
+        835096,
+        859063,
+        864549,
+        880829,
+        990517,
+        1061383,
+        1112241,
+        1117799,
+        1182908,
+        1198279,
+        1219909,
+        1341072,
+        1432296,
+        1438664
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 331074,
+              "hero": "pharah",
+              "start": 145623
+            },
+            {
+              "end": 1175061,
+              "hero": "junkrat",
+              "start": 406877
+            },
+            {
+              "end": 1422072,
+              "hero": "pharah",
+              "start": 1265068
+            },
+            {
+              "end": 1454911,
+              "hero": "junkrat",
+              "start": 1450648
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1454911,
+              "hero": "mercy",
+              "start": 333498
+            }
+          ],
+          "name": "JHANK"
+        },
+        {
+          "heroes": [
+            {
+              "end": 332395,
+              "hero": "s76",
+              "start": 184340
+            },
+            {
+              "end": 651309,
+              "hero": "pharah",
+              "start": 412304
+            },
+            {
+              "end": 1044110,
+              "hero": "genji",
+              "start": 1044110
+            },
+            {
+              "end": 1138162,
+              "hero": "pharah",
+              "start": 1138162
+            },
+            {
+              "end": 1454911,
+              "hero": "reaper",
+              "start": 1265068
+            }
+          ],
+          "name": "XTOASTBUNZX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1177526,
+              "hero": "dva",
+              "start": 406877
+            },
+            {
+              "end": 1376038,
+              "hero": "winston",
+              "start": 1376038
+            },
+            {
+              "end": 1454911,
+              "hero": "dva",
+              "start": 1446813
+            }
+          ],
+          "name": "MCREAPER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1042902,
+              "hero": "winston",
+              "start": 180169
+            },
+            {
+              "end": 1351718,
+              "hero": "zarya",
+              "start": 1351718
+            },
+            {
+              "end": 1454911,
+              "hero": "winston",
+              "start": 1449806
+            }
+          ],
+          "name": "BREWSKILAD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1454911,
+              "hero": "lucio",
+              "start": 180169
+            }
+          ],
+          "name": "CURRY"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 1454911,
+              "hero": "lucio",
+              "start": 184340
+            }
+          ],
+          "name": "FABE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 329407,
+              "hero": "pharah",
+              "start": 180169
+            },
+            {
+              "end": 505588,
+              "hero": "reaper",
+              "start": 504397
+            },
+            {
+              "end": 1454911,
+              "hero": "ana",
+              "start": 651309
+            }
+          ],
+          "name": "MEMEDOGGO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 481840,
+              "hero": "tracer",
+              "start": 331074
+            },
+            {
+              "end": 1376038,
+              "hero": "hanzo",
+              "start": 746296
+            },
+            {
+              "end": 1454911,
+              "hero": "tracer",
+              "start": 1450648
+            }
+          ],
+          "name": "ADOLPHONZO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 770634,
+              "hero": "s76",
+              "start": 145623
+            },
+            {
+              "end": 1044110,
+              "hero": "mei",
+              "start": 1042902
+            },
+            {
+              "end": 1454911,
+              "hero": "s76",
+              "start": 1138162
+            }
+          ],
+          "name": "OLDMANBFNJY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1454911,
+              "hero": "dva",
+              "start": 406877
+            }
+          ],
+          "name": "BATTLEPANTS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 238822,
+              "hero": "mercy",
+              "start": 238822
+            },
+            {
+              "end": 746296,
+              "hero": "pharah",
+              "start": 651309
+            },
+            {
+              "end": 1422072,
+              "hero": "reaper",
+              "start": 1042902
+            },
+            {
+              "end": 1454911,
+              "hero": "mercy",
+              "start": 1453237
+            }
+          ],
+          "name": "YEABOI"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 1457,
+    "end_sr": 2332,
+    "heroes_played": [
+      [
+        "junkrat",
+        0.6003217320319638
+      ],
+      [
+        "pharah",
+        0.3996782679680361
+      ]
+    ],
+    "key": "Magic-11407/2017-07-07-06-55-Khn96s8t9xwmoLot8KjkzD",
+    "map": "UNKNOWN",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2357,
+    "time": 1499409040,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-07-06-55-Khn96s8t9xwmoLot8KjkzD/game.json",
+    "user_id": 151467
+  }
+}

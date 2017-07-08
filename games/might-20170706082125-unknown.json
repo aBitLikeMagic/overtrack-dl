@@ -1,0 +1,652 @@
+{
+  "data": {
+    "assists": [
+      [
+        139657,
+        "JLEE",
+        1,
+        0
+      ],
+      [
+        155166,
+        "EIGHTHBIT",
+        1,
+        0
+      ],
+      [
+        167318,
+        "BEANWIZARD",
+        1,
+        0
+      ],
+      [
+        203682,
+        "SEPHYR",
+        1,
+        0
+      ],
+      [
+        208068,
+        "JLEE",
+        1,
+        0
+      ],
+      [
+        223361,
+        "EIGHTHBIT",
+        1,
+        0
+      ],
+      [
+        224163,
+        "BEANWIZARD",
+        1,
+        0
+      ],
+      [
+        230957,
+        "GORK",
+        1,
+        0
+      ],
+      [
+        232156,
+        "SEPHYR",
+        1,
+        0
+      ],
+      [
+        409571,
+        "EIGHTHBIT",
+        1,
+        0
+      ],
+      [
+        410224,
+        "GORK",
+        1,
+        0
+      ],
+      [
+        416038,
+        "BEANWIZARD",
+        1,
+        0
+      ],
+      [
+        487492,
+        "SEPHYR",
+        1,
+        0
+      ],
+      [
+        487979,
+        "BEANWIZARD",
+        1,
+        0
+      ],
+      [
+        490572,
+        "JLEE",
+        1,
+        0
+      ],
+      [
+        493569,
+        "GORK",
+        1,
+        0
+      ],
+      [
+        535452,
+        "BEANWIZARD",
+        1,
+        0
+      ],
+      [
+        550421,
+        "GORK",
+        1,
+        0
+      ],
+      [
+        580355,
+        "SEPHYR",
+        1,
+        0
+      ],
+      [
+        632350,
+        "BEANWIZARD",
+        1,
+        0
+      ],
+      [
+        632350,
+        "EIGHTHBIT",
+        1,
+        0
+      ],
+      [
+        633006,
+        "JLEE",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      2313
+    ],
+    "custom_game": false,
+    "deaths": 0,
+    "end_sr": 2363,
+    "game_duration": 638,
+    "game_ended": 1499329941,
+    "game_started": 1499329285,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 1709,
+        "deaths": 0,
+        "elims": 21,
+        "healing": 0,
+        "hero_stat_1": 22,
+        "hero_stat_2": 0,
+        "hero_stat_3": 2,
+        "hero_stat_5": 22,
+        "hero_stat_6": 638524,
+        "objective_kills": 16,
+        "objective_time": 75,
+        "tab_health": 0.3,
+        "time_played": 555088
+      },
+      "dva": {
+        "damage": 1709,
+        "deaths": 0,
+        "elims": 21,
+        "healing": 0,
+        "hero_stat_1": 17,
+        "hero_stat_2": 6,
+        "hero_stat_3": 11,
+        "hero_stat_4": 2,
+        "hero_stat_5": 7101,
+        "objective_kills": 16,
+        "objective_time": 75,
+        "tab_health": 0.3,
+        "time_played": 555088
+      }
+    },
+    "heroes_played": [
+      [
+        "dva",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-06-08-32-6sujNSbVEDTng3cgKqgXN4",
+    "killfeed": [
+      [
+        524844,
+        0,
+        "junkrat",
+        "COOO",
+        "torb_turret",
+        "PIGEON",
+        [
+        ],
+        null
+      ],
+      [
+        629058,
+        0,
+        "s76",
+        "SEPHYR",
+        "genji",
+        "DIGIT",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        631545,
+        1,
+        "dva",
+        "MIGHT",
+        "lucio",
+        "BEANWIZARD",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        631545,
+        1,
+        "dva",
+        "MIGHT",
+        "mercy",
+        "EIGHTHBIT",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        631545,
+        3,
+        "mercy",
+        "NEKOPRINCESS",
+        "symmetra",
+        "KILIK",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        631545,
+        3,
+        "mercy",
+        "NEKOPRINCESS",
+        "torb",
+        "PIGEON",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        631545,
+        3,
+        "mercy",
+        "NEKOPRINCESS",
+        "genji",
+        "DIGIT",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        631545,
+        1,
+        "symmetra",
+        "KILIK",
+        "genji",
+        "JLEE",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        633006,
+        1,
+        "symmetra",
+        "KILIK",
+        "genji",
+        "JLEE",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        633598,
+        0,
+        "dva",
+        "GORK",
+        "torb_turret",
+        "PIGEON",
+        [
+        ],
+        null
+      ],
+      [
+        636883,
+        1,
+        "symmetra",
+        "KILIK",
+        "dva_mech",
+        "GORK",
+        [
+        ],
+        null
+      ],
+      [
+        636883,
+        1,
+        "symmetra",
+        "KILIK",
+        "dva",
+        "GORK",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "UNKNOWN",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2336,
+    "tab_statistics": {
+      "damage": [
+        null,
+        0,
+        0,
+        406,
+        406,
+        1264,
+        1264,
+        1709,
+        1709
+      ],
+      "deaths": [
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "elims": [
+        null,
+        0,
+        0,
+        3,
+        3,
+        10,
+        10,
+        21,
+        21
+      ],
+      "healing": [
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva"
+      ],
+      "hero_stat_1": [
+        null,
+        0,
+        0,
+        19,
+        19,
+        19,
+        19,
+        17,
+        17
+      ],
+      "hero_stat_2": [
+        null,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        6,
+        6
+      ],
+      "hero_stat_3": [
+        null,
+        0,
+        0,
+        3,
+        3,
+        10,
+        10,
+        11,
+        11
+      ],
+      "hero_stat_4": [
+        null,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2
+      ],
+      "hero_stat_5": [
+        null,
+        0,
+        0,
+        1831,
+        1831,
+        2035,
+        2035,
+        7101,
+        7101
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        null,
+        0,
+        0,
+        2,
+        2,
+        9,
+        9,
+        16,
+        16
+      ],
+      "objective_time": [
+        null,
+        0,
+        0,
+        24,
+        24,
+        47,
+        47,
+        75,
+        75
+      ],
+      "time": [
+        33908,
+        39968,
+        67978,
+        183154,
+        192071,
+        329433,
+        339535,
+        582342,
+        588996
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "dva",
+              "start": 631545
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+          ],
+          "name": "ALI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "genji",
+              "start": 629058
+            }
+          ],
+          "name": "DIGIT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "torb",
+              "start": 631545
+            }
+          ],
+          "name": "PIGEON"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "symmetra",
+              "start": 631545
+            }
+          ],
+          "name": "KILIK"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "mercy",
+              "start": 631545
+            }
+          ],
+          "name": "NEKOPRINCESS"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "mercy",
+              "start": 631545
+            }
+          ],
+          "name": "EIGHTHBIT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "genji",
+              "start": 631545
+            }
+          ],
+          "name": "JLEE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "junkrat",
+              "start": 524844
+            }
+          ],
+          "name": "COOO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "dva",
+              "start": 633598
+            }
+          ],
+          "name": "GORK"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "lucio",
+              "start": 631545
+            }
+          ],
+          "name": "BEANWIZARD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 636883,
+              "hero": "s76",
+              "start": 629058
+            }
+          ],
+          "name": "SEPHYR"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 638,
+    "end_sr": 2363,
+    "heroes_played": [
+      [
+        "dva",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-06-08-32-6sujNSbVEDTng3cgKqgXN4",
+    "map": "UNKNOWN",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2336,
+    "time": 1499329285,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-06-08-32-6sujNSbVEDTng3cgKqgXN4/game.json",
+    "user_id": 151467
+  }
+}

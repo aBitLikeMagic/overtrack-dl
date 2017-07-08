@@ -1,0 +1,1807 @@
+{
+  "data": {
+    "assists": [
+      [
+        148567,
+        "SPACEOCTOPUS",
+        0,
+        1
+      ],
+      [
+        157024,
+        "BONYOX",
+        0,
+        1
+      ],
+      [
+        182130,
+        "SPACEOCTOPUS",
+        0,
+        1
+      ],
+      [
+        186282,
+        "BONYOX",
+        0,
+        1
+      ],
+      [
+        194420,
+        "SIRNOOBALOT",
+        1,
+        1
+      ],
+      [
+        202428,
+        "KAZAGANTHI",
+        0,
+        1
+      ],
+      [
+        212252,
+        "BONYOX",
+        0,
+        1
+      ],
+      [
+        330698,
+        "KALTES",
+        0,
+        1
+      ],
+      [
+        407343,
+        "KAZAGANTHI",
+        1,
+        0
+      ],
+      [
+        470437,
+        "TYP3ZERO",
+        0,
+        1
+      ],
+      [
+        518494,
+        "TYP3ZERO",
+        0,
+        1
+      ],
+      [
+        519370,
+        "KALTES",
+        1,
+        1
+      ],
+      [
+        520702,
+        "SPACEOCTOPUS",
+        1,
+        1
+      ],
+      [
+        676039,
+        "BONYOX",
+        1,
+        1
+      ],
+      [
+        678187,
+        "SIRNOOBALOT",
+        1,
+        0
+      ],
+      [
+        707111,
+        "BONYOX",
+        1,
+        1
+      ],
+      [
+        715362,
+        "TYP3ZERO",
+        1,
+        1
+      ],
+      [
+        721643,
+        "SIRNOOBALOT",
+        0,
+        1
+      ],
+      [
+        743847,
+        "KAZAGANTHI",
+        0,
+        1
+      ],
+      [
+        747171,
+        "SIRNOOBALOT",
+        0,
+        1
+      ],
+      [
+        780738,
+        "KAZAGANTHI",
+        1,
+        0
+      ],
+      [
+        806142,
+        "SIRNOOBALOT",
+        0,
+        1
+      ],
+      [
+        837135,
+        "KAZAGANTHI",
+        1,
+        1
+      ],
+      [
+        840096,
+        "BONYOX",
+        1,
+        1
+      ],
+      [
+        864391,
+        "KALTES",
+        1,
+        1
+      ],
+      [
+        999987,
+        "KALTES",
+        1,
+        1
+      ],
+      [
+        1009679,
+        "KAZAGANTHI",
+        1,
+        0
+      ],
+      [
+        1010692,
+        "SPACEOCTOPUS",
+        0,
+        1
+      ],
+      [
+        1014133,
+        "SIRNOOBALOT",
+        1,
+        1
+      ],
+      [
+        1044357,
+        "BONYOX",
+        1,
+        1
+      ],
+      [
+        1053319,
+        "SPACEOCTOPUS",
+        1,
+        1
+      ],
+      [
+        1060678,
+        "SIRNOOBALOT",
+        1,
+        1
+      ],
+      [
+        1102701,
+        "KAZAGANTHI",
+        0,
+        1
+      ],
+      [
+        1104777,
+        "BONYOX",
+        1,
+        1
+      ],
+      [
+        1178577,
+        "BONYOX",
+        1,
+        1
+      ],
+      [
+        1245082,
+        "SIRNOOBALOT",
+        1,
+        1
+      ],
+      [
+        1252947,
+        "SPACEOCTOPUS",
+        1,
+        1
+      ],
+      [
+        1283224,
+        "TYP3ZERO",
+        0,
+        1
+      ],
+      [
+        1285431,
+        "SIRNOOBALOT",
+        1,
+        1
+      ],
+      [
+        1295863,
+        "KALTES",
+        0,
+        1
+      ],
+      [
+        1328777,
+        "KAZAGANTHI",
+        0,
+        1
+      ],
+      [
+        1373049,
+        "KAZAGANTHI",
+        1,
+        0
+      ],
+      [
+        1376817,
+        "SIRNOOBALOT",
+        0,
+        1
+      ],
+      [
+        1394438,
+        "TYP3ZERO",
+        1,
+        1
+      ],
+      [
+        1403339,
+        "KAZAGANTHI",
+        0,
+        1
+      ],
+      [
+        1416467,
+        "BONYOX",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      234,
+      2345
+    ],
+    "custom_game": false,
+    "deaths": 18,
+    "end_sr": 2375,
+    "game_duration": 1446,
+    "game_ended": 1499413409,
+    "game_started": 1499411952,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 1416,
+        "deaths": 18,
+        "elims": 28,
+        "healing": 12222,
+        "hero_stat_1": 26,
+        "hero_stat_2": 40,
+        "hero_stat_3": 0,
+        "hero_stat_5": 28,
+        "hero_stat_6": 1446592,
+        "objective_kills": 14,
+        "objective_time": 172,
+        "tab_health": 0.32653061224489793,
+        "time_played": 1349238
+      },
+      "mercy": {
+        "damage": 214,
+        "deaths": 9,
+        "elims": 3,
+        "healing": 1290,
+        "hero_stat_1": 2,
+        "hero_stat_2": 2,
+        "hero_stat_3": 14,
+        "hero_stat_4": 136,
+        "hero_stat_5": 5,
+        "objective_kills": 2,
+        "objective_time": 67,
+        "tab_health": 0.32653061224489793,
+        "time_played": 535372
+      },
+      "zenyatta": {
+        "damage": 1416,
+        "deaths": 18,
+        "elims": 21,
+        "healing": 5411,
+        "hero_stat_1": 23,
+        "hero_stat_2": 42,
+        "hero_stat_3": 2,
+        "hero_stat_4": 1890,
+        "hero_stat_5": 36,
+        "objective_kills": 10,
+        "objective_time": 78,
+        "tab_health": 0.32653061224489793,
+        "time_played": 652747
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        0.5183476422121628
+      ],
+      [
+        "zenyatta",
+        0.4816523577878372
+      ]
+    ],
+    "key": "Magic-11407/2017-07-07-07-43-jpEyjBTRAGUpWAAw4ytRC9",
+    "killfeed": [
+      [
+        84283,
+        0,
+        "pharah",
+        "TYP3ZERO",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        111913,
+        0,
+        "winston",
+        "BONYOX",
+        "mercy",
+        "MOGUL",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        112372,
+        0,
+        "dva",
+        "KAZAGANTHI",
+        "genji",
+        "MEMEDOGGO",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        153268,
+        1,
+        "dva",
+        "GAVONY",
+        "mercy",
+        "SPACEOCTOPUS",
+        [
+        ],
+        null
+      ],
+      [
+        153268,
+        0,
+        "pharah",
+        "TYP3ZERO",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        157024,
+        1,
+        "lucio",
+        "@UNKNOWN_BLUE#0",
+        "winston",
+        "BONYOX",
+        [
+        ],
+        null
+      ],
+      [
+        245667,
+        0,
+        "lucio",
+        "KALTES",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        246282,
+        1,
+        "dva",
+        "GAVONY",
+        "pharah",
+        "TYP3ZERO",
+        [
+        ],
+        null
+      ],
+      [
+        248899,
+        1,
+        "tracer",
+        "JONGMINLEE",
+        "mercy",
+        "SPACEOCTOPUS",
+        [
+        ],
+        null
+      ],
+      [
+        251951,
+        1,
+        "genji",
+        "MEMEDOGGO",
+        "dva_mech",
+        "KAZAGANTHI",
+        [
+        ],
+        null
+      ],
+      [
+        252664,
+        1,
+        "dva",
+        "GAVONY",
+        "dva",
+        "KAZAGANTHI",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        252664,
+        1,
+        "dva",
+        "GAVONY",
+        "lucio",
+        "KALTES",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        252664,
+        1,
+        "dva",
+        "GAVONY",
+        "tracer",
+        "SIRNOOBALOT",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        294650,
+        0,
+        "pharah",
+        "TYP3ZERO",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        294650,
+        0,
+        "pharah",
+        "TYP3ZERO",
+        "dva",
+        "GAVONY",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        295470,
+        1,
+        "genji",
+        "MEMEDOGGO",
+        "pharah",
+        "TYP3ZERO",
+        [
+        ],
+        null
+      ],
+      [
+        298316,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "tracer",
+        "JONGMINLEE",
+        [
+        ],
+        null
+      ],
+      [
+        329046,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        329670,
+        1,
+        "genji",
+        "MEMEDOGGO",
+        "lucio",
+        "KALTES",
+        [
+          "zarya",
+          "mercy"
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        331861,
+        0,
+        "dva",
+        "KAZAGANTHI",
+        "dva_mech",
+        "GAVONY",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        334405,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "zarya",
+        "ALOHA",
+        [
+          "mercy"
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        337906,
+        1,
+        "genji",
+        "MEMEDOGGO",
+        "winston",
+        "BONYOX",
+        [
+        ],
+        null
+      ],
+      [
+        403968,
+        1,
+        "tracer",
+        "JONGMINLEE",
+        "mercy",
+        "SPACEOCTOPUS",
+        [
+        ],
+        null
+      ],
+      [
+        403968,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        404695,
+        0,
+        "winston",
+        "BONYOX",
+        "lucio",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        406715,
+        1,
+        "tracer",
+        "JONGMINLEE",
+        "dva_mech",
+        "KAZAGANTHI",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        410141,
+        0,
+        "dva",
+        "KAZAGANTHI",
+        "dva_mech",
+        "GAVONY",
+        [
+        ],
+        null
+      ],
+      [
+        433911,
+        0,
+        "pharah",
+        "TYP3ZERO",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        433911,
+        0,
+        "dva",
+        "KAZAGANTHI",
+        "lucio",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        438534,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "tracer",
+        "JONGMINLEE",
+        [
+        ],
+        null
+      ],
+      [
+        551688,
+        0,
+        "winston",
+        "BONYOX",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        555180,
+        1,
+        "tracer",
+        "JONGMINLEE",
+        "winston",
+        "BONYOX",
+        [
+        ],
+        null
+      ],
+      [
+        598561,
+        0,
+        "dva",
+        "KAZAGANTHI",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        598561,
+        0,
+        "dva",
+        "KAZAGANTHI",
+        "zarya",
+        "ALOHA",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        598561,
+        0,
+        "dva",
+        "KAZAGANTHI",
+        "genji",
+        "MEMEDOGGO",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        604691,
+        0,
+        "winston",
+        "BONYOX",
+        "lucio",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        605199,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "dva_mech",
+        "GAVONY",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        605706,
+        1,
+        "tracer",
+        "JONGMINLEE",
+        "pharah",
+        "TYP3ZERO",
+        [
+        ],
+        null
+      ],
+      [
+        749966,
+        1,
+        "mccree",
+        "JONGMINLEE",
+        "tracer",
+        "SIRNOOBALOT",
+        [
+        ],
+        null
+      ],
+      [
+        749966,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "zenyatta",
+        "MOGUL",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        749966,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "lucio",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        749966,
+        0,
+        "pharah",
+        "TYP3ZERO",
+        "mccree",
+        "JONGMINLEE",
+        [
+        ],
+        null
+      ],
+      [
+        753983,
+        1,
+        "dva",
+        "GAVONY",
+        "pharah",
+        "TYP3ZERO",
+        [
+        ],
+        null
+      ],
+      [
+        786161,
+        0,
+        "pharah",
+        "TYP3ZERO",
+        "mccree",
+        "JONGMINLEE",
+        [
+        ],
+        null
+      ],
+      [
+        786161,
+        1,
+        "lucio",
+        "@UNKNOWN_BLUE#0",
+        "dva_mech",
+        "KAZAGANTHI",
+        [
+        ],
+        null
+      ],
+      [
+        786161,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "zenyatta",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        789313,
+        1,
+        "dva",
+        "GAVONY",
+        "pharah",
+        "TYP3ZERO",
+        [
+        ],
+        null
+      ],
+      [
+        841530,
+        1,
+        "mccree",
+        "JONGMINLEE",
+        "dva_mech",
+        "KAZAGANTHI",
+        [
+        ],
+        null
+      ],
+      [
+        841530,
+        1,
+        "mccree",
+        "JONGMINLEE",
+        "dva",
+        "KAZAGANTHI",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        841530,
+        1,
+        "mccree",
+        "JONGMINLEE",
+        "winston",
+        "BONYOX",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        845807,
+        2,
+        "mercy",
+        "SPACEOCTOPUS",
+        "dva",
+        "KAZAGANTHI",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        861596,
+        1,
+        "winston",
+        "ALOHA",
+        "mercy",
+        "SPACEOCTOPUS",
+        [
+        ],
+        null
+      ],
+      [
+        861596,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "zenyatta",
+        "MOGUL",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        861596,
+        1,
+        "dva",
+        "GAVONY",
+        "s76",
+        "TYP3ZERO",
+        [
+        ],
+        null
+      ],
+      [
+        862251,
+        1,
+        "reaper",
+        "MEMEDOGGO",
+        "dva",
+        "KAZAGANTHI",
+        [
+          "zenyatta"
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        862741,
+        1,
+        "winston",
+        "ALOHA",
+        "lucio",
+        "KALTES",
+        [
+        ],
+        null
+      ],
+      [
+        968379,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "zenyatta",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        968379,
+        1,
+        "mccree",
+        "JONGMINLEE",
+        "zarya",
+        "BONYOX",
+        [
+        ],
+        null
+      ],
+      [
+        968379,
+        1,
+        "winston",
+        "ALOHA",
+        "dva",
+        "KAZAGANTHI",
+        [
+        ],
+        null
+      ],
+      [
+        969802,
+        1,
+        "mccree",
+        "JONGMINLEE",
+        "tracer",
+        "SIRNOOBALOT",
+        [
+        ],
+        null
+      ],
+      [
+        1014133,
+        1,
+        "lucio",
+        "@UNKNOWN_BLUE#0",
+        "dva",
+        "KAZAGANTHI",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        1014133,
+        1,
+        "lucio",
+        "@UNKNOWN_BLUE#0",
+        "dva_mech",
+        "KAZAGANTHI",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        1014133,
+        1,
+        "dva",
+        "GAVONY",
+        "mercy",
+        "SPACEOCTOPUS",
+        [
+        ],
+        null
+      ],
+      [
+        1014133,
+        0,
+        "tracer",
+        "SIRNOOBALOT",
+        "zenyatta",
+        "MOGUL",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        1014133,
+        1,
+        "reaper",
+        "MEMEDOGGO",
+        "tracer",
+        "SIRNOOBALOT",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        1099226,
+        1,
+        "mccree",
+        "JONGMINLEE",
+        "mercy",
+        "SPACEOCTOPUS",
+        [
+        ],
+        null
+      ],
+      [
+        1099226,
+        0,
+        null,
+        null,
+        "mccree",
+        "JONGMINLEE",
+        [
+        ],
+        null
+      ],
+      [
+        1214688,
+        0,
+        "winston",
+        "BONYOX",
+        "zenyatta",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        1293908,
+        1,
+        null,
+        null,
+        "reaper",
+        "TYP3ZERO",
+        [
+        ],
+        null
+      ],
+      [
+        1303272,
+        1,
+        "reaper",
+        "MEMEDOGGO",
+        "tracer",
+        "SIRNOOBALOT",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        1303272,
+        0,
+        "reaper",
+        "TYP3ZERO",
+        "zenyatta",
+        "MOGUL",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        1303272,
+        0,
+        "reaper",
+        "TYP3ZERO",
+        "reaper",
+        "MEMEDOGGO",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        1310099,
+        0,
+        "winston",
+        "BONYOX",
+        "winston",
+        "ALOHA",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        1335256,
+        0,
+        "winston",
+        "BONYOX",
+        "zenyatta",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        1337408,
+        0,
+        "reaper",
+        "TYP3ZERO",
+        "reaper",
+        "MEMEDOGGO",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "UNKNOWN",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MOGUL",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2353,
+    "tab_statistics": {
+      "damage": [
+        0,
+        100,
+        100,
+        120,
+        416,
+        716,
+        214,
+        2070,
+        2166,
+        2901,
+        2901,
+        2422,
+        2622,
+        2622,
+        2998,
+        4798,
+        4798,
+        4910,
+        1416,
+        1416,
+        1416,
+        1416
+      ],
+      "deaths": [
+        1,
+        6,
+        6,
+        8,
+        9,
+        10,
+        10,
+        12,
+        12,
+        14,
+        14,
+        11,
+        11,
+        11,
+        16,
+        17,
+        17,
+        18,
+        18,
+        18,
+        18,
+        18
+      ],
+      "elims": [
+        0,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        7,
+        10,
+        12,
+        12,
+        17,
+        19,
+        19,
+        21,
+        25,
+        25,
+        25,
+        28,
+        28,
+        28,
+        28
+      ],
+      "healing": [
+        66,
+        2244,
+        2244,
+        2469,
+        1111,
+        1290,
+        1290,
+        6811,
+        7197,
+        7614,
+        7614,
+        8276,
+        9761,
+        9761,
+        10272,
+        11186,
+        11186,
+        11212,
+        12222,
+        12222,
+        12222,
+        12222
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta"
+      ],
+      "hero_stat_1": [
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        38,
+        34,
+        27,
+        27,
+        25,
+        24,
+        24,
+        24,
+        23,
+        23,
+        23,
+        23,
+        23,
+        23,
+        23
+      ],
+      "hero_stat_2": [
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        6,
+        12,
+        16,
+        16,
+        21,
+        26,
+        26,
+        21,
+        27,
+        27,
+        28,
+        42,
+        42,
+        42,
+        42
+      ],
+      "hero_stat_3": [
+        0,
+        9,
+        9,
+        9,
+        14,
+        14,
+        14,
+        4,
+        4,
+        4,
+        4,
+        4,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "hero_stat_4": [
+        24,
+        69,
+        69,
+        91,
+        112,
+        160,
+        160,
+        102,
+        102,
+        102,
+        102,
+        102,
+        1121,
+        1121,
+        1121,
+        1716,
+        1716,
+        1716,
+        1992,
+        1992,
+        1992,
+        1992
+      ],
+      "hero_stat_5": [
+        0,
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        5,
+        11,
+        13,
+        13,
+        17,
+        22,
+        22,
+        26,
+        33,
+        33,
+        33,
+        41,
+        41,
+        41,
+        41
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        4,
+        7,
+        8,
+        8,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        14,
+        14,
+        14,
+        14
+      ],
+      "objective_time": [
+        0,
+        19,
+        19,
+        39,
+        65,
+        67,
+        67,
+        94,
+        111,
+        121,
+        121,
+        126,
+        142,
+        142,
+        142,
+        142,
+        142,
+        145,
+        172,
+        172,
+        172,
+        172
+      ],
+      "time": [
+        96825,
+        343246,
+        348849,
+        456890,
+        568382,
+        617191,
+        632197,
+        793316,
+        915421,
+        978975,
+        984508,
+        1072327,
+        1107683,
+        1113613,
+        1232798,
+        1315819,
+        1321786,
+        1356337,
+        1421240,
+        1427474,
+        1433031,
+        1446063
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 598561,
+              "hero": "mercy",
+              "start": 84283
+            },
+            {
+              "end": 1337408,
+              "hero": "zenyatta",
+              "start": 749966
+            }
+          ],
+          "name": "MOGUL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598561,
+              "hero": "genji",
+              "start": 112372
+            },
+            {
+              "end": 1337408,
+              "hero": "reaper",
+              "start": 862251
+            }
+          ],
+          "name": "MEMEDOGGO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598561,
+              "hero": "zarya",
+              "start": 334405
+            },
+            {
+              "end": 1337408,
+              "hero": "winston",
+              "start": 861596
+            }
+          ],
+          "name": "ALOHA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1337408,
+              "hero": "dva",
+              "start": 153268
+            }
+          ],
+          "name": "GAVONY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 605706,
+              "hero": "tracer",
+              "start": 248899
+            },
+            {
+              "end": 1337408,
+              "hero": "mccree",
+              "start": 749966
+            }
+          ],
+          "name": "JONGMINLEE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1337408,
+              "hero": "lucio",
+              "start": 157024
+            }
+          ],
+          "name": "@UNKNOWN_BLUE#0"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 1337408,
+              "hero": "tracer",
+              "start": 252664
+            }
+          ],
+          "name": "SIRNOOBALOT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1337408,
+              "hero": "lucio",
+              "start": 245667
+            }
+          ],
+          "name": "KALTES"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1337408,
+              "hero": "dva",
+              "start": 112372
+            }
+          ],
+          "name": "KAZAGANTHI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1337408,
+              "hero": "mercy",
+              "start": 153268
+            }
+          ],
+          "name": "SPACEOCTOPUS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 841530,
+              "hero": "winston",
+              "start": 111913
+            },
+            {
+              "end": 968379,
+              "hero": "zarya",
+              "start": 968379
+            },
+            {
+              "end": 1337408,
+              "hero": "winston",
+              "start": 1214688
+            }
+          ],
+          "name": "BONYOX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 789313,
+              "hero": "pharah",
+              "start": 84283
+            },
+            {
+              "end": 861596,
+              "hero": "s76",
+              "start": 861596
+            },
+            {
+              "end": 1337408,
+              "hero": "reaper",
+              "start": 1293908
+            }
+          ],
+          "name": "TYP3ZERO"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 1446,
+    "end_sr": 2375,
+    "heroes_played": [
+      [
+        "mercy",
+        0.5183476422121628
+      ],
+      [
+        "zenyatta",
+        0.4816523577878372
+      ]
+    ],
+    "key": "Magic-11407/2017-07-07-07-43-jpEyjBTRAGUpWAAw4ytRC9",
+    "map": "UNKNOWN",
+    "player_name": "MOGUL",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2353,
+    "time": 1499411952,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-07-07-43-jpEyjBTRAGUpWAAw4ytRC9/game.json",
+    "user_id": 151467
+  }
+}

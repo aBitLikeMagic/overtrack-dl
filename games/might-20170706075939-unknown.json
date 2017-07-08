@@ -1,0 +1,1191 @@
+{
+  "data": {
+    "assists": [
+      [
+        130546,
+        "POISSONDIST",
+        1,
+        0
+      ],
+      [
+        134781,
+        "ICE",
+        1,
+        0
+      ],
+      [
+        257380,
+        "POISSONDIST",
+        1,
+        0
+      ],
+      [
+        441612,
+        "BIGDAMNHERO",
+        1,
+        0
+      ],
+      [
+        482211,
+        "WAR8AL",
+        1,
+        0
+      ],
+      [
+        700327,
+        "ICE",
+        1,
+        0
+      ],
+      [
+        783460,
+        "ICE",
+        1,
+        0
+      ],
+      [
+        800086,
+        "BIGDAMNHERO",
+        1,
+        0
+      ],
+      [
+        806168,
+        "WAR8AL",
+        1,
+        0
+      ],
+      [
+        815446,
+        "ICE",
+        1,
+        0
+      ],
+      [
+        862827,
+        "ICE",
+        1,
+        0
+      ],
+      [
+        879147,
+        "WAR8AL",
+        1,
+        0
+      ],
+      [
+        879702,
+        "POISSONDIST",
+        1,
+        0
+      ],
+      [
+        958530,
+        "ICE",
+        1,
+        0
+      ],
+      [
+        971600,
+        "BIGDAMNHERO",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 13,
+    "end_sr": 2336,
+    "game_duration": 995,
+    "game_ended": 1499328992,
+    "game_started": 1499327979,
+    "group_size": null,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 6177,
+        "deaths": 16,
+        "elims": 19,
+        "healing": 200,
+        "hero_stat_1": 15,
+        "hero_stat_2": 0,
+        "hero_stat_3": 2,
+        "hero_stat_5": 19,
+        "hero_stat_6": 995466,
+        "objective_kills": 9,
+        "objective_time": 84,
+        "tab_health": 0.17142857142857143,
+        "time_played": 980263
+      },
+      "junkrat": {
+        "damage": 4933,
+        "deaths": 4,
+        "elims": 2,
+        "healing": 0,
+        "hero_stat_1": 1,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 1,
+        "objective_kills": 1,
+        "objective_time": 15,
+        "tab_health": 0.17142857142857143,
+        "time_played": 128398
+      },
+      "pharah": {
+        "damage": 1298,
+        "deaths": 2,
+        "elims": 4,
+        "healing": 0,
+        "hero_stat_1": 30,
+        "hero_stat_2": 1,
+        "hero_stat_3": 2,
+        "hero_stat_4": 1,
+        "hero_stat_5": 1,
+        "objective_kills": 1,
+        "objective_time": 2,
+        "tab_health": 0.17142857142857143,
+        "time_played": 222799
+      }
+    },
+    "heroes_played": [
+      [
+        "junkrat",
+        0.4747091224073954
+      ],
+      [
+        "pharah",
+        0.3750420384181685
+      ],
+      [
+        "mei",
+        0.15024883917443613
+      ],
+      [
+        "winston",
+        0
+      ]
+    ],
+    "key": "Magic-11407/2017-07-06-08-16-jvsaAPVEMuFzXeigEGt2F8",
+    "killfeed": [
+      [
+        186816,
+        0,
+        "genji",
+        "TRAP",
+        "mercy",
+        "KXNT",
+        [
+        ],
+        null
+      ],
+      [
+        186816,
+        1,
+        "junkrat",
+        "JUANDAVIDGM",
+        "tracer",
+        "ICE",
+        [
+        ],
+        null
+      ],
+      [
+        186816,
+        0,
+        "zarya",
+        "BIGDAMNHERO",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        188150,
+        0,
+        "zarya",
+        "BIGDAMNHERO",
+        "junkrat",
+        "JUANDAVIDGM",
+        [
+        ],
+        null
+      ],
+      [
+        218352,
+        0,
+        "genji",
+        "TRAP",
+        "s76",
+        "LIJOHN",
+        [
+        ],
+        null
+      ],
+      [
+        218352,
+        1,
+        "junkrat",
+        "JUANDAVIDGM",
+        "ana",
+        "TRAQULAR",
+        [
+        ],
+        null
+      ],
+      [
+        218352,
+        0,
+        "s76",
+        "POISSONDIST",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        218352,
+        0,
+        "s76",
+        "POISSONDIST",
+        "mercy",
+        "KXNT",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        221664,
+        1,
+        "junkrat",
+        "JUANDAVIDGM",
+        "zarya",
+        "BIGDAMNHERO",
+        [
+        ],
+        null
+      ],
+      [
+        222265,
+        0,
+        "genji",
+        "TRAP",
+        "junkrat",
+        "JUANDAVIDGM",
+        [
+        ],
+        null
+      ],
+      [
+        258141,
+        1,
+        "pharah",
+        "MIGHT",
+        "s76",
+        "POISSONDIST",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        260979,
+        0,
+        "zenyatta",
+        "WAR8AL",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        260979,
+        1,
+        "junkrat",
+        "JUANDAVIDGM",
+        "ana",
+        "TRAQULAR",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        294265,
+        0,
+        "zenyatta",
+        "WAR8AL",
+        "winston",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        295757,
+        0,
+        "genji",
+        "TRAP",
+        "dva",
+        "SIWERSTRIDE",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        298804,
+        0,
+        "tracer",
+        "ICE",
+        "mercy",
+        "KXNT",
+        [
+        ],
+        null
+      ],
+      [
+        394654,
+        0,
+        "s76",
+        "POISSONDIST",
+        "dva",
+        "SIWERSTRIDE",
+        [
+        ],
+        null
+      ],
+      [
+        394654,
+        0,
+        "zarya",
+        "BIGDAMNHERO",
+        "mei",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        396221,
+        0,
+        "reaper",
+        "ICE",
+        "s76",
+        "LIJOHN",
+        [
+        ],
+        null
+      ],
+      [
+        398292,
+        0,
+        "ana",
+        "TRAQULAR",
+        "lucio",
+        "KXNT",
+        [
+        ],
+        null
+      ],
+      [
+        429156,
+        0,
+        "zarya",
+        "BIGDAMNHERO",
+        "mei",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        497246,
+        0,
+        "genji",
+        "TRAP",
+        "junkrat",
+        "JUANDAVIDGM",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        497246,
+        0,
+        "reaper",
+        "ICE",
+        "mei",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        497246,
+        0,
+        "s76",
+        "POISSONDIST",
+        "s76",
+        "LIJOHN",
+        [
+        ],
+        null
+      ],
+      [
+        501801,
+        0,
+        "s76",
+        "POISSONDIST",
+        "ana",
+        "INFINITY",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        653962,
+        0,
+        "junkrat",
+        "TRAP",
+        "s76",
+        "LIJOHN",
+        [
+        ],
+        null
+      ],
+      [
+        653962,
+        0,
+        "zarya",
+        "BIGDAMNHERO",
+        "mercy",
+        "KXNT",
+        [
+        ],
+        null
+      ],
+      [
+        653962,
+        0,
+        "zarya",
+        "BIGDAMNHERO",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        658152,
+        0,
+        "junkrat",
+        "TRAP",
+        "reaper",
+        "SIWERSTRIDE",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        689712,
+        1,
+        "reaper",
+        "SIWERSTRIDE",
+        "zarya",
+        "BIGDAMNHERO",
+        [
+        ],
+        null
+      ],
+      [
+        689712,
+        0,
+        "reaper",
+        "ICE",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        690214,
+        0,
+        "zenyatta",
+        "WAR8AL",
+        "reaper",
+        "SIWERSTRIDE",
+        [
+        ],
+        null
+      ],
+      [
+        692305,
+        1,
+        "reinhardt",
+        "INFINITY",
+        "zenyatta",
+        "WAR8AL",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        733512,
+        0,
+        "junkrat",
+        "TRAP",
+        "reinhardt",
+        "INFINITY",
+        [
+        ],
+        null
+      ],
+      [
+        733512,
+        0,
+        "reaper",
+        "ICE",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        733512,
+        0,
+        "reaper",
+        "ICE",
+        "s76",
+        "LIJOHN",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        733512,
+        0,
+        "reaper",
+        "ICE",
+        "mercy",
+        "KXNT",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        733512,
+        0,
+        "reaper",
+        "ICE",
+        "ana",
+        "JUANDAVIDGM",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        866139,
+        0,
+        "zarya",
+        "BIGDAMNHERO",
+        "reinhardt",
+        "INFINITY",
+        [
+        ],
+        null
+      ],
+      [
+        878661,
+        0,
+        "s76",
+        "POISSONDIST",
+        "s76",
+        "LIJOHN",
+        [
+        ],
+        null
+      ],
+      [
+        878661,
+        0,
+        "zenyatta",
+        "WAR8AL",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        881014,
+        1,
+        "reinhardt",
+        "INFINITY",
+        "zenyatta",
+        "WAR8AL",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        881014,
+        1,
+        "junkrat",
+        "MIGHT",
+        "s76",
+        "POISSONDIST",
+        [
+        ],
+        null
+      ],
+      [
+        926655,
+        0,
+        "zarya",
+        "BIGDAMNHERO",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        987210,
+        0,
+        "s76",
+        "POISSONDIST",
+        "mercy",
+        "KXNT",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        987210,
+        0,
+        "zenyatta",
+        "WAR8AL",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        987210,
+        0,
+        "reaper",
+        "ICE",
+        "reinhardt",
+        "INFINITY",
+        [
+        ],
+        null
+      ],
+      [
+        987210,
+        0,
+        "s76",
+        "POISSONDIST",
+        "pharah",
+        "SIWERSTRIDE",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        989907,
+        1,
+        "s76",
+        "LIJOHN",
+        "s76",
+        "POISSONDIST",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ]
+    ],
+    "map": "UNKNOWN",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2357,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1282,
+        1282,
+        1282,
+        1298,
+        2886,
+        1244,
+        6177
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        8,
+        12,
+        16
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        4,
+        7,
+        17,
+        19
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        200,
+        200,
+        200
+      ],
+      "hero": [
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "mei",
+        "junkrat",
+        "junkrat"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        32,
+        32,
+        30,
+        844,
+        10,
+        11
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        3,
+        6,
+        6
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        200,
+        0,
+        1
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        4,
+        4,
+        null
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        4,
+        8,
+        9
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        25,
+        69,
+        84
+      ],
+      "time": [
+        42613,
+        50257,
+        55844,
+        63883,
+        88003,
+        93523,
+        231555,
+        238732,
+        245535,
+        265412,
+        500983,
+        894478,
+        1022876
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 260979,
+              "hero": "pharah",
+              "start": 186816
+            },
+            {
+              "end": 294265,
+              "hero": "winston",
+              "start": 294265
+            },
+            {
+              "end": 497246,
+              "hero": "mei",
+              "start": 394654
+            },
+            {
+              "end": 989907,
+              "hero": "junkrat",
+              "start": 653962
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 989907,
+              "hero": "s76",
+              "start": 218352
+            }
+          ],
+          "name": "LIJOHN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 298804,
+              "hero": "mercy",
+              "start": 186816
+            },
+            {
+              "end": 398292,
+              "hero": "lucio",
+              "start": 398292
+            },
+            {
+              "end": 989907,
+              "hero": "mercy",
+              "start": 653962
+            }
+          ],
+          "name": "KXNT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 501801,
+              "hero": "ana",
+              "start": 501801
+            },
+            {
+              "end": 989907,
+              "hero": "reinhardt",
+              "start": 692305
+            }
+          ],
+          "name": "INFINITY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 394654,
+              "hero": "dva",
+              "start": 295757
+            },
+            {
+              "end": 690214,
+              "hero": "reaper",
+              "start": 658152
+            },
+            {
+              "end": 989907,
+              "hero": "pharah",
+              "start": 987210
+            }
+          ],
+          "name": "SIWERSTRIDE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 497246,
+              "hero": "junkrat",
+              "start": 186816
+            },
+            {
+              "end": 989907,
+              "hero": "ana",
+              "start": 733512
+            }
+          ],
+          "name": "JUANDAVIDGM"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 298804,
+              "hero": "tracer",
+              "start": 186816
+            },
+            {
+              "end": 989907,
+              "hero": "reaper",
+              "start": 396221
+            }
+          ],
+          "name": "ICE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 989907,
+              "hero": "s76",
+              "start": 218352
+            }
+          ],
+          "name": "POISSONDIST"
+        },
+        {
+          "heroes": [
+            {
+              "end": 989907,
+              "hero": "zarya",
+              "start": 186816
+            }
+          ],
+          "name": "BIGDAMNHERO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 497246,
+              "hero": "genji",
+              "start": 186816
+            },
+            {
+              "end": 989907,
+              "hero": "junkrat",
+              "start": 653962
+            }
+          ],
+          "name": "TRAP"
+        },
+        {
+          "heroes": [
+            {
+              "end": 989907,
+              "hero": "zenyatta",
+              "start": 260979
+            }
+          ],
+          "name": "WAR8AL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 989907,
+              "hero": "ana",
+              "start": 218352
+            }
+          ],
+          "name": "TRAQULAR"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 995,
+    "end_sr": 2336,
+    "heroes_played": [
+      [
+        "junkrat",
+        0.4747091224073954
+      ],
+      [
+        "pharah",
+        0.3750420384181685
+      ],
+      [
+        "mei",
+        0.15024883917443613
+      ]
+    ],
+    "key": "Magic-11407/2017-07-06-08-16-jvsaAPVEMuFzXeigEGt2F8",
+    "map": "UNKNOWN",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2357,
+    "time": 1499327979,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-06-08-16-jvsaAPVEMuFzXeigEGt2F8/game.json",
+    "user_id": 151467
+  }
+}
