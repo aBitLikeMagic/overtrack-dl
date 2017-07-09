@@ -89,6 +89,7 @@ export class OvertrackUser {
           }
         }).join(', '));
       }
+      csvRows.push('\n');
       const csv = csvRows.join('\n');
       const path = `games/${playerName}.csv`
       await fs.writeFile(path, csv, {encoding: 'utf8'});
