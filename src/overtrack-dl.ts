@@ -7,24 +7,29 @@ import {RawOvertrackGameMetadata, RawOvertrackGameData} from './overtrack-data.d
 
 
 export class OvertrackUser {
-  sessionId_: string;
+  // The session ID to use for the request, or none.
+  sessionId_?: string;
+  // The share key of the user whose games we're viewing, if not our own.
+  shareKey_?: string;
+  // The games!
   games_: OvertrackGame[];
   
-  constructor(sessionId: string) {
-    if (!sessionId) throw new Error("Missing session ID");
-    
+  constructor(sessionId?: string, shareKey?: string) {
     this.sessionId_ = sessionId;
+    this.shareKey_ = shareKey;
     this.games_ = [];
   }
   
   async getGames(): Promise<OvertrackGame[]> {
     if (this.games_.length > 0) return this.games_;
     
-    const response = await fetch('https://api.overtrack.gg/games', {
-      headers: {
-        'Cookie': `session=${this.sessionId_}`
-      }
-    });
+    let url = 'https://api.overtrack.gg/games';
+    if (this.shareKey_) url += '/' + this.shareKey_;
+
+    let headers:{[index: string]: string} = {};
+    if (this.sessionId_) headers['Cookie'] = `session=${this.sessionId_}`;
+
+    const response = await fetch(url, { headers: headers });
     const data = await response.json();
     const games:OvertrackGame[] = data['games'].map((game: Object) => new OvertrackGame(game));
     
@@ -93,8 +98,8 @@ export class OvertrackUser {
     return paths;
   }
   
-  static async getGamesWithData(sessionId: string): Promise<[OvertrackGame[], string[]]> {
-    const user = new OvertrackUser(sessionId);
+  static async getGamesWithData(sessionId?: string, shareKey?: string): Promise<[OvertrackGame[], string[]]> {
+    const user = new OvertrackUser(sessionId, shareKey);
     const games = await user.getGamesWithData();
     const csvPaths = await user.getPlayerCsvPaths();
     return [games, csvPaths];

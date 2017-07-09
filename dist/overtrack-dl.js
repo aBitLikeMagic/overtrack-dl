@@ -12,21 +12,22 @@ const node_fetch_1 = require("node-fetch");
 const fs = require("fs-extra");
 const jsonStableStringify = require("json-stable-stringify");
 class OvertrackUser {
-    constructor(sessionId) {
-        if (!sessionId)
-            throw new Error("Missing session ID");
+    constructor(sessionId, shareKey) {
         this.sessionId_ = sessionId;
+        this.shareKey_ = shareKey;
         this.games_ = [];
     }
     getGames() {
         return __awaiter(this, void 0, void 0, function* () {
             if (this.games_.length > 0)
                 return this.games_;
-            const response = yield node_fetch_1.default('https://api.overtrack.gg/games', {
-                headers: {
-                    'Cookie': `session=${this.sessionId_}`
-                }
-            });
+            let url = 'https://api.overtrack.gg/games';
+            if (this.shareKey_)
+                url += '/' + this.shareKey_;
+            let headers = {};
+            if (this.sessionId_)
+                headers['Cookie'] = `session=${this.sessionId_}`;
+            const response = yield node_fetch_1.default(url, { headers: headers });
             const data = yield response.json();
             const games = data['games'].map((game) => new OvertrackGame(game));
             games.sort((a, b) => a.meta.time - b.meta.time);
@@ -92,9 +93,9 @@ class OvertrackUser {
             return paths;
         });
     }
-    static getGamesWithData(sessionId) {
+    static getGamesWithData(sessionId, shareKey) {
         return __awaiter(this, void 0, void 0, function* () {
-            const user = new OvertrackUser(sessionId);
+            const user = new OvertrackUser(sessionId, shareKey);
             const games = yield user.getGamesWithData();
             const csvPaths = yield user.getPlayerCsvPaths();
             return [games, csvPaths];
