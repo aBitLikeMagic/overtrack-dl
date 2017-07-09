@@ -23,12 +23,19 @@ script `./main.js`, such as by using Yarn:
     export session=YOUR_SESSION_ID;
     yarn run main;
 
+Or, instead of providing a session key and downloading your own games, you can
+specify a `shareKey` to download a user's shared games.
+
+    yarn install;
+    export shareKey=THEIR_SHARE_KEY;
+    yarn run main;
+
 ### Server
 
-You can also run this minimal server, and enter the session key in your browser 
-at <http://localhost:8080>. This isn't very useful unless you want to share 
-some of the individial downloaded data files, which I'm doing as an example at 
-<https://overtrack-dl.glitch.me>. You probably shouldn't bother. 
+You can also run this minimal server, which will provide an interface for
+specifying session and sharing keys in your browser at <http://localhost:8080>.
+This isn't really optimized for non-local users, but you can see it running at
+<https://overtrack-dl.glitch.me> if you're curious.
 
     yarn install;
     yarn run server;
