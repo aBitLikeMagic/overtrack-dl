@@ -2,25 +2,8 @@ import fetch from 'node-fetch';
 import * as fs from 'fs-extra';
 import * as jsonStableStringify from 'json-stable-stringify';
 
+import {RawOvertrackGameMetadata, RawOvertrackGameData} from './overtrack-data.d';
 
-// The short metadata used to display this in Overtrack game lsits.
-interface RawOvertrackGameMetadata {
-  // The timestamp at which the game started.
-  time: number;
-  // The name of the current player.
-  player_name: string;
-  // The name of the map.
-  map: string;
-  // The URL where the full detailed parsed game information is available.
-  url: string;
-}
-
-
-// The full detailed parsed game information used to display the game view.
-interface RawOvertrackGameData {
-  // The Overtrack user ID which owns this game.
-  user_id: number;
-}
 
 
 export class OvertrackUser {

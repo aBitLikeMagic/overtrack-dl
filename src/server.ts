@@ -10,10 +10,6 @@ const app = express();
 
 app.use(require('body-parser').urlencoded({extended: true}));
 
-const listener = app.listen(process.env.PORT || 8080, () => {
-  console.log('Your app is listening on port ' + listener.address().port);
-});
-
 app.get('/', async (request, response) => {
   const parts = [`<!doctype html>
     <style>
@@ -33,7 +29,7 @@ app.get('/', async (request, response) => {
     <h1>
       <img src="icon.png" width="48" height="48" />
       <a href="https://github.com/aBitLikeMagic/overtrack-dl">overtrack-dl</a> server
-      (<a href="https://glitch.com/edit/#!/overtrack-dl?path=server.js">view source</a>)
+      (<a href="https://glitch.com/edit/#!/overtrack-dl?path=src/server.ts:32:88">view source</a>)
     </h1>
 
     <p>this is mostly just for testing/providing examples of what the data looks like</p>
@@ -63,3 +59,7 @@ app.post('/', async (request, response) => {
 app.use('/games', express.static('games'));
 
 app.use('/icon.png', express.static('icon.png'));
+
+const listener = app.listen(process.env.PORT || 8080, () => {
+  console.log('Your app is listening on port ' + listener.address().port);
+});
