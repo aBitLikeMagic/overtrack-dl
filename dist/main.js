@@ -2,9 +2,10 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const overtrack_dl_1 = require("./overtrack-dl");
 const sessionId = process.env['session'];
-if (sessionId) {
-    overtrack_dl_1.OvertrackUser.getGamesWithData(sessionId);
+const shareKey = process.env['shareKey'];
+if (sessionId || shareKey) {
+    overtrack_dl_1.OvertrackUser.getGamesWithData(sessionId, shareKey);
 }
 else {
-    throw new Error("missing `session` ID in environment");
+    throw new Error("missing `session` ID or share `key` in environment");
 }

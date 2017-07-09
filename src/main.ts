@@ -2,8 +2,9 @@ import {OvertrackUser} from './overtrack-dl';
 
 
 const sessionId = process.env['session'];
-if (sessionId) {
-  OvertrackUser.getGamesWithData(sessionId);
+const shareKey = process.env['shareKey'];
+if (sessionId || shareKey) {
+  OvertrackUser.getGamesWithData(sessionId, shareKey);
 } else {
-  throw new Error("missing `session` ID in environment");
+  throw new Error("missing `session` ID or share `key` in environment");
 }
