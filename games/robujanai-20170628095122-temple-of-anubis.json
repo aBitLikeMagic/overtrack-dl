@@ -1,0 +1,1710 @@
+{
+  "data": {
+    "assists": [
+      [
+        154294,
+        "KITTYSPASM88",
+        1,
+        0
+      ],
+      [
+        176339,
+        "IDIDORLANDO",
+        1,
+        0
+      ],
+      [
+        176840,
+        "NOVA",
+        1,
+        0
+      ],
+      [
+        245987,
+        "IDIDORLANDO",
+        1,
+        0
+      ],
+      [
+        260015,
+        "KITTYSPASM88",
+        1,
+        0
+      ],
+      [
+        322138,
+        "KITTYSPASM88",
+        1,
+        0
+      ],
+      [
+        323140,
+        "GMICKS",
+        1,
+        0
+      ],
+      [
+        329654,
+        "NOVA",
+        1,
+        0
+      ],
+      [
+        335166,
+        "IDIDORLANDO",
+        1,
+        0
+      ],
+      [
+        351197,
+        "GMICKS",
+        1,
+        0
+      ],
+      [
+        357211,
+        "IDIDORLANDO",
+        1,
+        0
+      ],
+      [
+        360216,
+        "NNL",
+        1,
+        0
+      ],
+      [
+        528553,
+        "MRPICKLEZ",
+        1,
+        0
+      ],
+      [
+        532561,
+        "KITTYSPASM88",
+        1,
+        0
+      ],
+      [
+        538575,
+        "NNL",
+        1,
+        0
+      ],
+      [
+        553607,
+        "NOVA",
+        1,
+        0
+      ],
+      [
+        592188,
+        "GMICKS",
+        1,
+        0
+      ],
+      [
+        597700,
+        "KITTYSPASM88",
+        1,
+        0
+      ],
+      [
+        636779,
+        "GMICKS",
+        1,
+        0
+      ],
+      [
+        644794,
+        "MRPICKLEZ",
+        1,
+        0
+      ],
+      [
+        688385,
+        "IDIDORLANDO",
+        1,
+        0
+      ],
+      [
+        718947,
+        "GMICKS",
+        1,
+        0
+      ],
+      [
+        726463,
+        "NOVA",
+        1,
+        0
+      ],
+      [
+        767051,
+        "NNL",
+        1,
+        0
+      ],
+      [
+        767552,
+        "MRPICKLEZ",
+        1,
+        0
+      ],
+      [
+        768054,
+        "KITTYSPASM88",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 4,
+    "end_sr": 1550,
+    "game_duration": 774,
+    "game_ended": 1498644286,
+    "game_started": 1498643482,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 10412,
+        "deaths": 2,
+        "elims": 28,
+        "healing": 0,
+        "hero_stat_1": 26,
+        "hero_stat_2": 0,
+        "hero_stat_3": 20,
+        "hero_stat_5": 28,
+        "hero_stat_6": 774067,
+        "objective_kills": 9,
+        "objective_time": 26,
+        "tab_health": 0.36,
+        "time_played": 675372
+      },
+      "hanzo": {
+        "damage": 10271,
+        "deaths": 1,
+        "elims": 25,
+        "healing": 0,
+        "hero_stat_1": 34,
+        "hero_stat_2": 4,
+        "hero_stat_3": 7,
+        "hero_stat_4": 1,
+        "hero_stat_5": 17,
+        "hero_stat_6": 4,
+        "objective_kills": 9,
+        "objective_time": 26,
+        "tab_health": 0.36,
+        "time_played": 553131
+      },
+      "tracer": {
+        "damage": 2,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 90,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.36,
+        "time_played": 63622
+      }
+    },
+    "key": "notrob-1514/2017-06-28-10-04-q32WvvhrcaZgcDLWZqxHK5",
+    "killfeed": [
+      [
+        107201,
+        0,
+        "bastion",
+        "GMICKS",
+        "dva_mech",
+        "FRESHCA",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        109706,
+        0,
+        "reaper",
+        "IDIDORLANDO",
+        "tracer",
+        "ROBUJANAI",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        111710,
+        0,
+        "reaper",
+        "IDIDORLANDO",
+        "mercy",
+        "BOOTYSWEAT",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        113714,
+        0,
+        "bastion",
+        "GMICKS",
+        "lucio",
+        "ATLANTA",
+        [
+        ]
+      ],
+      [
+        117721,
+        0,
+        "reaper",
+        "IDIDORLANDO",
+        "dva",
+        "FRESHCA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        143772,
+        0,
+        "junkrat",
+        "KITTYSPASM88",
+        "lucio",
+        "ATLANTA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        154294,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "junkrat",
+        "KITTYSPASM88",
+        [
+        ]
+      ],
+      [
+        165317,
+        0,
+        "bastion",
+        "GMICKS",
+        "lucio",
+        "ATLANTA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        166820,
+        3,
+        "mercy",
+        "BOOTYSWEAT",
+        "lucio",
+        "ATLANTA",
+        [
+        ]
+      ],
+      [
+        168824,
+        0,
+        null,
+        null,
+        "lucio",
+        "ATLANTA",
+        [
+        ]
+      ],
+      [
+        170828,
+        0,
+        "bastion",
+        "GMICKS",
+        "dva_mech",
+        "FRESHCA",
+        [
+          "mercy",
+          "zenyatta"
+        ]
+      ],
+      [
+        172832,
+        1,
+        "dva",
+        "FRESHCA",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        175337,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "reinhardt",
+        "NOVA",
+        [
+          "mccree"
+        ]
+      ],
+      [
+        176339,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "reaper",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        180850,
+        0,
+        "bastion",
+        "GMICKS",
+        "dva",
+        "FRESHCA",
+        [
+        ]
+      ],
+      [
+        181351,
+        1,
+        "dva",
+        "FRESHCA",
+        "bastion",
+        "GMICKS",
+        [
+        ]
+      ],
+      [
+        185860,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "mercy",
+        "NNL",
+        [
+        ]
+      ],
+      [
+        212416,
+        0,
+        "junkrat",
+        "KITTYSPASM88",
+        "mercy",
+        "BOOTYSWEAT",
+        [
+        ]
+      ],
+      [
+        223941,
+        0,
+        "junkrat",
+        "KITTYSPASM88",
+        "dva_mech",
+        "FRESHCA",
+        [
+        ]
+      ],
+      [
+        230456,
+        0,
+        "junkrat",
+        "KITTYSPASM88",
+        "lucio",
+        "ATLANTA",
+        [
+        ]
+      ],
+      [
+        232961,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        236469,
+        0,
+        "reinhardt",
+        "NOVA",
+        "reinhardt",
+        "AFUZZYJACKET",
+        [
+        ]
+      ],
+      [
+        239475,
+        0,
+        "bastion",
+        "GMICKS",
+        "mccree",
+        "NIGHTHAWK",
+        [
+        ]
+      ],
+      [
+        245987,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "reaper",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        260015,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "junkrat",
+        "KITTYSPASM88",
+        [
+        ]
+      ],
+      [
+        269032,
+        0,
+        "reaper",
+        "IDIDORLANDO",
+        "hanzo",
+        "ROBUJANAI",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        269534,
+        0,
+        "reinhardt",
+        "NOVA",
+        "reinhardt",
+        "AFUZZYJACKET",
+        [
+        ]
+      ],
+      [
+        272038,
+        0,
+        "reinhardt",
+        "NOVA",
+        "mercy",
+        "BOOTYSWEAT",
+        [
+        ]
+      ],
+      [
+        273040,
+        0,
+        "reinhardt",
+        "NOVA",
+        "lucio",
+        "ATLANTA",
+        [
+        ]
+      ],
+      [
+        275544,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "mercy",
+        "NNL",
+        [
+        ]
+      ],
+      [
+        280555,
+        0,
+        "junkrat",
+        "KITTYSPASM88",
+        "mccree",
+        "NIGHTHAWK",
+        [
+        ]
+      ],
+      [
+        280555,
+        0,
+        "reaper",
+        "IDIDORLANDO",
+        "dva_mech",
+        "FRESHCA",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        284060,
+        0,
+        "reaper",
+        "IDIDORLANDO",
+        "dva",
+        "FRESHCA",
+        [
+        ]
+      ],
+      [
+        314122,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        316127,
+        2,
+        "mercy",
+        "NNL",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        322138,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "junkrat",
+        "KITTYSPASM88",
+        [
+        ]
+      ],
+      [
+        322138,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "bastion",
+        "GMICKS",
+        [
+        ]
+      ],
+      [
+        329654,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "reinhardt",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        335166,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "reaper",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        343682,
+        1,
+        "lucio",
+        "ATLANTA",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        346688,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "s76",
+        "KITTYSPASM88",
+        [
+        ]
+      ],
+      [
+        350196,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "bastion",
+        "GMICKS",
+        [
+        ]
+      ],
+      [
+        351197,
+        0,
+        "bastion",
+        "GMICKS",
+        "dva_mech",
+        "FRESHCA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        353703,
+        1,
+        "dva",
+        "FRESHCA",
+        "reinhardt",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        357211,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "reaper",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        359715,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "mercy",
+        "NNL",
+        [
+        ]
+      ],
+      [
+        362722,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        492479,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "widowmaker",
+        "NNL",
+        [
+        ]
+      ],
+      [
+        514021,
+        1,
+        "dva",
+        "FRESHCA",
+        "roadhog",
+        "GMICKS",
+        [
+        ]
+      ],
+      [
+        518532,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "winston",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        528053,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        532561,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "s76",
+        "KITTYSPASM88",
+        [
+          "ana"
+        ]
+      ],
+      [
+        538575,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "widowmaker",
+        "NNL",
+        [
+        ]
+      ],
+      [
+        553106,
+        0,
+        "zenyatta",
+        "MRPICKLEZ",
+        "dva_mech",
+        "FRESHCA",
+        [
+          "roadhog"
+        ]
+      ],
+      [
+        553607,
+        1,
+        "dva",
+        "FRESHCA",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        554608,
+        0,
+        "winston",
+        "IDIDORLANDO",
+        "dva",
+        "FRESHCA",
+        [
+        ]
+      ],
+      [
+        577654,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "winston",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        587177,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        591687,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "roadhog",
+        "GMICKS",
+        [
+          "ana"
+        ]
+      ],
+      [
+        597700,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "s76",
+        "KITTYSPASM88",
+        [
+        ]
+      ],
+      [
+        610224,
+        1,
+        "dva",
+        "FRESHCA",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        622250,
+        0,
+        "roadhog",
+        "GMICKS",
+        "hanzo",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        623753,
+        3,
+        "mercy",
+        "BOOTYSWEAT",
+        "hanzo",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        624755,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        628262,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "winston",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        632271,
+        0,
+        "roadhog",
+        "GMICKS",
+        "mercy",
+        "BOOTYSWEAT",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        636278,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "roadhog",
+        "GMICKS",
+        [
+        ]
+      ],
+      [
+        638282,
+        0,
+        "zenyatta",
+        "MRPICKLEZ",
+        "mccree",
+        "NIGHTHAWK",
+        [
+        ]
+      ],
+      [
+        641788,
+        0,
+        "ana",
+        "NNL",
+        "reinhardt",
+        "AFUZZYJACKET",
+        [
+          "zenyatta",
+          "mei"
+        ]
+      ],
+      [
+        644293,
+        1,
+        "dva",
+        "FRESHCA",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        662330,
+        0,
+        "junkrat",
+        "IDIDORLANDO",
+        "dva_mech",
+        "FRESHCA",
+        [
+          "roadhog",
+          "mei"
+        ]
+      ],
+      [
+        665337,
+        0,
+        "junkrat",
+        "IDIDORLANDO",
+        "dva",
+        "FRESHCA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        668843,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "tracer",
+        "NOVA",
+        [
+          "ana"
+        ]
+      ],
+      [
+        676358,
+        0,
+        "roadhog",
+        "GMICKS",
+        "mccree",
+        "NIGHTHAWK",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        688385,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "junkrat",
+        "IDIDORLANDO",
+        [
+          "ana"
+        ]
+      ],
+      [
+        690389,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "ana",
+        "NNL",
+        [
+          "ana"
+        ]
+      ],
+      [
+        696402,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "tracer",
+        "NOVA",
+        [
+          "ana"
+        ]
+      ],
+      [
+        696402,
+        0,
+        "zenyatta",
+        "MRPICKLEZ",
+        "reinhardt",
+        "AFUZZYJACKET",
+        [
+        ]
+      ],
+      [
+        719449,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "roadhog",
+        "GMICKS",
+        [
+        ]
+      ],
+      [
+        719449,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "junkrat",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        719950,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "ana",
+        "NNL",
+        [
+        ]
+      ],
+      [
+        719950,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        719950,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "mei",
+        "KITTYSPASM88",
+        [
+        ]
+      ],
+      [
+        722956,
+        0,
+        "tracer",
+        "NOVA",
+        "ana",
+        "ATLANTA",
+        [
+        ]
+      ],
+      [
+        724460,
+        3,
+        "mercy",
+        "BOOTYSWEAT",
+        "ana",
+        "ATLANTA",
+        [
+        ]
+      ],
+      [
+        726463,
+        1,
+        "reinhardt",
+        "AFUZZYJACKET",
+        "tracer",
+        "NOVA",
+        [
+          "mccree"
+        ]
+      ],
+      [
+        766049,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "roadhog",
+        "GMICKS",
+        [
+        ]
+      ],
+      [
+        766551,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "junkrat",
+        "IDIDORLANDO",
+        [
+        ]
+      ],
+      [
+        766551,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "ana",
+        "NNL",
+        [
+        ]
+      ],
+      [
+        766551,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "zenyatta",
+        "MRPICKLEZ",
+        [
+        ]
+      ],
+      [
+        766551,
+        1,
+        "mccree",
+        "NIGHTHAWK",
+        "mei",
+        "KITTYSPASM88",
+        [
+        ]
+      ],
+      [
+        770057,
+        0,
+        "tracer",
+        "NOVA",
+        "ana",
+        "ATLANTA",
+        [
+          "ana"
+        ]
+      ],
+      [
+        771561,
+        3,
+        "mercy",
+        "BOOTYSWEAT",
+        "ana",
+        "ATLANTA",
+        [
+        ]
+      ]
+    ],
+    "map": "Temple of Anubis",
+    "map_type": "Assault",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            199890,
+            1
+          ],
+          [
+            359715,
+            2
+          ]
+        ],
+        "end": 366730,
+        "end_score": 2,
+        "stage": "Attack",
+        "start": 39070
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 737488,
+        "end_score": null,
+        "stage": "Defend",
+        "start": 418332
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "ROBUJANAI",
+    "result": "WIN",
+    "score": [
+      2,
+      0
+    ],
+    "start_sr": 1453,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        141,
+        141,
+        1064,
+        1949,
+        1949,
+        1949,
+        1949,
+        4011,
+        4011,
+        4011,
+        4011,
+        10412
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        5,
+        13,
+        13,
+        13,
+        13,
+        28
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        90,
+        90,
+        38,
+        29,
+        37,
+        33,
+        33,
+        33,
+        33,
+        40,
+        40,
+        40,
+        40,
+        34
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        5,
+        8,
+        8,
+        8,
+        8,
+        10
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        1
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        11,
+        11,
+        11,
+        11,
+        19
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        4
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        6,
+        6,
+        6,
+        9
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        24,
+        24,
+        24,
+        24,
+        26
+      ],
+      "time": [
+        56103,
+        61614,
+        77645,
+        98184,
+        114716,
+        119725,
+        178344,
+        209409,
+        232460,
+        269032,
+        274543,
+        280053,
+        285062,
+        419834,
+        427850,
+        433363,
+        441879,
+        731475
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 109706,
+              "hero": "tracer",
+              "start": 109706
+            },
+            {
+              "end": 771561,
+              "hero": "hanzo",
+              "start": 154294
+            }
+          ],
+          "name": "ROBUJANAI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 343682,
+              "hero": "lucio",
+              "start": 113714
+            },
+            {
+              "end": 771561,
+              "hero": "ana",
+              "start": 722956
+            }
+          ],
+          "name": "ATLANTA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 771561,
+              "hero": "dva",
+              "start": 117721
+            }
+          ],
+          "name": "FRESHCA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 771561,
+              "hero": "mercy",
+              "start": 111710
+            }
+          ],
+          "name": "BOOTYSWEAT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 771561,
+              "hero": "reinhardt",
+              "start": 175337
+            }
+          ],
+          "name": "AFUZZYJACKET"
+        },
+        {
+          "heroes": [
+            {
+              "end": 771561,
+              "hero": "mccree",
+              "start": 185860
+            }
+          ],
+          "name": "NIGHTHAWK"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 359715,
+              "hero": "mercy",
+              "start": 185860
+            },
+            {
+              "end": 538575,
+              "hero": "widowmaker",
+              "start": 492479
+            },
+            {
+              "end": 771561,
+              "hero": "ana",
+              "start": 641788
+            }
+          ],
+          "name": "NNL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 322138,
+              "hero": "junkrat",
+              "start": 143772
+            },
+            {
+              "end": 597700,
+              "hero": "s76",
+              "start": 346688
+            },
+            {
+              "end": 771561,
+              "hero": "mei",
+              "start": 719950
+            }
+          ],
+          "name": "KITTYSPASM88"
+        },
+        {
+          "heroes": [
+            {
+              "end": 771561,
+              "hero": "zenyatta",
+              "start": 172832
+            }
+          ],
+          "name": "MRPICKLEZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 351197,
+              "hero": "bastion",
+              "start": 107201
+            },
+            {
+              "end": 771561,
+              "hero": "roadhog",
+              "start": 514021
+            }
+          ],
+          "name": "GMICKS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 357211,
+              "hero": "reaper",
+              "start": 109706
+            },
+            {
+              "end": 628262,
+              "hero": "winston",
+              "start": 518532
+            },
+            {
+              "end": 771561,
+              "hero": "junkrat",
+              "start": 662330
+            }
+          ],
+          "name": "IDIDORLANDO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 353703,
+              "hero": "reinhardt",
+              "start": 175337
+            },
+            {
+              "end": 624755,
+              "hero": "lucio",
+              "start": 553607
+            },
+            {
+              "end": 771561,
+              "hero": "tracer",
+              "start": 668843
+            }
+          ],
+          "name": "NOVA"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "duration": 774,
+    "end_sr": 1550,
+    "heroes_played": [
+      [
+        "hanzo",
+        1
+      ],
+      [
+        "tracer",
+        0
+      ]
+    ],
+    "key": "notrob-1514/2017-06-28-10-04-q32WvvhrcaZgcDLWZqxHK5",
+    "map": "Temple of Anubis",
+    "player_name": "ROBUJANAI",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      2,
+      0
+    ],
+    "start_sr": 1453,
+    "time": 1498643482,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-28-10-04-q32WvvhrcaZgcDLWZqxHK5/game.json",
+    "user_id": 2235147
+  }
+}

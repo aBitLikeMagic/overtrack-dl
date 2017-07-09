@@ -1,0 +1,1936 @@
+{
+  "data": {
+    "assists": [
+      [
+        140814,
+        "HASHIRI",
+        1,
+        0
+      ],
+      [
+        259086,
+        "IXPERTNOOP",
+        1,
+        0
+      ],
+      [
+        640930,
+        "IXPERTNOOP",
+        0,
+        1
+      ],
+      [
+        658970,
+        "LUNATIC",
+        0,
+        1
+      ],
+      [
+        674508,
+        "IXPERTNOOP",
+        0,
+        1
+      ],
+      [
+        703574,
+        "CRAZYCAT",
+        0,
+        1
+      ],
+      [
+        731134,
+        "HASHIRI",
+        0,
+        1
+      ]
+    ],
+    "custom_game": false,
+    "deaths": 11,
+    "end_sr": 2613,
+    "game_duration": 813,
+    "game_ended": 1497876025,
+    "game_started": 1497875168,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 2218,
+        "deaths": 12,
+        "elims": 2,
+        "healing": 3059,
+        "hero_stat_1": 2,
+        "hero_stat_2": 5,
+        "hero_stat_3": 1,
+        "hero_stat_5": 2,
+        "hero_stat_6": 813320,
+        "objective_kills": 0,
+        "objective_time": 31,
+        "tab_health": 0.6296296296296297,
+        "time_played": 748175
+      },
+      "lucio": {
+        "damage": 981,
+        "deaths": 4,
+        "elims": 1,
+        "healing": 964,
+        "hero_stat_1": 19,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 6,
+        "tab_health": 0.6296296296296297,
+        "time_played": 139319
+      },
+      "mercy": {
+        "damage": 160,
+        "deaths": 5,
+        "elims": 0,
+        "healing": 1816,
+        "hero_stat_1": 4,
+        "hero_stat_2": 0,
+        "hero_stat_3": 5,
+        "hero_stat_4": 172,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 20,
+        "tab_health": 0.6296296296296297,
+        "time_played": 269094
+      },
+      "symmetra": {
+        "damage": 900,
+        "deaths": 2,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 1,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 1,
+        "hero_stat_5": 119,
+        "objective_kills": 0,
+        "objective_time": 5,
+        "tab_health": 0.6296296296296297,
+        "time_played": 137311
+      },
+      "zenyatta": {
+        "damage": 10,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 1,
+        "hero_stat_1": 9,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.6296296296296297,
+        "time_played": 21046
+      }
+    },
+    "key": "notrob-1514/2017-06-19-12-40-sxQt8oCpYs5GVpGdb2ZGQV",
+    "killfeed": [
+      [
+        116762,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb_turret",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        134300,
+        0,
+        "pharah",
+        "HASHIRI",
+        "junkrat",
+        "MADU",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        140814,
+        1,
+        "torb",
+        "SUPERMAN",
+        "pharah",
+        "HASHIRI",
+        [
+          "junkrat"
+        ]
+      ],
+      [
+        147330,
+        0,
+        "zarya",
+        "MIXIMAX",
+        "symmetra",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        157355,
+        0,
+        "ana",
+        "LUNATIC",
+        "torb_turret",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        159359,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "mercy",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        166373,
+        1,
+        null,
+        null,
+        "genji",
+        "CRAZYCAT",
+        [
+        ]
+      ],
+      [
+        166875,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "junkrat",
+        "MADU",
+        [
+        ]
+      ],
+      [
+        168879,
+        1,
+        "torb",
+        "SUPERMAN",
+        "genji",
+        "CRAZYCAT",
+        [
+        ]
+      ],
+      [
+        170883,
+        2,
+        "mercy",
+        "SHINCHONG",
+        "genji",
+        "CRAZYCAT",
+        [
+        ]
+      ],
+      [
+        171886,
+        0,
+        "winston",
+        "IXPERTNOOP",
+        "orisa",
+        "JMC",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        176396,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb_turret",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        180905,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "symmetra",
+        "NOTROB",
+        [
+          "mercy",
+          "ana"
+        ]
+      ],
+      [
+        184914,
+        0,
+        "pharah",
+        "HASHIRI",
+        "symmetra_teleporter",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        188924,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb",
+        "SUPERMAN",
+        [
+          "ana"
+        ]
+      ],
+      [
+        199949,
+        0,
+        "winston",
+        "IXPERTNOOP",
+        "junkrat",
+        "MADU",
+        [
+        ]
+      ],
+      [
+        204960,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "mercy",
+        "AIZAR",
+        [
+        ]
+      ],
+      [
+        205963,
+        0,
+        "winston",
+        "IXPERTNOOP",
+        "widowmaker",
+        "@UNKNOWN_BLUE#0",
+        [
+        ]
+      ],
+      [
+        207966,
+        0,
+        "pharah",
+        "HASHIRI",
+        "zenyatta",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        218490,
+        0,
+        "pharah",
+        "HASHIRI",
+        "orisa",
+        "JMC",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        241543,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "junkrat",
+        "MADU",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        250065,
+        1,
+        "roadhog",
+        "JMC",
+        "ana",
+        "LUNATIC",
+        [
+        ]
+      ],
+      [
+        251569,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "widowmaker",
+        "@UNKNOWN_BLUE#0",
+        [
+        ]
+      ],
+      [
+        255077,
+        2,
+        "mercy",
+        "SHINCHONG",
+        "ana",
+        "LUNATIC",
+        [
+        ]
+      ],
+      [
+        258585,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "mercy",
+        "AIZAR",
+        [
+        ]
+      ],
+      [
+        259086,
+        1,
+        "roadhog",
+        "JMC",
+        "winston",
+        "IXPERTNOOP",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        259086,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb_turret",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        263596,
+        0,
+        "pharah",
+        "HASHIRI",
+        "roadhog",
+        "JMC",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        276124,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb_turret",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        282640,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "junkrat",
+        "MADU",
+        [
+        ]
+      ],
+      [
+        298179,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb_turret",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        314217,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb_turret",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        318224,
+        0,
+        "winston",
+        "IXPERTNOOP",
+        "junkrat",
+        "MADU",
+        [
+        ]
+      ],
+      [
+        327747,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        329251,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb_turret",
+        "SUPERMAN",
+        [
+        ]
+      ],
+      [
+        329752,
+        0,
+        "pharah",
+        "HASHIRI",
+        "lucio",
+        "NOTROB",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        331756,
+        0,
+        "zarya",
+        "MIXIMAX",
+        "mercy",
+        "AIZAR",
+        [
+        ]
+      ],
+      [
+        336768,
+        1,
+        "roadhog",
+        "JMC",
+        "pharah",
+        "HASHIRI",
+        [
+        ]
+      ],
+      [
+        338271,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "roadhog",
+        "JMC",
+        [
+          "ana",
+          "mercy"
+        ]
+      ],
+      [
+        340276,
+        2,
+        "mercy",
+        "SHINCHONG",
+        "pharah",
+        "HASHIRI",
+        [
+        ]
+      ],
+      [
+        346792,
+        1,
+        "junkrat",
+        "MADU",
+        "mercy",
+        "SHINCHONG",
+        [
+        ]
+      ],
+      [
+        350802,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        352304,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb_turret",
+        "SUPERMAN",
+        [
+        ]
+      ],
+      [
+        353306,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb",
+        "SUPERMAN",
+        [
+        ]
+      ],
+      [
+        355813,
+        3,
+        "mercy",
+        "AIZAR",
+        "torb",
+        "SUPERMAN",
+        [
+        ]
+      ],
+      [
+        358817,
+        1,
+        "roadhog",
+        "JMC",
+        "zarya",
+        "MIXIMAX",
+        [
+          "mercy",
+          "junkrat"
+        ]
+      ],
+      [
+        360822,
+        0,
+        "pharah",
+        "HASHIRI",
+        "junkrat",
+        "MADU",
+        [
+        ]
+      ],
+      [
+        363327,
+        1,
+        "roadhog",
+        "JMC",
+        "pharah",
+        "HASHIRI",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        367334,
+        0,
+        "pharah",
+        "HASHIRI",
+        "torb_turret",
+        "SUPERMAN",
+        [
+        ]
+      ],
+      [
+        371845,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "mercy",
+        "AIZAR",
+        [
+        ]
+      ],
+      [
+        377356,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        383369,
+        0,
+        "winston",
+        "IXPERTNOOP",
+        "roadhog",
+        "JMC",
+        [
+          "ana",
+          "mercy"
+        ]
+      ],
+      [
+        386376,
+        0,
+        "pharah",
+        "HASHIRI",
+        "mei",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        390383,
+        0,
+        "pharah",
+        "HASHIRI",
+        "tracer",
+        "@UNKNOWN_BLUE#0",
+        [
+        ]
+      ],
+      [
+        390383,
+        0,
+        "winston",
+        "IXPERTNOOP",
+        "junkrat",
+        "MADU",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        393390,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "mercy",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        529189,
+        0,
+        "reinhardt",
+        "MIXIMAX",
+        "reaper",
+        "JMC",
+        [
+        ]
+      ],
+      [
+        542720,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        555746,
+        0,
+        "mccree",
+        "HASHIRI",
+        "sombra",
+        "MADU",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        565767,
+        0,
+        "mccree",
+        "HASHIRI",
+        "symmetra",
+        "SUPERMAN",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        567771,
+        1,
+        "reaper",
+        "JMC",
+        "roadhog",
+        "IXPERTNOOP",
+        [
+        ]
+      ],
+      [
+        586814,
+        0,
+        "ana",
+        "LUNATIC",
+        "torb",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        589318,
+        1,
+        "reaper",
+        "JMC",
+        "reinhardt",
+        "MIXIMAX",
+        [
+        ]
+      ],
+      [
+        589318,
+        0,
+        "mccree",
+        "HASHIRI",
+        "torb_turret",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        597835,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "mercy",
+        "NOTROB",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        598336,
+        0,
+        "roadhog",
+        "IXPERTNOOP",
+        "symmetra",
+        "SUPERMAN",
+        [
+        ]
+      ],
+      [
+        612870,
+        0,
+        "roadhog",
+        "IXPERTNOOP",
+        "reaper",
+        "JMC",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        615374,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "widowmaker",
+        "@UNKNOWN_BLUE#0",
+        [
+        ]
+      ],
+      [
+        640930,
+        1,
+        "reaper",
+        "JMC",
+        "roadhog",
+        "IXPERTNOOP",
+        [
+        ]
+      ],
+      [
+        643937,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        649448,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb_turret",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        650450,
+        1,
+        "reaper",
+        "JMC",
+        "mercy",
+        "SHINCHONG",
+        [
+          "sombra"
+        ]
+      ],
+      [
+        650951,
+        1,
+        "reaper",
+        "JMC",
+        "mccree",
+        "HASHIRI",
+        [
+        ]
+      ],
+      [
+        658970,
+        1,
+        "symmetra",
+        "SUPERMAN",
+        "ana",
+        "LUNATIC",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        670999,
+        0,
+        "roadhog",
+        "IXPERTNOOP",
+        "sombra",
+        "MADU",
+        [
+        ]
+      ],
+      [
+        674508,
+        1,
+        "reaper",
+        "JMC",
+        "roadhog",
+        "IXPERTNOOP",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        678015,
+        3,
+        "mercy",
+        "NOTROB",
+        "sombra",
+        "MADU",
+        [
+        ]
+      ],
+      [
+        679518,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "reaper",
+        "JMC",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        680520,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "symmetra",
+        "SUPERMAN",
+        [
+          "mercy",
+          "reinhardt"
+        ]
+      ],
+      [
+        681522,
+        1,
+        "torb",
+        "AIZAR",
+        "mccree",
+        "HASHIRI",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        682525,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "mercy",
+        "NOTROB",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        682525,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb_turret",
+        "AIZAR",
+        [
+        ]
+      ],
+      [
+        688541,
+        2,
+        "mercy",
+        "SHINCHONG",
+        "mccree",
+        "HASHIRI",
+        [
+        ]
+      ],
+      [
+        692550,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        697560,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb_turret",
+        "AIZAR",
+        [
+          "mccree"
+        ]
+      ],
+      [
+        710593,
+        0,
+        "mccree",
+        "HASHIRI",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        717106,
+        0,
+        "mccree",
+        "HASHIRI",
+        "symmetra",
+        "SUPERMAN",
+        [
+        ]
+      ],
+      [
+        718610,
+        0,
+        "mccree",
+        "HASHIRI",
+        "reaper",
+        "JMC",
+        [
+        ]
+      ],
+      [
+        728130,
+        0,
+        "roadhog",
+        "IXPERTNOOP",
+        "torb_turret",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        758696,
+        0,
+        "mccree",
+        "HASHIRI",
+        "sombra",
+        "MADU",
+        [
+        ]
+      ],
+      [
+        759198,
+        0,
+        "mccree",
+        "HASHIRI",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        759198,
+        1,
+        "torb",
+        "AIZAR",
+        "mccree",
+        "HASHIRI",
+        [
+        ]
+      ],
+      [
+        762706,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "torb",
+        "AIZAR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        763206,
+        1,
+        null,
+        null,
+        "ana",
+        "LUNATIC",
+        [
+        ]
+      ],
+      [
+        765712,
+        1,
+        "reaper",
+        "JMC",
+        "ana",
+        "LUNATIC",
+        [
+          "sombra"
+        ]
+      ],
+      [
+        765712,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "reaper",
+        "JMC",
+        [
+        ]
+      ],
+      [
+        766213,
+        0,
+        "genji",
+        "CRAZYCAT",
+        "symmetra",
+        "SUPERMAN",
+        [
+          "roadhog"
+        ]
+      ],
+      [
+        768718,
+        2,
+        "mercy",
+        "SHINCHONG",
+        "ana",
+        "LUNATIC",
+        [
+        ]
+      ],
+      [
+        771724,
+        0,
+        "roadhog",
+        "IXPERTNOOP",
+        "torb_turret",
+        "AIZAR",
+        [
+        ]
+      ]
+    ],
+    "map": "Hollywood",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            197944,
+            1
+          ],
+          [
+            279633,
+            2
+          ],
+          [
+            393890,
+            3
+          ]
+        ],
+        "end": 401408,
+        "end_score": 3,
+        "stage": "Defend",
+        "start": 40085
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 777738,
+        "end_score": 0,
+        "stage": "Attack",
+        "start": 495115
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": 2638,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        582,
+        582,
+        900,
+        960,
+        1036,
+        10,
+        1062,
+        1252,
+        1252,
+        1252,
+        1393,
+        1668,
+        1668,
+        1668,
+        1733,
+        1733,
+        2043,
+        2043,
+        2058,
+        2058,
+        2058,
+        2218,
+        2218,
+        2218,
+        2218,
+        2218,
+        2218,
+        2218,
+        2218,
+        2218
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        null,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        8,
+        9,
+        9,
+        10,
+        10,
+        11,
+        11,
+        12,
+        12,
+        12
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        134,
+        1,
+        279,
+        585,
+        585,
+        585,
+        656,
+        966,
+        966,
+        966,
+        1032,
+        1032,
+        1243,
+        1243,
+        1243,
+        1446,
+        1632,
+        1852,
+        1852,
+        2545,
+        2545,
+        2737,
+        2737,
+        3059,
+        3059,
+        3059
+      ],
+      "hero": [
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        9,
+        null,
+        3,
+        13,
+        13,
+        13,
+        12,
+        14,
+        14,
+        14,
+        15,
+        15,
+        19,
+        19,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        36,
+        36,
+        128,
+        128,
+        128,
+        128,
+        172,
+        172,
+        172
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        119,
+        119,
+        119,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        5,
+        5,
+        5,
+        0,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        29,
+        29,
+        29,
+        29,
+        31,
+        31,
+        31
+      ],
+      "time": [
+        46601,
+        52111,
+        57123,
+        148834,
+        161864,
+        183912,
+        196441,
+        208467,
+        217487,
+        244050,
+        267104,
+        273116,
+        278129,
+        304695,
+        330754,
+        337769,
+        343785,
+        351803,
+        357816,
+        378358,
+        383369,
+        525682,
+        541216,
+        571279,
+        598336,
+        614873,
+        683026,
+        688039,
+        711595,
+        718109,
+        760200,
+        766213,
+        794776
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 180905,
+              "hero": "symmetra",
+              "start": 147330
+            },
+            {
+              "end": 207966,
+              "hero": "zenyatta",
+              "start": 207966
+            },
+            {
+              "end": 377356,
+              "hero": "lucio",
+              "start": 329752
+            },
+            {
+              "end": 771724,
+              "hero": "mercy",
+              "start": 542720
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 393390,
+              "hero": "mercy",
+              "start": 159359
+            },
+            {
+              "end": 771724,
+              "hero": "torb",
+              "start": 586814
+            }
+          ],
+          "name": "AIZAR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 218490,
+              "hero": "orisa",
+              "start": 171886
+            },
+            {
+              "end": 383369,
+              "hero": "roadhog",
+              "start": 250065
+            },
+            {
+              "end": 771724,
+              "hero": "reaper",
+              "start": 529189
+            }
+          ],
+          "name": "JMC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 390383,
+              "hero": "junkrat",
+              "start": 134300
+            },
+            {
+              "end": 771724,
+              "hero": "sombra",
+              "start": 555746
+            }
+          ],
+          "name": "MADU"
+        },
+        {
+          "heroes": [
+            {
+              "end": 355813,
+              "hero": "torb",
+              "start": 140814
+            },
+            {
+              "end": 386376,
+              "hero": "mei",
+              "start": 386376
+            },
+            {
+              "end": 771724,
+              "hero": "symmetra",
+              "start": 565767
+            }
+          ],
+          "name": "SUPERMAN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 251569,
+              "hero": "widowmaker",
+              "start": 205963
+            },
+            {
+              "end": 390383,
+              "hero": "tracer",
+              "start": 390383
+            },
+            {
+              "end": 771724,
+              "hero": "widowmaker",
+              "start": 615374
+            }
+          ],
+          "name": "@UNKNOWN_BLUE#0"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 771724,
+              "hero": "mercy",
+              "start": 170883
+            }
+          ],
+          "name": "SHINCHONG"
+        },
+        {
+          "heroes": [
+            {
+              "end": 390383,
+              "hero": "pharah",
+              "start": 116762
+            },
+            {
+              "end": 771724,
+              "hero": "mccree",
+              "start": 555746
+            }
+          ],
+          "name": "HASHIRI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 771724,
+              "hero": "genji",
+              "start": 159359
+            }
+          ],
+          "name": "CRAZYCAT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 390383,
+              "hero": "winston",
+              "start": 171886
+            },
+            {
+              "end": 771724,
+              "hero": "roadhog",
+              "start": 567771
+            }
+          ],
+          "name": "IXPERTNOOP"
+        },
+        {
+          "heroes": [
+            {
+              "end": 771724,
+              "hero": "ana",
+              "start": 157355
+            }
+          ],
+          "name": "LUNATIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 358817,
+              "hero": "zarya",
+              "start": 147330
+            },
+            {
+              "end": 771724,
+              "hero": "reinhardt",
+              "start": 529189
+            }
+          ],
+          "name": "MIXIMAX"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "duration": 813,
+    "end_sr": 2613,
+    "heroes_played": [
+      [
+        "mercy",
+        0.7382867533036949
+      ],
+      [
+        "lucio",
+        0.15347069310697234
+      ],
+      [
+        "symmetra",
+        0.10824255358933275
+      ]
+    ],
+    "key": "notrob-1514/2017-06-19-12-40-sxQt8oCpYs5GVpGdb2ZGQV",
+    "map": "Hollywood",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": 2638,
+    "time": 1497875168,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-19-12-40-sxQt8oCpYs5GVpGdb2ZGQV/game.json",
+    "user_id": 2235147
+  }
+}

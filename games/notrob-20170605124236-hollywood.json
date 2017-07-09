@@ -1,0 +1,1279 @@
+{
+  "data": {
+    "assists": [
+      [
+        346739,
+        "DOOD",
+        1,
+        0
+      ],
+      [
+        507593,
+        "NAWEED",
+        1,
+        0
+      ],
+      [
+        514609,
+        "UNDINE",
+        1,
+        0
+      ]
+    ],
+    "deaths": 5,
+    "end_sr": 2561,
+    "game_duration": 577,
+    "game_ended": 1496667149,
+    "game_started": 1496666556,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 2459,
+        "deaths": 5,
+        "elims": 3,
+        "healing": 7076,
+        "hero_stat_1": 3,
+        "hero_stat_2": 0,
+        "hero_stat_3": 7,
+        "hero_stat_5": 3,
+        "hero_stat_6": 577240,
+        "objective_kills": 1,
+        "objective_time": 5,
+        "tab_health": 0.6842105263157895,
+        "time_played": 526628
+      },
+      "mercy": {
+        "damage": 549,
+        "deaths": 3,
+        "elims": 1,
+        "healing": 7076,
+        "hero_stat_1": 0,
+        "hero_stat_2": 1,
+        "hero_stat_3": 0,
+        "hero_stat_4": 43,
+        "hero_stat_5": 5,
+        "objective_kills": 1,
+        "objective_time": 4,
+        "tab_health": 0.6842105263157895,
+        "time_played": 322683
+      },
+      "symmetra": {
+        "damage": 1910,
+        "deaths": 2,
+        "elims": 2,
+        "healing": 0,
+        "hero_stat_1": 1,
+        "hero_stat_2": 2,
+        "hero_stat_3": 2,
+        "hero_stat_4": 24,
+        "hero_stat_5": 902,
+        "objective_kills": 0,
+        "objective_time": 1,
+        "tab_health": 0.6842105263157895,
+        "time_played": 134792
+      }
+    },
+    "key": "notrob-1514/2017-06-05-12-52-aroVpBHR4gaBp9UCFG5Ewb",
+    "killfeed": [
+      [
+        120763,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "mccree",
+        "SVORNAIR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        121765,
+        1,
+        "hanzo",
+        "SHANDOELUNA",
+        "pharah",
+        "NAWEED",
+        [
+        ]
+      ],
+      [
+        148319,
+        1,
+        "hanzo",
+        "SHANDOELUNA",
+        "pharah",
+        "NAWEED",
+        [
+        ]
+      ],
+      [
+        161348,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "mccree",
+        "SVORNAIR",
+        [
+        ]
+      ],
+      [
+        164356,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "hanzo",
+        "SHANDOELUNA",
+        [
+        ]
+      ],
+      [
+        165358,
+        3,
+        "mercy",
+        "NOTROB",
+        "hanzo",
+        "SHANDOELUNA",
+        [
+        ]
+      ],
+      [
+        165358,
+        3,
+        "mercy",
+        "NOTROB",
+        "mccree",
+        "SVORNAIR",
+        [
+        ]
+      ],
+      [
+        173378,
+        1,
+        "mccree",
+        "SVORNAIR",
+        "symmetra",
+        "UNDINE",
+        [
+        ]
+      ],
+      [
+        176384,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "mccree",
+        "SVORNAIR",
+        [
+        ]
+      ],
+      [
+        185402,
+        0,
+        "symmetra",
+        "UNDINE",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        186905,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "hanzo",
+        "SHANDOELUNA",
+        [
+        ]
+      ],
+      [
+        187406,
+        0,
+        null,
+        null,
+        "hanzo",
+        "SHANDOELUNA",
+        [
+        ]
+      ],
+      [
+        190912,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "zenyatta",
+        "YOSHIBA",
+        [
+        ]
+      ],
+      [
+        194418,
+        0,
+        "roadhog",
+        "HANACON",
+        "reinhardt",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        202435,
+        1,
+        "mccree",
+        "SVORNAIR",
+        "s76",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        221981,
+        0,
+        "roadhog",
+        "HANACON",
+        "hanzo",
+        "SHANDOELUNA",
+        [
+        ]
+      ],
+      [
+        233007,
+        0,
+        "pharah",
+        "NAWEED",
+        "mccree",
+        "SVORNAIR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        234009,
+        3,
+        "mercy",
+        "NOTROB",
+        "mccree",
+        "SVORNAIR",
+        [
+        ]
+      ],
+      [
+        242527,
+        1,
+        "hanzo",
+        "SHANDOELUNA",
+        "pharah",
+        "NAWEED",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        245532,
+        0,
+        "orisa",
+        "DOOD",
+        "mccree",
+        "SVORNAIR",
+        [
+          "roadhog"
+        ]
+      ],
+      [
+        250542,
+        1,
+        "hanzo",
+        "SHANDOELUNA",
+        "symmetra",
+        "UNDINE",
+        [
+        ]
+      ],
+      [
+        277601,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "dva_mech",
+        "SOULJUDGE",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        278102,
+        0,
+        "orisa",
+        "DOOD",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        291125,
+        0,
+        "pharah",
+        "NAWEED",
+        "dva",
+        "SOULJUDGE",
+        [
+        ]
+      ],
+      [
+        299643,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "hanzo",
+        "SHANDOELUNA",
+        [
+        ]
+      ],
+      [
+        314173,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "zenyatta",
+        "YOSHIBA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        336717,
+        1,
+        "s76",
+        "SVORNAIR",
+        "pharah",
+        "NAWEED",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        339223,
+        0,
+        "orisa",
+        "DOOD",
+        "reinhardt",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        340225,
+        0,
+        "roadhog",
+        "HANACON",
+        "s76",
+        "SVORNAIR",
+        [
+        ]
+      ],
+      [
+        340726,
+        0,
+        "symmetra",
+        "UNDINE",
+        "dva_mech",
+        "SOULJUDGE",
+        [
+        ]
+      ],
+      [
+        341227,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "zenyatta",
+        "YOSHIBA",
+        [
+        ]
+      ],
+      [
+        341728,
+        0,
+        "symmetra",
+        "UNDINE",
+        "dva",
+        "SOULJUDGE",
+        [
+        ]
+      ],
+      [
+        342228,
+        3,
+        "mercy",
+        "NOTROB",
+        "reinhardt",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        342730,
+        3,
+        "mercy",
+        "NOTROB",
+        "dva",
+        "SOULJUDGE",
+        [
+        ]
+      ],
+      [
+        346238,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "hanzo",
+        "SHANDOELUNA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        346739,
+        1,
+        "reinhardt",
+        "XTRA",
+        "orisa",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        347240,
+        1,
+        null,
+        null,
+        "orisa",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        347741,
+        2,
+        "mercy",
+        "KALTA",
+        "orisa",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        352752,
+        0,
+        "mercy",
+        "KALTA",
+        "mercy",
+        "NOTROB",
+        [
+          "roadhog"
+        ]
+      ],
+      [
+        354756,
+        0,
+        "roadhog",
+        "HANACON",
+        "reinhardt",
+        "XTRA",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        358262,
+        0,
+        "symmetra",
+        "UNDINE",
+        "dva_mech",
+        "SOULJUDGE",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        358763,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "dva",
+        "SOULJUDGE",
+        [
+        ]
+      ],
+      [
+        364275,
+        0,
+        "roadhog",
+        "HANACON",
+        "s76",
+        "SVORNAIR",
+        [
+        ]
+      ],
+      [
+        507593,
+        1,
+        "symmetra",
+        "NOTROB",
+        "pharah",
+        "NAWEED",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        514609,
+        1,
+        "symmetra",
+        "NOTROB",
+        "zenyatta",
+        "UNDINE",
+        [
+        ]
+      ],
+      [
+        517614,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "symmetra",
+        "NOTROB",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        519618,
+        1,
+        "hanzo",
+        "SHANDOELUNA",
+        "reinhardt",
+        "HANACON",
+        [
+        ]
+      ],
+      [
+        522623,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "mercy",
+        "SVORNAIR",
+        [
+        ]
+      ],
+      [
+        545171,
+        0,
+        "pharah",
+        "NAWEED",
+        "orisa",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        549681,
+        0,
+        "reinhardt",
+        "HANACON",
+        "symmetra",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        558198,
+        0,
+        "orisa",
+        "DOOD",
+        "s76",
+        "SOULJUDGE",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        558699,
+        0,
+        "pharah",
+        "NAWEED",
+        "hanzo",
+        "SHANDOELUNA",
+        [
+        ]
+      ],
+      [
+        564712,
+        3,
+        "mercy",
+        "SVORNAIR",
+        "s76",
+        "SOULJUDGE",
+        [
+        ]
+      ],
+      [
+        566215,
+        0,
+        "orisa",
+        "DOOD",
+        "zarya",
+        "YOSHIBA",
+        [
+        ]
+      ],
+      [
+        569223,
+        1,
+        "mercy",
+        "SVORNAIR",
+        "s76",
+        "@UNKNOWN_RED#0",
+        [
+          "orisa"
+        ]
+      ]
+    ],
+    "map": "Hollywood",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 368785,
+        "end_score": 0,
+        "stage": "Attack",
+        "start": 40590
+      },
+      {
+        "checkpoints": [
+          [
+            562708,
+            1
+          ]
+        ],
+        "end": 570225,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 420901
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2571,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        369,
+        369,
+        369,
+        369,
+        369,
+        369,
+        369,
+        369,
+        369,
+        409,
+        549,
+        549,
+        549,
+        549,
+        549,
+        2380,
+        2380,
+        2380,
+        2380,
+        2380,
+        2459
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2330,
+        2330,
+        2330,
+        2467,
+        2650,
+        4377,
+        5147,
+        5147,
+        5147,
+        5824,
+        7076,
+        7076,
+        7076,
+        7076,
+        7076,
+        7076,
+        7076,
+        7076,
+        7076,
+        7076,
+        7076
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        40,
+        40,
+        40,
+        40,
+        40,
+        40,
+        42,
+        42,
+        42,
+        43,
+        43,
+        43,
+        43,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        24
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        0,
+        0,
+        810,
+        810,
+        810,
+        810,
+        856,
+        902
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5
+      ],
+      "time": [
+        41592,
+        56624,
+        67648,
+        79173,
+        90196,
+        100219,
+        185903,
+        191413,
+        196923,
+        201933,
+        214465,
+        256054,
+        279104,
+        285114,
+        297639,
+        322190,
+        351750,
+        357260,
+        364275,
+        433428,
+        439443,
+        517113,
+        522123,
+        527634,
+        533647,
+        550683,
+        568220
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 352752,
+              "hero": "mercy",
+              "start": 165358
+            },
+            {
+              "end": 569223,
+              "hero": "symmetra",
+              "start": 507593
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 245532,
+              "hero": "mccree",
+              "start": 120763
+            },
+            {
+              "end": 364275,
+              "hero": "s76",
+              "start": 336717
+            },
+            {
+              "end": 569223,
+              "hero": "mercy",
+              "start": 522623
+            }
+          ],
+          "name": "SVORNAIR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 354756,
+              "hero": "reinhardt",
+              "start": 194418
+            },
+            {
+              "end": 569223,
+              "hero": "orisa",
+              "start": 545171
+            }
+          ],
+          "name": "XTRA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 358763,
+              "hero": "dva",
+              "start": 291125
+            },
+            {
+              "end": 569223,
+              "hero": "s76",
+              "start": 558198
+            }
+          ],
+          "name": "SOULJUDGE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 341227,
+              "hero": "zenyatta",
+              "start": 190912
+            },
+            {
+              "end": 569223,
+              "hero": "zarya",
+              "start": 566215
+            }
+          ],
+          "name": "YOSHIBA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 569223,
+              "hero": "hanzo",
+              "start": 121765
+            }
+          ],
+          "name": "SHANDOELUNA"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 569223,
+              "hero": "orisa",
+              "start": 245532
+            }
+          ],
+          "name": "DOOD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 364275,
+              "hero": "roadhog",
+              "start": 194418
+            },
+            {
+              "end": 569223,
+              "hero": "reinhardt",
+              "start": 519618
+            }
+          ],
+          "name": "HANACON"
+        },
+        {
+          "heroes": [
+            {
+              "end": 569223,
+              "hero": "mercy",
+              "start": 347741
+            }
+          ],
+          "name": "KALTA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 569223,
+              "hero": "pharah",
+              "start": 121765
+            }
+          ],
+          "name": "NAWEED"
+        },
+        {
+          "heroes": [
+            {
+              "end": 358262,
+              "hero": "symmetra",
+              "start": 173378
+            },
+            {
+              "end": 569223,
+              "hero": "zenyatta",
+              "start": 514609
+            }
+          ],
+          "name": "UNDINE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 569223,
+              "hero": "s76",
+              "start": 120763
+            }
+          ],
+          "name": "@UNKNOWN_RED#0"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "duration": 577,
+    "end_sr": 2561,
+    "heroes_played": [
+      [
+        "mercy",
+        0.752513813929581
+      ],
+      [
+        "symmetra",
+        0.24748618607041892
+      ]
+    ],
+    "key": "notrob-1514/2017-06-05-12-52-aroVpBHR4gaBp9UCFG5Ewb",
+    "map": "Hollywood",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2571,
+    "time": 1496666556,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-05-12-52-aroVpBHR4gaBp9UCFG5Ewb/game.json",
+    "user_id": 2235147
+  }
+}

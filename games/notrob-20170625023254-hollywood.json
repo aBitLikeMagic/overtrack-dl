@@ -1,0 +1,1273 @@
+{
+  "data": {
+    "assists": [
+      [
+        289133,
+        "CRANKSHAFTO1",
+        1,
+        1
+      ],
+      [
+        299658,
+        "RNOCK",
+        1,
+        1
+      ],
+      [
+        335736,
+        "AFTERGLO",
+        0,
+        1
+      ],
+      [
+        347261,
+        "SHELDONSUCKS",
+        1,
+        1
+      ],
+      [
+        500097,
+        "SHELDONSUCKS",
+        0,
+        1
+      ]
+    ],
+    "custom_game": false,
+    "deaths": 5,
+    "end_sr": 2632,
+    "game_duration": 575,
+    "game_ended": 1498358593,
+    "game_started": 1498357974,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 1122,
+        "deaths": 1,
+        "elims": 3,
+        "healing": 2091,
+        "hero_stat_1": 3,
+        "hero_stat_2": 5,
+        "hero_stat_3": 1,
+        "hero_stat_5": 3,
+        "hero_stat_6": 575767,
+        "objective_kills": 3,
+        "objective_time": 16,
+        "tab_health": 0.6111111111111112,
+        "time_played": 465021
+      },
+      "ana": {
+        "damage": 180,
+        "deaths": 2,
+        "elims": 0,
+        "healing": 1689,
+        "hero_stat_1": 79,
+        "hero_stat_2": 0,
+        "hero_stat_3": 39,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.6111111111111112,
+        "time_played": 143317
+      },
+      "mercy": {
+        "damage": 0,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 2091,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 3,
+        "tab_health": 0.6111111111111112,
+        "time_played": 118258
+      },
+      "zenyatta": {
+        "damage": 1122,
+        "deaths": 2,
+        "elims": 3,
+        "healing": 431,
+        "hero_stat_1": 58,
+        "hero_stat_2": 2,
+        "hero_stat_3": 2,
+        "hero_stat_4": 0,
+        "hero_stat_5": 2,
+        "objective_kills": 3,
+        "objective_time": 13,
+        "tab_health": 0.6111111111111112,
+        "time_played": 129786
+      }
+    },
+    "key": "notrob-1514/2017-06-25-02-43-74a8xd8Ce733jDuT3RQTDb",
+    "killfeed": [
+      [
+        123772,
+        0,
+        "torb",
+        "HATRICSWAYZE",
+        "reaper",
+        "CR4ZYMALUCO",
+        [
+        ]
+      ],
+      [
+        126779,
+        0,
+        "bastion",
+        "RNOCK",
+        "lucio",
+        "EIGHTWONDER",
+        [
+        ]
+      ],
+      [
+        133294,
+        0,
+        "orisa",
+        "SHELDONSUCKS",
+        "zarya",
+        "VEDANTA",
+        [
+        ]
+      ],
+      [
+        172380,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "ana",
+        "NOTROB",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        180898,
+        0,
+        "bastion",
+        "RNOCK",
+        "zarya",
+        "VEDANTA",
+        [
+          "mercy",
+          "orisa"
+        ]
+      ],
+      [
+        200941,
+        0,
+        "bastion",
+        "RNOCK",
+        "pharah",
+        "PIMPNISEASY1",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        212464,
+        0,
+        "torb",
+        "HATRICSWAYZE",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+        ]
+      ],
+      [
+        213467,
+        0,
+        "orisa",
+        "SHELDONSUCKS",
+        "dva",
+        "PASTADACTYL",
+        [
+        ]
+      ],
+      [
+        216473,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "mccree",
+        "CR4ZYMALUCO",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        244035,
+        0,
+        "torb",
+        "HATRICSWAYZE",
+        "ana",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        263079,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "bastion",
+        "VEDANTA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        273100,
+        1,
+        "dva",
+        "PASTADACTYL",
+        "mercy",
+        "SINEATER1988",
+        [
+        ]
+      ],
+      [
+        273100,
+        1,
+        "dva",
+        "PASTADACTYL",
+        "torb_turret",
+        "HATRICSWAYZE",
+        [
+        ]
+      ],
+      [
+        274603,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "junkrat",
+        "PIMPNISEASY1",
+        [
+        ]
+      ],
+      [
+        281618,
+        0,
+        "torb",
+        "HATRICSWAYZE",
+        "mccree",
+        "CR4ZYMALUCO",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        289133,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+        ]
+      ],
+      [
+        289133,
+        1,
+        "bastion",
+        "VEDANTA",
+        "reinhardt",
+        "CRANKSHAFTO1",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        290136,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "dva",
+        "PASTADACTYL",
+        [
+        ]
+      ],
+      [
+        297152,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "zenyatta",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        299658,
+        1,
+        "bastion",
+        "VEDANTA",
+        "bastion",
+        "RNOCK",
+        [
+        ]
+      ],
+      [
+        300160,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "mercy",
+        "EIGHTWONDER",
+        [
+        ]
+      ],
+      [
+        302164,
+        1,
+        "bastion",
+        "VEDANTA",
+        "pharah",
+        "AFTERGLO",
+        [
+        ]
+      ],
+      [
+        303166,
+        2,
+        "mercy",
+        "SINEATER1988",
+        "bastion",
+        "RNOCK",
+        [
+        ]
+      ],
+      [
+        303166,
+        2,
+        "mercy",
+        "SINEATER1988",
+        "pharah",
+        "AFTERGLO",
+        [
+        ]
+      ],
+      [
+        305170,
+        1,
+        null,
+        null,
+        "bastion",
+        "RNOCK",
+        [
+        ]
+      ],
+      [
+        305170,
+        1,
+        null,
+        null,
+        "pharah",
+        "AFTERGLO",
+        [
+        ]
+      ],
+      [
+        306172,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "junkrat",
+        "PIMPNISEASY1",
+        [
+        ]
+      ],
+      [
+        307175,
+        1,
+        "mccree",
+        "CR4ZYMALUCO",
+        "pharah",
+        "AFTERGLO",
+        [
+        ]
+      ],
+      [
+        334734,
+        0,
+        "bastion",
+        "RNOCK",
+        "junkrat",
+        "PIMPNISEASY1",
+        [
+        ]
+      ],
+      [
+        335736,
+        1,
+        "bastion",
+        "VEDANTA",
+        "pharah",
+        "AFTERGLO",
+        [
+        ]
+      ],
+      [
+        340246,
+        3,
+        "mercy",
+        "EIGHTWONDER",
+        "junkrat",
+        "PIMPNISEASY1",
+        [
+        ]
+      ],
+      [
+        340747,
+        0,
+        "torb",
+        "HATRICSWAYZE",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        341248,
+        0,
+        "orisa",
+        "SHELDONSUCKS",
+        "mccree",
+        "CR4ZYMALUCO",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        341749,
+        0,
+        "reinhardt",
+        "CRANKSHAFTO1",
+        "dva",
+        "PASTADACTYL",
+        [
+        ]
+      ],
+      [
+        342752,
+        0,
+        "bastion",
+        "RNOCK",
+        "bastion",
+        "VEDANTA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        345256,
+        0,
+        "bastion",
+        "RNOCK",
+        "mercy",
+        "EIGHTWONDER",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        347261,
+        0,
+        "orisa",
+        "SHELDONSUCKS",
+        "junkrat",
+        "PIMPNISEASY1",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        347261,
+        1,
+        "zenyatta",
+        "NOTROB",
+        "orisa",
+        "SHELDONSUCKS",
+        [
+        ]
+      ],
+      [
+        348764,
+        0,
+        "torb",
+        "HATRICSWAYZE",
+        "zenyatta",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        349266,
+        1,
+        null,
+        null,
+        "orisa_supercharger",
+        "SHELDONSUCKS",
+        [
+        ]
+      ],
+      [
+        352773,
+        1,
+        null,
+        null,
+        "pharah",
+        "AFTERGLO",
+        [
+        ]
+      ],
+      [
+        495084,
+        1,
+        "bastion",
+        "VEDANTA",
+        "winston",
+        "CRANKSHAFTO1",
+        [
+        ]
+      ],
+      [
+        498594,
+        0,
+        "tracer",
+        "RNOCK",
+        "orisa",
+        "PASTADACTYL",
+        [
+        ]
+      ],
+      [
+        498594,
+        1,
+        "junkrat",
+        "PIMPNISEASY1",
+        "lucio",
+        "SHELDONSUCKS",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        502101,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "bastion",
+        "VEDANTA",
+        [
+        ]
+      ],
+      [
+        508617,
+        0,
+        "zarya",
+        "HATRICSWAYZE",
+        "junkrat",
+        "PIMPNISEASY1",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        509619,
+        1,
+        "junkrat",
+        "PIMPNISEASY1",
+        "tracer",
+        "RNOCK",
+        [
+        ]
+      ],
+      [
+        516132,
+        0,
+        "pharah",
+        "AFTERGLO",
+        "lucio",
+        "EIGHTWONDER",
+        [
+        ]
+      ],
+      [
+        521142,
+        0,
+        "zarya",
+        "HATRICSWAYZE",
+        "mercy",
+        "NOTROB",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        531164,
+        0,
+        "winston",
+        "CRANKSHAFTO1",
+        "reinhardt",
+        "CR4ZYMALUCO",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        532166,
+        0,
+        "lucio",
+        "SHELDONSUCKS",
+        "bastion",
+        "VEDANTA",
+        [
+        ]
+      ]
+    ],
+    "map": "Hollywood",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            348769,
+            1
+          ]
+        ],
+        "end": 350769,
+        "end_score": 1,
+        "stage": "Attack",
+        "start": 49608
+      },
+      {
+        "checkpoints": [
+          [
+            532166,
+            1
+          ]
+        ],
+        "end": 539683,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 370314
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2656,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        120,
+        120,
+        120,
+        180,
+        180,
+        180,
+        180,
+        180,
+        119,
+        119,
+        119,
+        1122,
+        1122,
+        1122,
+        null,
+        1122,
+        1122,
+        1122,
+        1122
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        null,
+        4,
+        4,
+        1,
+        1
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        null,
+        3,
+        3,
+        3,
+        3
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1071,
+        1071,
+        1071,
+        1142,
+        1689,
+        1689,
+        1689,
+        1689,
+        1820,
+        1820,
+        1820,
+        2120,
+        2120,
+        2120,
+        null,
+        2120,
+        2120,
+        2091,
+        2091
+      ],
+      "hero": [
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "ana",
+        "ana",
+        "ana",
+        "ana",
+        "ana",
+        "ana",
+        "ana",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        70,
+        70,
+        70,
+        76,
+        79,
+        79,
+        0,
+        0,
+        61,
+        61,
+        61,
+        58,
+        58,
+        58,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        54,
+        54,
+        54,
+        39,
+        39,
+        39,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        null,
+        0,
+        0,
+        1,
+        1
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        null,
+        3,
+        3,
+        3,
+        3
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        13,
+        13,
+        13,
+        null,
+        13,
+        13,
+        16,
+        16
+      ],
+      "time": [
+        64139,
+        69650,
+        75166,
+        85186,
+        90698,
+        107733,
+        173382,
+        179395,
+        184907,
+        235514,
+        245037,
+        251050,
+        256562,
+        262077,
+        298154,
+        303667,
+        309681,
+        348764,
+        354278,
+        359789,
+        410902,
+        460011,
+        465524,
+        521644,
+        529160
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 244035,
+              "hero": "ana",
+              "start": 172380
+            },
+            {
+              "end": 348764,
+              "hero": "zenyatta",
+              "start": 297152
+            },
+            {
+              "end": 532166,
+              "hero": "mercy",
+              "start": 521142
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 123772,
+              "hero": "reaper",
+              "start": 123772
+            },
+            {
+              "end": 341248,
+              "hero": "mccree",
+              "start": 216473
+            },
+            {
+              "end": 532166,
+              "hero": "reinhardt",
+              "start": 531164
+            }
+          ],
+          "name": "CR4ZYMALUCO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 341749,
+              "hero": "dva",
+              "start": 213467
+            },
+            {
+              "end": 532166,
+              "hero": "orisa",
+              "start": 498594
+            }
+          ],
+          "name": "PASTADACTYL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 126779,
+              "hero": "lucio",
+              "start": 126779
+            },
+            {
+              "end": 345256,
+              "hero": "mercy",
+              "start": 300160
+            },
+            {
+              "end": 532166,
+              "hero": "lucio",
+              "start": 516132
+            }
+          ],
+          "name": "EIGHTWONDER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 200941,
+              "hero": "pharah",
+              "start": 200941
+            },
+            {
+              "end": 532166,
+              "hero": "junkrat",
+              "start": 274603
+            }
+          ],
+          "name": "PIMPNISEASY1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 180898,
+              "hero": "zarya",
+              "start": 133294
+            },
+            {
+              "end": 532166,
+              "hero": "bastion",
+              "start": 263079
+            }
+          ],
+          "name": "VEDANTA"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 532166,
+              "hero": "pharah",
+              "start": 172380
+            }
+          ],
+          "name": "AFTERGLO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 341749,
+              "hero": "reinhardt",
+              "start": 289133
+            },
+            {
+              "end": 532166,
+              "hero": "winston",
+              "start": 495084
+            }
+          ],
+          "name": "CRANKSHAFTO1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 348764,
+              "hero": "torb",
+              "start": 123772
+            },
+            {
+              "end": 532166,
+              "hero": "zarya",
+              "start": 508617
+            }
+          ],
+          "name": "HATRICSWAYZE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 345256,
+              "hero": "bastion",
+              "start": 126779
+            },
+            {
+              "end": 532166,
+              "hero": "tracer",
+              "start": 498594
+            }
+          ],
+          "name": "RNOCK"
+        },
+        {
+          "heroes": [
+            {
+              "end": 347261,
+              "hero": "orisa",
+              "start": 133294
+            },
+            {
+              "end": 532166,
+              "hero": "lucio",
+              "start": 498594
+            }
+          ],
+          "name": "SHELDONSUCKS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 532166,
+              "hero": "mercy",
+              "start": 273100
+            }
+          ],
+          "name": "SINEATER1988"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "duration": 575,
+    "end_sr": 2632,
+    "heroes_played": [
+      [
+        "ana",
+        0.5335800612103566
+      ],
+      [
+        "zenyatta",
+        0.38432955298568033
+      ],
+      [
+        "mercy",
+        0.08209038580396304
+      ]
+    ],
+    "key": "notrob-1514/2017-06-25-02-43-74a8xd8Ce733jDuT3RQTDb",
+    "map": "Hollywood",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2656,
+    "time": 1498357974,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-25-02-43-74a8xd8Ce733jDuT3RQTDb/game.json",
+    "user_id": 2235147
+  }
+}

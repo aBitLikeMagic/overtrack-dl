@@ -1,0 +1,2599 @@
+{
+  "data": {
+    "assists": [
+      [
+        160826,
+        "KONRIKTV",
+        1,
+        0
+      ],
+      [
+        218449,
+        "KONRIKTV",
+        1,
+        0
+      ],
+      [
+        221455,
+        "COBRAKON",
+        1,
+        0
+      ],
+      [
+        235985,
+        "PROTO5",
+        1,
+        0
+      ],
+      [
+        261040,
+        "COBRAKON",
+        1,
+        0
+      ],
+      [
+        284587,
+        "KONRIKTV",
+        1,
+        0
+      ],
+      [
+        295610,
+        "COBRAKON",
+        1,
+        0
+      ],
+      [
+        304629,
+        "KAARGON",
+        1,
+        0
+      ],
+      [
+        322667,
+        "WIGHTWING",
+        1,
+        0
+      ],
+      [
+        333189,
+        "PROTO5",
+        1,
+        0
+      ],
+      [
+        522069,
+        "COBRAKON",
+        1,
+        0
+      ],
+      [
+        698916,
+        "OMFGITZHALLA",
+        0,
+        1
+      ],
+      [
+        709939,
+        "PROTO5",
+        0,
+        1
+      ],
+      [
+        713947,
+        "KONRIKTV",
+        0,
+        1
+      ],
+      [
+        721464,
+        "OMFGITZHALLA",
+        0,
+        1
+      ],
+      [
+        726473,
+        "WIGHTWING",
+        0,
+        1
+      ],
+      [
+        780086,
+        "WIGHTWING",
+        0,
+        1
+      ],
+      [
+        784093,
+        "KAARGON",
+        0,
+        1
+      ],
+      [
+        789605,
+        "PROTO5",
+        0,
+        1
+      ],
+      [
+        791610,
+        "OMFGITZHALLA",
+        0,
+        1
+      ],
+      [
+        793614,
+        "COBRAKON",
+        0,
+        1
+      ],
+      [
+        801131,
+        "KONRIKTV",
+        0,
+        1
+      ],
+      [
+        859749,
+        "KAARGON",
+        0,
+        1
+      ],
+      [
+        886305,
+        "KAARGON",
+        0,
+        1
+      ],
+      [
+        908353,
+        "KAARGON",
+        1,
+        0
+      ],
+      [
+        914366,
+        "KONRIKTV",
+        0,
+        1
+      ],
+      [
+        916370,
+        "OMFGITZHALLA",
+        0,
+        1
+      ],
+      [
+        937410,
+        "PROTO5",
+        0,
+        1
+      ],
+      [
+        938411,
+        "COBRAKON",
+        0,
+        1
+      ]
+    ],
+    "custom_game": false,
+    "deaths": 9,
+    "end_sr": 2767,
+    "game_duration": 985,
+    "game_ended": 1498566266,
+    "game_started": 1498565239,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 2844,
+        "deaths": 9,
+        "elims": 12,
+        "healing": 2200,
+        "hero_stat_1": 12,
+        "hero_stat_2": 17,
+        "hero_stat_3": 8,
+        "hero_stat_5": 12,
+        "hero_stat_6": 985008,
+        "objective_kills": 3,
+        "objective_time": 72,
+        "tab_health": 0.6896551724137931,
+        "time_played": 796117
+      },
+      "dva": {
+        "damage": 713,
+        "deaths": 6,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 18,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 754,
+        "objective_kills": 0,
+        "objective_time": 17,
+        "tab_health": 0.6896551724137931,
+        "time_played": 141290
+      },
+      "mercy": {
+        "damage": 20,
+        "deaths": 2,
+        "elims": 0,
+        "healing": 2200,
+        "hero_stat_1": 5,
+        "hero_stat_2": 0,
+        "hero_stat_3": 10,
+        "hero_stat_4": 14,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 2,
+        "tab_health": 0.6896551724137931,
+        "time_played": 201906
+      },
+      "winston": {
+        "damage": 2118,
+        "deaths": 1,
+        "elims": 11,
+        "healing": 0,
+        "hero_stat_1": 3920,
+        "hero_stat_2": 26,
+        "hero_stat_3": 9,
+        "hero_stat_5": 3,
+        "objective_kills": 3,
+        "objective_time": 53,
+        "tab_health": 0.6896551724137931,
+        "time_played": 389298
+      }
+    },
+    "key": "notrob-1514/2017-06-27-12-24-brgPMsVpRHTmQ6Gt9kgxeV",
+    "killfeed": [
+      [
+        116737,
+        0,
+        "roadhog",
+        "PROTO5",
+        "winston",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        118740,
+        1,
+        "genji",
+        "UHTEX",
+        "roadhog",
+        "PROTO5",
+        [
+          "zenyatta",
+          "ana"
+        ]
+      ],
+      [
+        120244,
+        0,
+        "reaper",
+        "COBRAKON",
+        "ana",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        123751,
+        0,
+        "mccree",
+        "KAARGON",
+        "orisa",
+        "KRANKT",
+        [
+        ]
+      ],
+      [
+        124752,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "reaper",
+        "COBRAKON",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        131768,
+        1,
+        "genji",
+        "UHTEX",
+        "mercy",
+        "OMFGITZHALLA",
+        [
+        ]
+      ],
+      [
+        132269,
+        0,
+        "genji",
+        "WIGHTWING",
+        "zenyatta",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        133772,
+        0,
+        "tracer",
+        "KONRIKTV",
+        "s76",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        140788,
+        0,
+        "mccree",
+        "KAARGON",
+        "genji",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        160826,
+        1,
+        "winston",
+        "NOTROB",
+        "tracer",
+        "KONRIKTV",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        169846,
+        0,
+        "reaper",
+        "COBRAKON",
+        "winston",
+        "NOTROB",
+        [
+          "mccree"
+        ]
+      ],
+      [
+        170848,
+        1,
+        "mccree",
+        "UHTEX",
+        "genji",
+        "WIGHTWING",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        182874,
+        0,
+        "roadhog",
+        "PROTO5",
+        "zenyatta",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        183376,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "mccree",
+        "KAARGON",
+        [
+        ]
+      ],
+      [
+        184879,
+        1,
+        "mccree",
+        "UHTEX",
+        "reaper",
+        "COBRAKON",
+        [
+        ]
+      ],
+      [
+        188888,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "roadhog",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        195904,
+        1,
+        "mccree",
+        "UHTEX",
+        "tracer",
+        "KONRIKTV",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        198408,
+        1,
+        "mccree",
+        "UHTEX",
+        "mercy",
+        "OMFGITZHALLA",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        209931,
+        1,
+        "mccree",
+        "UHTEX",
+        "genji",
+        "WIGHTWING",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        217949,
+        1,
+        "mccree",
+        "UHTEX",
+        "tracer",
+        "KONRIKTV",
+        [
+          "zenyatta",
+          "ana"
+        ]
+      ],
+      [
+        221455,
+        1,
+        "mccree",
+        "UHTEX",
+        "reaper",
+        "COBRAKON",
+        [
+          "ana"
+        ]
+      ],
+      [
+        235985,
+        1,
+        "ana",
+        "FERALYODA",
+        "reinhardt",
+        "PROTO5",
+        [
+          "zenyatta",
+          "orisa"
+        ]
+      ],
+      [
+        240997,
+        1,
+        "zenyatta",
+        "METAKNIGHT",
+        "mercy",
+        "OMFGITZHALLA",
+        [
+          "ana"
+        ]
+      ],
+      [
+        261040,
+        1,
+        "winston",
+        "NOTROB",
+        "reaper",
+        "COBRAKON",
+        [
+        ]
+      ],
+      [
+        265048,
+        0,
+        "mccree",
+        "KAARGON",
+        "ana",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        275569,
+        1,
+        "mccree",
+        "UHTEX",
+        "reinhardt",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        282082,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "mercy",
+        "OMFGITZHALLA",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        284587,
+        1,
+        "winston",
+        "NOTROB",
+        "s76",
+        "KONRIKTV",
+        [
+          "orisa",
+          "zenyatta"
+        ]
+      ],
+      [
+        295610,
+        1,
+        "winston",
+        "NOTROB",
+        "reaper",
+        "COBRAKON",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        304629,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "mccree",
+        "KAARGON",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        315150,
+        1,
+        "mccree",
+        "UHTEX",
+        "pharah",
+        "OMFGITZHALLA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        322667,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "genji",
+        "WIGHTWING",
+        [
+        ]
+      ],
+      [
+        323668,
+        1,
+        "mccree",
+        "UHTEX",
+        "tracer",
+        "KONRIKTV",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        324169,
+        0,
+        "sombra",
+        "PROTO5",
+        "zenyatta",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        330182,
+        0,
+        "reaper",
+        "COBRAKON",
+        "s76",
+        "BLACKCHOWDER",
+        [
+          "mccree"
+        ]
+      ],
+      [
+        333189,
+        1,
+        "winston",
+        "NOTROB",
+        "sombra",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        341206,
+        0,
+        "genji",
+        "WIGHTWING",
+        "winston",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        351226,
+        0,
+        "reaper",
+        "COBRAKON",
+        "mccree",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        351226,
+        0,
+        "genji",
+        "WIGHTWING",
+        "ana",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        351226,
+        0,
+        "tracer",
+        "KONRIKTV",
+        "orisa",
+        "KRANKT",
+        [
+        ]
+      ],
+      [
+        353730,
+        1,
+        "zenyatta",
+        "METAKNIGHT",
+        "s76",
+        "OMFGITZHALLA",
+        [
+        ]
+      ],
+      [
+        357739,
+        1,
+        "zenyatta",
+        "METAKNIGHT",
+        "genji",
+        "WIGHTWING",
+        [
+        ]
+      ],
+      [
+        372769,
+        0,
+        "sombra",
+        "PROTO5",
+        "zenyatta",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        384794,
+        0,
+        "reaper",
+        "COBRAKON",
+        "s76",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        388801,
+        0,
+        "mccree",
+        "KAARGON",
+        "ana",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        389302,
+        0,
+        "reaper",
+        "COBRAKON",
+        "mccree",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        397316,
+        0,
+        "tracer",
+        "KONRIKTV",
+        "winston",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        425371,
+        0,
+        "tracer",
+        "KONRIKTV",
+        "winston",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        429380,
+        0,
+        "mccree",
+        "KAARGON",
+        "mccree",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        434390,
+        0,
+        "tracer",
+        "KONRIKTV",
+        "s76",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        434390,
+        1,
+        "zenyatta",
+        "METAKNIGHT",
+        "tracer",
+        "KONRIKTV",
+        [
+        ]
+      ],
+      [
+        437396,
+        0,
+        "reaper",
+        "COBRAKON",
+        "orisa",
+        "KRANKT",
+        [
+        ]
+      ],
+      [
+        437896,
+        1,
+        "zenyatta",
+        "METAKNIGHT",
+        "reaper",
+        "COBRAKON",
+        [
+          "ana"
+        ]
+      ],
+      [
+        440401,
+        0,
+        "s76",
+        "OMFGITZHALLA",
+        "zenyatta",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        445913,
+        0,
+        "s76",
+        "OMFGITZHALLA",
+        "ana",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        474471,
+        0,
+        "mccree",
+        "KAARGON",
+        "dva_mech",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        475473,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "sombra",
+        "PROTO5",
+        [
+          "ana"
+        ]
+      ],
+      [
+        477477,
+        1,
+        "mccree",
+        "UHTEX",
+        "tracer",
+        "KONRIKTV",
+        [
+        ]
+      ],
+      [
+        480983,
+        0,
+        "mccree",
+        "KAARGON",
+        "mccree",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        483988,
+        0,
+        "s76",
+        "OMFGITZHALLA",
+        "zenyatta",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        489500,
+        0,
+        "hanzo",
+        "WIGHTWING",
+        "ana",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        489500,
+        0,
+        "mccree",
+        "KAARGON",
+        "s76",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        492508,
+        0,
+        "hanzo",
+        "WIGHTWING",
+        "dva",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        498022,
+        0,
+        "hanzo",
+        "WIGHTWING",
+        "orisa",
+        "KRANKT",
+        [
+        ]
+      ],
+      [
+        510045,
+        1,
+        "hanzo",
+        "UHTEX",
+        "hanzo",
+        "WIGHTWING",
+        [
+        ]
+      ],
+      [
+        522069,
+        1,
+        "dva",
+        "NOTROB",
+        "reaper",
+        "COBRAKON",
+        [
+          "ana",
+          "zenyatta"
+        ]
+      ],
+      [
+        527078,
+        0,
+        "tracer",
+        "KONRIKTV",
+        "zenyatta",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        530586,
+        0,
+        "tracer",
+        "KONRIKTV",
+        "dva_mech",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        533593,
+        0,
+        "mccree",
+        "KAARGON",
+        "ana",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        537101,
+        1,
+        "hanzo",
+        "UHTEX",
+        "tracer",
+        "KONRIKTV",
+        [
+        ]
+      ],
+      [
+        539105,
+        0,
+        "sombra",
+        "PROTO5",
+        "hanzo",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        539606,
+        0,
+        "mccree",
+        "KAARGON",
+        "genji",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        561151,
+        0,
+        "reaper",
+        "COBRAKON",
+        "dva",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        568164,
+        0,
+        "mccree",
+        "KAARGON",
+        "lucio",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        571171,
+        0,
+        "hanzo",
+        "WIGHTWING",
+        "genji",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        576682,
+        0,
+        "hanzo",
+        "WIGHTWING",
+        "hanzo",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        698916,
+        1,
+        "symmetra",
+        "METAKNIGHT",
+        "s76",
+        "OMFGITZHALLA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        709939,
+        1,
+        "symmetra",
+        "METAKNIGHT",
+        "genji",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        712945,
+        1,
+        "symmetra",
+        "METAKNIGHT",
+        "tracer",
+        "KONRIKTV",
+        [
+        ]
+      ],
+      [
+        717956,
+        1,
+        "winston",
+        "FERALYODA",
+        "widowmaker",
+        "KAARGON",
+        [
+        ]
+      ],
+      [
+        721464,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "s76",
+        "OMFGITZHALLA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        725471,
+        0,
+        "hanzo",
+        "WIGHTWING",
+        "tracer",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        726473,
+        1,
+        "winston",
+        "FERALYODA",
+        "hanzo",
+        "WIGHTWING",
+        [
+        ]
+      ],
+      [
+        730482,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "genji",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        737996,
+        0,
+        "widowmaker",
+        "KAARGON",
+        "s76",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        744512,
+        0,
+        "widowmaker",
+        "KAARGON",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        754532,
+        0,
+        "mccree",
+        "KONRIKTV",
+        "winston",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        754532,
+        0,
+        "s76",
+        "OMFGITZHALLA",
+        "torb_turret",
+        "KRANKT",
+        [
+        ]
+      ],
+      [
+        759041,
+        0,
+        "mccree",
+        "KONRIKTV",
+        "torb",
+        "KRANKT",
+        [
+        ]
+      ],
+      [
+        759543,
+        1,
+        "symmetra",
+        "METAKNIGHT",
+        "genji",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        763051,
+        0,
+        "hanzo",
+        "WIGHTWING",
+        "tracer",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        769062,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "mccree",
+        "KONRIKTV",
+        [
+        ]
+      ],
+      [
+        773570,
+        0,
+        "widowmaker",
+        "KAARGON",
+        "symmetra_teleporter",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        776578,
+        0,
+        "s76",
+        "OMFGITZHALLA",
+        "s76",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        780086,
+        1,
+        "winston",
+        "FERALYODA",
+        "hanzo",
+        "WIGHTWING",
+        [
+        ]
+      ],
+      [
+        784093,
+        1,
+        "winston",
+        "FERALYODA",
+        "widowmaker",
+        "KAARGON",
+        [
+        ]
+      ],
+      [
+        789104,
+        1,
+        "tracer",
+        "UHTEX",
+        "genji",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        791108,
+        1,
+        "winston",
+        "FERALYODA",
+        "s76",
+        "OMFGITZHALLA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        791610,
+        0,
+        "mei",
+        "COBRAKON",
+        "symmetra",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        793614,
+        1,
+        "tracer",
+        "UHTEX",
+        "mei",
+        "COBRAKON",
+        [
+        ]
+      ],
+      [
+        796120,
+        3,
+        "mercy",
+        "NOTROB",
+        "symmetra",
+        "METAKNIGHT",
+        [
+        ]
+      ],
+      [
+        801131,
+        1,
+        "winston",
+        "FERALYODA",
+        "mccree",
+        "KONRIKTV",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        811153,
+        1,
+        "winston",
+        "FERALYODA",
+        "s76",
+        "OMFGITZHALLA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        821172,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "hanzo",
+        "WIGHTWING",
+        [
+        ]
+      ],
+      [
+        823175,
+        0,
+        "sombra",
+        "PROTO5",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        829187,
+        0,
+        "mccree",
+        "KONRIKTV",
+        "winston",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        838705,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "tracer",
+        "KAARGON",
+        [
+        ]
+      ],
+      [
+        838705,
+        0,
+        "s76",
+        "OMFGITZHALLA",
+        "torb_turret",
+        "KRANKT",
+        [
+        ]
+      ],
+      [
+        842211,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "s76",
+        "OMFGITZHALLA",
+        [
+        ]
+      ],
+      [
+        847221,
+        1,
+        "tracer",
+        "UHTEX",
+        "mccree",
+        "KONRIKTV",
+        [
+        ]
+      ],
+      [
+        859749,
+        1,
+        "torb",
+        "KRANKT",
+        "tracer",
+        "KAARGON",
+        [
+        ]
+      ],
+      [
+        860250,
+        1,
+        "symmetra",
+        "METAKNIGHT",
+        "mei",
+        "COBRAKON",
+        [
+        ]
+      ],
+      [
+        861251,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "hanzo",
+        "WIGHTWING",
+        [
+        ]
+      ],
+      [
+        863255,
+        0,
+        null,
+        null,
+        "s76",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        863255,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "s76",
+        "OMFGITZHALLA",
+        [
+        ]
+      ],
+      [
+        864257,
+        0,
+        "s76",
+        "OMFGITZHALLA",
+        "s76",
+        "BLACKCHOWDER",
+        [
+        ]
+      ],
+      [
+        878287,
+        1,
+        "tracer",
+        "UHTEX",
+        "mccree",
+        "KONRIKTV",
+        [
+        ]
+      ],
+      [
+        879289,
+        1,
+        "winston",
+        "FERALYODA",
+        "sombra",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        886305,
+        1,
+        "tracer",
+        "UHTEX",
+        "tracer",
+        "KAARGON",
+        [
+        ]
+      ],
+      [
+        892818,
+        0,
+        "hanzo",
+        "WIGHTWING",
+        "tracer",
+        "UHTEX",
+        [
+        ]
+      ],
+      [
+        900337,
+        1,
+        "winston",
+        "FERALYODA",
+        "mercy",
+        "COBRAKON",
+        [
+        ]
+      ],
+      [
+        903343,
+        0,
+        "sombra",
+        "PROTO5",
+        "torb_turret",
+        "KRANKT",
+        [
+        ]
+      ],
+      [
+        908353,
+        1,
+        "mercy",
+        "NOTROB",
+        "tracer",
+        "KAARGON",
+        [
+        ]
+      ],
+      [
+        913363,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "mccree",
+        "KONRIKTV",
+        [
+        ]
+      ],
+      [
+        916370,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "pharah",
+        "OMFGITZHALLA",
+        [
+        ]
+      ],
+      [
+        918375,
+        1,
+        "symmetra",
+        "METAKNIGHT",
+        "sombra",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        920879,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "hanzo",
+        "WIGHTWING",
+        [
+        ]
+      ],
+      [
+        925387,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "tracer",
+        "KAARGON",
+        [
+        ]
+      ],
+      [
+        937410,
+        1,
+        "torb",
+        "KRANKT",
+        "sombra",
+        "PROTO5",
+        [
+        ]
+      ],
+      [
+        937911,
+        1,
+        "s76",
+        "BLACKCHOWDER",
+        "lucio",
+        "OMFGITZHALLA",
+        [
+        ]
+      ],
+      [
+        938411,
+        1,
+        "tracer",
+        "UHTEX",
+        "mercy",
+        "COBRAKON",
+        [
+        ]
+      ]
+    ],
+    "map": "Dorado",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            205925,
+            1
+          ],
+          [
+            286090,
+            2
+          ],
+          [
+            580692,
+            3
+          ]
+        ],
+        "end": 582692,
+        "end_score": 3,
+        "stage": "Attack",
+        "start": 44090
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 948935,
+        "end_score": null,
+        "stage": "Defend",
+        "start": 636298
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2747,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        241,
+        241,
+        241,
+        217,
+        628,
+        628,
+        628,
+        1817,
+        1817,
+        1817,
+        1817,
+        2087,
+        2087,
+        2087,
+        2087,
+        2118,
+        2118,
+        2111,
+        2111,
+        2112,
+        null,
+        2112,
+        2112,
+        2824,
+        2824,
+        2824,
+        2824,
+        2824,
+        2824,
+        2824,
+        2824,
+        2824,
+        2824,
+        2824,
+        2824,
+        2844,
+        2844,
+        2844,
+        2844,
+        2844
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        6,
+        null,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        9
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        null,
+        11,
+        11,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        981,
+        981,
+        981,
+        981,
+        1267,
+        2200,
+        2200,
+        2200,
+        2200
+      ],
+      "hero": [
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        403,
+        829,
+        1200,
+        1200,
+        2704,
+        2704,
+        2704,
+        2704,
+        3583,
+        3583,
+        3583,
+        3583,
+        3830,
+        3920,
+        0,
+        0,
+        23,
+        null,
+        23,
+        23,
+        18,
+        18,
+        18,
+        18,
+        18,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        3,
+        5,
+        5,
+        5,
+        5
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        19,
+        19,
+        19,
+        19,
+        24,
+        24,
+        24,
+        24,
+        26,
+        26,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        7,
+        10,
+        10,
+        10,
+        10
+      ],
+      "hero_stat_4": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        11,
+        11,
+        11,
+        11,
+        14,
+        14,
+        14,
+        14
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        298,
+        null,
+        298,
+        298,
+        754,
+        754,
+        754,
+        754,
+        754,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        null,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        4,
+        4,
+        4,
+        18,
+        18,
+        18,
+        48,
+        48,
+        48,
+        48,
+        53,
+        53,
+        53,
+        53,
+        53,
+        53,
+        53,
+        53,
+        70,
+        null,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        72,
+        72,
+        72,
+        72,
+        72
+      ],
+      "time": [
+        45092,
+        60622,
+        66132,
+        80661,
+        86172,
+        94191,
+        117738,
+        123751,
+        129764,
+        142290,
+        170347,
+        176861,
+        182374,
+        342708,
+        352228,
+        358741,
+        363752,
+        397818,
+        402830,
+        408841,
+        414852,
+        426373,
+        434390,
+        443407,
+        448918,
+        493510,
+        502030,
+        507041,
+        512551,
+        560650,
+        566661,
+        573676,
+        579187,
+        584697,
+        639303,
+        649323,
+        662348,
+        745012,
+        753530,
+        761046,
+        767058,
+        793114,
+        824177,
+        829688,
+        835199,
+        841209
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 425371,
+              "hero": "winston",
+              "start": 116737
+            },
+            {
+              "end": 561151,
+              "hero": "dva",
+              "start": 492508
+            },
+            {
+              "end": 938411,
+              "hero": "mercy",
+              "start": 744512
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 533593,
+              "hero": "ana",
+              "start": 120244
+            },
+            {
+              "end": 938411,
+              "hero": "winston",
+              "start": 717956
+            }
+          ],
+          "name": "FERALYODA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 140788,
+              "hero": "genji",
+              "start": 118740
+            },
+            {
+              "end": 480983,
+              "hero": "mccree",
+              "start": 170848
+            },
+            {
+              "end": 576682,
+              "hero": "hanzo",
+              "start": 510045
+            },
+            {
+              "end": 938411,
+              "hero": "tracer",
+              "start": 725471
+            }
+          ],
+          "name": "UHTEX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 498022,
+              "hero": "orisa",
+              "start": 123751
+            },
+            {
+              "end": 938411,
+              "hero": "torb",
+              "start": 759041
+            }
+          ],
+          "name": "KRANKT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 527078,
+              "hero": "zenyatta",
+              "start": 132269
+            },
+            {
+              "end": 568164,
+              "hero": "lucio",
+              "start": 568164
+            },
+            {
+              "end": 938411,
+              "hero": "symmetra",
+              "start": 698916
+            }
+          ],
+          "name": "METAKNIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 489500,
+              "hero": "s76",
+              "start": 124752
+            },
+            {
+              "end": 571171,
+              "hero": "genji",
+              "start": 539606
+            },
+            {
+              "end": 938411,
+              "hero": "s76",
+              "start": 721464
+            }
+          ],
+          "name": "BLACKCHOWDER"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 561151,
+              "hero": "reaper",
+              "start": 120244
+            },
+            {
+              "end": 860250,
+              "hero": "mei",
+              "start": 791610
+            },
+            {
+              "end": 938411,
+              "hero": "mercy",
+              "start": 900337
+            }
+          ],
+          "name": "COBRAKON"
+        },
+        {
+          "heroes": [
+            {
+              "end": 282082,
+              "hero": "mercy",
+              "start": 131768
+            },
+            {
+              "end": 315150,
+              "hero": "pharah",
+              "start": 315150
+            },
+            {
+              "end": 864257,
+              "hero": "s76",
+              "start": 353730
+            },
+            {
+              "end": 916370,
+              "hero": "pharah",
+              "start": 916370
+            },
+            {
+              "end": 938411,
+              "hero": "lucio",
+              "start": 937911
+            }
+          ],
+          "name": "OMFGITZHALLA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 188888,
+              "hero": "roadhog",
+              "start": 116737
+            },
+            {
+              "end": 275569,
+              "hero": "reinhardt",
+              "start": 235985
+            },
+            {
+              "end": 539105,
+              "hero": "sombra",
+              "start": 324169
+            },
+            {
+              "end": 789104,
+              "hero": "genji",
+              "start": 709939
+            },
+            {
+              "end": 938411,
+              "hero": "sombra",
+              "start": 823175
+            }
+          ],
+          "name": "PROTO5"
+        },
+        {
+          "heroes": [
+            {
+              "end": 357739,
+              "hero": "genji",
+              "start": 132269
+            },
+            {
+              "end": 938411,
+              "hero": "hanzo",
+              "start": 489500
+            }
+          ],
+          "name": "WIGHTWING"
+        },
+        {
+          "heroes": [
+            {
+              "end": 568164,
+              "hero": "mccree",
+              "start": 123751
+            },
+            {
+              "end": 784093,
+              "hero": "widowmaker",
+              "start": 717956
+            },
+            {
+              "end": 938411,
+              "hero": "tracer",
+              "start": 838705
+            }
+          ],
+          "name": "KAARGON"
+        },
+        {
+          "heroes": [
+            {
+              "end": 217949,
+              "hero": "tracer",
+              "start": 133772
+            },
+            {
+              "end": 284587,
+              "hero": "s76",
+              "start": 284587
+            },
+            {
+              "end": 712945,
+              "hero": "tracer",
+              "start": 323668
+            },
+            {
+              "end": 938411,
+              "hero": "mccree",
+              "start": 754532
+            }
+          ],
+          "name": "KONRIKTV"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "duration": 985,
+    "end_sr": 2767,
+    "heroes_played": [
+      [
+        "winston",
+        0.5403483339636119
+      ],
+      [
+        "mercy",
+        0.33947329719736125
+      ],
+      [
+        "dva",
+        0.12017836883902686
+      ]
+    ],
+    "key": "notrob-1514/2017-06-27-12-24-brgPMsVpRHTmQ6Gt9kgxeV",
+    "map": "Dorado",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2747,
+    "time": 1498565239,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-27-12-24-brgPMsVpRHTmQ6Gt9kgxeV/game.json",
+    "user_id": 2235147
+  }
+}

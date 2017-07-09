@@ -1,0 +1,2003 @@
+{
+  "data": {
+    "assists": [
+      [
+        143804,
+        "XBLACK",
+        0,
+        1
+      ],
+      [
+        149315,
+        "SENSOR",
+        1,
+        1
+      ],
+      [
+        194414,
+        "XBLACK",
+        1,
+        0
+      ],
+      [
+        202430,
+        "PHETPHET",
+        0,
+        1
+      ],
+      [
+        233997,
+        "PHETPHET",
+        0,
+        1
+      ],
+      [
+        245020,
+        "ARTFAIZ",
+        0,
+        1
+      ],
+      [
+        340719,
+        "FEUILLE",
+        0,
+        1
+      ],
+      [
+        549665,
+        "PHETPHET",
+        1,
+        0
+      ],
+      [
+        574211,
+        "ARTFAIZ",
+        0,
+        1
+      ],
+      [
+        575715,
+        "PHETPHET",
+        0,
+        1
+      ],
+      [
+        582230,
+        "SENSOR",
+        0,
+        1
+      ],
+      [
+        726031,
+        "XBLACK",
+        1,
+        0
+      ],
+      [
+        775135,
+        "PHETPHET",
+        0,
+        1
+      ],
+      [
+        784154,
+        "LOLIPOP",
+        1,
+        0
+      ],
+      [
+        833258,
+        "FEUILLE",
+        0,
+        1
+      ]
+    ],
+    "custom_game": false,
+    "deaths": 6,
+    "end_sr": 2638,
+    "game_duration": 837,
+    "game_ended": 1497618357,
+    "game_started": 1497617476,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 880,
+        "deaths": 6,
+        "elims": 6,
+        "healing": 8237,
+        "hero_stat_1": 5,
+        "hero_stat_2": 11,
+        "hero_stat_3": 10,
+        "hero_stat_5": 6,
+        "hero_stat_6": 837265,
+        "objective_kills": 1,
+        "objective_time": 29,
+        "tab_health": 0.5769230769230769,
+        "time_played": 709997
+      },
+      "ana": {
+        "damage": 0,
+        "deaths": 0,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.5769230769230769,
+        "time_played": 11522
+      },
+      "mercy": {
+        "damage": 445,
+        "deaths": 5,
+        "elims": 3,
+        "healing": 7877,
+        "hero_stat_1": 6,
+        "hero_stat_2": 3,
+        "hero_stat_3": 19,
+        "hero_stat_4": 723,
+        "hero_stat_5": 8,
+        "objective_kills": 0,
+        "objective_time": 29,
+        "tab_health": 0.5769230769230769,
+        "time_played": 547655
+      },
+      "zenyatta": {
+        "damage": 435,
+        "deaths": 1,
+        "elims": 3,
+        "healing": 360,
+        "hero_stat_1": 33,
+        "hero_stat_2": 1,
+        "hero_stat_3": 2,
+        "hero_stat_4": 0,
+        "hero_stat_5": 2,
+        "objective_kills": 1,
+        "objective_time": 0,
+        "tab_health": 0.5769230769230769,
+        "time_played": 72657
+      }
+    },
+    "key": "notrob-1514/2017-06-16-13-05-uoYTKnNzCVbzNjufWDgfT9",
+    "killfeed": [
+      [
+        135786,
+        0,
+        "s76",
+        "PHETPHET",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        144305,
+        1,
+        "reinhardt",
+        "BOOMBAT",
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        146809,
+        1,
+        "lucio",
+        "KOSAYODA",
+        "winston",
+        "ARTFAIZ",
+        [
+          "mercy",
+          "roadhog"
+        ]
+      ],
+      [
+        149315,
+        1,
+        "roadhog",
+        "RINNEXV",
+        "hanzo",
+        "SENSOR",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        149315,
+        1,
+        "lucio",
+        "KOSAYODA",
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        151320,
+        1,
+        "junkrat",
+        "LASTCALL",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        156832,
+        1,
+        "lucio",
+        "KOSAYODA",
+        "mercy",
+        "FEUILLE",
+        [
+        ]
+      ],
+      [
+        186395,
+        1,
+        "junkrat",
+        "LASTCALL",
+        "winston",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        186395,
+        1,
+        "junkrat",
+        "LASTCALL",
+        "hanzo",
+        "SENSOR",
+        [
+        ]
+      ],
+      [
+        194414,
+        1,
+        "junkrat",
+        "LASTCALL",
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        202430,
+        1,
+        "reinhardt",
+        "BOOMBAT",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        229988,
+        1,
+        "s76",
+        "TORAMARU",
+        "reinhardt",
+        "LOLIPOP",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        233997,
+        1,
+        "roadhog",
+        "RINNEXV",
+        "s76",
+        "PHETPHET",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        239509,
+        1,
+        "s76",
+        "TORAMARU",
+        "hanzo",
+        "SENSOR",
+        [
+        ]
+      ],
+      [
+        245020,
+        1,
+        "roadhog",
+        "RINNEXV",
+        "winston",
+        "ARTFAIZ",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        270573,
+        0,
+        "reinhardt",
+        "LOLIPOP",
+        "junkrat_riptire",
+        "LASTCALL",
+        [
+        ]
+      ],
+      [
+        277588,
+        1,
+        "roadhog",
+        "RINNEXV",
+        "genji",
+        "SENSOR",
+        [
+        ]
+      ],
+      [
+        280093,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "junkrat",
+        "LASTCALL",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        280595,
+        0,
+        "s76",
+        "PHETPHET",
+        "reinhardt",
+        "BOOMBAT",
+        [
+          "reinhardt",
+          "ana"
+        ]
+      ],
+      [
+        281096,
+        0,
+        "reinhardt",
+        "LOLIPOP",
+        "mercy",
+        "NOTROB",
+        [
+          "ana"
+        ]
+      ],
+      [
+        283100,
+        0,
+        "s76",
+        "PHETPHET",
+        "lucio",
+        "KOSAYODA",
+        [
+          "reinhardt",
+          "ana"
+        ]
+      ],
+      [
+        285104,
+        0,
+        "s76",
+        "PHETPHET",
+        "s76",
+        "TORAMARU",
+        [
+          "mercy",
+          "ana"
+        ]
+      ],
+      [
+        289113,
+        1,
+        "roadhog",
+        "RINNEXV",
+        "mercy",
+        "FEUILLE",
+        [
+        ]
+      ],
+      [
+        290115,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "roadhog",
+        "RINNEXV",
+        [
+          "ana"
+        ]
+      ],
+      [
+        332201,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        336711,
+        3,
+        "mercy",
+        "NOTROB",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        340719,
+        1,
+        "s76",
+        "TORAMARU",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        340719,
+        1,
+        "roadhog",
+        "RINNEXV",
+        "mercy",
+        "FEUILLE",
+        [
+        ]
+      ],
+      [
+        343726,
+        1,
+        "s76",
+        "TORAMARU",
+        "winston",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        348735,
+        1,
+        "roadhog",
+        "RINNEXV",
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        393332,
+        0,
+        "reinhardt",
+        "LOLIPOP",
+        "roadhog",
+        "RINNEXV",
+        [
+          "ana"
+        ]
+      ],
+      [
+        408359,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "reinhardt",
+        "BOOMBAT",
+        [
+          "ana"
+        ]
+      ],
+      [
+        411867,
+        1,
+        "junkrat",
+        "LASTCALL",
+        "s76",
+        "PHETPHET",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        419385,
+        0,
+        "reinhardt",
+        "LOLIPOP",
+        "junkrat",
+        "LASTCALL",
+        [
+        ]
+      ],
+      [
+        419385,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "lucio",
+        "KOSAYODA",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        419886,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        419886,
+        2,
+        "mercy",
+        "FEUILLE",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        420887,
+        3,
+        "mercy",
+        "NOTROB",
+        "lucio",
+        "KOSAYODA",
+        [
+        ]
+      ],
+      [
+        420887,
+        3,
+        "mercy",
+        "NOTROB",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        421388,
+        3,
+        "mercy",
+        "NOTROB",
+        "junkrat",
+        "LASTCALL",
+        [
+        ]
+      ],
+      [
+        423893,
+        0,
+        "genji",
+        "SENSOR",
+        "roadhog",
+        "RINNEXV",
+        [
+        ]
+      ],
+      [
+        425397,
+        0,
+        "genji",
+        "SENSOR",
+        "junkrat",
+        "LASTCALL",
+        [
+          "ana"
+        ]
+      ],
+      [
+        426399,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        426399,
+        1,
+        "junkrat",
+        "LASTCALL",
+        "mercy",
+        "FEUILLE",
+        [
+        ]
+      ],
+      [
+        426399,
+        1,
+        "reinhardt",
+        "BOOMBAT",
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        427901,
+        1,
+        "lucio",
+        "KOSAYODA",
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        428903,
+        0,
+        "genji",
+        "SENSOR",
+        "lucio",
+        "KOSAYODA",
+        [
+        ]
+      ],
+      [
+        429404,
+        1,
+        "reinhardt",
+        "BOOMBAT",
+        "genji",
+        "SENSOR",
+        [
+        ]
+      ],
+      [
+        434915,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        459973,
+        0,
+        "s76",
+        "PHETPHET",
+        "junkrat",
+        "LASTCALL",
+        [
+        ]
+      ],
+      [
+        463481,
+        0,
+        "s76",
+        "PHETPHET",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        473501,
+        0,
+        "reinhardt",
+        "LOLIPOP",
+        "reinhardt",
+        "BOOMBAT",
+        [
+        ]
+      ],
+      [
+        479012,
+        1,
+        "s76",
+        "TORAMARU",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        479012,
+        0,
+        "genji",
+        "SENSOR",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        485025,
+        1,
+        "junkrat",
+        "LASTCALL",
+        "mercy",
+        "FEUILLE",
+        [
+        ]
+      ],
+      [
+        486529,
+        0,
+        "genji",
+        "SENSOR",
+        "junkrat",
+        "LASTCALL",
+        [
+        ]
+      ],
+      [
+        498556,
+        1,
+        "reinhardt",
+        "BOOMBAT",
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        502063,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "mercy",
+        "NOTROB",
+        [
+          "ana"
+        ]
+      ],
+      [
+        502063,
+        1,
+        "s76",
+        "TORAMARU",
+        "winston",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        502063,
+        1,
+        "reinhardt",
+        "BOOMBAT",
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        530123,
+        0,
+        "s76",
+        "PHETPHET",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        546158,
+        1,
+        "reinhardt",
+        "BOOMBAT",
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        546659,
+        1,
+        "dva",
+        "RINNEXV",
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        548162,
+        0,
+        "winston",
+        "ARTFAIZ",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        549665,
+        1,
+        "lucio",
+        "KOSAYODA",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        551168,
+        1,
+        "s76",
+        "TORAMARU",
+        "winston",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        552170,
+        2,
+        "mercy",
+        "FEUILLE",
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        552170,
+        2,
+        "mercy",
+        "FEUILLE",
+        "winston",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        552170,
+        2,
+        "mercy",
+        "FEUILLE",
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        552170,
+        2,
+        "mercy",
+        "FEUILLE",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        552671,
+        1,
+        null,
+        null,
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        552671,
+        1,
+        null,
+        null,
+        "winston",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        552671,
+        1,
+        null,
+        null,
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        552671,
+        1,
+        null,
+        null,
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        558179,
+        0,
+        "genji",
+        "SENSOR",
+        "lucio",
+        "KOSAYODA",
+        [
+        ]
+      ],
+      [
+        560684,
+        0,
+        "genji",
+        "SENSOR",
+        "dva",
+        "RINNEXV",
+        [
+          "ana"
+        ]
+      ],
+      [
+        561185,
+        1,
+        "dva",
+        "RINNEXV",
+        "mercy",
+        "FEUILLE",
+        [
+        ]
+      ],
+      [
+        562688,
+        0,
+        "s76",
+        "PHETPHET",
+        "reinhardt",
+        "BOOMBAT",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        562688,
+        0,
+        "genji",
+        "SENSOR",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        565192,
+        3,
+        "mercy",
+        "NOTROB",
+        "reinhardt",
+        "BOOMBAT",
+        [
+        ]
+      ],
+      [
+        565192,
+        3,
+        "mercy",
+        "NOTROB",
+        "dva",
+        "RINNEXV",
+        [
+        ]
+      ],
+      [
+        565192,
+        3,
+        "mercy",
+        "NOTROB",
+        "lucio",
+        "KOSAYODA",
+        [
+        ]
+      ],
+      [
+        565192,
+        3,
+        "mercy",
+        "NOTROB",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        568199,
+        1,
+        "tracer",
+        "LASTCALL",
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        572207,
+        1,
+        "dva",
+        "RINNEXV",
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        573209,
+        1,
+        "tracer",
+        "LASTCALL",
+        "winston",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        575715,
+        1,
+        "lucio",
+        "KOSAYODA",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        581728,
+        1,
+        "s76",
+        "TORAMARU",
+        "genji",
+        "SENSOR",
+        [
+        ]
+      ],
+      [
+        728537,
+        0,
+        "genji",
+        "SENSOR",
+        "pharah",
+        "RINNEXV",
+        [
+        ]
+      ],
+      [
+        733046,
+        1,
+        "zenyatta",
+        "NOTROB",
+        "genji",
+        "SENSOR",
+        [
+        ]
+      ],
+      [
+        733046,
+        0,
+        "s76",
+        "PHETPHET",
+        "zenyatta",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        734549,
+        1,
+        "roadhog",
+        "TORAMARU",
+        "mercy",
+        "FEUILLE",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        738056,
+        1,
+        "genji",
+        "LASTCALL",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        740061,
+        1,
+        "roadhog",
+        "TORAMARU",
+        "reinhardt",
+        "LOLIPOP",
+        [
+        ]
+      ],
+      [
+        741062,
+        1,
+        "roadhog",
+        "TORAMARU",
+        "zarya",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        774634,
+        1,
+        "roadhog",
+        "TORAMARU",
+        "mccree",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        779644,
+        1,
+        "pharah",
+        "RINNEXV",
+        "ana",
+        "XBLACK",
+        [
+        ]
+      ],
+      [
+        782651,
+        1,
+        "lucio",
+        "KOSAYODA",
+        "mercy",
+        "FEUILLE",
+        [
+        ]
+      ],
+      [
+        784154,
+        1,
+        "pharah",
+        "RINNEXV",
+        "reinhardt",
+        "LOLIPOP",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        784655,
+        0,
+        "genji",
+        "SENSOR",
+        "roadhog",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        786660,
+        1,
+        "winston",
+        "BOOMBAT",
+        "genji",
+        "SENSOR",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        788163,
+        1,
+        "pharah",
+        "RINNEXV",
+        "dva_mech",
+        "ARTFAIZ",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        788664,
+        1,
+        "winston",
+        "BOOMBAT",
+        "dva",
+        "ARTFAIZ",
+        [
+        ]
+      ],
+      [
+        793174,
+        1,
+        "lucio",
+        "KOSAYODA",
+        "tracer",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        829248,
+        3,
+        "mercy",
+        "NOTROB",
+        "s76",
+        "TORAMARU",
+        [
+        ]
+      ],
+      [
+        832756,
+        1,
+        "s76",
+        "TORAMARU",
+        "s76",
+        "PHETPHET",
+        [
+        ]
+      ],
+      [
+        833258,
+        1,
+        "roadhog",
+        "RINNEXV",
+        "mercy",
+        "FEUILLE",
+        [
+        ]
+      ],
+      [
+        836263,
+        1,
+        "s76",
+        "TORAMARU",
+        "winston",
+        "ARTFAIZ",
+        [
+        ]
+      ]
+    ],
+    "map": "Temple of Anubis",
+    "map_type": "Assault",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            303142,
+            1
+          ]
+        ],
+        "end": 592753,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 39585
+      },
+      {
+        "checkpoints": [
+          [
+            755597,
+            1
+          ],
+          [
+            794676,
+            2
+          ]
+        ],
+        "end": 801689,
+        "end_score": 2,
+        "stage": "Attack",
+        "start": 644858
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "WIN",
+    "score": [
+      2,
+      1
+    ],
+    "start_sr": 2605,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        40,
+        40,
+        40,
+        40,
+        350,
+        350,
+        350,
+        350,
+        425,
+        425,
+        425,
+        425,
+        445,
+        445,
+        445,
+        445,
+        445,
+        445,
+        445,
+        445,
+        445,
+        445,
+        445,
+        880,
+        880,
+        880,
+        880
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        5,
+        6,
+        6,
+        6
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        3008,
+        3396,
+        3396,
+        3396,
+        4976,
+        4976,
+        5086,
+        5203,
+        5348,
+        6361,
+        6361,
+        6873,
+        7163,
+        7163,
+        7877,
+        7877,
+        7877,
+        7877,
+        7877,
+        7877,
+        7877,
+        7877,
+        7877,
+        8237,
+        8237,
+        8237,
+        8237
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "ana",
+        "ana",
+        "ana",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        33,
+        33,
+        33,
+        33
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        8,
+        9,
+        9,
+        9,
+        13,
+        13,
+        13,
+        13,
+        13,
+        15,
+        15,
+        15,
+        16,
+        16,
+        19,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        366,
+        369,
+        369,
+        369,
+        522,
+        522,
+        522,
+        522,
+        522,
+        670,
+        670,
+        670,
+        708,
+        708,
+        723,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        8,
+        8,
+        8,
+        8,
+        19,
+        19,
+        19,
+        24,
+        24,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29
+      ],
+      "time": [
+        41089,
+        56621,
+        63637,
+        259048,
+        282098,
+        288611,
+        294124,
+        427400,
+        433411,
+        444939,
+        451955,
+        468993,
+        502564,
+        508076,
+        532627,
+        548663,
+        555675,
+        588744,
+        646361,
+        651872,
+        663396,
+        670911,
+        685443,
+        691453,
+        696965,
+        702979,
+        734048,
+        739560,
+        745572,
+        751086
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 565192,
+              "hero": "mercy",
+              "start": 281096
+            },
+            {
+              "end": 733046,
+              "hero": "zenyatta",
+              "start": 733046
+            },
+            {
+              "end": 836263,
+              "hero": "mercy",
+              "start": 829248
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 565192,
+              "hero": "reinhardt",
+              "start": 144305
+            },
+            {
+              "end": 836263,
+              "hero": "winston",
+              "start": 786660
+            }
+          ],
+          "name": "BOOMBAT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 423893,
+              "hero": "roadhog",
+              "start": 149315
+            },
+            {
+              "end": 572207,
+              "hero": "dva",
+              "start": 546659
+            },
+            {
+              "end": 788163,
+              "hero": "pharah",
+              "start": 728537
+            },
+            {
+              "end": 836263,
+              "hero": "roadhog",
+              "start": 833258
+            }
+          ],
+          "name": "RINNEXV"
+        },
+        {
+          "heroes": [
+            {
+              "end": 836263,
+              "hero": "lucio",
+              "start": 146809
+            }
+          ],
+          "name": "KOSAYODA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 486529,
+              "hero": "junkrat",
+              "start": 151320
+            },
+            {
+              "end": 573209,
+              "hero": "tracer",
+              "start": 568199
+            },
+            {
+              "end": 836263,
+              "hero": "genji",
+              "start": 738056
+            }
+          ],
+          "name": "LASTCALL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 581728,
+              "hero": "s76",
+              "start": 135786
+            },
+            {
+              "end": 784655,
+              "hero": "roadhog",
+              "start": 734549
+            },
+            {
+              "end": 836263,
+              "hero": "s76",
+              "start": 829248
+            }
+          ],
+          "name": "TORAMARU"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 573209,
+              "hero": "winston",
+              "start": 146809
+            },
+            {
+              "end": 741062,
+              "hero": "zarya",
+              "start": 741062
+            },
+            {
+              "end": 788664,
+              "hero": "dva",
+              "start": 788664
+            },
+            {
+              "end": 836263,
+              "hero": "winston",
+              "start": 836263
+            }
+          ],
+          "name": "ARTFAIZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 239509,
+              "hero": "hanzo",
+              "start": 149315
+            },
+            {
+              "end": 836263,
+              "hero": "genji",
+              "start": 277588
+            }
+          ],
+          "name": "SENSOR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 836263,
+              "hero": "mercy",
+              "start": 156832
+            }
+          ],
+          "name": "FEUILLE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 836263,
+              "hero": "reinhardt",
+              "start": 149315
+            }
+          ],
+          "name": "LOLIPOP"
+        },
+        {
+          "heroes": [
+            {
+              "end": 738056,
+              "hero": "s76",
+              "start": 135786
+            },
+            {
+              "end": 774634,
+              "hero": "mccree",
+              "start": 774634
+            },
+            {
+              "end": 793174,
+              "hero": "tracer",
+              "start": 793174
+            },
+            {
+              "end": 836263,
+              "hero": "s76",
+              "start": 832756
+            }
+          ],
+          "name": "PHETPHET"
+        },
+        {
+          "heroes": [
+            {
+              "end": 836263,
+              "hero": "ana",
+              "start": 144305
+            }
+          ],
+          "name": "XBLACK"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "duration": 837,
+    "end_sr": 2638,
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ],
+      [
+        "zenyatta",
+        0
+      ]
+    ],
+    "key": "notrob-1514/2017-06-16-13-05-uoYTKnNzCVbzNjufWDgfT9",
+    "map": "Temple of Anubis",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      2,
+      1
+    ],
+    "start_sr": 2605,
+    "time": 1497617476,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-16-13-05-uoYTKnNzCVbzNjufWDgfT9/game.json",
+    "user_id": 2235147
+  }
+}

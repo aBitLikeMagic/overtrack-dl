@@ -1,0 +1,1327 @@
+{
+  "data": {
+    "assists": [
+      [
+        142802,
+        "AYYBZ",
+        0,
+        1
+      ],
+      [
+        152322,
+        "SHOOMNI",
+        0,
+        1
+      ],
+      [
+        215954,
+        "HOUSE",
+        0,
+        1
+      ],
+      [
+        277077,
+        "SOURCREAMJOE",
+        0,
+        1
+      ],
+      [
+        298121,
+        "CRUNCHYTACO",
+        0,
+        1
+      ],
+      [
+        335698,
+        "CRUNCHYTACO",
+        0,
+        1
+      ],
+      [
+        537113,
+        "YOUNEEK",
+        1,
+        0
+      ],
+      [
+        578701,
+        "CRUNCHYTACO",
+        1,
+        0
+      ],
+      [
+        581707,
+        "HOUSE",
+        1,
+        0
+      ],
+      [
+        582709,
+        "AYYBZ",
+        1,
+        0
+      ]
+    ],
+    "custom_game": false,
+    "deaths": 3,
+    "end_sr": 2686,
+    "game_duration": 584,
+    "game_ended": 1498560513,
+    "game_started": 1498559897,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 217,
+        "deaths": 2,
+        "elims": 1,
+        "healing": 2628,
+        "hero_stat_1": 4,
+        "hero_stat_2": 6,
+        "hero_stat_3": 2,
+        "hero_stat_5": 4,
+        "hero_stat_6": 584714,
+        "objective_kills": 0,
+        "objective_time": 5,
+        "tab_health": 0.3684210526315789,
+        "time_played": 503045
+      },
+      "mercy": {
+        "damage": 0,
+        "deaths": 2,
+        "elims": 0,
+        "healing": 2221,
+        "hero_stat_1": 5,
+        "hero_stat_2": 0,
+        "hero_stat_3": 5,
+        "hero_stat_4": 427,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 3,
+        "tab_health": 0.3684210526315789,
+        "time_played": 368768
+      },
+      "zenyatta": {
+        "damage": 217,
+        "deaths": 0,
+        "elims": 1,
+        "healing": 400,
+        "hero_stat_1": 27,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 2,
+        "tab_health": 0.3684210526315789,
+        "time_played": 115737
+      }
+    },
+    "key": "notrob-1514/2017-06-27-10-48-SGGrm4ptTmuijhG9vNCL9a",
+    "killfeed": [
+      [
+        106224,
+        1,
+        "pharah",
+        "WONHO",
+        "orisa",
+        "SHOOMNI",
+        [
+        ]
+      ],
+      [
+        121758,
+        0,
+        "widowmaker",
+        "AYYBZ",
+        "widowmaker",
+        "CROSSOVER",
+        [
+        ]
+      ],
+      [
+        138292,
+        1,
+        "mccree",
+        "FERALYODA",
+        "roadhog",
+        "CRUNCHYTACO",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        141799,
+        0,
+        "widowmaker",
+        "AYYBZ",
+        "pharah",
+        "WONHO",
+        [
+        ]
+      ],
+      [
+        141799,
+        1,
+        "mccree",
+        "FERALYODA",
+        "zenyatta",
+        "HOUSE",
+        [
+        ]
+      ],
+      [
+        142802,
+        1,
+        "mccree",
+        "FERALYODA",
+        "widowmaker",
+        "AYYBZ",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        143804,
+        0,
+        "reinhardt",
+        "SHOOMNI",
+        "reinhardt",
+        "SPIKE756",
+        [
+          "ana"
+        ]
+      ],
+      [
+        151320,
+        1,
+        "mccree",
+        "FERALYODA",
+        "s76",
+        "SOURCREAMJOE",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        151821,
+        1,
+        "widowmaker",
+        "CROSSOVER",
+        "reinhardt",
+        "SHOOMNI",
+        [
+          "mercy",
+          "zenyatta"
+        ]
+      ],
+      [
+        156833,
+        0,
+        "ana",
+        "YOUNEEK",
+        "mccree",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        164849,
+        1,
+        "widowmaker",
+        "CROSSOVER",
+        "mccree",
+        "AYYBZ",
+        [
+        ]
+      ],
+      [
+        191404,
+        1,
+        "widowmaker",
+        "CROSSOVER",
+        "mccree",
+        "AYYBZ",
+        [
+        ]
+      ],
+      [
+        192406,
+        1,
+        "reinhardt",
+        "SPIKE756",
+        "s76",
+        "SOURCREAMJOE",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        201426,
+        1,
+        "zenyatta",
+        "REVENIR",
+        "ana",
+        "YOUNEEK",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        202427,
+        0,
+        "winston",
+        "CRUNCHYTACO",
+        "zenyatta",
+        "REVENIR",
+        [
+          "ana"
+        ]
+      ],
+      [
+        205935,
+        0,
+        "zenyatta",
+        "HOUSE",
+        "widowmaker",
+        "CROSSOVER",
+        [
+        ]
+      ],
+      [
+        215954,
+        1,
+        "reinhardt",
+        "SPIKE756",
+        "zenyatta",
+        "HOUSE",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        221967,
+        1,
+        "reinhardt",
+        "SPIKE756",
+        "winston",
+        "CRUNCHYTACO",
+        [
+        ]
+      ],
+      [
+        227478,
+        0,
+        "mccree",
+        "AYYBZ",
+        "mccree",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        234992,
+        3,
+        "mercy",
+        "NOTROB",
+        "mccree",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        239501,
+        0,
+        "mccree",
+        "AYYBZ",
+        "mercy",
+        "NOTROB",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        240502,
+        1,
+        "mccree",
+        "FERALYODA",
+        "pharah",
+        "SOURCREAMJOE",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        241505,
+        1,
+        "mccree",
+        "FERALYODA",
+        "mccree",
+        "AYYBZ",
+        [
+        ]
+      ],
+      [
+        259042,
+        1,
+        "pharah",
+        "WONHO",
+        "s76",
+        "CRUNCHYTACO",
+        [
+        ]
+      ],
+      [
+        260043,
+        1,
+        "pharah",
+        "WONHO",
+        "zenyatta",
+        "HOUSE",
+        [
+        ]
+      ],
+      [
+        263049,
+        1,
+        "mccree",
+        "FERALYODA",
+        "mccree",
+        "AYYBZ",
+        [
+        ]
+      ],
+      [
+        277077,
+        1,
+        "pharah",
+        "WONHO",
+        "hanzo",
+        "SOURCREAMJOE",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        286597,
+        1,
+        "widowmaker",
+        "CROSSOVER",
+        "winston",
+        "HOUSE",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        291106,
+        1,
+        "widowmaker",
+        "CROSSOVER",
+        "mccree",
+        "AYYBZ",
+        [
+        ]
+      ],
+      [
+        298121,
+        1,
+        "pharah",
+        "WONHO",
+        "s76",
+        "CRUNCHYTACO",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        302631,
+        0,
+        "reinhardt",
+        "SHOOMNI",
+        "reinhardt",
+        "SPIKE756",
+        [
+          "ana"
+        ]
+      ],
+      [
+        304635,
+        0,
+        "reinhardt",
+        "SHOOMNI",
+        "mercy",
+        "NOTROB",
+        [
+          "ana"
+        ]
+      ],
+      [
+        318161,
+        0,
+        "s76",
+        "CRUNCHYTACO",
+        "widowmaker",
+        "CROSSOVER",
+        [
+        ]
+      ],
+      [
+        319164,
+        1,
+        "mccree",
+        "FERALYODA",
+        "winston",
+        "HOUSE",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        323671,
+        1,
+        "mccree",
+        "FERALYODA",
+        "reinhardt",
+        "SHOOMNI",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        332691,
+        1,
+        "zenyatta",
+        "REVENIR",
+        "hanzo",
+        "SOURCREAMJOE",
+        [
+        ]
+      ],
+      [
+        334696,
+        0,
+        null,
+        null,
+        "widowmaker",
+        "CROSSOVER",
+        [
+        ]
+      ],
+      [
+        335698,
+        1,
+        "zenyatta",
+        "REVENIR",
+        "s76",
+        "CRUNCHYTACO",
+        [
+        ]
+      ],
+      [
+        336700,
+        1,
+        "reinhardt",
+        "SPIKE756",
+        "ana",
+        "YOUNEEK",
+        [
+        ]
+      ],
+      [
+        340209,
+        1,
+        "pharah",
+        "WONHO",
+        "winston",
+        "HOUSE",
+        [
+          "zenyatta",
+          "mccree"
+        ]
+      ],
+      [
+        459460,
+        0,
+        "orisa",
+        "HOUSE",
+        "tracer",
+        "SPIKE756",
+        [
+        ]
+      ],
+      [
+        459460,
+        1,
+        "pharah",
+        "WONHO",
+        "hanzo",
+        "SOURCREAMJOE",
+        [
+        ]
+      ],
+      [
+        482001,
+        0,
+        "junkrat",
+        "SHOOMNI",
+        "lucio",
+        "REVENIR",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        488013,
+        1,
+        "pharah",
+        "WONHO",
+        "hanzo",
+        "SOURCREAMJOE",
+        [
+        ]
+      ],
+      [
+        499536,
+        0,
+        "torb",
+        "YOUNEEK",
+        "winston",
+        "FERALYODA",
+        [
+        ]
+      ],
+      [
+        500537,
+        1,
+        "sombra",
+        "CROSSOVER",
+        "junkrat",
+        "SHOOMNI",
+        [
+        ]
+      ],
+      [
+        511057,
+        0,
+        "orisa",
+        "HOUSE",
+        "zenyatta",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        515566,
+        1,
+        "tracer",
+        "SPIKE756",
+        "torb_turret",
+        "YOUNEEK",
+        [
+        ]
+      ],
+      [
+        516068,
+        0,
+        "hanzo",
+        "SOURCREAMJOE",
+        "pharah",
+        "WONHO",
+        [
+        ]
+      ],
+      [
+        516068,
+        1,
+        "pharah",
+        "WONHO",
+        "hanzo",
+        "SOURCREAMJOE",
+        [
+        ]
+      ],
+      [
+        517070,
+        0,
+        "torb",
+        "YOUNEEK",
+        "lucio",
+        "REVENIR",
+        [
+        ]
+      ],
+      [
+        521580,
+        1,
+        "sombra",
+        "CROSSOVER",
+        "orisa",
+        "HOUSE",
+        [
+        ]
+      ],
+      [
+        533606,
+        1,
+        "sombra",
+        "CROSSOVER",
+        "lucio",
+        "CRUNCHYTACO",
+        [
+        ]
+      ],
+      [
+        536612,
+        1,
+        "winston",
+        "FERALYODA",
+        "junkrat",
+        "SHOOMNI",
+        [
+          "sombra"
+        ]
+      ],
+      [
+        537113,
+        1,
+        "zenyatta",
+        "NOTROB",
+        "torb",
+        "YOUNEEK",
+        [
+          "sombra"
+        ]
+      ],
+      [
+        578701,
+        1,
+        "mccree",
+        "FERALYODA",
+        "roadhog",
+        "CRUNCHYTACO",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        581707,
+        0,
+        "widowmaker",
+        "AYYBZ",
+        "pharah",
+        "WONHO",
+        [
+        ]
+      ],
+      [
+        581707,
+        1,
+        "mccree",
+        "FERALYODA",
+        "zenyatta",
+        "HOUSE",
+        [
+        ]
+      ],
+      [
+        582709,
+        1,
+        "mccree",
+        "FERALYODA",
+        "widowmaker",
+        "AYYBZ",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        583712,
+        0,
+        "reinhardt",
+        "SHOOMNI",
+        "reinhardt",
+        "SPIKE756",
+        [
+          "ana"
+        ]
+      ]
+    ],
+    "map": "Eichenwalde",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 345219,
+        "end_score": 0,
+        "stage": "Defend",
+        "start": 39081
+      },
+      {
+        "checkpoints": [
+          [
+            541122,
+            1
+          ]
+        ],
+        "end": 547635,
+        "end_score": 1,
+        "stage": "Attack",
+        "start": 396826
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 2665,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        229,
+        229,
+        229,
+        229,
+        217
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "healing": [
+        0,
+        0,
+        2202,
+        2276,
+        2276,
+        2276,
+        2276,
+        2116,
+        2116,
+        2221,
+        2221,
+        2221,
+        2228,
+        2622,
+        2622,
+        2622,
+        2622,
+        2628
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        0,
+        27,
+        27,
+        27,
+        27,
+        27
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        291,
+        291,
+        291,
+        291,
+        291,
+        427,
+        427,
+        427,
+        427,
+        427,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5
+      ],
+      "time": [
+        41084,
+        62629,
+        229482,
+        240002,
+        245513,
+        251023,
+        256537,
+        305638,
+        310645,
+        398829,
+        403839,
+        409852,
+        428392,
+        511558,
+        517070,
+        524085,
+        530098,
+        544129
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 304635,
+              "hero": "mercy",
+              "start": 234992
+            },
+            {
+              "end": 583712,
+              "hero": "zenyatta",
+              "start": 511057
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 323671,
+              "hero": "mccree",
+              "start": 138292
+            },
+            {
+              "end": 536612,
+              "hero": "winston",
+              "start": 499536
+            },
+            {
+              "end": 583712,
+              "hero": "mccree",
+              "start": 578701
+            }
+          ],
+          "name": "FERALYODA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 583712,
+              "hero": "pharah",
+              "start": 106224
+            }
+          ],
+          "name": "WONHO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 335698,
+              "hero": "zenyatta",
+              "start": 201426
+            },
+            {
+              "end": 583712,
+              "hero": "lucio",
+              "start": 482001
+            }
+          ],
+          "name": "REVENIR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 336700,
+              "hero": "reinhardt",
+              "start": 143804
+            },
+            {
+              "end": 515566,
+              "hero": "tracer",
+              "start": 459460
+            },
+            {
+              "end": 583712,
+              "hero": "reinhardt",
+              "start": 583712
+            }
+          ],
+          "name": "SPIKE756"
+        },
+        {
+          "heroes": [
+            {
+              "end": 334696,
+              "hero": "widowmaker",
+              "start": 121758
+            },
+            {
+              "end": 583712,
+              "hero": "sombra",
+              "start": 500537
+            }
+          ],
+          "name": "CROSSOVER"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 192406,
+              "hero": "s76",
+              "start": 151320
+            },
+            {
+              "end": 240502,
+              "hero": "pharah",
+              "start": 240502
+            },
+            {
+              "end": 583712,
+              "hero": "hanzo",
+              "start": 277077
+            }
+          ],
+          "name": "SOURCREAMJOE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 260043,
+              "hero": "zenyatta",
+              "start": 141799
+            },
+            {
+              "end": 340209,
+              "hero": "winston",
+              "start": 286597
+            },
+            {
+              "end": 521580,
+              "hero": "orisa",
+              "start": 459460
+            },
+            {
+              "end": 583712,
+              "hero": "zenyatta",
+              "start": 581707
+            }
+          ],
+          "name": "HOUSE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 142802,
+              "hero": "widowmaker",
+              "start": 121758
+            },
+            {
+              "end": 291106,
+              "hero": "mccree",
+              "start": 164849
+            },
+            {
+              "end": 583712,
+              "hero": "widowmaker",
+              "start": 581707
+            }
+          ],
+          "name": "AYYBZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 106224,
+              "hero": "orisa",
+              "start": 106224
+            },
+            {
+              "end": 323671,
+              "hero": "reinhardt",
+              "start": 143804
+            },
+            {
+              "end": 536612,
+              "hero": "junkrat",
+              "start": 482001
+            },
+            {
+              "end": 583712,
+              "hero": "reinhardt",
+              "start": 583712
+            }
+          ],
+          "name": "SHOOMNI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 138292,
+              "hero": "roadhog",
+              "start": 138292
+            },
+            {
+              "end": 221967,
+              "hero": "winston",
+              "start": 202427
+            },
+            {
+              "end": 335698,
+              "hero": "s76",
+              "start": 259042
+            },
+            {
+              "end": 533606,
+              "hero": "lucio",
+              "start": 533606
+            },
+            {
+              "end": 583712,
+              "hero": "roadhog",
+              "start": 578701
+            }
+          ],
+          "name": "CRUNCHYTACO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 336700,
+              "hero": "ana",
+              "start": 156833
+            },
+            {
+              "end": 583712,
+              "hero": "torb",
+              "start": 499536
+            }
+          ],
+          "name": "YOUNEEK"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "duration": 584,
+    "end_sr": 2686,
+    "heroes_played": [
+      [
+        "zenyatta",
+        0.5105834235196559
+      ],
+      [
+        "mercy",
+        0.4894165764803441
+      ]
+    ],
+    "key": "notrob-1514/2017-06-27-10-48-SGGrm4ptTmuijhG9vNCL9a",
+    "map": "Eichenwalde",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 2665,
+    "time": 1498559897,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-27-10-48-SGGrm4ptTmuijhG9vNCL9a/game.json",
+    "user_id": 2235147
+  }
+}

@@ -1,0 +1,1825 @@
+{
+  "data": {
+    "assists": [
+      [
+        126773,
+        "OVERWATCH",
+        0,
+        1
+      ],
+      [
+        157327,
+        "OVERWATCH",
+        0,
+        1
+      ],
+      [
+        172357,
+        "DEVIL",
+        0,
+        1
+      ],
+      [
+        192399,
+        "OVERWATCH",
+        0,
+        1
+      ],
+      [
+        192900,
+        "MINERVA",
+        0,
+        1
+      ],
+      [
+        228974,
+        "OVERWATCH",
+        0,
+        1
+      ],
+      [
+        307138,
+        "OVERWATCH",
+        0,
+        1
+      ],
+      [
+        315657,
+        "SAMMEA",
+        0,
+        1
+      ],
+      [
+        325173,
+        "KAMMINGLING",
+        1,
+        1
+      ],
+      [
+        328180,
+        "MINERVA",
+        0,
+        1
+      ],
+      [
+        336698,
+        "SAMMEA",
+        0,
+        1
+      ],
+      [
+        491023,
+        "KAMMINGLING",
+        0,
+        1
+      ],
+      [
+        549146,
+        "KAMMINGLING",
+        0,
+        1
+      ],
+      [
+        560168,
+        "OVERWATCH",
+        1,
+        0
+      ],
+      [
+        600752,
+        "SAMMEA",
+        0,
+        1
+      ],
+      [
+        634323,
+        "OVERWATCH",
+        1,
+        1
+      ],
+      [
+        664385,
+        "KAMMINGLING",
+        0,
+        1
+      ],
+      [
+        734034,
+        "OVERWATCH",
+        0,
+        1
+      ],
+      [
+        743053,
+        "SAMMEA",
+        1,
+        1
+      ],
+      [
+        779630,
+        "SAMMEA",
+        1,
+        0
+      ],
+      [
+        784142,
+        "OVERWATCH",
+        1,
+        0
+      ]
+    ],
+    "deaths": 2,
+    "end_sr": 2576,
+    "game_duration": 787,
+    "game_ended": 1496669290,
+    "game_started": 1496668459,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 647,
+        "deaths": 2,
+        "elims": 5,
+        "healing": 8856,
+        "hero_stat_1": 6,
+        "hero_stat_2": 18,
+        "hero_stat_3": 3,
+        "hero_stat_5": 6,
+        "hero_stat_6": 787650,
+        "objective_kills": 2,
+        "objective_time": 74,
+        "tab_health": 0.28,
+        "time_played": 704977
+      },
+      "mercy": {
+        "damage": 647,
+        "deaths": 2,
+        "elims": 5,
+        "healing": 8856,
+        "hero_stat_1": 16,
+        "hero_stat_2": 5,
+        "hero_stat_3": 29,
+        "hero_stat_4": 562,
+        "hero_stat_5": 2,
+        "objective_kills": 2,
+        "objective_time": 74,
+        "tab_health": 0.28,
+        "time_played": 704977
+      }
+    },
+    "key": "notrob-1514/2017-06-05-13-28-gB7XXM32ogSW5svgvG92VY",
+    "killfeed": [
+      [
+        113746,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "reinhardt",
+        "SAMMEA",
+        [
+          "mercy",
+          "zenyatta"
+        ]
+      ],
+      [
+        120758,
+        0,
+        "hanzo",
+        "KAMMINGLING",
+        "winston",
+        "XTRA",
+        [
+          "ana"
+        ]
+      ],
+      [
+        120758,
+        1,
+        "tracer",
+        "TRAGIC",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        124767,
+        0,
+        "hanzo",
+        "KAMMINGLING",
+        "tracer",
+        "TRAGIC",
+        [
+        ]
+      ],
+      [
+        126271,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "s76",
+        "OVERWATCH",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        131281,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "hanzo",
+        "KAMMINGLING",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        131782,
+        1,
+        "pharah",
+        "ANGELO",
+        "ana",
+        "MINERVA",
+        [
+        ]
+      ],
+      [
+        140798,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "dva_mech",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        145306,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "dva",
+        "DEVIL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        155824,
+        1,
+        "pharah",
+        "ANGELO",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        156826,
+        1,
+        "pharah",
+        "ANGELO",
+        "s76",
+        "OVERWATCH",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        170355,
+        1,
+        "tracer",
+        "TRAGIC",
+        "dva_mech",
+        "DEVIL",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        171856,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "dva",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        177870,
+        0,
+        "reinhardt",
+        "SAMMEA",
+        "winston",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        184884,
+        1,
+        "tracer",
+        "TRAGIC",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        185386,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "reinhardt",
+        "SAMMEA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        191898,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "s76",
+        "OVERWATCH",
+        [
+        ]
+      ],
+      [
+        192900,
+        1,
+        "pharah",
+        "ANGELO",
+        "ana",
+        "MINERVA",
+        [
+        ]
+      ],
+      [
+        197911,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "hanzo",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        213440,
+        1,
+        "pharah",
+        "ANGELO",
+        "reinhardt",
+        "SAMMEA",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        213941,
+        1,
+        "tracer",
+        "TRAGIC",
+        "dva_mech",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        219453,
+        1,
+        "pharah",
+        "ANGELO",
+        "dva",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        220455,
+        1,
+        "tracer",
+        "TRAGIC",
+        "lucio",
+        "@UNKNOWN_RED#0",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        221458,
+        0,
+        "s76",
+        "OVERWATCH",
+        "pharah",
+        "ANGELO",
+        [
+        ]
+      ],
+      [
+        228974,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "s76",
+        "OVERWATCH",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        230478,
+        1,
+        "winston",
+        "XTRA",
+        "ana",
+        "MINERVA",
+        [
+        ]
+      ],
+      [
+        245510,
+        1,
+        "tracer",
+        "TRAGIC",
+        "reinhardt",
+        "SAMMEA",
+        [
+        ]
+      ],
+      [
+        254529,
+        0,
+        "s76",
+        "OVERWATCH",
+        "mercy",
+        "NOTROB",
+        [
+          "ana"
+        ]
+      ],
+      [
+        255030,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "dva_mech",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        257034,
+        1,
+        "winston",
+        "XTRA",
+        "s76",
+        "OVERWATCH",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        262547,
+        1,
+        "tracer",
+        "TRAGIC",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        263548,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "dva",
+        "DEVIL",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        268060,
+        1,
+        "tracer",
+        "TRAGIC",
+        "ana",
+        "MINERVA",
+        [
+        ]
+      ],
+      [
+        269061,
+        0,
+        "reinhardt",
+        "SAMMEA",
+        "tracer",
+        "TRAGIC",
+        [
+        ]
+      ],
+      [
+        271567,
+        1,
+        "pharah",
+        "ANGELO",
+        "pharah",
+        "KAMMINGLING",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        274074,
+        0,
+        "reinhardt",
+        "SAMMEA",
+        "zenyatta",
+        "INFINITENO1",
+        [
+          "ana"
+        ]
+      ],
+      [
+        275577,
+        1,
+        "pharah",
+        "ANGELO",
+        "reinhardt",
+        "SAMMEA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        307138,
+        1,
+        "pharah",
+        "ANGELO",
+        "s76",
+        "OVERWATCH",
+        [
+        ]
+      ],
+      [
+        314154,
+        1,
+        null,
+        null,
+        "s76",
+        "OVERWATCH",
+        [
+        ]
+      ],
+      [
+        315156,
+        2,
+        "mercy",
+        "@UNKNOWN_RED#0",
+        "s76",
+        "OVERWATCH",
+        [
+        ]
+      ],
+      [
+        315156,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "winston",
+        "SAMMEA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        323671,
+        1,
+        "winston",
+        "XTRA",
+        "s76",
+        "OVERWATCH",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        325173,
+        1,
+        "widowmaker",
+        "TRAGIC",
+        "pharah",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        326676,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "ana",
+        "MINERVA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        326676,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        331186,
+        1,
+        "widowmaker",
+        "TRAGIC",
+        "dva_mech",
+        "DEVIL",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        332689,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "dva",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        336698,
+        1,
+        "winston",
+        "XTRA",
+        "winston",
+        "SAMMEA",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        340706,
+        1,
+        "winston",
+        "XTRA",
+        "genji",
+        "KAMMINGLING",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        341206,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "s76",
+        "OVERWATCH",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        344213,
+        1,
+        "pharah",
+        "ANGELO",
+        "mercy",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        344714,
+        1,
+        "pharah",
+        "ANGELO",
+        "ana",
+        "MINERVA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        476494,
+        0,
+        "genji",
+        "KAMMINGLING",
+        "hanzo",
+        "TRAGIC",
+        [
+        ]
+      ],
+      [
+        482007,
+        0,
+        "winston",
+        "SAMMEA",
+        "zenyatta",
+        "INFINITENO1",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        491023,
+        1,
+        "winston",
+        "XTRA",
+        "genji",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        503050,
+        0,
+        "pharah",
+        "DEVIL",
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        514574,
+        0,
+        "winston",
+        "SAMMEA",
+        "mccree",
+        "TRAGIC",
+        [
+        ]
+      ],
+      [
+        520085,
+        1,
+        "winston",
+        "XTRA",
+        "lucio",
+        "@UNKNOWN_RED#0",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        521588,
+        0,
+        "genji",
+        "KAMMINGLING",
+        "mercy",
+        "NOTROB",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        525096,
+        1,
+        "pharah",
+        "ANGELO",
+        "pharah",
+        "DEVIL",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        530105,
+        1,
+        null,
+        null,
+        "lucio",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        530105,
+        1,
+        null,
+        null,
+        "pharah",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        531608,
+        2,
+        "mercy",
+        "MINERVA",
+        "lucio",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        531608,
+        2,
+        "mercy",
+        "MINERVA",
+        "pharah",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        542630,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "winston",
+        "SAMMEA",
+        [
+        ]
+      ],
+      [
+        547142,
+        1,
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        "mercy",
+        "MINERVA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        547142,
+        1,
+        "mccree",
+        "TRAGIC",
+        "genji",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        559166,
+        1,
+        "mccree",
+        "TRAGIC",
+        "pharah",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        560168,
+        1,
+        "winston",
+        "XTRA",
+        "zarya",
+        "OVERWATCH",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        592738,
+        0,
+        "widowmaker",
+        "DEVIL",
+        "winston",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        595744,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "reinhardt",
+        "OVERWATCH",
+        [
+        ]
+      ],
+      [
+        595744,
+        3,
+        "mercy",
+        "NOTROB",
+        "winston",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        599249,
+        1,
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        "mercy",
+        "MINERVA",
+        [
+        ]
+      ],
+      [
+        600251,
+        1,
+        "pharah",
+        "ANGELO",
+        "winston",
+        "SAMMEA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        601754,
+        1,
+        "winston",
+        "XTRA",
+        "widowmaker",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        602756,
+        0,
+        "genji",
+        "KAMMINGLING",
+        "zenyatta",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        605764,
+        1,
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        "lucio",
+        "@UNKNOWN_RED#0",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        634323,
+        1,
+        "mercy",
+        "NOTROB",
+        "reinhardt",
+        "OVERWATCH",
+        [
+        ]
+      ],
+      [
+        642340,
+        1,
+        "mccree",
+        "TRAGIC",
+        "genji",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        645345,
+        1,
+        "pharah",
+        "ANGELO",
+        "winston",
+        "SAMMEA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        646848,
+        1,
+        null,
+        null,
+        "winston",
+        "SAMMEA",
+        [
+        ]
+      ],
+      [
+        646848,
+        1,
+        null,
+        null,
+        "genji",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        647850,
+        2,
+        "mercy",
+        "MINERVA",
+        "winston",
+        "SAMMEA",
+        [
+        ]
+      ],
+      [
+        647850,
+        2,
+        "mercy",
+        "MINERVA",
+        "genji",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        650857,
+        1,
+        "winston",
+        "XTRA",
+        "widowmaker",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        651859,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "mercy",
+        "MINERVA",
+        [
+        ]
+      ],
+      [
+        654865,
+        1,
+        "mccree",
+        "TRAGIC",
+        "winston",
+        "SAMMEA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        656869,
+        0,
+        "genji",
+        "KAMMINGLING",
+        "zenyatta",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        664385,
+        1,
+        "mccree",
+        "TRAGIC",
+        "genji",
+        "KAMMINGLING",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        664385,
+        1,
+        "mccree",
+        "TRAGIC",
+        "lucio",
+        "@UNKNOWN_RED#0",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        665387,
+        1,
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        "reinhardt",
+        "OVERWATCH",
+        [
+        ]
+      ],
+      [
+        671901,
+        1,
+        "pharah",
+        "ANGELO",
+        "widowmaker",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        688434,
+        0,
+        "reaper",
+        "KAMMINGLING",
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        [
+        ]
+      ],
+      [
+        689937,
+        1,
+        "mccree",
+        "TRAGIC",
+        "dva_mech",
+        "SAMMEA",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        690438,
+        3,
+        "mercy",
+        "NOTROB",
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        [
+        ]
+      ],
+      [
+        692945,
+        1,
+        "mccree",
+        "TRAGIC",
+        "mercy",
+        "MINERVA",
+        [
+        ]
+      ],
+      [
+        695950,
+        0,
+        "widowmaker",
+        "DEVIL",
+        "pharah",
+        "ANGELO",
+        [
+        ]
+      ],
+      [
+        709980,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "dva",
+        "SAMMEA",
+        [
+        ]
+      ],
+      [
+        711483,
+        0,
+        "widowmaker",
+        "DEVIL",
+        "mccree",
+        "TRAGIC",
+        [
+        ]
+      ],
+      [
+        715493,
+        1,
+        "winston",
+        "XTRA",
+        "reaper",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        730526,
+        1,
+        "pharah",
+        "ANGELO",
+        "widowmaker",
+        "DEVIL",
+        [
+        ]
+      ],
+      [
+        732531,
+        1,
+        "pharah",
+        "ANGELO",
+        "reinhardt",
+        "OVERWATCH",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        743053,
+        1,
+        "zenyatta",
+        "INFINITENO1",
+        "winston",
+        "SAMMEA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        744056,
+        1,
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        "reaper",
+        "KAMMINGLING",
+        [
+        ]
+      ],
+      [
+        744056,
+        1,
+        "pharah",
+        "ANGELO",
+        "lucio",
+        "@UNKNOWN_RED#0",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        750572,
+        1,
+        "mccree",
+        "TRAGIC",
+        "mercy",
+        "MINERVA",
+        [
+        ]
+      ],
+      [
+        779630,
+        1,
+        "winston",
+        "XTRA",
+        "winston",
+        "SAMMEA",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ],
+      [
+        783641,
+        1,
+        "winston",
+        "XTRA",
+        "genji",
+        "KAMMINGLING",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        784142,
+        1,
+        "dva",
+        "@UNKNOWN_BLUE#0",
+        "s76",
+        "OVERWATCH",
+        [
+          "zenyatta"
+        ]
+      ]
+    ],
+    "map": "Watchpoint: Gibraltar",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            181878,
+            1
+          ],
+          [
+            271065,
+            2
+          ],
+          [
+            345215,
+            3
+          ]
+        ],
+        "end": 352229,
+        "end_score": 3,
+        "stage": "Attack",
+        "start": 40083
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 752074,
+        "end_score": 0,
+        "stage": "Defend",
+        "start": 404334
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2544,
+    "tab_statistics": {
+      "damage": [
+        0,
+        125,
+        125,
+        125,
+        125,
+        205,
+        205,
+        205,
+        205,
+        205,
+        205,
+        205,
+        647
+      ],
+      "deaths": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "elims": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ],
+      "healing": [
+        0,
+        2351,
+        2351,
+        2351,
+        2351,
+        3446,
+        3446,
+        3446,
+        3446,
+        5004,
+        5004,
+        5004,
+        8856
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        5,
+        6,
+        6,
+        6,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        16
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        5
+      ],
+      "hero_stat_3": [
+        0,
+        11,
+        12,
+        12,
+        12,
+        17,
+        17,
+        17,
+        17,
+        18,
+        19,
+        19,
+        29
+      ],
+      "hero_stat_4": [
+        0,
+        35,
+        35,
+        35,
+        35,
+        119,
+        119,
+        119,
+        119,
+        171,
+        171,
+        171,
+        562
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "objective_time": [
+        0,
+        42,
+        42,
+        42,
+        42,
+        57,
+        57,
+        57,
+        57,
+        63,
+        63,
+        63,
+        74
+      ],
+      "time": [
+        43590,
+        255531,
+        265552,
+        272570,
+        280085,
+        350726,
+        405838,
+        420873,
+        436904,
+        522591,
+        529605,
+        535618,
+        748567
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 784142,
+              "hero": "mercy",
+              "start": 254529
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 784142,
+              "hero": "zenyatta",
+              "start": 140798
+            }
+          ],
+          "name": "INFINITENO1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 784142,
+              "hero": "winston",
+              "start": 120758
+            }
+          ],
+          "name": "XTRA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 269061,
+              "hero": "tracer",
+              "start": 120758
+            },
+            {
+              "end": 331186,
+              "hero": "widowmaker",
+              "start": 325173
+            },
+            {
+              "end": 476494,
+              "hero": "hanzo",
+              "start": 476494
+            },
+            {
+              "end": 784142,
+              "hero": "mccree",
+              "start": 514574
+            }
+          ],
+          "name": "TRAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 341206,
+              "hero": "dva",
+              "start": 113746
+            },
+            {
+              "end": 744056,
+              "hero": "reinhardt",
+              "start": 503050
+            },
+            {
+              "end": 784142,
+              "hero": "dva",
+              "start": 784142
+            }
+          ],
+          "name": "@UNKNOWN_BLUE#0"
+        },
+        {
+          "heroes": [
+            {
+              "end": 784142,
+              "hero": "pharah",
+              "start": 131782
+            }
+          ],
+          "name": "ANGELO"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 197911,
+              "hero": "hanzo",
+              "start": 120758
+            },
+            {
+              "end": 325173,
+              "hero": "pharah",
+              "start": 271567
+            },
+            {
+              "end": 664385,
+              "hero": "genji",
+              "start": 340706
+            },
+            {
+              "end": 744056,
+              "hero": "reaper",
+              "start": 688434
+            },
+            {
+              "end": 784142,
+              "hero": "genji",
+              "start": 783641
+            }
+          ],
+          "name": "KAMMINGLING"
+        },
+        {
+          "heroes": [
+            {
+              "end": 344714,
+              "hero": "ana",
+              "start": 131782
+            },
+            {
+              "end": 784142,
+              "hero": "mercy",
+              "start": 531608
+            }
+          ],
+          "name": "MINERVA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 332689,
+              "hero": "dva",
+              "start": 145306
+            },
+            {
+              "end": 559166,
+              "hero": "pharah",
+              "start": 503050
+            },
+            {
+              "end": 784142,
+              "hero": "widowmaker",
+              "start": 592738
+            }
+          ],
+          "name": "DEVIL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 341206,
+              "hero": "s76",
+              "start": 126271
+            },
+            {
+              "end": 560168,
+              "hero": "zarya",
+              "start": 560168
+            },
+            {
+              "end": 732531,
+              "hero": "reinhardt",
+              "start": 595744
+            },
+            {
+              "end": 784142,
+              "hero": "s76",
+              "start": 784142
+            }
+          ],
+          "name": "OVERWATCH"
+        },
+        {
+          "heroes": [
+            {
+              "end": 275577,
+              "hero": "reinhardt",
+              "start": 113746
+            },
+            {
+              "end": 654865,
+              "hero": "winston",
+              "start": 315156
+            },
+            {
+              "end": 709980,
+              "hero": "dva",
+              "start": 709980
+            },
+            {
+              "end": 784142,
+              "hero": "winston",
+              "start": 743053
+            }
+          ],
+          "name": "SAMMEA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 184884,
+              "hero": "mercy",
+              "start": 120758
+            },
+            {
+              "end": 220455,
+              "hero": "lucio",
+              "start": 220455
+            },
+            {
+              "end": 344213,
+              "hero": "mercy",
+              "start": 262547
+            },
+            {
+              "end": 784142,
+              "hero": "lucio",
+              "start": 520085
+            }
+          ],
+          "name": "@UNKNOWN_RED#0"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "duration": 787,
+    "end_sr": 2576,
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "notrob-1514/2017-06-05-13-28-gB7XXM32ogSW5svgvG92VY",
+    "map": "Watchpoint: Gibraltar",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2544,
+    "time": 1496668459,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-05-13-28-gB7XXM32ogSW5svgvG92VY/game.json",
+    "user_id": 2235147
+  }
+}
