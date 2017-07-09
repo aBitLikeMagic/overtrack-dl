@@ -43,7 +43,7 @@ app.get('/', async (request, response) => {
     <h2>downloaded</h2>`];
   
   for (const filename of await fs.readdir('games')) {
-    if (filename.match(/\.json$/)) {
+    if (filename.match(/\.(json|csv)$/)) {
       const en = he.escape(filename);
       parts.push(`<p><a href="games/${en}" id="games/${en}">${en}</a></p>`);
     }
@@ -52,7 +52,7 @@ app.get('/', async (request, response) => {
 });
 
 app.post('/', async (request, response) => {
-  const games = await OvertrackUser.getGamesWithData(request.body.session);
+  const [games] = await OvertrackUser.getGamesWithData(request.body.session);
   response.redirect(`/#games/${games[games.length - 1].key()}.json`);
 })
 

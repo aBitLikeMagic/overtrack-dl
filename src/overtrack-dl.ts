@@ -41,8 +41,63 @@ export class OvertrackUser {
     return games;
   }
   
-  static async getGamesWithData(sessionId: string) {
-    return new OvertrackUser(sessionId).getGamesWithData();
+  async getPlayerCsvPaths(): Promise<string[]> {
+    const paths:string[] = [];
+    
+    const gamesByPlayer:{[index: string]: OvertrackGame[]} = {};
+    for (const game of await this.getGamesWithData()) {
+      if (!gamesByPlayer[game.meta.player_name]) {
+        gamesByPlayer[game.meta.player_name] = [];
+      }
+      gamesByPlayer[game.meta.player_name].push(game);
+    }
+    
+    const eraseUnknown = (x: any) => String(x || '').replace(/^UNKNOWN$/, '');
+    
+    for (const playerName of Object.keys(gamesByPlayer)) {
+      const csvRows: string[] = [];
+      csvRows.push([
+        "Date",
+        "Map",
+        "Result",
+        "SR Before",
+        "SR After",
+        "Heroes",
+        "Group Size"
+      ].join(', '));
+      for (const game of gamesByPlayer[playerName]) {
+        const values = [
+          new Date(game.meta.time * 1000).toISOString(),
+          eraseUnknown(game.meta.map),
+          eraseUnknown(game.meta.result),
+          eraseUnknown(game.meta.start_sr),
+          eraseUnknown(game.meta.end_sr),
+          game.meta.heroes_played.sort((a, b) => a[1] - b[1]).map(x => x[0]).join(", "),
+          eraseUnknown(game.data && game.data.group_size || '1')
+        ];
+        csvRows.push(values.map(value => {
+          value = String(value);
+          if (/^[0-9a-z\.\-\(\) ]+$/i.test(value)) {
+            return value;
+          } else {
+            return '"' + value.replace(/"/g, '""') + '"';
+          }
+        }).join(', '));
+      }
+      const csv = csvRows.join('\n');
+      const path = `games/${playerName}.csv`
+      await fs.writeFile(path, csv, {encoding: 'utf8'});
+      paths.push(path);
+    }
+    
+    return paths;
+  }
+  
+  static async getGamesWithData(sessionId: string): Promise<[OvertrackGame[], string[]]> {
+    const user = new OvertrackUser(sessionId);
+    const games = await user.getGamesWithData();
+    const csvPaths = await user.getPlayerCsvPaths();
+    return [games, csvPaths];
   }
 }
 

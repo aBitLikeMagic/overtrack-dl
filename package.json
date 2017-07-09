@@ -1,4 +1,6 @@
 {
+  "repository": "aBitLikeMagic/overtrack-dl",
+  "license": "MIT",
   "engines": {
     "node": "7.x"
   },
@@ -17,7 +19,7 @@
     "typescript": "^2.4.1"
   },
   "scripts": {
-    "start": "tsc -p src && node dist/server.js",
-    "main": "tsc -p src && node dist/main.js"
+    "start": "rm -rf dist; tsc -p src; node dist/server.js",
+    "main": "rm -rf dist; tsc -p src; node dist/main.js"
   }
 }

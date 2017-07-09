@@ -30,7 +30,7 @@ interface RawOvertrackGameCommon {
   score: [number, number];
   
   // The heroes the player used, and the fractions of the match for which they did.
-  heroes_played: [HeroName, number]
+  heroes_played: [HeroName, number][]
 }
 
 // The short metadata used to display this in Overtrack game lsits.
@@ -132,6 +132,7 @@ export interface RawOvertrackGameData extends RawOvertrackGameCommon {
     null | [HeroName, string]
   ][];
 
+  // Your statistics for each hero and for 'ALL', as displayed at the end of the game
   hero_statistics: {
     [index: string]: {
       damage: number;
