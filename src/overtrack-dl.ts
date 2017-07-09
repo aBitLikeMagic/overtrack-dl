@@ -2,46 +2,34 @@ import fetch from 'node-fetch';
 import * as fs from 'fs-extra';
 import * as jsonStableStringify from 'json-stable-stringify';
 
+import {RawOvertrackGameMetadata, RawOvertrackGameData} from './overtrack-data.d';
 
-// The short metadata used to display this in Overtrack game lsits.
-interface RawOvertrackGameMetadata {
-  // The timestamp at which the game started.
-  time: number;
-  // The name of the current player.
-  player_name: string;
-  // The name of the map.
-  map: string;
-  // The URL where the full detailed parsed game information is available.
-  url: string;
-}
-
-
-// The full detailed parsed game information used to display the game view.
-interface RawOvertrackGameData {
-  // The Overtrack user ID which owns this game.
-  user_id: number;
-}
 
 
 export class OvertrackUser {
-  sessionId_: string;
+  // The session ID to use for the request, or none.
+  sessionId_?: string;
+  // The share key of the user whose games we're viewing, if not our own.
+  shareKey_?: string;
+  // The games!
   games_: OvertrackGame[];
   
-  constructor(sessionId: string) {
-    if (!sessionId) throw new Error("Missing session ID");
-    
+  constructor(sessionId?: string, shareKey?: string) {
     this.sessionId_ = sessionId;
+    this.shareKey_ = shareKey;
     this.games_ = [];
   }
   
   async getGames(): Promise<OvertrackGame[]> {
     if (this.games_.length > 0) return this.games_;
     
-    const response = await fetch('https://api.overtrack.gg/games', {
-      headers: {
-        'Cookie': `session=${this.sessionId_}`
-      }
-    });
+    let url = 'https://api.overtrack.gg/games';
+    if (this.shareKey_) url += '/' + this.shareKey_;
+
+    let headers:{[index: string]: string} = {};
+    if (this.sessionId_) headers['Cookie'] = `session=${this.sessionId_}`;
+
+    const response = await fetch(url, { headers: headers });
     const data = await response.json();
     const games:OvertrackGame[] = data['games'].map((game: Object) => new OvertrackGame(game));
     
@@ -58,8 +46,63 @@ export class OvertrackUser {
     return games;
   }
   
-  static async getGamesWithData(sessionId: string) {
-    return new OvertrackUser(sessionId).getGamesWithData();
+  async getPlayerCsvPaths(): Promise<string[]> {
+    const paths:string[] = [];
+    
+    const gamesByPlayer:{[index: string]: OvertrackGame[]} = {};
+    for (const game of await this.getGamesWithData()) {
+      if (!gamesByPlayer[game.meta.player_name]) {
+        gamesByPlayer[game.meta.player_name] = [];
+      }
+      gamesByPlayer[game.meta.player_name].push(game);
+    }
+    
+    const eraseUnknown = (x: any) => String(x || '').replace(/^UNKNOWN$/, '');
+    
+    for (const playerName of Object.keys(gamesByPlayer)) {
+      const csvRows: string[] = [];
+      csvRows.push([
+        "Date",
+        "Map",
+        "Result",
+        "SR Before",
+        "SR After",
+        "Heroes",
+        "Group Size"
+      ].join(', '));
+      for (const game of gamesByPlayer[playerName]) {
+        const values = [
+          new Date(game.meta.time * 1000).toISOString(),
+          eraseUnknown(game.meta.map),
+          eraseUnknown(game.meta.result),
+          eraseUnknown(game.meta.start_sr),
+          eraseUnknown(game.meta.end_sr),
+          game.meta.heroes_played.sort((a, b) => a[1] - b[1]).map(x => x[0]).join(", "),
+          eraseUnknown(game.data && game.data.group_size || '1')
+        ];
+        csvRows.push(values.map(value => {
+          value = String(value);
+          if (/^[0-9a-z\.\-\(\) ]+$/i.test(value)) {
+            return value;
+          } else {
+            return '"' + value.replace(/"/g, '""') + '"';
+          }
+        }).join(', '));
+      }
+      const csv = csvRows.join('\n');
+      const path = `games/${playerName}.csv`
+      await fs.writeFile(path, csv, {encoding: 'utf8'});
+      paths.push(path);
+    }
+    
+    return paths;
+  }
+  
+  static async getGamesWithData(sessionId?: string, shareKey?: string): Promise<[OvertrackGame[], string[]]> {
+    const user = new OvertrackUser(sessionId, shareKey);
+    const games = await user.getGamesWithData();
+    const csvPaths = await user.getPlayerCsvPaths();
+    return [games, csvPaths];
   }
 }
 
