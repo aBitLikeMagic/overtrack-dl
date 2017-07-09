@@ -1,0 +1,1938 @@
+{
+  "data": {
+    "assists": [
+      [
+        212250,
+        "FUNKY",
+        1,
+        0
+      ],
+      [
+        265535,
+        "ROKZAR",
+        1,
+        0
+      ],
+      [
+        276818,
+        "FUNKY",
+        1,
+        0
+      ],
+      [
+        278386,
+        "CLOUDYNOIR",
+        1,
+        0
+      ],
+      [
+        345303,
+        "ROKZAR",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 7,
+    "end_sr": 2338,
+    "game_duration": 751,
+    "game_ended": 1499596028,
+    "game_started": 1499595236,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 5823,
+        "deaths": 6,
+        "elims": 9,
+        "healing": 4191,
+        "hero_stat_1": 5,
+        "hero_stat_2": 0,
+        "hero_stat_3": 6,
+        "hero_stat_5": 9,
+        "hero_stat_6": 751851,
+        "objective_kills": 4,
+        "objective_time": 165,
+        "tab_health": 0.44,
+        "time_played": 695879
+      },
+      "dva": {
+        "damage": 4103,
+        "deaths": 2,
+        "elims": 8,
+        "healing": 0,
+        "hero_stat_1": 38,
+        "hero_stat_2": 1,
+        "hero_stat_3": 6,
+        "hero_stat_4": 4,
+        "hero_stat_5": 3825,
+        "objective_kills": 3,
+        "objective_time": 90,
+        "tab_health": 0.44,
+        "time_played": 308159
+      },
+      "lucio": {
+        "damage": 639,
+        "deaths": 2,
+        "elims": 1,
+        "healing": 1378,
+        "hero_stat_1": 26,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 1,
+        "objective_time": 33,
+        "tab_health": 0.44,
+        "time_played": 158015
+      },
+      "mercy": {
+        "damage": 0,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 204,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.44,
+        "time_played": 61602
+      }
+    },
+    "heroes_played": [
+      [
+        "dva",
+        0.5562655571984061
+      ],
+      [
+        "lucio",
+        0.39634727475975257
+      ],
+      [
+        "mercy",
+        0.047387168041841385
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-10-27-huhnFEkyrWqBKE57sbNR6E",
+    "killfeed": [
+      [
+        116617,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "dva_mech",
+        "MAGIC",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        121721,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "winston",
+        "CELDRA",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        138015,
+        1,
+        "zenyatta",
+        "ALECTRONA",
+        "zenyatta",
+        "HEXCYCLONE",
+        [
+        ],
+        null
+      ],
+      [
+        139288,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "widowmaker",
+        "LOSIDO",
+        [
+        ],
+        null
+      ],
+      [
+        143378,
+        1,
+        "zenyatta",
+        "ALECTRONA",
+        "tracer",
+        "GUTLESSMIST",
+        [
+        ],
+        null
+      ],
+      [
+        146755,
+        2,
+        "mercy",
+        "FUNKY",
+        "zenyatta",
+        "HEXCYCLONE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        146755,
+        2,
+        "mercy",
+        "FUNKY",
+        "tracer",
+        "GUTLESSMIST",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        148226,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "mercy",
+        "HAWKEYE",
+        [
+        ],
+        null
+      ],
+      [
+        151393,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "zenyatta",
+        "ALECTRONA",
+        [
+        ],
+        null
+      ],
+      [
+        161551,
+        0,
+        "widowmaker",
+        "LOSIDO",
+        "s76",
+        "HOBOJOBOJO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        165459,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "dva_mech",
+        "MAGIC",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        167707,
+        0,
+        "zenyatta",
+        "HEXCYCLONE",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        172398,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "winston",
+        "CELDRA",
+        [
+        ],
+        null
+      ],
+      [
+        176839,
+        3,
+        "mercy",
+        "HAWKEYE",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        176839,
+        3,
+        "mercy",
+        "HAWKEYE",
+        "winston",
+        "CELDRA",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        179775,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "zenyatta",
+        "HEXCYCLONE",
+        [
+        ],
+        null
+      ],
+      [
+        185718,
+        0,
+        "widowmaker",
+        "LOSIDO",
+        "s76",
+        "HOBOJOBOJO",
+        [
+        ],
+        null
+      ],
+      [
+        193549,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "mercy",
+        "HAWKEYE",
+        [
+        ],
+        null
+      ],
+      [
+        195446,
+        1,
+        "winston",
+        "CELDRA",
+        "tracer",
+        "GUTLESSMIST",
+        [
+        ],
+        null
+      ],
+      [
+        204652,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "widowmaker",
+        "LOSIDO",
+        [
+        ],
+        null
+      ],
+      [
+        211555,
+        1,
+        "s76",
+        "HOBOJOBOJO",
+        "mercy",
+        "FUNKY",
+        [
+          "zenyatta"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        221486,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "winston",
+        "CELDRA",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        225834,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "zenyatta",
+        "HEXCYCLONE",
+        [
+        ],
+        null
+      ],
+      [
+        225834,
+        0,
+        "zenyatta",
+        "HEXCYCLONE",
+        "s76",
+        "HOBOJOBOJO",
+        [
+        ],
+        null
+      ],
+      [
+        228089,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "zenyatta",
+        "ALECTRONA",
+        [
+        ],
+        null
+      ],
+      [
+        233278,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "mercy",
+        "HAWKEYE",
+        [
+        ],
+        null
+      ],
+      [
+        238733,
+        1,
+        "dva",
+        "MAGIC",
+        "dva_mech",
+        "CLOUDYNOIR",
+        [
+        ],
+        null
+      ],
+      [
+        238733,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "dva_mech",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        240830,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        243617,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "dva",
+        "CLOUDYNOIR",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        243617,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "mercy",
+        "FUNKY",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        257559,
+        1,
+        "winston",
+        "CELDRA",
+        "zenyatta",
+        "HEXCYCLONE",
+        [
+        ],
+        null
+      ],
+      [
+        259968,
+        1,
+        "s76",
+        "HOBOJOBOJO",
+        "tracer",
+        "GUTLESSMIST",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        265535,
+        1,
+        "dva",
+        "MAGIC",
+        "winston",
+        "ROKZAR",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        270528,
+        0,
+        "s76",
+        "LOSIDO",
+        "s76",
+        "HOBOJOBOJO",
+        [
+        ],
+        null
+      ],
+      [
+        273500,
+        2,
+        "mercy",
+        "FUNKY",
+        "winston",
+        "ROKZAR",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        273500,
+        1,
+        "winston",
+        "CELDRA",
+        "s76",
+        "LOSIDO",
+        [
+        ],
+        null
+      ],
+      [
+        276818,
+        1,
+        "winston",
+        "CELDRA",
+        "mercy",
+        "FUNKY",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        278386,
+        0,
+        "winston",
+        "ROKZAR",
+        "zenyatta",
+        "ALECTRONA",
+        [
+        ],
+        null
+      ],
+      [
+        278386,
+        1,
+        "dva",
+        "MAGIC",
+        "dva_mech",
+        "CLOUDYNOIR",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        280082,
+        3,
+        "mercy",
+        "HAWKEYE",
+        "zenyatta",
+        "ALECTRONA",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        280082,
+        3,
+        "mercy",
+        "HAWKEYE",
+        "s76",
+        "HOBOJOBOJO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        281476,
+        1,
+        "dva",
+        "MAGIC",
+        "dva",
+        "CLOUDYNOIR",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        297586,
+        1,
+        "s76",
+        "HOBOJOBOJO",
+        "tracer",
+        "GUTLESSMIST",
+        [
+        ],
+        null
+      ],
+      [
+        313409,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "winston",
+        "ROKZAR",
+        [
+          "zenyatta"
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        325054,
+        1,
+        "s76",
+        "HOBOJOBOJO",
+        "symmetra",
+        "HEXCYCLONE",
+        [
+        ],
+        null
+      ],
+      [
+        331179,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "mercy",
+        "FUNKY",
+        [
+        ],
+        null
+      ],
+      [
+        331179,
+        1,
+        "winston",
+        "CELDRA",
+        "s76",
+        "LOSIDO",
+        [
+        ],
+        null
+      ],
+      [
+        338300,
+        1,
+        "zenyatta",
+        "ALECTRONA",
+        "dva_mech",
+        "CLOUDYNOIR",
+        [
+        ],
+        null
+      ],
+      [
+        339838,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "tracer",
+        "GUTLESSMIST",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        345303,
+        1,
+        "winston",
+        "CELDRA",
+        "winston",
+        "ROKZAR",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        350323,
+        1,
+        "dva",
+        "MAGIC",
+        "dva",
+        "CLOUDYNOIR",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        481173,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "genji",
+        "LOSIDO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        487767,
+        0,
+        "symmetra",
+        "HEXCYCLONE",
+        "winston",
+        "CELDRA",
+        [
+        ],
+        null
+      ],
+      [
+        502999,
+        1,
+        "junkrat",
+        "HAWKEYE",
+        "dva_mech",
+        "CLOUDYNOIR",
+        [
+        ],
+        null
+      ],
+      [
+        511059,
+        1,
+        "s76",
+        "HOBOJOBOJO",
+        "tracer",
+        "GUTLESSMIST",
+        [
+          "zenyatta"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        511946,
+        0,
+        "symmetra",
+        "HEXCYCLONE",
+        "s76",
+        "HOBOJOBOJO",
+        [
+        ],
+        null
+      ],
+      [
+        512746,
+        1,
+        "tracer",
+        "INFAMOUS",
+        "mercy",
+        "FUNKY",
+        [
+        ],
+        null
+      ],
+      [
+        512746,
+        0,
+        "bastion",
+        "ROKZAR",
+        "zenyatta",
+        "ALECTRONA",
+        [
+        ],
+        null
+      ],
+      [
+        517337,
+        0,
+        "genji",
+        "LOSIDO",
+        "tracer",
+        "INFAMOUS",
+        [
+        ],
+        null
+      ],
+      [
+        526701,
+        0,
+        "genji",
+        "LOSIDO",
+        "lucio",
+        "MAGIC",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        531392,
+        0,
+        "bastion",
+        "ROKZAR",
+        "junkrat",
+        "HAWKEYE",
+        [
+        ],
+        null
+      ],
+      [
+        544667,
+        0,
+        "bastion",
+        "ROKZAR",
+        "s76",
+        "HOBOJOBOJO",
+        [
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        547391,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "roadhog",
+        "CELDRA",
+        [
+        ],
+        null
+      ],
+      [
+        553589,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "lucio",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        561866,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "junkrat",
+        "HAWKEYE",
+        [
+        ],
+        null
+      ],
+      [
+        570308,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "zenyatta",
+        "ALECTRONA",
+        [
+        ],
+        null
+      ],
+      [
+        572029,
+        0,
+        "bastion",
+        "ROKZAR",
+        "tracer",
+        "INFAMOUS",
+        [
+        ],
+        null
+      ],
+      [
+        579901,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "roadhog",
+        "CELDRA",
+        [
+        ],
+        null
+      ],
+      [
+        604552,
+        1,
+        "junkrat",
+        "HAWKEYE",
+        "mercy",
+        "FUNKY",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        611729,
+        1,
+        "s76",
+        "HOBOJOBOJO",
+        "bastion",
+        "ROKZAR",
+        [
+        ],
+        null
+      ],
+      [
+        615850,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "zenyatta",
+        "ALECTRONA",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        615850,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "s76",
+        "HOBOJOBOJO",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        615850,
+        0,
+        "symmetra",
+        "HEXCYCLONE",
+        "pharah",
+        "INFAMOUS",
+        [
+        ],
+        null
+      ],
+      [
+        618269,
+        1,
+        "junkrat",
+        "HAWKEYE",
+        "genji",
+        "LOSIDO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        618269,
+        1,
+        "pharah",
+        "INFAMOUS",
+        "symmetra",
+        "HEXCYCLONE",
+        [
+        ],
+        null
+      ],
+      [
+        620573,
+        1,
+        "roadhog",
+        "CELDRA",
+        "tracer",
+        "GUTLESSMIST",
+        [
+          "junkrat"
+        ],
+        null
+      ],
+      [
+        622034,
+        0,
+        "dva",
+        "CLOUDYNOIR",
+        "junkrat",
+        "HAWKEYE",
+        [
+        ],
+        null
+      ],
+      [
+        626455,
+        1,
+        "roadhog",
+        "CELDRA",
+        "dva_mech",
+        "CLOUDYNOIR",
+        [
+        ],
+        [
+          "roadhog",
+          "wholehog"
+        ]
+      ],
+      [
+        650176,
+        1,
+        "pharah",
+        "INFAMOUS",
+        "bastion",
+        "ROKZAR",
+        [
+        ],
+        null
+      ],
+      [
+        652026,
+        2,
+        "mercy",
+        "FUNKY",
+        "bastion",
+        "ROKZAR",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        658661,
+        1,
+        "lucio",
+        "MAGIC",
+        "dva_mech",
+        "CLOUDYNOIR",
+        [
+        ],
+        null
+      ],
+      [
+        667478,
+        1,
+        "junkrat",
+        "HAWKEYE",
+        "dva",
+        "CLOUDYNOIR",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        669055,
+        1,
+        "junkrat",
+        "HAWKEYE",
+        "dva",
+        "CLOUDYNOIR",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        670303,
+        0,
+        "symmetra",
+        "HEXCYCLONE",
+        "pharah",
+        "INFAMOUS",
+        [
+        ],
+        null
+      ],
+      [
+        670303,
+        0,
+        "mccree",
+        "LOSIDO",
+        "lucio",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        677289,
+        0,
+        "mccree",
+        "LOSIDO",
+        "junkrat",
+        "HAWKEYE",
+        [
+        ],
+        null
+      ],
+      [
+        684637,
+        0,
+        "symmetra",
+        "HEXCYCLONE",
+        "roadhog",
+        "CELDRA",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        689326,
+        0,
+        "symmetra",
+        "HEXCYCLONE",
+        "s76",
+        "HOBOJOBOJO",
+        [
+        ],
+        null
+      ],
+      [
+        697521,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "pharah",
+        "INFAMOUS",
+        [
+        ],
+        null
+      ],
+      [
+        699452,
+        0,
+        "bastion",
+        "ROKZAR",
+        "junkrat_riptire",
+        "HAWKEYE",
+        [
+        ],
+        null
+      ],
+      [
+        702851,
+        0,
+        "mccree",
+        "LOSIDO",
+        "mercy",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        705234,
+        1,
+        "junkrat",
+        "HAWKEYE",
+        "symmetra",
+        "HEXCYCLONE",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        707076,
+        2,
+        "mercy",
+        "FUNKY",
+        "symmetra",
+        "HEXCYCLONE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        707775,
+        0,
+        "tracer",
+        "GUTLESSMIST",
+        "zarya",
+        "ALECTRONA",
+        [
+        ],
+        null
+      ],
+      [
+        714382,
+        0,
+        "mccree",
+        "LOSIDO",
+        "roadhog",
+        "CELDRA",
+        [
+        ],
+        null
+      ],
+      [
+        714382,
+        1,
+        "junkrat",
+        "HAWKEYE",
+        "symmetra",
+        "HEXCYCLONE",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Route 66",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 355545,
+        "end_score": null,
+        "stage": "Defend",
+        "start": 37581
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 709755,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 410411
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2360,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1434,
+        1434,
+        3194,
+        3194,
+        4103,
+        4103,
+        4103,
+        4103,
+        4103,
+        4103,
+        4103,
+        4103,
+        4103,
+        4697,
+        4697,
+        4722,
+        4742,
+        5823,
+        5823,
+        5823,
+        5823,
+        5823
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1314,
+        1314,
+        1352,
+        1378,
+        3987,
+        4115,
+        4191,
+        4191,
+        4191
+      ],
+      "hero": [
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        48,
+        48,
+        53,
+        53,
+        38,
+        38,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        32,
+        29,
+        26,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        6,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        3,
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2226,
+        2226,
+        3370,
+        3370,
+        3825,
+        3825,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        32,
+        32,
+        68,
+        68,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        90,
+        122,
+        122,
+        123,
+        123,
+        165,
+        165,
+        165,
+        165,
+        165
+      ],
+      "time": [
+        49626,
+        63785,
+        69930,
+        78558,
+        84276,
+        170626,
+        175918,
+        240830,
+        253058,
+        348756,
+        357785,
+        415376,
+        422738,
+        428948,
+        435274,
+        441455,
+        464303,
+        471545,
+        529876,
+        536918,
+        557587,
+        573391,
+        683903,
+        694657,
+        708343,
+        715667,
+        745505
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 350323,
+              "hero": "dva",
+              "start": 167707
+            },
+            {
+              "end": 670303,
+              "hero": "lucio",
+              "start": 526701
+            },
+            {
+              "end": 714382,
+              "hero": "mercy",
+              "start": 702851
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 714382,
+              "hero": "s76",
+              "start": 161551
+            }
+          ],
+          "name": "HOBOJOBOJO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 487767,
+              "hero": "winston",
+              "start": 121721
+            },
+            {
+              "end": 714382,
+              "hero": "roadhog",
+              "start": 547391
+            }
+          ],
+          "name": "CELDRA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 280082,
+              "hero": "mercy",
+              "start": 148226
+            },
+            {
+              "end": 714382,
+              "hero": "junkrat",
+              "start": 502999
+            }
+          ],
+          "name": "HAWKEYE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 615850,
+              "hero": "zenyatta",
+              "start": 138015
+            },
+            {
+              "end": 714382,
+              "hero": "zarya",
+              "start": 707775
+            }
+          ],
+          "name": "ALECTRONA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 572029,
+              "hero": "tracer",
+              "start": 139288
+            },
+            {
+              "end": 714382,
+              "hero": "pharah",
+              "start": 615850
+            }
+          ],
+          "name": "INFAMOUS"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 714382,
+              "hero": "dva",
+              "start": 148226
+            }
+          ],
+          "name": "CLOUDYNOIR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 204652,
+              "hero": "widowmaker",
+              "start": 139288
+            },
+            {
+              "end": 331179,
+              "hero": "s76",
+              "start": 270528
+            },
+            {
+              "end": 618269,
+              "hero": "genji",
+              "start": 481173
+            },
+            {
+              "end": 714382,
+              "hero": "mccree",
+              "start": 670303
+            }
+          ],
+          "name": "LOSIDO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 714382,
+              "hero": "tracer",
+              "start": 116617
+            }
+          ],
+          "name": "GUTLESSMIST"
+        },
+        {
+          "heroes": [
+            {
+              "end": 714382,
+              "hero": "mercy",
+              "start": 146755
+            }
+          ],
+          "name": "FUNKY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 257559,
+              "hero": "zenyatta",
+              "start": 138015
+            },
+            {
+              "end": 714382,
+              "hero": "symmetra",
+              "start": 325054
+            }
+          ],
+          "name": "HEXCYCLONE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 345303,
+              "hero": "winston",
+              "start": 265535
+            },
+            {
+              "end": 714382,
+              "hero": "bastion",
+              "start": 512746
+            }
+          ],
+          "name": "ROKZAR"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 751,
+    "end_sr": 2338,
+    "heroes_played": [
+      [
+        "dva",
+        0.5562655571984061
+      ],
+      [
+        "lucio",
+        0.39634727475975257
+      ],
+      [
+        "mercy",
+        0.047387168041841385
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-10-27-huhnFEkyrWqBKE57sbNR6E",
+    "map": "Route 66",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2360,
+    "time": 1499595236,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-09-10-27-huhnFEkyrWqBKE57sbNR6E/game.json",
+    "user_id": 151467
+  }
+}

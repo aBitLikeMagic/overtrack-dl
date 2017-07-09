@@ -1,0 +1,3037 @@
+{
+  "data": {
+    "assists": [
+      [
+        271266,
+        "SHINRON",
+        1,
+        0
+      ],
+      [
+        309987,
+        "ZAPZ",
+        1,
+        0
+      ],
+      [
+        347643,
+        "ALLINYOMOUF",
+        1,
+        0
+      ],
+      [
+        562891,
+        "OSCO",
+        1,
+        0
+      ],
+      [
+        706714,
+        "PELLLI",
+        1,
+        0
+      ],
+      [
+        713324,
+        "NEOANALOG",
+        1,
+        0
+      ],
+      [
+        719499,
+        "SHINRON",
+        1,
+        0
+      ],
+      [
+        763993,
+        "ZAPZ",
+        1,
+        0
+      ],
+      [
+        835459,
+        "ZAPZ",
+        1,
+        0
+      ],
+      [
+        842100,
+        "NEOANALOG",
+        1,
+        0
+      ],
+      [
+        849003,
+        "ALLINYOMOUF",
+        1,
+        0
+      ],
+      [
+        1028126,
+        "SHINRON",
+        1,
+        0
+      ],
+      [
+        1070621,
+        "OSCO",
+        1,
+        0
+      ],
+      [
+        1093209,
+        "PELLLI",
+        1,
+        0
+      ],
+      [
+        1280917,
+        "OSCO",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      2376,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 12,
+    "end_sr": 2434,
+    "game_duration": 1422,
+    "game_ended": 1499605678,
+    "game_started": 1499604225,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 7475,
+        "deaths": 12,
+        "elims": 15,
+        "healing": 651,
+        "hero_stat_1": 15,
+        "hero_stat_2": 0,
+        "hero_stat_3": 5,
+        "hero_stat_5": 15,
+        "hero_stat_6": 1422653,
+        "objective_kills": 7,
+        "objective_time": 59,
+        "tab_health": 0.40425531914893614,
+        "time_played": 1366466
+      },
+      "dva": {
+        "damage": 1601,
+        "deaths": 0,
+        "elims": 3,
+        "healing": 0,
+        "hero_stat_1": 37,
+        "hero_stat_2": 1,
+        "hero_stat_3": 3,
+        "hero_stat_4": 1,
+        "hero_stat_5": 4618,
+        "objective_kills": 2,
+        "objective_time": 25,
+        "tab_health": 0.40425531914893614,
+        "time_played": 222591
+      },
+      "junkrat": {
+        "damage": 1654,
+        "deaths": 2,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 24,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.40425531914893614,
+        "time_played": 88834
+      },
+      "mercy": {
+        "damage": 40,
+        "deaths": 2,
+        "elims": 0,
+        "healing": 434,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 21,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.40425531914893614,
+        "time_played": 151161
+      },
+      "pharah": {
+        "damage": 649,
+        "deaths": 2,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 50,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 2,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 2,
+        "tab_health": 0.40425531914893614,
+        "time_played": 83586
+      },
+      "reaper": {
+        "damage": 1136,
+        "deaths": 3,
+        "elims": 6,
+        "healing": 175,
+        "hero_stat_1": 25,
+        "hero_stat_2": 0,
+        "hero_stat_3": 4,
+        "hero_stat_4": 176,
+        "hero_stat_5": 1,
+        "objective_kills": 3,
+        "objective_time": 28,
+        "tab_health": 0.40425531914893614,
+        "time_played": 393904
+      }
+    },
+    "heroes_played": [
+      [
+        "reaper",
+        0.36178150170359163
+      ],
+      [
+        "dva",
+        0.20508608251317081
+      ],
+      [
+        "mercy",
+        0.178419207005272
+      ],
+      [
+        "junkrat",
+        0.17770054747114766
+      ],
+      [
+        "pharah",
+        0.07701266130681787
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-13-07-jPnJA685ojM4JX24SNa3EE",
+    "killfeed": [
+      [
+        123657,
+        0,
+        "ana",
+        "ALLINYOMOUF",
+        "torb_turret",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        131771,
+        0,
+        "winston",
+        "ZAPZ",
+        "mercy",
+        "MAGIC",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        140383,
+        0,
+        "winston",
+        "ZAPZ",
+        "torb",
+        "BUGS83",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        140383,
+        0,
+        "mccree",
+        "OSCO",
+        "reinhardt",
+        "CATBLENDER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        140383,
+        0,
+        "zenyatta",
+        "PELLLI",
+        "reaper",
+        "KINGGERALD",
+        [
+        ],
+        null
+      ],
+      [
+        141977,
+        1,
+        "torb",
+        "BUGS83",
+        "winston",
+        "ZAPZ",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        143977,
+        0,
+        "ana",
+        "ALLINYOMOUF",
+        "torb_turret",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        144461,
+        0,
+        "zenyatta",
+        "PELLLI",
+        "lucio",
+        "BUNBRO",
+        [
+        ],
+        null
+      ],
+      [
+        149539,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        null
+      ],
+      [
+        151049,
+        0,
+        "mccree",
+        "OSCO",
+        "winston",
+        "PANGLOSSIAN",
+        [
+          "zenyatta",
+          "ana"
+        ],
+        null
+      ],
+      [
+        182869,
+        0,
+        "s76",
+        "NEOANALOG",
+        "winston",
+        "PANGLOSSIAN",
+        [
+        ],
+        null
+      ],
+      [
+        189466,
+        0,
+        "mccree",
+        "OSCO",
+        "mercy",
+        "MAGIC",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        189466,
+        0,
+        "mccree",
+        "OSCO",
+        "s76",
+        "KINGGERALD",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        189466,
+        0,
+        "mccree",
+        "OSCO",
+        "lucio",
+        "BUNBRO",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        196242,
+        1,
+        "torb",
+        "BUGS83",
+        "mccree",
+        "OSCO",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        197617,
+        1,
+        "torb",
+        "BUGS83",
+        "tracer",
+        "SHINRON",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        200230,
+        0,
+        "winston",
+        "ZAPZ",
+        "reinhardt",
+        "CATBLENDER",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        205042,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "ana",
+        "ALLINYOMOUF",
+        [
+        ],
+        null
+      ],
+      [
+        207487,
+        0,
+        "s76",
+        "NEOANALOG",
+        "torb_turret",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        207487,
+        1,
+        "s76",
+        "KINGGERALD",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        207487,
+        0,
+        "zenyatta",
+        "PELLLI",
+        "torb",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        215803,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        null
+      ],
+      [
+        243274,
+        0,
+        "tracer",
+        "SHINRON",
+        "s76",
+        "KINGGERALD",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        250012,
+        0,
+        "mccree",
+        "OSCO",
+        "winston",
+        "PANGLOSSIAN",
+        [
+          "zenyatta",
+          "ana"
+        ],
+        null
+      ],
+      [
+        259186,
+        0,
+        "winston",
+        "ZAPZ",
+        "torb_turret",
+        "BUGS83",
+        [
+          "ana"
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        259832,
+        0,
+        "mccree",
+        "OSCO",
+        "junkrat",
+        "MAGIC",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        260272,
+        0,
+        "s76",
+        "NEOANALOG",
+        "reinhardt",
+        "CATBLENDER",
+        [
+          "zenyatta",
+          "ana"
+        ],
+        null
+      ],
+      [
+        268773,
+        0,
+        "tracer",
+        "SHINRON",
+        "torb_turret",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        271266,
+        1,
+        "junkrat",
+        "MAGIC",
+        "tracer",
+        "SHINRON",
+        [
+        ],
+        [
+          "junkrat",
+          "steeltrap"
+        ]
+      ],
+      [
+        271857,
+        0,
+        "zenyatta",
+        "PELLLI",
+        "torb",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        274362,
+        1,
+        "s76",
+        "KINGGERALD",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        275966,
+        0,
+        "winston",
+        "ZAPZ",
+        "s76",
+        "KINGGERALD",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        283163,
+        0,
+        "mccree",
+        "OSCO",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        283608,
+        0,
+        "mccree",
+        "OSCO",
+        "lucio",
+        "BUNBRO",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        293729,
+        0,
+        "tracer",
+        "SHINRON",
+        "reinhardt",
+        "CATBLENDER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        294949,
+        0,
+        "mccree",
+        "OSCO",
+        "winston",
+        "PANGLOSSIAN",
+        [
+          "zenyatta",
+          "ana"
+        ],
+        null
+      ],
+      [
+        296417,
+        0,
+        "s76",
+        "NEOANALOG",
+        "torb_turret",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        299753,
+        1,
+        "torb",
+        "BUGS83",
+        "tracer",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        300903,
+        1,
+        "s76",
+        "KINGGERALD",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        309987,
+        1,
+        "torb",
+        "BUGS83",
+        "winston",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        317748,
+        1,
+        "s76",
+        "KINGGERALD",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        347643,
+        1,
+        "junkrat",
+        "MAGIC",
+        "ana",
+        "ALLINYOMOUF",
+        [
+        ],
+        null
+      ],
+      [
+        350064,
+        0,
+        "reinhardt",
+        "ZAPZ",
+        "lucio",
+        "BUNBRO",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        372482,
+        1,
+        "lucio",
+        "BUNBRO",
+        "reinhardt",
+        "ZAPZ",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        380169,
+        0,
+        "pharah",
+        "SHINRON",
+        "torb_turret",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        386377,
+        0,
+        "s76",
+        "NEOANALOG",
+        "winston",
+        "PANGLOSSIAN",
+        [
+          "mccree",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        390728,
+        0,
+        "zenyatta",
+        "PELLLI",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        395246,
+        0,
+        "pharah",
+        "SHINRON",
+        "torb_turret",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        396226,
+        0,
+        "pharah",
+        "SHINRON",
+        "torb",
+        "BUGS83",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        396729,
+        0,
+        "s76",
+        "NEOANALOG",
+        "s76",
+        "KINGGERALD",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        401604,
+        0,
+        "s76",
+        "NEOANALOG",
+        "lucio",
+        "BUNBRO",
+        [
+          "ana"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        405375,
+        0,
+        "reinhardt",
+        "ZAPZ",
+        "reinhardt",
+        "CATBLENDER",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        410601,
+        0,
+        "s76",
+        "NEOANALOG",
+        "winston",
+        "PANGLOSSIAN",
+        [
+          "ana",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        411150,
+        0,
+        "mccree",
+        "OSCO",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        415455,
+        0,
+        "pharah",
+        "SHINRON",
+        "s76",
+        "KINGGERALD",
+        [
+        ],
+        null
+      ],
+      [
+        419433,
+        0,
+        "mccree",
+        "OSCO",
+        "torb",
+        "BUGS83",
+        [
+          "zenyatta"
+        ],
+        [
+          "mccree",
+          "flashbang"
+        ]
+      ],
+      [
+        422040,
+        0,
+        "mccree",
+        "OSCO",
+        "lucio",
+        "BUNBRO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        424122,
+        0,
+        "pharah",
+        "SHINRON",
+        "torb_turret",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        558906,
+        0,
+        "s76",
+        "NEOANALOG",
+        "dva_mech",
+        "CATBLENDER",
+        [
+        ],
+        null
+      ],
+      [
+        561630,
+        0,
+        "mccree",
+        "OSCO",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        561630,
+        1,
+        "zenyatta",
+        "KINGGERALD",
+        "mccree",
+        "OSCO",
+        [
+        ],
+        null
+      ],
+      [
+        563676,
+        0,
+        "reaper",
+        "SHINRON",
+        "dva",
+        "CATBLENDER",
+        [
+        ],
+        null
+      ],
+      [
+        567259,
+        1,
+        "tracer",
+        "BUGS83",
+        "reinhardt",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        571441,
+        0,
+        "zenyatta",
+        "PELLLI",
+        "winston",
+        "PANGLOSSIAN",
+        [
+        ],
+        null
+      ],
+      [
+        573817,
+        1,
+        "tracer",
+        "BUGS83",
+        "s76",
+        "NEOANALOG",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        576968,
+        0,
+        "reaper",
+        "SHINRON",
+        "zenyatta",
+        "KINGGERALD",
+        [
+        ],
+        null
+      ],
+      [
+        584896,
+        0,
+        "reaper",
+        "SHINRON",
+        "tracer",
+        "BUGS83",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        594444,
+        0,
+        "reaper",
+        "SHINRON",
+        "pharah",
+        "MAGIC",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        626546,
+        1,
+        "tracer",
+        "BUGS83",
+        "mccree",
+        "OSCO",
+        [
+        ],
+        null
+      ],
+      [
+        630576,
+        0,
+        "reaper",
+        "SHINRON",
+        "winston",
+        "PANGLOSSIAN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        631110,
+        1,
+        "tracer",
+        "BUGS83",
+        "mercy",
+        "ALLINYOMOUF",
+        [
+        ],
+        null
+      ],
+      [
+        638666,
+        0,
+        "reaper",
+        "SHINRON",
+        "lucio",
+        "BUNBRO",
+        [
+          "zenyatta"
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        640804,
+        0,
+        "s76",
+        "NEOANALOG",
+        "zenyatta",
+        "KINGGERALD",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        642706,
+        0,
+        "reaper",
+        "SHINRON",
+        "dva_mech",
+        "CATBLENDER",
+        [
+        ],
+        null
+      ],
+      [
+        645060,
+        0,
+        "s76",
+        "NEOANALOG",
+        "tracer",
+        "BUGS83",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        646548,
+        0,
+        "reaper",
+        "SHINRON",
+        "dva",
+        "CATBLENDER",
+        [
+        ],
+        null
+      ],
+      [
+        649291,
+        0,
+        "reinhardt",
+        "ZAPZ",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        691713,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "mccree",
+        "OSCO",
+        [
+        ],
+        null
+      ],
+      [
+        706714,
+        1,
+        "dva",
+        "CATBLENDER",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        null
+      ],
+      [
+        706714,
+        1,
+        "zenyatta",
+        "KINGGERALD",
+        "mercy",
+        "ALLINYOMOUF",
+        [
+        ],
+        null
+      ],
+      [
+        709561,
+        0,
+        "s76",
+        "NEOANALOG",
+        "lucio",
+        "BUNBRO",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        712122,
+        1,
+        "zenyatta",
+        "KINGGERALD",
+        "reinhardt",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        713324,
+        1,
+        "tracer",
+        "BUGS83",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        null
+      ],
+      [
+        714409,
+        0,
+        "reaper",
+        "SHINRON",
+        "zenyatta",
+        "KINGGERALD",
+        [
+        ],
+        null
+      ],
+      [
+        719499,
+        1,
+        "reaper",
+        "MAGIC",
+        "reaper",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        739453,
+        0,
+        "s76",
+        "NEOANALOG",
+        "tracer",
+        "BUGS83",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        754281,
+        1,
+        "tracer",
+        "BUGS83",
+        "mccree",
+        "OSCO",
+        [
+        ],
+        null
+      ],
+      [
+        763993,
+        1,
+        "zenyatta",
+        "KINGGERALD",
+        "reinhardt",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        763993,
+        1,
+        "dva",
+        "CATBLENDER",
+        "mercy",
+        "ALLINYOMOUF",
+        [
+        ],
+        null
+      ],
+      [
+        769173,
+        0,
+        "reaper",
+        "SHINRON",
+        "dva_mech",
+        "CATBLENDER",
+        [
+        ],
+        null
+      ],
+      [
+        771517,
+        0,
+        "reaper",
+        "SHINRON",
+        "reaper",
+        "MAGIC",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        771517,
+        0,
+        "reaper",
+        "SHINRON",
+        "dva",
+        "CATBLENDER",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        773225,
+        0,
+        "s76",
+        "NEOANALOG",
+        "zenyatta",
+        "KINGGERALD",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        775163,
+        1,
+        "lucio",
+        "BUNBRO",
+        "reaper",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        778134,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        null
+      ],
+      [
+        779434,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        null
+      ],
+      [
+        781235,
+        0,
+        "pharah",
+        "OSCO",
+        "winston",
+        "PANGLOSSIAN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        781752,
+        0,
+        "reinhardt",
+        "ZAPZ",
+        "lucio",
+        "BUNBRO",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        785469,
+        2,
+        "mercy",
+        "ALLINYOMOUF",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        785469,
+        2,
+        "mercy",
+        "ALLINYOMOUF",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        787162,
+        1,
+        null,
+        null,
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        null
+      ],
+      [
+        787162,
+        1,
+        null,
+        null,
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        null
+      ],
+      [
+        795334,
+        0,
+        "reinhardt",
+        "ZAPZ",
+        "tracer",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        828709,
+        1,
+        "dva",
+        "CATBLENDER",
+        "mercy",
+        "ALLINYOMOUF",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        832882,
+        1,
+        null,
+        null,
+        "pharah",
+        "OSCO",
+        [
+        ],
+        null
+      ],
+      [
+        835459,
+        1,
+        "reaper",
+        "MAGIC",
+        "reinhardt",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        835459,
+        0,
+        "reaper",
+        "SHINRON",
+        "tracer",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        838976,
+        1,
+        "zenyatta",
+        "KINGGERALD",
+        "reaper",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        841464,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        null
+      ],
+      [
+        842100,
+        1,
+        "lucio",
+        "BUNBRO",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        null
+      ],
+      [
+        849003,
+        1,
+        "dva",
+        "CATBLENDER",
+        "mercy",
+        "ALLINYOMOUF",
+        [
+        ],
+        null
+      ],
+      [
+        974160,
+        1,
+        "s76",
+        "BUGS83",
+        "dva_mech",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        976885,
+        1,
+        "orisa",
+        "KINGGERALD",
+        "mccree",
+        "ALLINYOMOUF",
+        [
+        ],
+        null
+      ],
+      [
+        988400,
+        1,
+        "bastion",
+        "CATBLENDER",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        null
+      ],
+      [
+        988961,
+        1,
+        "bastion",
+        "CATBLENDER",
+        "tracer",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        1020795,
+        1,
+        "s76",
+        "BUGS83",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        1022291,
+        1,
+        "bastion",
+        "CATBLENDER",
+        "reinhardt",
+        "OSCO",
+        [
+        ],
+        null
+      ],
+      [
+        1028126,
+        1,
+        "bastion",
+        "CATBLENDER",
+        "tracer",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        1028126,
+        0,
+        "tracer",
+        "SHINRON",
+        "bastion",
+        "CATBLENDER",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        1033295,
+        3,
+        "mercy",
+        "BUNBRO",
+        "bastion",
+        "CATBLENDER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        1043630,
+        1,
+        "bastion",
+        "CATBLENDER",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        1062470,
+        0,
+        "hanzo",
+        "SHINRON",
+        "ana",
+        "PANGLOSSIAN",
+        [
+        ],
+        null
+      ],
+      [
+        1070621,
+        1,
+        "s76",
+        "BUGS83",
+        "reinhardt",
+        "OSCO",
+        [
+        ],
+        null
+      ],
+      [
+        1073727,
+        1,
+        "bastion",
+        "CATBLENDER",
+        "s76",
+        "NEOANALOG",
+        [
+        ],
+        null
+      ],
+      [
+        1083851,
+        1,
+        "s76",
+        "BUGS83",
+        "hanzo",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        1089424,
+        0,
+        "dva",
+        "ZAPZ",
+        "bastion",
+        "CATBLENDER",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        1093209,
+        1,
+        "dva",
+        "MAGIC",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        1103553,
+        0,
+        "s76",
+        "NEOANALOG",
+        "mercy",
+        "BUNBRO",
+        [
+        ],
+        null
+      ],
+      [
+        1107411,
+        0,
+        "dva",
+        "ZAPZ",
+        "orisa_supercharger",
+        "KINGGERALD",
+        [
+        ],
+        null
+      ],
+      [
+        1110295,
+        0,
+        "hanzo",
+        "SHINRON",
+        "s76",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        1112228,
+        1,
+        "orisa",
+        "KINGGERALD",
+        "dva_mech",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        1217369,
+        0,
+        "torb",
+        "SHINRON",
+        "zenyatta",
+        "KINGGERALD",
+        [
+        ],
+        null
+      ],
+      [
+        1235598,
+        1,
+        "lucio",
+        "BUNBRO",
+        "torb_turret",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        1248328,
+        0,
+        "torb",
+        "SHINRON",
+        "lucio",
+        "BUNBRO",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        1254809,
+        0,
+        "torb",
+        "SHINRON",
+        "tracer",
+        "BUGS83",
+        [
+        ],
+        null
+      ],
+      [
+        1280917,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "symmetra",
+        "OSCO",
+        [
+        ],
+        null
+      ],
+      [
+        1280917,
+        0,
+        "s76",
+        "ZAPZ",
+        "zenyatta",
+        "KINGGERALD",
+        [
+        ],
+        null
+      ],
+      [
+        1294280,
+        0,
+        "s76",
+        "ZAPZ",
+        "winston",
+        "PANGLOSSIAN",
+        [
+        ],
+        null
+      ],
+      [
+        1294825,
+        1,
+        "s76",
+        "BUGS83",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        null
+      ],
+      [
+        1295698,
+        0,
+        "torb",
+        "SHINRON",
+        "dva",
+        "CATBLENDER",
+        [
+        ],
+        null
+      ],
+      [
+        1295698,
+        0,
+        null,
+        null,
+        "dva_mech",
+        "CATBLENDER",
+        [
+        ],
+        null
+      ],
+      [
+        1298754,
+        0,
+        "reinhardt",
+        "NEOANALOG",
+        "mercy",
+        "BUNBRO",
+        [
+        ],
+        null
+      ],
+      [
+        1301181,
+        0,
+        "torb",
+        "SHINRON",
+        "reaper",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        1357844,
+        1,
+        "dva",
+        "CATBLENDER",
+        "torb_turret",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        1360354,
+        1,
+        "dva",
+        "CATBLENDER",
+        "torb",
+        "SHINRON",
+        [
+        ],
+        null
+      ],
+      [
+        1361922,
+        0,
+        "s76",
+        "ZAPZ",
+        "reaper",
+        "MAGIC",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        1363646,
+        0,
+        "s76",
+        "ZAPZ",
+        "mercy",
+        "BUNBRO",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        1365373,
+        1,
+        "s76",
+        "BUGS83",
+        "reinhardt",
+        "NEOANALOG",
+        [
+        ],
+        null
+      ],
+      [
+        1365903,
+        0,
+        "symmetra",
+        "OSCO",
+        "zenyatta",
+        "KINGGERALD",
+        [
+        ],
+        null
+      ],
+      [
+        1370302,
+        0,
+        "symmetra",
+        "OSCO",
+        "dva_mech",
+        "CATBLENDER",
+        [
+        ],
+        null
+      ],
+      [
+        1371710,
+        1,
+        "s76",
+        "BUGS83",
+        "zenyatta",
+        "PELLLI",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        1373157,
+        1,
+        "s76",
+        "BUGS83",
+        "s76",
+        "ZAPZ",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        1373918,
+        1,
+        "winston",
+        "PANGLOSSIAN",
+        "symmetra",
+        "OSCO",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ]
+    ],
+    "map": "Horizon Lunar Colony",
+    "map_type": "Assault",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            164837,
+            1
+          ],
+          [
+            423353,
+            2
+          ]
+        ],
+        "end": 428588,
+        "end_score": 2,
+        "stage": "Defend",
+        "start": 41455
+      },
+      {
+        "checkpoints": [
+          [
+            733009,
+            1
+          ],
+          [
+            847580,
+            2
+          ]
+        ],
+        "end": 854213,
+        "end_score": 2,
+        "stage": "Attack",
+        "start": 481552
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 1124322,
+        "end_score": 2,
+        "stage": "Defend",
+        "start": 902417
+      },
+      {
+        "checkpoints": [
+          [
+            1380494,
+            3
+          ]
+        ],
+        "end": 1385920,
+        "end_score": 3,
+        "stage": "Attack",
+        "start": 1145705
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "WIN",
+    "score": [
+      3,
+      2
+    ],
+    "start_sr": 2413,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        40,
+        1654,
+        3188,
+        3593,
+        3593,
+        3593,
+        3971,
+        3971,
+        3971,
+        4242,
+        4242,
+        4362,
+        null,
+        4362,
+        4961,
+        5326,
+        5326,
+        5326,
+        5326,
+        5326,
+        6927,
+        6938,
+        6938,
+        6938,
+        6938,
+        6938,
+        6938,
+        7339,
+        7339,
+        7339,
+        7339,
+        7475,
+        7475
+      ],
+      "deaths": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        4,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8,
+        8,
+        9,
+        null,
+        9,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        11,
+        11,
+        11,
+        11,
+        12,
+        12
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        null,
+        4,
+        9,
+        11,
+        11,
+        11,
+        11,
+        11,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15
+      ],
+      "healing": [
+        0,
+        0,
+        340,
+        340,
+        340,
+        434,
+        434,
+        434,
+        434,
+        434,
+        434,
+        434,
+        434,
+        434,
+        434,
+        434,
+        434,
+        null,
+        434,
+        542,
+        584,
+        584,
+        584,
+        584,
+        584,
+        584,
+        584,
+        584,
+        584,
+        584,
+        584,
+        584,
+        626,
+        626,
+        626,
+        626,
+        651,
+        651
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "junkrat",
+        "junkrat",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "junkrat",
+        "junkrat",
+        "reaper",
+        "reaper",
+        "reaper",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper",
+        "reaper"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        23,
+        26,
+        0,
+        0,
+        0,
+        60,
+        60,
+        60,
+        50,
+        26,
+        24,
+        0,
+        0,
+        21,
+        0,
+        0,
+        0,
+        0,
+        0,
+        37,
+        26,
+        26,
+        26,
+        26,
+        26,
+        26,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        0,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        21,
+        21,
+        21,
+        21,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        108,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        150,
+        150,
+        150,
+        150,
+        150,
+        150,
+        192,
+        192,
+        192,
+        192,
+        218,
+        218
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4618,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        6,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        10,
+        10,
+        10,
+        1,
+        10,
+        25,
+        30,
+        30,
+        30,
+        30,
+        30,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        55,
+        59,
+        59,
+        59,
+        59,
+        59,
+        59
+      ],
+      "time": [
+        42487,
+        64783,
+        143514,
+        149035,
+        154536,
+        193648,
+        345445,
+        392729,
+        517028,
+        522042,
+        527570,
+        565222,
+        570472,
+        576453,
+        600614,
+        610134,
+        651684,
+        659877,
+        665774,
+        801667,
+        896847,
+        901936,
+        911031,
+        919012,
+        928641,
+        1119438,
+        1156839,
+        1165433,
+        1171395,
+        1177598,
+        1183482,
+        1188677,
+        1302717,
+        1310306,
+        1316463,
+        1343909,
+        1382467,
+        1408953
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 189466,
+              "hero": "mercy",
+              "start": 131771
+            },
+            {
+              "end": 411150,
+              "hero": "junkrat",
+              "start": 259832
+            },
+            {
+              "end": 594444,
+              "hero": "pharah",
+              "start": 561630
+            },
+            {
+              "end": 649291,
+              "hero": "junkrat",
+              "start": 649291
+            },
+            {
+              "end": 835459,
+              "hero": "reaper",
+              "start": 719499
+            },
+            {
+              "end": 1093209,
+              "hero": "dva",
+              "start": 1093209
+            },
+            {
+              "end": 1373918,
+              "hero": "reaper",
+              "start": 1301181
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 405375,
+              "hero": "reinhardt",
+              "start": 140383
+            },
+            {
+              "end": 849003,
+              "hero": "dva",
+              "start": 563676
+            },
+            {
+              "end": 1089424,
+              "hero": "bastion",
+              "start": 988400
+            },
+            {
+              "end": 1373918,
+              "hero": "dva",
+              "start": 1295698
+            }
+          ],
+          "name": "CATBLENDER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 842100,
+              "hero": "lucio",
+              "start": 144461
+            },
+            {
+              "end": 1103553,
+              "hero": "mercy",
+              "start": 1033295
+            },
+            {
+              "end": 1248328,
+              "hero": "lucio",
+              "start": 1235598
+            },
+            {
+              "end": 1373918,
+              "hero": "mercy",
+              "start": 1298754
+            }
+          ],
+          "name": "BUNBRO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 419433,
+              "hero": "torb",
+              "start": 140383
+            },
+            {
+              "end": 835459,
+              "hero": "tracer",
+              "start": 567259
+            },
+            {
+              "end": 1110295,
+              "hero": "s76",
+              "start": 974160
+            },
+            {
+              "end": 1254809,
+              "hero": "tracer",
+              "start": 1254809
+            },
+            {
+              "end": 1373918,
+              "hero": "s76",
+              "start": 1294825
+            }
+          ],
+          "name": "BUGS83"
+        },
+        {
+          "heroes": [
+            {
+              "end": 140383,
+              "hero": "reaper",
+              "start": 140383
+            },
+            {
+              "end": 415455,
+              "hero": "s76",
+              "start": 189466
+            },
+            {
+              "end": 838976,
+              "hero": "zenyatta",
+              "start": 561630
+            },
+            {
+              "end": 1112228,
+              "hero": "orisa",
+              "start": 976885
+            },
+            {
+              "end": 1373918,
+              "hero": "zenyatta",
+              "start": 1217369
+            }
+          ],
+          "name": "KINGGERALD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 841464,
+              "hero": "winston",
+              "start": 149539
+            },
+            {
+              "end": 1062470,
+              "hero": "ana",
+              "start": 1062470
+            },
+            {
+              "end": 1373918,
+              "hero": "winston",
+              "start": 1280917
+            }
+          ],
+          "name": "PANGLOSSIAN"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 1373918,
+              "hero": "zenyatta",
+              "start": 140383
+            }
+          ],
+          "name": "PELLLI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 299753,
+              "hero": "tracer",
+              "start": 197617
+            },
+            {
+              "end": 424122,
+              "hero": "pharah",
+              "start": 380169
+            },
+            {
+              "end": 838976,
+              "hero": "reaper",
+              "start": 563676
+            },
+            {
+              "end": 1028126,
+              "hero": "tracer",
+              "start": 988961
+            },
+            {
+              "end": 1110295,
+              "hero": "hanzo",
+              "start": 1062470
+            },
+            {
+              "end": 1373918,
+              "hero": "torb",
+              "start": 1217369
+            }
+          ],
+          "name": "SHINRON"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1103553,
+              "hero": "s76",
+              "start": 149539
+            },
+            {
+              "end": 1373918,
+              "hero": "reinhardt",
+              "start": 1298754
+            }
+          ],
+          "name": "NEOANALOG"
+        },
+        {
+          "heroes": [
+            {
+              "end": 347643,
+              "hero": "ana",
+              "start": 123657
+            },
+            {
+              "end": 849003,
+              "hero": "mercy",
+              "start": 631110
+            },
+            {
+              "end": 1373918,
+              "hero": "mccree",
+              "start": 976885
+            }
+          ],
+          "name": "ALLINYOMOUF"
+        },
+        {
+          "heroes": [
+            {
+              "end": 309987,
+              "hero": "winston",
+              "start": 131771
+            },
+            {
+              "end": 835459,
+              "hero": "reinhardt",
+              "start": 350064
+            },
+            {
+              "end": 1107411,
+              "hero": "dva",
+              "start": 1089424
+            },
+            {
+              "end": 1373918,
+              "hero": "s76",
+              "start": 1280917
+            }
+          ],
+          "name": "ZAPZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 754281,
+              "hero": "mccree",
+              "start": 140383
+            },
+            {
+              "end": 832882,
+              "hero": "pharah",
+              "start": 781235
+            },
+            {
+              "end": 1070621,
+              "hero": "reinhardt",
+              "start": 1022291
+            },
+            {
+              "end": 1373918,
+              "hero": "symmetra",
+              "start": 1280917
+            }
+          ],
+          "name": "OSCO"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 1422,
+    "end_sr": 2434,
+    "heroes_played": [
+      [
+        "reaper",
+        0.36178150170359163
+      ],
+      [
+        "dva",
+        0.20508608251317081
+      ],
+      [
+        "mercy",
+        0.178419207005272
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-13-07-jPnJA685ojM4JX24SNa3EE",
+    "map": "Horizon Lunar Colony",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      3,
+      2
+    ],
+    "start_sr": 2413,
+    "time": 1499604225,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-09-13-07-jPnJA685ojM4JX24SNa3EE/game.json",
+    "user_id": 151467
+  }
+}
