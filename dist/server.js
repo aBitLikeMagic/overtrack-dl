@@ -19,14 +19,15 @@ app.get('/', (request, response) => __awaiter(this, void 0, void 0, function* ()
     <style>
       * { font-family: monospace; }
       img { vertical-align: middle; }
-      a:target {
+
+      :target {
         border: 2px solid currentColor;
         border-top-right-radius: 1em;
         border-bottom-right-radius: 1em;
-        padding: .5em;
+        padding-top: .5em;
+        padding-bottom: .5em;
         padding-right: 10em;
         border-left: 0;
-        padding-left: 0;
       }
       body {
         max-width: 60em;
