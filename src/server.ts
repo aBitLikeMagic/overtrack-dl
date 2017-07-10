@@ -15,14 +15,15 @@ app.get('/', async (request, response) => {
     <style>
       * { font-family: monospace; }
       img { vertical-align: middle; }
-      a:target {
+
+      :target {
         border: 2px solid currentColor;
         border-top-right-radius: 1em;
         border-bottom-right-radius: 1em;
-        padding: .5em;
+        padding-top: .5em;
+        padding-bottom: .5em;
         padding-right: 10em;
         border-left: 0;
-        padding-left: 0;
       }
       body {
         max-width: 60em;
@@ -46,7 +47,10 @@ app.get('/', async (request, response) => {
       <input type="submit" value="export your games">
 
       <p>
-        in chrome, you can do find your session key by navigating to <code>chrome://settings/cookies/detail?site=api.overtrack.gg</code>, expanding the <code>session</code> cookie listing by pressing ▼, and copying the long alphanumeric "content" value.
+        in chrome, you can do find your session key by navigating to
+        <code>chrome://settings/cookies/detail?site=api.overtrack.gg</code>,
+        expanding the <code>session</code> cookie listing by pressing ▼, and
+        copying the long alphanumeric "content" value.
       </p>
     </form>
 
@@ -54,7 +58,7 @@ app.get('/', async (request, response) => {
 
     <form method="post" action="export-shared" id="export-shared">
       overtrack.gg share key:
-      <input name="key" value="${he.escape(request.query['key'] || '')}">
+      <input name="key" value="${he.escape(request.query['shareKey'] || '')}">
       <input type="submit" value="export their games">
     </form>
     
@@ -71,12 +75,12 @@ app.get('/', async (request, response) => {
 
 app.post('/export-personal', async (request, response) => {
   const [games] = await OvertrackUser.getGamesWithData(request.body.session);
-  response.redirect(`/#games/${games[games.length - 1].key()}.json`);
+  response.redirect(`/?session=${request.body.session}#games/${games[games.length - 1].key()}.json`);
 });
 
 app.post('/export-shared', async (request, response) => {
-  const [games] = await OvertrackUser.getGamesWithData(undefined, request.body.key);
-  response.redirect(`/#games/${games[games.length - 1].key()}.json`);
+  const [games] = await OvertrackUser.getGamesWithData(undefined, request.body.shareKey);
+  response.redirect(`/?shareKey=${request.body.shareKey}#games/${games[games.length - 1].key()}.json`);
 });
 
 app.use('/games', express.static('games'));

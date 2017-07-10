@@ -85,6 +85,7 @@ class OvertrackUser {
                         }
                     }).join(', '));
                 }
+                csvRows.push('\n');
                 const csv = csvRows.join('\n');
                 const path = `games/${playerName}.csv`;
                 yield fs.writeFile(path, csv, { encoding: 'utf8' });
