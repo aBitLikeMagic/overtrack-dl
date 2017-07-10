@@ -1991,6 +1991,7 @@
     "user_id": 151467
   },
   "meta": {
+    "custom_game": false,
     "duration": 853,
     "end_sr": 2379,
     "heroes_played": [

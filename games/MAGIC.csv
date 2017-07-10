@@ -14,3 +14,23 @@ Date, Map, Result, SR Before, SR After, Heroes, Group Size
 "2017-07-09T12:03:40.000Z", Lijiang Tower, WIN, 2359, 2382, "dva, junkrat", 1
 "2017-07-09T12:25:13.000Z", Oasis, WIN, 2382, 2413, mercy, 1
 "2017-07-09T12:43:45.000Z", Horizon Lunar Colony, WIN, 2413, 2434, "mercy, dva, reaper", 1
+"2017-07-09T13:24:49.000Z", Eichenwalde, LOSS, 2434, 2415, "junkrat, dva, pharah", 1
+"2017-07-09T13:42:53.000Z", Ilios, WIN, 2415, 2442, "junkrat, pharah, s76", 1
+"2017-07-09T14:14:32.000Z", Dorado, LOSS, 2442, 2418, "junkrat, dva, pharah", 1
+"2017-07-09T15:17:22.000Z", "King's Row", LOSS, 2418, 2397, "junkrat, lucio", 1
+"2017-07-09T15:29:39.000Z", Oasis, LOSS, 2397, 2373, "reinhardt, ana, mercy", 1
+"2017-07-09T15:48:30.000Z", Nepal, LOSS, 2373, 2352, "mei, reaper, junkrat", 1
+"2017-07-09T16:11:38.000Z", Dorado, LOSS, 2352, 2329, "s76, pharah, junkrat", 1
+"2017-07-09T16:38:19.000Z", Lijiang Tower, LOSS, 2329, 2309, "pharah, zenyatta, mercy", 1
+"2017-07-09T17:08:54.000Z", Numbani, LOSS, 2309, 2288, "pharah, dva, junkrat", 1
+"2017-07-09T17:26:26.000Z", Eichenwalde, WIN, 2288, 2316, "pharah, junkrat", 1
+"2017-07-09T17:48:05.000Z", "Watchpoint: Gibraltar", WIN, 2316, 2337, "pharah, zenyatta", 1
+"2017-07-09T21:59:38.000Z", Temple of Anubis, WIN, "", 2358, dva, 1
+"2017-07-09T22:23:03.000Z", Horizon Lunar Colony, WIN, 2358, 2380, "pharah, junkrat, s76", 1
+"2017-07-09T22:42:42.000Z", Route 66, LOSS, 2380, 2356, "pharah, junkrat, mercy", 1
+"2017-07-09T23:06:34.000Z", Lijiang Tower, WIN, 2356, 2380, "lucio, zenyatta", 1
+"2017-07-09T23:21:33.000Z", Hollywood, LOSS, 2380, 2355, "pharah, s76, dva", 1
+"2017-07-09T23:37:25.000Z", Volskaya Industries, LOSS, 2355, 2330, "junkrat, pharah", 1
+"2017-07-09T23:55:13.000Z", Oasis, WIN, 2330, 2354, "junkrat, s76, dva", 1
+"2017-07-10T00:44:40.000Z", Nepal, WIN, 2354, 2379, "zenyatta, junkrat", 1
+

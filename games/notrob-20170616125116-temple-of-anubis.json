@@ -1974,6 +1974,7 @@
     "user_id": 2235147
   },
   "meta": {
+    "custom_game": false,
     "duration": 837,
     "end_sr": 2638,
     "heroes_played": [

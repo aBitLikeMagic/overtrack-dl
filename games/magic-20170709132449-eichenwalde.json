@@ -1,0 +1,2452 @@
+{
+  "data": {
+    "assists": [
+      [
+        224221,
+        "IONCLOUD",
+        1,
+        0
+      ],
+      [
+        318566,
+        "CANDLES",
+        1,
+        0
+      ],
+      [
+        330200,
+        "ADRANGER",
+        1,
+        0
+      ],
+      [
+        336483,
+        "APPLECIDER",
+        1,
+        0
+      ],
+      [
+        384236,
+        "CANDLES",
+        1,
+        0
+      ],
+      [
+        387395,
+        "ADRANGER",
+        1,
+        0
+      ],
+      [
+        484805,
+        "APPLECIDER",
+        1,
+        0
+      ],
+      [
+        752947,
+        "APPLECIDER",
+        1,
+        0
+      ],
+      [
+        777704,
+        "IONCLOUD",
+        1,
+        0
+      ],
+      [
+        817394,
+        "ADRANGER",
+        1,
+        0
+      ],
+      [
+        893589,
+        "CANDLES",
+        1,
+        0
+      ],
+      [
+        894924,
+        "IONCLOUD",
+        1,
+        0
+      ],
+      [
+        897398,
+        "ADRANGER",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 8,
+    "end_sr": 2415,
+    "game_duration": 902,
+    "game_ended": 1499607627,
+    "game_started": 1499606689,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 9929,
+        "deaths": 8,
+        "elims": 20,
+        "healing": 0,
+        "hero_stat_1": 13,
+        "hero_stat_2": 0,
+        "hero_stat_3": 14,
+        "hero_stat_5": 20,
+        "hero_stat_6": 902130,
+        "objective_kills": 9,
+        "objective_time": 53,
+        "tab_health": 0.5,
+        "time_played": 852366
+      },
+      "dva": {
+        "damage": 2214,
+        "deaths": 2,
+        "elims": 3,
+        "healing": 0,
+        "hero_stat_1": 44,
+        "hero_stat_2": 0,
+        "hero_stat_3": 3,
+        "hero_stat_4": 1,
+        "hero_stat_5": 2105,
+        "objective_kills": 1,
+        "objective_time": 42,
+        "tab_health": 0.5,
+        "time_played": 242381
+      },
+      "junkrat": {
+        "damage": 241,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 50,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 2,
+        "tab_health": 0.5,
+        "time_played": 63560
+      },
+      "pharah": {
+        "damage": 4705,
+        "deaths": 5,
+        "elims": 9,
+        "healing": 0,
+        "hero_stat_1": 61,
+        "hero_stat_2": 5,
+        "hero_stat_3": 2,
+        "hero_stat_4": 31,
+        "hero_stat_5": 6,
+        "objective_kills": 4,
+        "objective_time": 6,
+        "tab_health": 0.5,
+        "time_played": 424938
+      }
+    },
+    "heroes_played": [
+      [
+        "pharah",
+        0.5542339710371538
+      ],
+      [
+        "dva",
+        0.36403638486484263
+      ],
+      [
+        "junkrat",
+        0.08172964409800357
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-13-40-jsoyDWqaarwKP9JH2PWFrT",
+    "killfeed": [
+      [
+        126726,
+        0,
+        "mei",
+        "APPLECIDER",
+        "mei",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        127786,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "pharah",
+        "ZABZOB",
+        [
+        ],
+        null
+      ],
+      [
+        137278,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        null
+      ],
+      [
+        137785,
+        0,
+        "zarya",
+        "IONCLOUD",
+        "dva_mech",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        144882,
+        0,
+        "mei",
+        "APPLECIDER",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        154434,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "ana",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        162710,
+        0,
+        "mei",
+        "APPLECIDER",
+        "junkrat",
+        "SNARKYGOBLIN",
+        [
+        ],
+        null
+      ],
+      [
+        165294,
+        0,
+        "pharah",
+        "ZABZOB",
+        "s76",
+        "NJHOKAGE",
+        [
+        ],
+        null
+      ],
+      [
+        189040,
+        1,
+        "mei",
+        "YUUTO",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        null
+      ],
+      [
+        189906,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "dva_mech",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        197177,
+        1,
+        "junkrat",
+        "SNARKYGOBLIN",
+        "reinhardt",
+        "CANDLES",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        197177,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "pharah",
+        "ZABZOB",
+        [
+        ],
+        null
+      ],
+      [
+        198782,
+        2,
+        "mercy",
+        "KAZ",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        208078,
+        1,
+        "mei",
+        "YUUTO",
+        "mercy",
+        "KAZ",
+        [
+        ],
+        null
+      ],
+      [
+        220104,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "pharah",
+        "ZABZOB",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        221652,
+        1,
+        "junkrat",
+        "SNARKYGOBLIN",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        null
+      ],
+      [
+        224221,
+        1,
+        "junkrat",
+        "SNARKYGOBLIN",
+        "zarya",
+        "IONCLOUD",
+        [
+        ],
+        null
+      ],
+      [
+        230611,
+        0,
+        "mei",
+        "APPLECIDER",
+        "ana",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        244625,
+        1,
+        "mei",
+        "YUUTO",
+        "mei",
+        "APPLECIDER",
+        [
+        ],
+        null
+      ],
+      [
+        255895,
+        0,
+        "pharah",
+        "ZABZOB",
+        "mei",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        257945,
+        1,
+        "dva",
+        "MAGIC",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        null
+      ],
+      [
+        274848,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        279983,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        279983,
+        1,
+        "junkrat",
+        "SNARKYGOBLIN",
+        "mei",
+        "APPLECIDER",
+        [
+        ],
+        [
+          "junkrat",
+          "totalmayhem"
+        ]
+      ],
+      [
+        281402,
+        0,
+        "zarya",
+        "IONCLOUD",
+        "junkrat",
+        "SNARKYGOBLIN",
+        [
+        ],
+        null
+      ],
+      [
+        283106,
+        1,
+        null,
+        null,
+        "mei",
+        "APPLECIDER",
+        [
+        ],
+        null
+      ],
+      [
+        287978,
+        2,
+        "mercy",
+        "KAZ",
+        "mei",
+        "APPLECIDER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        307424,
+        0,
+        "mei",
+        "APPLECIDER",
+        "s76",
+        "NJHOKAGE",
+        [
+        ],
+        null
+      ],
+      [
+        313679,
+        0,
+        "mei",
+        "APPLECIDER",
+        "ana",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        317912,
+        1,
+        "mei",
+        "YUUTO",
+        "reinhardt",
+        "CANDLES",
+        [
+        ],
+        null
+      ],
+      [
+        322458,
+        0,
+        "zarya",
+        "IONCLOUD",
+        "junkrat",
+        "SNARKYGOBLIN",
+        [
+        ],
+        null
+      ],
+      [
+        330200,
+        1,
+        "mei",
+        "YUUTO",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        null
+      ],
+      [
+        335263,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "pharah",
+        "ZABZOB",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        336483,
+        1,
+        "ana",
+        "ZAPZ",
+        "mei",
+        "APPLECIDER",
+        [
+        ],
+        null
+      ],
+      [
+        344746,
+        1,
+        "ana",
+        "ZAPZ",
+        "zarya",
+        "IONCLOUD",
+        [
+        ],
+        null
+      ],
+      [
+        377569,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "junkrat",
+        "SNARKYGOBLIN",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        382315,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "mercy",
+        "KAZ",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        382315,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        384236,
+        1,
+        "mei",
+        "YUUTO",
+        "reinhardt",
+        "CANDLES",
+        [
+        ],
+        null
+      ],
+      [
+        386027,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "zarya",
+        "IONCLOUD",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        387395,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        391682,
+        1,
+        "pharah",
+        "MAGIC",
+        "reaper",
+        "ZABZOB",
+        [
+        ],
+        null
+      ],
+      [
+        394962,
+        1,
+        "pharah",
+        "MAGIC",
+        "mei",
+        "APPLECIDER",
+        [
+        ],
+        null
+      ],
+      [
+        420771,
+        1,
+        "junkrat",
+        "SNARKYGOBLIN",
+        "zarya",
+        "IONCLOUD",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        420771,
+        1,
+        "junkrat",
+        "SNARKYGOBLIN",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        424109,
+        2,
+        "mercy",
+        "KAZ",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        424109,
+        2,
+        "mercy",
+        "KAZ",
+        "zarya",
+        "IONCLOUD",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        436901,
+        0,
+        "lucio",
+        "ADRANGER",
+        "mei",
+        "YUUTO",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        439469,
+        0,
+        "lucio",
+        "ADRANGER",
+        "junkrat",
+        "SNARKYGOBLIN",
+        [
+        ],
+        null
+      ],
+      [
+        440768,
+        3,
+        "mercy",
+        "ELIASCHY",
+        "junkrat",
+        "SNARKYGOBLIN",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        445717,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "junkrat",
+        "SNARKYGOBLIN",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        462953,
+        1,
+        "mei",
+        "YUUTO",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        null
+      ],
+      [
+        462953,
+        0,
+        "s76",
+        "ZABZOB",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        null
+      ],
+      [
+        467410,
+        1,
+        "pharah",
+        "MAGIC",
+        "zarya",
+        "IONCLOUD",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        467410,
+        1,
+        "pharah",
+        "MAGIC",
+        "mercy",
+        "KAZ",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        467410,
+        0,
+        "ana",
+        "APPLECIDER",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        469610,
+        0,
+        "s76",
+        "ZABZOB",
+        "ana",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        469610,
+        1,
+        "ana",
+        "ZAPZ",
+        "reinhardt",
+        "CANDLES",
+        [
+        ],
+        null
+      ],
+      [
+        477027,
+        1,
+        "mei",
+        "YUUTO",
+        "s76",
+        "ZABZOB",
+        [
+        ],
+        null
+      ],
+      [
+        484805,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "ana",
+        "APPLECIDER",
+        [
+        ],
+        null
+      ],
+      [
+        622584,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        null
+      ],
+      [
+        624462,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "mei",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        627693,
+        0,
+        "torb",
+        "IONCLOUD",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        634382,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "pharah",
+        "ADRANGER",
+        [
+        ],
+        null
+      ],
+      [
+        638841,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "orisa",
+        "SNARKYGOBLIN",
+        [
+        ],
+        null
+      ],
+      [
+        654129,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "junkrat",
+        "APPLECIDER",
+        [
+        ],
+        null
+      ],
+      [
+        668905,
+        1,
+        "pharah",
+        "MAGIC",
+        "torb_turret",
+        "IONCLOUD",
+        [
+        ],
+        null
+      ],
+      [
+        670472,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "torb_turret",
+        "IONCLOUD",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        675276,
+        0,
+        "junkrat",
+        "APPLECIDER",
+        "winston",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        678303,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "pharah",
+        "ADRANGER",
+        [
+        ],
+        null
+      ],
+      [
+        682496,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        null
+      ],
+      [
+        685132,
+        0,
+        "lucio",
+        "KAZ",
+        "symmetra",
+        "SNARKYGOBLIN",
+        [
+        ],
+        null
+      ],
+      [
+        694749,
+        0,
+        "torb",
+        "IONCLOUD",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        701724,
+        1,
+        "winston",
+        "YUUTO",
+        "symmetra",
+        "ZABZOB",
+        [
+        ],
+        null
+      ],
+      [
+        702462,
+        0,
+        "lucio",
+        "KAZ",
+        "s76",
+        "NJHOKAGE",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        710008,
+        0,
+        "junkrat",
+        "APPLECIDER",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        null
+      ],
+      [
+        722771,
+        0,
+        "torb",
+        "IONCLOUD",
+        "winston",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        738598,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "torb_turret",
+        "IONCLOUD",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        750637,
+        0,
+        "junkrat",
+        "APPLECIDER",
+        "ana",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        752947,
+        0,
+        "lucio",
+        "KAZ",
+        "s76",
+        "NJHOKAGE",
+        [
+        ],
+        null
+      ],
+      [
+        752947,
+        1,
+        "pharah",
+        "MAGIC",
+        "junkrat",
+        "APPLECIDER",
+        [
+        ],
+        null
+      ],
+      [
+        754183,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "torb_turret",
+        "IONCLOUD",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        769028,
+        0,
+        "torb",
+        "IONCLOUD",
+        "junkrat",
+        "SNARKYGOBLIN",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        771742,
+        1,
+        "pharah",
+        "MAGIC",
+        "torb_turret",
+        "IONCLOUD",
+        [
+        ],
+        null
+      ],
+      [
+        776351,
+        1,
+        "winston",
+        "YUUTO",
+        "symmetra_teleporter",
+        "ZABZOB",
+        [
+        ],
+        null
+      ],
+      [
+        776351,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "winston",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        776351,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "reinhardt",
+        "ADRANGER",
+        [
+        ],
+        null
+      ],
+      [
+        777704,
+        1,
+        "pharah",
+        "MAGIC",
+        "torb",
+        "IONCLOUD",
+        [
+        ],
+        null
+      ],
+      [
+        781718,
+        2,
+        "mercy",
+        "CANDLES",
+        "reinhardt",
+        "ADRANGER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        788445,
+        0,
+        "junkrat",
+        "APPLECIDER",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        null
+      ],
+      [
+        791909,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        793667,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "ana",
+        "ZAPZ",
+        [
+        ],
+        null
+      ],
+      [
+        802441,
+        0,
+        "junkrat",
+        "APPLECIDER",
+        "s76",
+        "NJHOKAGE",
+        [
+        ],
+        null
+      ],
+      [
+        808213,
+        1,
+        "winston",
+        "YUUTO",
+        "junkrat",
+        "APPLECIDER",
+        [
+        ],
+        null
+      ],
+      [
+        809953,
+        0,
+        "junkrat",
+        "APPLECIDER",
+        "reaper",
+        "SNARKYGOBLIN",
+        [
+        ],
+        [
+          "junkrat",
+          "totalmayhem"
+        ]
+      ],
+      [
+        816145,
+        3,
+        "mercy",
+        "ELIASCHY",
+        "reaper",
+        "SNARKYGOBLIN",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        816145,
+        1,
+        "pharah",
+        "MAGIC",
+        "mercy",
+        "CANDLES",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        816145,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "winston",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        817394,
+        1,
+        "pharah",
+        "MAGIC",
+        "reinhardt",
+        "ADRANGER",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        818209,
+        0,
+        "torb",
+        "IONCLOUD",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        820623,
+        1,
+        "pharah",
+        "MAGIC",
+        "mercy",
+        "CANDLES",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        820623,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "winston",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        820623,
+        1,
+        "pharah",
+        "MAGIC",
+        "reinhardt",
+        "ADRANGER",
+        [
+          "ana"
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        841546,
+        0,
+        "torb",
+        "IONCLOUD",
+        "reaper",
+        "SNARKYGOBLIN",
+        [
+        ],
+        null
+      ],
+      [
+        845672,
+        1,
+        "ana",
+        "ZAPZ",
+        "torb_turret",
+        "IONCLOUD",
+        [
+        ],
+        null
+      ],
+      [
+        845672,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "winston",
+        "YUUTO",
+        [
+        ],
+        null
+      ],
+      [
+        847176,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "symmetra_teleporter",
+        "ZABZOB",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        849789,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        854787,
+        0,
+        "symmetra",
+        "ZABZOB",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        null
+      ],
+      [
+        859563,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "lucio",
+        "KAZ",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        863552,
+        0,
+        "reinhardt",
+        "ADRANGER",
+        "s76",
+        "NJHOKAGE",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        891032,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "mercy",
+        "KAZ",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        891576,
+        0,
+        "reinhardt",
+        "CANDLES",
+        "mercy",
+        "ELIASCHY",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        893589,
+        1,
+        "mei",
+        "YUUTO",
+        "reinhardt",
+        "CANDLES",
+        [
+        ],
+        null
+      ],
+      [
+        894924,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "zarya",
+        "IONCLOUD",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        897398,
+        1,
+        "s76",
+        "NJHOKAGE",
+        "lucio",
+        "ADRANGER",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        900591,
+        1,
+        "pharah",
+        "MAGIC",
+        "reaper",
+        "ZABZOB",
+        [
+          "mei"
+        ],
+        null
+      ]
+    ],
+    "map": "Eichenwalde",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            165768,
+            1
+          ]
+        ],
+        "end": 491837,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 39681
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 865091,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 547848
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2434,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        491,
+        491,
+        491,
+        491,
+        1353,
+        2214,
+        2214,
+        4983,
+        6657,
+        6657,
+        6657,
+        6657,
+        6657,
+        6657,
+        6657,
+        6657,
+        6657,
+        6657,
+        6657,
+        7571,
+        7571,
+        7571,
+        8847,
+        8847,
+        9688,
+        9688,
+        9929,
+        9929,
+        9929,
+        9929,
+        9929
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        11,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        16,
+        16,
+        16,
+        18,
+        18,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        44,
+        44,
+        44,
+        44,
+        41,
+        44,
+        44,
+        64,
+        62,
+        62,
+        62,
+        62,
+        62,
+        62,
+        62,
+        62,
+        60,
+        60,
+        60,
+        58,
+        58,
+        58,
+        60,
+        60,
+        61,
+        0,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        8,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        18,
+        24,
+        24,
+        24,
+        24,
+        24,
+        24,
+        24,
+        24,
+        26,
+        26,
+        26,
+        29,
+        29,
+        29,
+        47,
+        47,
+        49,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        980,
+        980,
+        980,
+        980,
+        1625,
+        2105,
+        2105,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        6,
+        6,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        5,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        14,
+        42,
+        42,
+        45,
+        47,
+        47,
+        47,
+        47,
+        47,
+        47,
+        47,
+        47,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        51,
+        53,
+        53,
+        53,
+        53,
+        53
+      ],
+      "time": [
+        40725,
+        52251,
+        70991,
+        76970,
+        82039,
+        88572,
+        146894,
+        152546,
+        159040,
+        164793,
+        228679,
+        277347,
+        283106,
+        397764,
+        493814,
+        550567,
+        556962,
+        566042,
+        575191,
+        581826,
+        588586,
+        597364,
+        630174,
+        635954,
+        645841,
+        696711,
+        702462,
+        708929,
+        792809,
+        799466,
+        822702,
+        829531,
+        852008,
+        858517,
+        864636,
+        881389,
+        893091
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 274848,
+              "hero": "dva",
+              "start": 144882
+            },
+            {
+              "end": 820623,
+              "hero": "pharah",
+              "start": 391682
+            },
+            {
+              "end": 849789,
+              "hero": "junkrat",
+              "start": 849789
+            },
+            {
+              "end": 900591,
+              "hero": "pharah",
+              "start": 900591
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 900591,
+              "hero": "s76",
+              "start": 127786
+            }
+          ],
+          "name": "NJHOKAGE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 624462,
+              "hero": "mei",
+              "start": 126726
+            },
+            {
+              "end": 845672,
+              "hero": "winston",
+              "start": 675276
+            },
+            {
+              "end": 900591,
+              "hero": "mei",
+              "start": 893589
+            }
+          ],
+          "name": "YUUTO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 445717,
+              "hero": "junkrat",
+              "start": 162710
+            },
+            {
+              "end": 638841,
+              "hero": "orisa",
+              "start": 638841
+            },
+            {
+              "end": 685132,
+              "hero": "symmetra",
+              "start": 685132
+            },
+            {
+              "end": 769028,
+              "hero": "junkrat",
+              "start": 769028
+            },
+            {
+              "end": 900591,
+              "hero": "reaper",
+              "start": 809953
+            }
+          ],
+          "name": "SNARKYGOBLIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 900591,
+              "hero": "mercy",
+              "start": 137278
+            }
+          ],
+          "name": "ELIASCHY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 900591,
+              "hero": "ana",
+              "start": 154434
+            }
+          ],
+          "name": "ZAPZ"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 467410,
+              "hero": "mercy",
+              "start": 198782
+            },
+            {
+              "end": 859563,
+              "hero": "lucio",
+              "start": 685132
+            },
+            {
+              "end": 900591,
+              "hero": "mercy",
+              "start": 891032
+            }
+          ],
+          "name": "KAZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 335263,
+              "hero": "pharah",
+              "start": 127786
+            },
+            {
+              "end": 391682,
+              "hero": "reaper",
+              "start": 391682
+            },
+            {
+              "end": 477027,
+              "hero": "s76",
+              "start": 462953
+            },
+            {
+              "end": 854787,
+              "hero": "symmetra",
+              "start": 622584
+            },
+            {
+              "end": 900591,
+              "hero": "reaper",
+              "start": 900591
+            }
+          ],
+          "name": "ZABZOB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 462953,
+              "hero": "lucio",
+              "start": 189040
+            },
+            {
+              "end": 678303,
+              "hero": "pharah",
+              "start": 634382
+            },
+            {
+              "end": 863552,
+              "hero": "reinhardt",
+              "start": 776351
+            },
+            {
+              "end": 900591,
+              "hero": "lucio",
+              "start": 897398
+            }
+          ],
+          "name": "ADRANGER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 394962,
+              "hero": "mei",
+              "start": 126726
+            },
+            {
+              "end": 484805,
+              "hero": "ana",
+              "start": 467410
+            },
+            {
+              "end": 900591,
+              "hero": "junkrat",
+              "start": 654129
+            }
+          ],
+          "name": "APPLECIDER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 469610,
+              "hero": "reinhardt",
+              "start": 137278
+            },
+            {
+              "end": 820623,
+              "hero": "mercy",
+              "start": 781718
+            },
+            {
+              "end": 900591,
+              "hero": "reinhardt",
+              "start": 891576
+            }
+          ],
+          "name": "CANDLES"
+        },
+        {
+          "heroes": [
+            {
+              "end": 467410,
+              "hero": "zarya",
+              "start": 137785
+            },
+            {
+              "end": 841546,
+              "hero": "torb",
+              "start": 627693
+            },
+            {
+              "end": 900591,
+              "hero": "zarya",
+              "start": 894924
+            }
+          ],
+          "name": "IONCLOUD"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 902,
+    "end_sr": 2415,
+    "heroes_played": [
+      [
+        "pharah",
+        0.5542339710371538
+      ],
+      [
+        "dva",
+        0.36403638486484263
+      ],
+      [
+        "junkrat",
+        0.08172964409800357
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-13-40-jsoyDWqaarwKP9JH2PWFrT",
+    "map": "Eichenwalde",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2434,
+    "time": 1499606689,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-09-13-40-jsoyDWqaarwKP9JH2PWFrT/game.json",
+    "user_id": 151467
+  }
+}

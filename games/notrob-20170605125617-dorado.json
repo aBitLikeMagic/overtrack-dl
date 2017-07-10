@@ -2025,6 +2025,7 @@
     "user_id": 2235147
   },
   "meta": {
+    "custom_game": false,
     "duration": 845,
     "end_sr": 2544,
     "heroes_played": [

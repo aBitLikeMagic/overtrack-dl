@@ -1362,6 +1362,7 @@
     "user_id": 2235147
   },
   "meta": {
+    "custom_game": false,
     "duration": 587,
     "end_sr": null,
     "heroes_played": [

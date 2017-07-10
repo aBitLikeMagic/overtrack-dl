@@ -1,0 +1,1489 @@
+{
+  "data": {
+    "assists": [
+      [
+        323149,
+        "DRATSIC",
+        1,
+        1
+      ],
+      [
+        338300,
+        "JACKSQUIRE",
+        1,
+        0
+      ],
+      [
+        516743,
+        "TIIMAYE",
+        1,
+        0
+      ],
+      [
+        526498,
+        "INESSIMA",
+        1,
+        0
+      ],
+      [
+        529203,
+        "P1ZZ4K1D",
+        1,
+        0
+      ],
+      [
+        555368,
+        "JACKSQUIRE",
+        1,
+        0
+      ],
+      [
+        563121,
+        "DRATSIC",
+        1,
+        0
+      ],
+      [
+        567265,
+        "P1ZZ4K1D",
+        1,
+        0
+      ],
+      [
+        604935,
+        "P1ZZ4K1D",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      2421,
+      2419
+    ],
+    "custom_game": false,
+    "deaths": 4,
+    "end_sr": 2397,
+    "game_duration": 671,
+    "game_ended": 1499614137,
+    "game_started": 1499613442,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 5576,
+        "deaths": 4,
+        "elims": 9,
+        "healing": 4462,
+        "hero_stat_1": 9,
+        "hero_stat_2": 1,
+        "hero_stat_3": 6,
+        "hero_stat_5": 9,
+        "hero_stat_6": 671037,
+        "objective_kills": 3,
+        "objective_time": 7,
+        "tab_health": 0.4782608695652174,
+        "time_played": 622533
+      },
+      "junkrat": {
+        "damage": 4481,
+        "deaths": 1,
+        "elims": 6,
+        "healing": 0,
+        "hero_stat_1": 33,
+        "hero_stat_2": 3,
+        "hero_stat_3": 6,
+        "hero_stat_4": 0,
+        "hero_stat_5": 5,
+        "objective_kills": 1,
+        "objective_time": 1,
+        "tab_health": 0.4782608695652174,
+        "time_played": 207084
+      },
+      "lucio": {
+        "damage": 1095,
+        "deaths": 3,
+        "elims": 3,
+        "healing": 4462,
+        "hero_stat_1": 26,
+        "hero_stat_2": 0,
+        "hero_stat_3": 2,
+        "hero_stat_4": 2,
+        "hero_stat_5": 3,
+        "objective_kills": 2,
+        "objective_time": 6,
+        "tab_health": 0.4782608695652174,
+        "time_played": 328296
+      }
+    },
+    "heroes_played": [
+      [
+        "lucio",
+        0.6871484937102539
+      ],
+      [
+        "junkrat",
+        0.31285150628974606
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-15-28-K4wc5VtweVg7K45653n5z8",
+    "killfeed": [
+      [
+        109786,
+        0,
+        "zenyatta",
+        "ROBUSTAROGGE",
+        "widowmaker",
+        "COLDFURY",
+        [
+        ],
+        null
+      ],
+      [
+        133201,
+        1,
+        "reaper",
+        "FEASTORFAMIN",
+        "zenyatta",
+        "ROBUSTAROGGE",
+        [
+        ],
+        null
+      ],
+      [
+        139671,
+        1,
+        "reinhardt",
+        "KINDLYSIR",
+        "reinhardt",
+        "P1ZZ4K1D",
+        [
+        ],
+        null
+      ],
+      [
+        151649,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "dva_mech",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        151649,
+        1,
+        "s76",
+        "COLDFURY",
+        "mercy",
+        "INESSIMA",
+        [
+        ],
+        null
+      ],
+      [
+        159368,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "lucio",
+        "MAGIC",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        159368,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        159368,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "dva",
+        "THECANADAINU",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        161378,
+        1,
+        "s76",
+        "COLDFURY",
+        "zenyatta",
+        "ROBUSTAROGGE",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        172252,
+        1,
+        "reaper",
+        "FEASTORFAMIN",
+        "dva_mech",
+        "JACKSQUIRE",
+        [
+        ],
+        null
+      ],
+      [
+        172252,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "reaper",
+        "FEASTORFAMIN",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        182094,
+        1,
+        "s76",
+        "COLDFURY",
+        "dva",
+        "JACKSQUIRE",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        184687,
+        0,
+        "mei",
+        "TIIMAYE",
+        "dva_mech",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        191204,
+        0,
+        "zenyatta",
+        "ROBUSTAROGGE",
+        "ana",
+        "FR3NCHTOAST",
+        [
+        ],
+        null
+      ],
+      [
+        191204,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+        ],
+        null
+      ],
+      [
+        193179,
+        1,
+        "s76",
+        "COLDFURY",
+        "mei",
+        "TIIMAYE",
+        [
+          "mercy",
+          "mei"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        193179,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "s76",
+        "COLDFURY",
+        [
+        ],
+        null
+      ],
+      [
+        197946,
+        0,
+        "reinhardt",
+        "P1ZZ4K1D",
+        "dva",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        201312,
+        0,
+        "zenyatta",
+        "ROBUSTAROGGE",
+        "reaper",
+        "FEASTORFAMIN",
+        [
+        ],
+        null
+      ],
+      [
+        219588,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "pharah",
+        "FEASTORFAMIN",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        247333,
+        0,
+        "zenyatta",
+        "ROBUSTAROGGE",
+        "pharah",
+        "FEASTORFAMIN",
+        [
+        ],
+        null
+      ],
+      [
+        252516,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        282383,
+        0,
+        "reinhardt",
+        "P1ZZ4K1D",
+        "s76",
+        "COLDFURY",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        292066,
+        0,
+        "reinhardt",
+        "P1ZZ4K1D",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        292066,
+        0,
+        "mercy",
+        "INESSIMA",
+        "lucio",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        304133,
+        0,
+        "reinhardt",
+        "P1ZZ4K1D",
+        "ana",
+        "FR3NCHTOAST",
+        [
+        ],
+        null
+      ],
+      [
+        308157,
+        0,
+        "zenyatta",
+        "ROBUSTAROGGE",
+        "dva_mech",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        309961,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "dva",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        313250,
+        1,
+        "reinhardt",
+        "KINDLYSIR",
+        "zenyatta",
+        "ROBUSTAROGGE",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        323149,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "tracer",
+        "FEASTORFAMIN",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        323149,
+        1,
+        "tracer",
+        "FEASTORFAMIN",
+        "junkrat",
+        "DRATSIC",
+        [
+        ],
+        null
+      ],
+      [
+        328497,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+        ],
+        null
+      ],
+      [
+        336947,
+        1,
+        "pharah",
+        "COLDFURY",
+        "reinhardt",
+        "P1ZZ4K1D",
+        [
+        ],
+        null
+      ],
+      [
+        338300,
+        2,
+        "mercy",
+        "INESSIMA",
+        "reinhardt",
+        "P1ZZ4K1D",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        338300,
+        1,
+        "pharah",
+        "COLDFURY",
+        "dva_mech",
+        "JACKSQUIRE",
+        [
+        ],
+        null
+      ],
+      [
+        341908,
+        0,
+        "zenyatta",
+        "ROBUSTAROGGE",
+        "junkrat",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        348646,
+        1,
+        "tracer",
+        "FEASTORFAMIN",
+        "zenyatta",
+        "ROBUSTAROGGE",
+        [
+        ],
+        null
+      ],
+      [
+        348646,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "lucio",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        350610,
+        0,
+        "reinhardt",
+        "P1ZZ4K1D",
+        "ana",
+        "FR3NCHTOAST",
+        [
+        ],
+        null
+      ],
+      [
+        353539,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "tracer",
+        "FEASTORFAMIN",
+        [
+        ],
+        null
+      ],
+      [
+        364281,
+        0,
+        "reinhardt",
+        "P1ZZ4K1D",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+        ],
+        null
+      ],
+      [
+        365967,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "pharah",
+        "COLDFURY",
+        [
+          "junkrat"
+        ],
+        null
+      ],
+      [
+        370906,
+        1,
+        "junkrat",
+        "THECANADAINU",
+        "junkrat",
+        "DRATSIC",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        370906,
+        0,
+        "mei",
+        "TIIMAYE",
+        "junkrat",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        504151,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "torb_turret",
+        "FR3NCHTOAST",
+        [
+        ],
+        null
+      ],
+      [
+        513193,
+        1,
+        "winston",
+        "FEASTORFAMIN",
+        "junkrat",
+        "DRATSIC",
+        [
+        ],
+        null
+      ],
+      [
+        515129,
+        1,
+        "reinhardt",
+        "KINDLYSIR",
+        "dva_mech",
+        "JACKSQUIRE",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        515129,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+        ],
+        null
+      ],
+      [
+        515129,
+        1,
+        "symmetra",
+        "THECANADAINU",
+        "dva",
+        "JACKSQUIRE",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        516743,
+        1,
+        "junkrat",
+        "MAGIC",
+        "sombra",
+        "TIIMAYE",
+        [
+        ],
+        null
+      ],
+      [
+        516743,
+        0,
+        "reinhardt",
+        "P1ZZ4K1D",
+        "symmetra",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        526498,
+        1,
+        "junkrat",
+        "MAGIC",
+        "mercy",
+        "INESSIMA",
+        [
+        ],
+        null
+      ],
+      [
+        529203,
+        1,
+        "junkrat",
+        "MAGIC",
+        "reinhardt",
+        "P1ZZ4K1D",
+        [
+        ],
+        null
+      ],
+      [
+        554362,
+        1,
+        "junkrat",
+        "MAGIC",
+        "dva_mech",
+        "JACKSQUIRE",
+        [
+        ],
+        null
+      ],
+      [
+        560736,
+        1,
+        "reinhardt",
+        "KINDLYSIR",
+        "mercy",
+        "INESSIMA",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        563121,
+        1,
+        "junkrat",
+        "MAGIC",
+        "junkrat",
+        "DRATSIC",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        565022,
+        1,
+        "torb",
+        "FR3NCHTOAST",
+        "dva",
+        "JACKSQUIRE",
+        [
+        ],
+        null
+      ],
+      [
+        567265,
+        1,
+        "torb",
+        "FR3NCHTOAST",
+        "reinhardt",
+        "P1ZZ4K1D",
+        [
+        ],
+        null
+      ],
+      [
+        575518,
+        1,
+        "torb",
+        "FR3NCHTOAST",
+        "zenyatta",
+        "ROBUSTAROGGE",
+        [
+        ],
+        null
+      ],
+      [
+        576525,
+        0,
+        "sombra",
+        "TIIMAYE",
+        "symmetra_shieldgen",
+        "THECANADAINU",
+        [
+        ],
+        null
+      ],
+      [
+        579459,
+        1,
+        "symmetra",
+        "THECANADAINU",
+        "sombra",
+        "TIIMAYE",
+        [
+        ],
+        null
+      ],
+      [
+        600054,
+        0,
+        "reinhardt",
+        "P1ZZ4K1D",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+          "zenyatta"
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        603806,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "winston",
+        "FEASTORFAMIN",
+        [
+        ],
+        null
+      ],
+      [
+        603806,
+        1,
+        "junkrat",
+        "MAGIC",
+        "reinhardt",
+        "P1ZZ4K1D",
+        [
+        ],
+        null
+      ],
+      [
+        607495,
+        0,
+        "sombra",
+        "TIIMAYE",
+        "torb_turret",
+        "FR3NCHTOAST",
+        [
+        ],
+        null
+      ],
+      [
+        608926,
+        0,
+        "dva",
+        "JACKSQUIRE",
+        "torb",
+        "FR3NCHTOAST",
+        [
+        ],
+        null
+      ],
+      [
+        611543,
+        0,
+        "mercy",
+        "INESSIMA",
+        "mercy",
+        "COLDFURY",
+        [
+        ],
+        null
+      ],
+      [
+        612610,
+        1,
+        "symmetra",
+        "THECANADAINU",
+        "sombra",
+        "TIIMAYE",
+        [
+        ],
+        null
+      ],
+      [
+        613637,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "symmetra",
+        "THECANADAINU",
+        [
+          "sombra"
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        623752,
+        0,
+        "junkrat",
+        "DRATSIC",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        625728,
+        0,
+        "zenyatta",
+        "ROBUSTAROGGE",
+        "reinhardt",
+        "KINDLYSIR",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "King's Row",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 373897,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 40804
+      },
+      {
+        "checkpoints": [
+          [
+            632817,
+            1
+          ]
+        ],
+        "end": 634817,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 426149
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2418,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        90,
+        125,
+        610,
+        1095,
+        1095,
+        1095,
+        1095,
+        1095,
+        3990,
+        5576,
+        5576,
+        5576,
+        5576,
+        5576
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        8,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        209,
+        588,
+        3461,
+        4462,
+        4462,
+        4462,
+        4462,
+        4462,
+        4462,
+        4462,
+        4462,
+        4462,
+        4462,
+        4462
+      ],
+      "hero": [
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        50,
+        23,
+        21,
+        26,
+        26,
+        0,
+        0,
+        0,
+        33,
+        33,
+        33,
+        33,
+        33,
+        33
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        0,
+        0,
+        0,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "time": [
+        41785,
+        47327,
+        80702,
+        114219,
+        131161,
+        305673,
+        365055,
+        370081,
+        457234,
+        471368,
+        477279,
+        577524,
+        627741,
+        644098,
+        650199,
+        657883,
+        664318
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 348646,
+              "hero": "lucio",
+              "start": 159368
+            },
+            {
+              "end": 625728,
+              "hero": "junkrat",
+              "start": 516743
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 109786,
+              "hero": "widowmaker",
+              "start": 109786
+            },
+            {
+              "end": 282383,
+              "hero": "s76",
+              "start": 151649
+            },
+            {
+              "end": 365967,
+              "hero": "pharah",
+              "start": 336947
+            },
+            {
+              "end": 625728,
+              "hero": "mercy",
+              "start": 611543
+            }
+          ],
+          "name": "COLDFURY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 309961,
+              "hero": "dva",
+              "start": 159368
+            },
+            {
+              "end": 370906,
+              "hero": "junkrat",
+              "start": 341908
+            },
+            {
+              "end": 625728,
+              "hero": "symmetra",
+              "start": 515129
+            }
+          ],
+          "name": "THECANADAINU"
+        },
+        {
+          "heroes": [
+            {
+              "end": 625728,
+              "hero": "reinhardt",
+              "start": 139671
+            }
+          ],
+          "name": "KINDLYSIR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 201312,
+              "hero": "reaper",
+              "start": 133201
+            },
+            {
+              "end": 247333,
+              "hero": "pharah",
+              "start": 219588
+            },
+            {
+              "end": 353539,
+              "hero": "tracer",
+              "start": 323149
+            },
+            {
+              "end": 625728,
+              "hero": "winston",
+              "start": 513193
+            }
+          ],
+          "name": "FEASTORFAMIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 350610,
+              "hero": "ana",
+              "start": 191204
+            },
+            {
+              "end": 625728,
+              "hero": "torb",
+              "start": 565022
+            }
+          ],
+          "name": "FR3NCHTOAST"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 370906,
+              "hero": "mei",
+              "start": 184687
+            },
+            {
+              "end": 625728,
+              "hero": "sombra",
+              "start": 516743
+            }
+          ],
+          "name": "TIIMAYE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 625728,
+              "hero": "dva",
+              "start": 151649
+            }
+          ],
+          "name": "JACKSQUIRE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 625728,
+              "hero": "junkrat",
+              "start": 159368
+            }
+          ],
+          "name": "DRATSIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 625728,
+              "hero": "reinhardt",
+              "start": 139671
+            }
+          ],
+          "name": "P1ZZ4K1D"
+        },
+        {
+          "heroes": [
+            {
+              "end": 625728,
+              "hero": "mercy",
+              "start": 151649
+            }
+          ],
+          "name": "INESSIMA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 625728,
+              "hero": "zenyatta",
+              "start": 109786
+            }
+          ],
+          "name": "ROBUSTAROGGE"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 671,
+    "end_sr": 2397,
+    "heroes_played": [
+      [
+        "lucio",
+        0.6871484937102539
+      ],
+      [
+        "junkrat",
+        0.31285150628974606
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-15-28-K4wc5VtweVg7K45653n5z8",
+    "map": "King's Row",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2418,
+    "time": 1499613442,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-09-15-28-K4wc5VtweVg7K45653n5z8/game.json",
+    "user_id": 151467
+  }
+}

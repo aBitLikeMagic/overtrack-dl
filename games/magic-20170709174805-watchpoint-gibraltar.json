@@ -1,0 +1,1584 @@
+{
+  "data": {
+    "assists": [
+      [
+        198537,
+        "ENDER",
+        1,
+        1
+      ],
+      [
+        200577,
+        "JUNGLEDAN",
+        1,
+        1
+      ],
+      [
+        209614,
+        "YELRUX",
+        1,
+        1
+      ],
+      [
+        381522,
+        "JUNGLEDAN",
+        1,
+        1
+      ],
+      [
+        557051,
+        "QUENTIN",
+        1,
+        1
+      ],
+      [
+        650010,
+        "QUENTIN",
+        1,
+        0
+      ],
+      [
+        653375,
+        "JUNGLEDAN",
+        1,
+        1
+      ],
+      [
+        660006,
+        "BOSSSAUCE9O7",
+        0,
+        1
+      ]
+    ],
+    "avg_sr": [
+      229,
+      2291
+    ],
+    "custom_game": false,
+    "deaths": 9,
+    "end_sr": 2337,
+    "game_duration": 703,
+    "game_ended": 1499623232,
+    "game_started": 1499622485,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 3619,
+        "deaths": 8,
+        "elims": 12,
+        "healing": 2236,
+        "hero_stat_1": 7,
+        "hero_stat_2": 7,
+        "hero_stat_3": 7,
+        "hero_stat_5": 12,
+        "hero_stat_6": 703449,
+        "objective_kills": 7,
+        "objective_time": 64,
+        "tab_health": 0.5416666666666666,
+        "time_played": 646784
+      },
+      "pharah": {
+        "damage": 538,
+        "deaths": 2,
+        "elims": 2,
+        "healing": 0,
+        "hero_stat_1": 41,
+        "hero_stat_2": 0,
+        "hero_stat_3": 2,
+        "hero_stat_4": 4,
+        "hero_stat_5": 2,
+        "objective_kills": 1,
+        "objective_time": 1,
+        "tab_health": 0.5416666666666666,
+        "time_played": 115168
+      },
+      "zenyatta": {
+        "damage": 3081,
+        "deaths": 6,
+        "elims": 10,
+        "healing": 2236,
+        "hero_stat_1": 21,
+        "hero_stat_2": 11,
+        "hero_stat_3": 3,
+        "hero_stat_4": 112,
+        "hero_stat_5": 11,
+        "objective_kills": 6,
+        "objective_time": 63,
+        "tab_health": 0.5416666666666666,
+        "time_played": 525577
+      }
+    },
+    "heroes_played": [
+      [
+        "zenyatta",
+        0.7406306434422532
+      ],
+      [
+        "pharah",
+        0.2593693565577468
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-18-00-gZXeWFDnNXAXsnhpvn5Zo4",
+    "killfeed": [
+      [
+        103447,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "mccree",
+        "BOSSSAUCE9O7",
+        [
+        ],
+        null
+      ],
+      [
+        108678,
+        1,
+        "junkrat",
+        "FORMULAQ",
+        "lucio",
+        "YELRUX",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        110362,
+        1,
+        "pharah",
+        "MAGIC",
+        "mercy",
+        "QUENTIN",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        117685,
+        1,
+        "pharah",
+        "MAGIC",
+        "dva_mech",
+        "NAPROXENZ",
+        [
+          "mccree",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        122859,
+        1,
+        "pharah",
+        "MAGIC",
+        "dva",
+        "NAPROXENZ",
+        [
+        ],
+        null
+      ],
+      [
+        128197,
+        0,
+        "lucio",
+        "YELRUX",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        142082,
+        0,
+        "mccree",
+        "BOSSSAUCE9O7",
+        "junkrat",
+        "FORMULAQ",
+        [
+        ],
+        null
+      ],
+      [
+        144672,
+        1,
+        "mercy",
+        "GHOSTLYZENN",
+        "mccree",
+        "BOSSSAUCE9O7",
+        [
+        ],
+        null
+      ],
+      [
+        146911,
+        0,
+        "tracer",
+        "ENDER",
+        "winston",
+        "JCAT11",
+        [
+        ],
+        null
+      ],
+      [
+        148483,
+        0,
+        "tracer",
+        "ENDER",
+        "hanzo",
+        "ALEXTASTIC",
+        [
+        ],
+        null
+      ],
+      [
+        150291,
+        0,
+        "lucio",
+        "YELRUX",
+        "mercy",
+        "GHOSTLYZENN",
+        [
+        ],
+        null
+      ],
+      [
+        154391,
+        0,
+        "tracer",
+        "ENDER",
+        "mccree",
+        "POROMORO",
+        [
+        ],
+        null
+      ],
+      [
+        183887,
+        1,
+        "junkrat",
+        "FORMULAQ",
+        "mercy",
+        "QUENTIN",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        191480,
+        1,
+        "winston",
+        "JCAT11",
+        "dva_mech",
+        "NAPROXENZ",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        198537,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "tracer",
+        "ENDER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        200577,
+        1,
+        "zenyatta",
+        "MAGIC",
+        "winston",
+        "JUNGLEDAN",
+        [
+        ],
+        null
+      ],
+      [
+        209614,
+        1,
+        "winston",
+        "JCAT11",
+        "lucio",
+        "YELRUX",
+        [
+          "junkrat",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        218126,
+        1,
+        "junkrat",
+        "FORMULAQ",
+        "mccree",
+        "BOSSSAUCE9O7",
+        [
+        ],
+        null
+      ],
+      [
+        220786,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "dva_mech",
+        "NAPROXENZ",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        233347,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "dva",
+        "NAPROXENZ",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        236851,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "tracer",
+        "ENDER",
+        [
+        ],
+        null
+      ],
+      [
+        262622,
+        1,
+        "junkrat",
+        "FORMULAQ",
+        "tracer",
+        "ENDER",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        267940,
+        0,
+        "mccree",
+        "BOSSSAUCE9O7",
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        268582,
+        1,
+        "dva",
+        "POROMORO",
+        "mccree",
+        "BOSSSAUCE9O7",
+        [
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        269867,
+        0,
+        null,
+        null,
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        272844,
+        0,
+        "winston",
+        "JUNGLEDAN",
+        "junkrat",
+        "FORMULAQ",
+        [
+        ],
+        null
+      ],
+      [
+        274130,
+        1,
+        "junkrat",
+        "FORMULAQ",
+        "winston",
+        "JUNGLEDAN",
+        [
+        ],
+        [
+          "junkrat",
+          "totalmayhem"
+        ]
+      ],
+      [
+        277002,
+        3,
+        "mercy",
+        "GHOSTLYZENN",
+        "junkrat",
+        "FORMULAQ",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        279388,
+        3,
+        "mercy",
+        "GHOSTLYZENN",
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        290744,
+        1,
+        "junkrat",
+        "FORMULAQ",
+        "mercy",
+        "QUENTIN",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        305432,
+        1,
+        "dva",
+        "POROMORO",
+        "dva_mech",
+        "NAPROXENZ",
+        [
+        ],
+        null
+      ],
+      [
+        309521,
+        0,
+        "winston",
+        "JUNGLEDAN",
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        309521,
+        1,
+        "winston",
+        "JCAT11",
+        "dva",
+        "NAPROXENZ",
+        [
+        ],
+        null
+      ],
+      [
+        311213,
+        1,
+        "junkrat",
+        "FORMULAQ",
+        "genji",
+        "BOSSSAUCE9O7",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        311213,
+        0,
+        "lucio",
+        "YELRUX",
+        "hanzo",
+        "ALEXTASTIC",
+        [
+        ],
+        null
+      ],
+      [
+        314002,
+        0,
+        "tracer",
+        "ENDER",
+        "mercy",
+        "GHOSTLYZENN",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        328770,
+        1,
+        "junkrat",
+        "FORMULAQ",
+        "lucio",
+        "YELRUX",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        333859,
+        0,
+        "winston",
+        "JUNGLEDAN",
+        "winston",
+        "JCAT11",
+        [
+        ],
+        null
+      ],
+      [
+        333859,
+        2,
+        "mercy",
+        "QUENTIN",
+        "lucio",
+        "YELRUX",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        337607,
+        0,
+        "tracer",
+        "ENDER",
+        "mercy",
+        "GHOSTLYZENN",
+        [
+        ],
+        null
+      ],
+      [
+        340642,
+        0,
+        "winston",
+        "JUNGLEDAN",
+        "junkrat",
+        "FORMULAQ",
+        [
+        ],
+        null
+      ],
+      [
+        343911,
+        0,
+        "genji",
+        "BOSSSAUCE9O7",
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        345419,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "tracer",
+        "ENDER",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        346928,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "genji",
+        "BOSSSAUCE9O7",
+        [
+        ],
+        null
+      ],
+      [
+        356759,
+        1,
+        "winston",
+        "JCAT11",
+        "reaper",
+        "NAPROXENZ",
+        [
+        ],
+        null
+      ],
+      [
+        372354,
+        1,
+        "zenyatta",
+        "MAGIC",
+        "lucio",
+        "YELRUX",
+        [
+        ],
+        null
+      ],
+      [
+        373274,
+        1,
+        "tracer",
+        "FORMULAQ",
+        "mercy",
+        "QUENTIN",
+        [
+        ],
+        null
+      ],
+      [
+        381522,
+        1,
+        "zenyatta",
+        "MAGIC",
+        "winston",
+        "JUNGLEDAN",
+        [
+        ],
+        null
+      ],
+      [
+        381522,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "tracer",
+        "ENDER",
+        [
+        ],
+        null
+      ],
+      [
+        393683,
+        0,
+        "reaper",
+        "NAPROXENZ",
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        399992,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "genji",
+        "BOSSSAUCE9O7",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        401771,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "mercy",
+        "QUENTIN",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        407222,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "reaper",
+        "NAPROXENZ",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        413284,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "lucio",
+        "YELRUX",
+        [
+        ],
+        null
+      ],
+      [
+        416251,
+        1,
+        "winston",
+        "JCAT11",
+        "tracer",
+        "ENDER",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        424649,
+        1,
+        "hanzo",
+        "ALEXTASTIC",
+        "winston",
+        "JUNGLEDAN",
+        [
+        ],
+        null
+      ],
+      [
+        549597,
+        0,
+        "widowmaker",
+        "BOSSSAUCE9O7",
+        "reaper",
+        "POROMORO",
+        [
+        ],
+        null
+      ],
+      [
+        557051,
+        1,
+        "tracer",
+        "FORMULAQ",
+        "roadhog",
+        "QUENTIN",
+        [
+        ],
+        null
+      ],
+      [
+        566711,
+        1,
+        "winston",
+        "JCAT11",
+        "hanzo",
+        "ENDER",
+        [
+        ],
+        null
+      ],
+      [
+        568411,
+        0,
+        "reaper",
+        "NAPROXENZ",
+        "tracer",
+        "FORMULAQ",
+        [
+        ],
+        null
+      ],
+      [
+        570720,
+        0,
+        "dva",
+        "JUNGLEDAN",
+        "winston",
+        "JCAT11",
+        [
+        ],
+        null
+      ],
+      [
+        574299,
+        1,
+        "zarya",
+        "ALEXTASTIC",
+        "dva_mech",
+        "JUNGLEDAN",
+        [
+        ],
+        null
+      ],
+      [
+        583329,
+        1,
+        "zarya",
+        "ALEXTASTIC",
+        "lucio",
+        "YELRUX",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        588935,
+        0,
+        "widowmaker",
+        "BOSSSAUCE9O7",
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        592645,
+        1,
+        "tracer",
+        "FORMULAQ",
+        "reaper",
+        "NAPROXENZ",
+        [
+        ],
+        null
+      ],
+      [
+        603063,
+        0,
+        "roadhog",
+        "QUENTIN",
+        "reaper",
+        "POROMORO",
+        [
+        ],
+        null
+      ],
+      [
+        609514,
+        1,
+        "tracer",
+        "FORMULAQ",
+        "hanzo",
+        "ENDER",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        611064,
+        0,
+        "widowmaker",
+        "BOSSSAUCE9O7",
+        "zenyatta",
+        "MAGIC",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        611064,
+        1,
+        "zarya",
+        "ALEXTASTIC",
+        "dva_mech",
+        "JUNGLEDAN",
+        [
+        ],
+        null
+      ],
+      [
+        616282,
+        0,
+        "roadhog",
+        "QUENTIN",
+        "tracer",
+        "FORMULAQ",
+        [
+        ],
+        null
+      ],
+      [
+        626304,
+        0,
+        "roadhog",
+        "QUENTIN",
+        "mercy",
+        "GHOSTLYZENN",
+        [
+        ],
+        [
+          "roadhog",
+          "chainhook"
+        ]
+      ],
+      [
+        631661,
+        1,
+        "winston",
+        "JCAT11",
+        "widowmaker",
+        "BOSSSAUCE9O7",
+        [
+        ],
+        null
+      ],
+      [
+        644897,
+        1,
+        "tracer",
+        "FORMULAQ",
+        "reaper",
+        "NAPROXENZ",
+        [
+        ],
+        null
+      ],
+      [
+        650010,
+        1,
+        "zenyatta",
+        "MAGIC",
+        "roadhog",
+        "QUENTIN",
+        [
+        ],
+        null
+      ],
+      [
+        653375,
+        1,
+        "reaper",
+        "POROMORO",
+        "dva_mech",
+        "JUNGLEDAN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        653375,
+        1,
+        "reaper",
+        "POROMORO",
+        "dva",
+        "JUNGLEDAN",
+        [
+        ],
+        null
+      ],
+      [
+        655205,
+        1,
+        "reaper",
+        "POROMORO",
+        "lucio",
+        "YELRUX",
+        [
+        ],
+        null
+      ],
+      [
+        660006,
+        1,
+        "tracer",
+        "FORMULAQ",
+        "widowmaker",
+        "BOSSSAUCE9O7",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Watchpoint: Gibraltar",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 431677,
+        "end_score": null,
+        "stage": "Defend",
+        "start": 49505
+      },
+      {
+        "checkpoints": [
+          [
+            661202,
+            1
+          ]
+        ],
+        "end": 666046,
+        "end_score": 1,
+        "stage": "Attack",
+        "start": 442784
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 2316,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        418,
+        418,
+        538,
+        538,
+        1128,
+        1808,
+        null,
+        1923,
+        2138,
+        2138,
+        2351,
+        2351,
+        3077,
+        3077,
+        3619,
+        3619
+      ],
+      "deaths": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        null,
+        4,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        8,
+        8
+      ],
+      "elims": [
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        5,
+        6,
+        null,
+        6,
+        6,
+        6,
+        9,
+        9,
+        10,
+        10,
+        12,
+        12
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        478,
+        848,
+        null,
+        1026,
+        1284,
+        1284,
+        1620,
+        1669,
+        1863,
+        2072,
+        2236,
+        2236
+      ],
+      "hero": [
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        44,
+        44,
+        41,
+        0,
+        33,
+        28,
+        null,
+        22,
+        21,
+        21,
+        22,
+        20,
+        21,
+        20,
+        21,
+        21
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        null,
+        3,
+        4,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        11
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        2,
+        2,
+        2,
+        0,
+        3,
+        3,
+        null,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        3,
+        3,
+        4,
+        0,
+        0,
+        0,
+        null,
+        63,
+        63,
+        63,
+        63,
+        63,
+        63,
+        63,
+        112,
+        112
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        2,
+        2,
+        2,
+        0,
+        3,
+        3,
+        null,
+        3,
+        4,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        11
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        null,
+        2,
+        2,
+        2,
+        5,
+        5,
+        5,
+        5,
+        7,
+        7
+      ],
+      "objective_time": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        3,
+        4,
+        null,
+        5,
+        5,
+        5,
+        21,
+        21,
+        43,
+        54,
+        64,
+        64
+      ],
+      "time": [
+        54451,
+        87652,
+        132591,
+        140274,
+        169619,
+        175658,
+        214634,
+        271366,
+        318529,
+        325813,
+        345419,
+        352054,
+        410247,
+        426630,
+        576413,
+        600119,
+        662981,
+        701235
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 128197,
+              "hero": "pharah",
+              "start": 110362
+            },
+            {
+              "end": 660006,
+              "hero": "zenyatta",
+              "start": 200577
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 660006,
+              "hero": "winston",
+              "start": 146911
+            }
+          ],
+          "name": "JCAT11"
+        },
+        {
+          "heroes": [
+            {
+              "end": 424649,
+              "hero": "hanzo",
+              "start": 103447
+            },
+            {
+              "end": 660006,
+              "hero": "zarya",
+              "start": 574299
+            }
+          ],
+          "name": "ALEXTASTIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 660006,
+              "hero": "mercy",
+              "start": 144672
+            }
+          ],
+          "name": "GHOSTLYZENN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 340642,
+              "hero": "junkrat",
+              "start": 108678
+            },
+            {
+              "end": 660006,
+              "hero": "tracer",
+              "start": 373274
+            }
+          ],
+          "name": "FORMULAQ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 154391,
+              "hero": "mccree",
+              "start": 154391
+            },
+            {
+              "end": 305432,
+              "hero": "dva",
+              "start": 268582
+            },
+            {
+              "end": 660006,
+              "hero": "reaper",
+              "start": 549597
+            }
+          ],
+          "name": "POROMORO"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 309521,
+              "hero": "dva",
+              "start": 122859
+            },
+            {
+              "end": 660006,
+              "hero": "reaper",
+              "start": 356759
+            }
+          ],
+          "name": "NAPROXENZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 416251,
+              "hero": "tracer",
+              "start": 146911
+            },
+            {
+              "end": 660006,
+              "hero": "hanzo",
+              "start": 566711
+            }
+          ],
+          "name": "ENDER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 401771,
+              "hero": "mercy",
+              "start": 110362
+            },
+            {
+              "end": 660006,
+              "hero": "roadhog",
+              "start": 557051
+            }
+          ],
+          "name": "QUENTIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 660006,
+              "hero": "lucio",
+              "start": 108678
+            }
+          ],
+          "name": "YELRUX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 268582,
+              "hero": "mccree",
+              "start": 103447
+            },
+            {
+              "end": 399992,
+              "hero": "genji",
+              "start": 311213
+            },
+            {
+              "end": 660006,
+              "hero": "widowmaker",
+              "start": 549597
+            }
+          ],
+          "name": "BOSSSAUCE9O7"
+        },
+        {
+          "heroes": [
+            {
+              "end": 424649,
+              "hero": "winston",
+              "start": 200577
+            },
+            {
+              "end": 660006,
+              "hero": "dva",
+              "start": 570720
+            }
+          ],
+          "name": "JUNGLEDAN"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 703,
+    "end_sr": 2337,
+    "heroes_played": [
+      [
+        "zenyatta",
+        0.7406306434422532
+      ],
+      [
+        "pharah",
+        0.2593693565577468
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-18-00-gZXeWFDnNXAXsnhpvn5Zo4",
+    "map": "Watchpoint: Gibraltar",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 2316,
+    "time": 1499622485,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-09-18-00-gZXeWFDnNXAXsnhpvn5Zo4/game.json",
+    "user_id": 151467
+  }
+}
