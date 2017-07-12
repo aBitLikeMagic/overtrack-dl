@@ -107,19 +107,13 @@ app.get('/graph', async (request, response) => {
     name: name,
     x: indicies,
     y: histories[name]
-  });
+  }));
 
   response.send(HTML`<!doctype html>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <body id="main">
     <script>
-      const data = [
-        {
-          x: ['giraffes', 'orangutans', 'monkeys'],
-          y: [20, 14, 23],
-          type: 'lines+markers'
-        }
-      ];
+      const data = ` + JSON.stringify(plotlyData) + HTML`
 
       const layout = {
         title: 'SR History by Account'
