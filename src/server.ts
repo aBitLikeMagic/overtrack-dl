@@ -1,8 +1,8 @@
 import * as fs from 'fs-extra';
-import * as he from 'he';
 import * as express from 'express';
 
-import {OvertrackUser} from './overtrack-dl';
+import {OvertrackUser, OvertrackGame} from './overtrack-dl';
+import {HTML} from './html';
 
 
 
@@ -11,7 +11,8 @@ const app = express();
 app.use(require('body-parser').urlencoded({extended: true}));
 
 app.get('/', async (request, response) => {
-  const parts = [`<!doctype html>
+  const parts = [HTML`<!doctype html>
+    <link rel="shortcut icon" href="icon.png" type="image/png" />
     <style>
       * { font-family: monospace; }
       img { vertical-align: middle; }
@@ -34,16 +35,16 @@ app.get('/', async (request, response) => {
     <h1>
       <img src="icon.png" width="48" height="48" />
       <a href="https://github.com/aBitLikeMagic/overtrack-dl">overtrack-dl</a> server
-      (<a href="https://glitch.com/edit/#!/overtrack-dl?path=src/server.ts:32:88">view source</a>)
+      (<a href="https://glitch.com/edit/#!/overtrack-dl?path=src/server.ts:32">view source</a>)
     </h1>
 
-    <h2>export from overtrack</h2>
+    <h2>export from <a href="https://overtrack.gg">OverTrack</a></h2>
 
     <h3>your games</h3>
 
     <form method="post" action="export-personal" id="export-personal">
       your api.overtrack.gg session key:
-      <input name="session" value="${he.escape(request.query['session'] || '')}">
+      <input name="session" value="${request.query['session'] || ''}">
       <input type="submit" value="export your games">
 
       <p>
@@ -58,7 +59,7 @@ app.get('/', async (request, response) => {
 
     <form method="post" action="export-shared" id="export-shared">
       overtrack.gg share key:
-      <input name="key" value="${he.escape(request.query['shareKey'] || '')}">
+      <input name="key" value="${request.query['shareKey'] || ''}">
       <input type="submit" value="export their games">
     </form>
     
@@ -66,11 +67,68 @@ app.get('/', async (request, response) => {
   
   for (const filename of await fs.readdir('games')) {
     if (filename.match(/\.(json|csv)$/)) {
-      const en = he.escape(filename);
-      parts.push(`<p><a href="games/${en}" id="games/${en}">${en}</a></p>`);
+      parts.push(HTML`<p><a href="games/${filename}" id="games/${filename}">${filename}</a></p>`);
     }
   }
   response.send(parts.join(''));
+});
+
+app.get('/graph', async (request, response) => {
+  const allowedNames = new Set(['Magic', 'Magma', 'Magoo', 'Might', 'Mogul', 'Muggy'].map(s => s.toLowerCase()));
+  const games: {[index: string]: OvertrackGame[]} = {};
+
+  for (const filename of await fs.readdir('games')) {
+    const match = filename.match(/^([^\-]+)\-.+\.json/);
+    if (match && allowedNames.has(match[1])) {
+      const name = match[1];
+      if (!games[name]) games[name] = [];
+      games[name].push(JSON.parse(await fs.readFile('games/' + filename, 'utf8')) as OvertrackGame);
+    }
+  }
+
+  const names = Object.keys(games).sort();
+  const indicies: number[] = [];
+  const histories: {[index: string]: number[]} = {};
+  
+  const maxLength = Math.max(...Object.keys(games).map(k => games[k]).map(v => v.length));
+  for (let i = 0; i < maxLength; i++) {
+    for (const name of names) {
+      if (games[name].length > i) {
+        histories[name].push(games[i].meta.end_sr);
+      } else {
+        // project last valid value
+        histories[name].push(histories[name][i - 1] || 0);
+      }
+    }
+    indicies.push(i);
+  }
+  
+  const plotlyData = names.map(name => ({
+    name: name,
+    x: indicies,
+    y: histories[name]
+  });
+
+  response.send(HTML`<!doctype html>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <body id="main">
+    <script>
+      const data = [
+        {
+          x: ['giraffes', 'orangutans', 'monkeys'],
+          y: [20, 14, 23],
+          type: 'lines+markers'
+        }
+      ];
+
+      const layout = {
+        title: 'SR History by Account'
+      };
+
+      Plotly.newPlot('body', data, layout);
+    </script>
+    
+  `.toString());
 });
 
 app.post('/export-personal', async (request, response) => {
