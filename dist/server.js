@@ -79,7 +79,7 @@ app.get('/graph', (request, response) => __awaiter(this, void 0, void 0, functio
     const allowedNames = new Set(['Magic', 'Magma', 'Magoo', 'Might', 'Mogul', 'Muggy'].map(s => s.toLowerCase()));
     const games = {};
     for (const filename of yield fs.readdir('games')) {
-        const match = filename.match(/^([^\-]+)\-.+\.json/);
+        const match = filename.match(/^([^\-]+)\-[0-9].+\.json/);
         if (match && allowedNames.has(match[1])) {
             const name = match[1];
             if (!games[name])
@@ -93,8 +93,10 @@ app.get('/graph', (request, response) => __awaiter(this, void 0, void 0, functio
     const maxLength = Math.max(...Object.keys(games).map(k => games[k]).map(v => v.length));
     for (let i = 0; i < maxLength; i++) {
         for (const name of names) {
+            if (i === 0)
+                histories[name] = [];
             if (games[name].length > i) {
-                histories[name].push(games[i].meta.end_sr);
+                histories[name].push(games[name][i].meta.end_sr);
             }
             else {
                 // project last valid value
@@ -110,7 +112,7 @@ app.get('/graph', (request, response) => __awaiter(this, void 0, void 0, functio
     }));
     response.send(html_1.HTML `<!doctype html>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <body id="main">
+    <body id="body">
     <script>
       const data = ` + JSON.stringify(plotlyData) + html_1.HTML `
 

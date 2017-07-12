@@ -78,7 +78,7 @@ app.get('/graph', async (request, response) => {
   const games: {[index: string]: OvertrackGame[]} = {};
 
   for (const filename of await fs.readdir('games')) {
-    const match = filename.match(/^([^\-]+)\-.+\.json/);
+    const match = filename.match(/^([^\-]+)\-[0-9].+\.json/);
     if (match && allowedNames.has(match[1])) {
       const name = match[1];
       if (!games[name]) games[name] = [];
@@ -93,8 +93,9 @@ app.get('/graph', async (request, response) => {
   const maxLength = Math.max(...Object.keys(games).map(k => games[k]).map(v => v.length));
   for (let i = 0; i < maxLength; i++) {
     for (const name of names) {
+      if (i === 0) histories[name] = [];
       if (games[name].length > i) {
-        histories[name].push(games[i].meta.end_sr);
+        histories[name].push(games[name][i].meta.end_sr);
       } else {
         // project last valid value
         histories[name].push(histories[name][i - 1] || 0);
@@ -111,7 +112,7 @@ app.get('/graph', async (request, response) => {
 
   response.send(HTML`<!doctype html>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <body id="main">
+    <body id="body">
     <script>
       const data = ` + JSON.stringify(plotlyData) + HTML`
 
