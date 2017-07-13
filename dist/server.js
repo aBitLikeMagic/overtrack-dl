@@ -39,7 +39,7 @@ exports.makeServer = () => {
 
       <h1>
         <img src="icon.png" width="48" height="48" />
-        <a href="https://github.com/aBitLikeMagic/overtrack-dl">overtrack-dl</a> server
+        <a href="https://glitch.com/~overtrack-dl">~overtrack-dl</a> server
         (<a href="https://glitch.com/edit/#!/overtrack-dl?path=src/server.ts:32">view source</a>)
       </h1>
 
@@ -64,7 +64,7 @@ exports.makeServer = () => {
         </p>
 
         <p>
-          this gives me access to your account. so, maybe run this yourself instead?
+          <span style="color: red;">this gives me access to your account</span>, so maybe run this yourself instead?
         </p>
       </form>
 
