@@ -145,7 +145,25 @@ export const makeServer = () => {
         const data = JSON.parse(await fs.readFile('games/' + filename, 'utf8')) as OvertrackGame;
         if (data.meta.end_sr && data.meta.time > 1499482797 && data.meta.time < 1503707707) {
           games[name].push(data.meta.end_sr);
-          labels[name].push(`${data.meta.result} on ${data.meta.map}<br>as ${data.meta.heroes_played.map(x => capitalize(x[0])).join(', ')}`);
+          const pieces = [];
+          if (data.meta.end_sr && data.meta.start_sr) {
+            const delta = data.meta.end_sr - data.meta.start_sr;
+            if (delta < 0) {
+              pieces.push(`−${-delta}`);
+            } else if (delta > 0) {
+              pieces.push(`+${delta}`);
+            }
+          }
+          if (data.meta.result && data.meta.result !== 'UNKNOWN') {
+            pieces.push(capitalize(data.meta.result));
+          }
+          if (data.meta.map && data.meta.map !== 'UNKNOWN') {
+            pieces.push('on ' + data.meta.map);
+          }
+          if (data.meta.heroes_played) {
+            pieces.push(`<br>${data.meta.heroes_played.map(x => `${(x[1] * 100)|0}% ${capitalize(x[0])}`).join(', ')}`);
+          }
+          labels[name].push(pieces.join(' '));
         }
       }
     }
