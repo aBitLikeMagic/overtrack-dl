@@ -9,17 +9,21 @@ export type HeroName =
 
 export type TeamName = 'red' | 'blue';
 
+export interface MinimalGame {
+  // The player's SR after this match.
+  end_sr: number;
+}
+
 // Data that is identical in both Overtrack's game data and metadata.
-interface RawOvertrackGameCommon {
+interface RawOvertrackGameCommon extends MinimalGame {
   // The Overtrack key identifying this game.
   key: string;
 
   // The Overtrack user ID which owns this game.
   user_id: number;
   
-  // The player's SR before and after this game.
+  // The player's SR before this match
   start_sr: number;
-  end_sr: number;
   
   // The name of the map.
   map: string;

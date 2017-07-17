@@ -27,8 +27,10 @@ class OvertrackUser {
             let headers = {};
             if (this.sessionId_)
                 headers['Cookie'] = `session=${this.sessionId_}`;
+            console.log(url, headers);
             const response = yield node_fetch_1.default(url, { headers: headers });
             const data = yield response.json();
+            //console.log(data);
             const games = data['games'].map((game) => new OvertrackGame(game));
             games.sort((a, b) => a.meta.time - b.meta.time);
             return this.games_ = games;
