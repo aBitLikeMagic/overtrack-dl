@@ -222,7 +222,7 @@ export const makeServer = () => {
         side: "right"
       },
       xaxis: {
-        title: "Games Ago"
+        title: "Games Ago",
         zeroline: true,
         autorange: 'reversed'
       },
