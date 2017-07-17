@@ -2,8 +2,8 @@
   "data": {
     "assists": [
       [
-        445315,
-        null,
+        724686,
+        "PINALOLADAS",
         1,
         0
       ]
@@ -32,28 +32,6 @@
         null,
         "pharah",
         "@UNKNOWN_BLUE#0",
-        [
-        ],
-        null
-      ],
-      [
-        202612,
-        0,
-        "dva",
-        "@UNKNOWN_RED#1",
-        "dva_mech",
-        "RIVA",
-        [
-        ],
-        null
-      ],
-      [
-        234782,
-        1,
-        "winston",
-        "FIGNEW1DN",
-        "dva",
-        "@UNKNOWN_RED#1",
         [
         ],
         null
@@ -95,7 +73,7 @@
         561780,
         0,
         "dva",
-        "AINACULADAS",
+        "PINALOLADAS",
         "pharah",
         "@UNKNOWN_BLUE#0",
         [
@@ -159,17 +137,6 @@
         [
         ],
         null
-      ],
-      [
-        830953,
-        0,
-        "pharah",
-        "@UNKNOWN_RED#2",
-        "reinhardt",
-        "RIVA",
-        [
-        ],
-        null
       ]
     ],
     "map": "Temple of Anubis",
@@ -178,7 +145,7 @@
       {
         "checkpoints": [
           [
-            259620,
+            260625,
             1
           ]
         ],
@@ -190,7 +157,7 @@
       {
         "checkpoints": [
           [
-            847968,
+            850078,
             1
           ]
         ],
@@ -214,7 +181,7 @@
         {
           "heroes": [
             {
-              "end": 830953,
+              "end": 802102,
               "hero": "pharah",
               "start": 184368
             }
@@ -224,22 +191,17 @@
         {
           "heroes": [
           ],
-          "name": "W53"
+          "name": "W22"
         },
         {
           "heroes": [
-            {
-              "end": 830953,
-              "hero": "winston",
-              "start": 234782
-            }
           ],
-          "name": "FIGNEW1DN"
+          "name": "FIGNLW1UN"
         },
         {
           "heroes": [
             {
-              "end": 830953,
+              "end": 802102,
               "hero": "zenyatta",
               "start": 563344
             }
@@ -248,18 +210,13 @@
         },
         {
           "heroes": [
-            {
-              "end": 830953,
-              "hero": "reinhardt",
-              "start": 830953
-            }
           ],
-          "name": "RIVA"
+          "name": "KIVN"
         },
         {
           "heroes": [
             {
-              "end": 830953,
+              "end": 802102,
               "hero": "pharah",
               "start": 475947
             }
@@ -286,7 +243,7 @@
               "start": 731101
             },
             {
-              "end": 830953,
+              "end": 802102,
               "hero": "reaper",
               "start": 802102
             }
@@ -295,23 +252,18 @@
         },
         {
           "heroes": [
-            {
-              "end": 830953,
-              "hero": "dva",
-              "start": 202612
-            }
           ],
           "name": "@UNKNOWN_RED#1"
         },
         {
           "heroes": [
             {
-              "end": 830953,
+              "end": 802102,
               "hero": "dva",
               "start": 561780
             }
           ],
-          "name": "AINACULADAS"
+          "name": "PINALOLADAS"
         },
         {
           "heroes": [
@@ -321,19 +273,14 @@
         {
           "heroes": [
           ],
-          "name": "HUUKK"
+          "name": "BUUKS"
         },
         {
           "heroes": [
             {
-              "end": 565953,
+              "end": 802102,
               "hero": "lucio",
               "start": 565953
-            },
-            {
-              "end": 830953,
-              "hero": "pharah",
-              "start": 830953
             }
           ],
           "name": "@UNKNOWN_RED#2"

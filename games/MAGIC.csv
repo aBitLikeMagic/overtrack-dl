@@ -1,9 +1,9 @@
 Date, Map, Result, SR Before, SR After, Heroes, Group Size
 "2017-07-03T01:29:36.000Z", Ilios, "", 2342, 2368, "tracer, s76", 1
-"2017-07-04T19:18:20.000Z", Eichenwalde, LOSS, 2366, 2341, dva, 1
+"2017-07-04T19:18:20.000Z", Eichenwalde, LOSS, 2366, 2341, "", 1
 "2017-07-04T19:45:12.000Z", Volskaya Industries, WIN, 2341, 2365, winston, 1
 "2017-07-05T02:09:54.000Z", Temple of Anubis, LOSS, 2343, 2320, "", 1
-"2017-07-05T03:05:20.000Z", Oasis, "", 2343, 2321, "", 1
+"2017-07-05T03:05:20.000Z", "", "", 2343, 2321, "mercy, dva, lucio", 1
 "2017-07-09T07:59:34.000Z", Lijiang Tower, LOSS, 2450, 2425, "junkrat, dva, s76", 1
 "2017-07-09T08:30:09.000Z", "Watchpoint: Gibraltar", LOSS, 2425, 2402, "ana, junkrat, mercy", 1
 "2017-07-09T09:31:41.000Z", Temple of Anubis, LOSS, 2402, 2382, "junkrat, dva", 1
@@ -33,4 +33,18 @@ Date, Map, Result, SR Before, SR After, Heroes, Group Size
 "2017-07-09T23:37:25.000Z", Volskaya Industries, LOSS, 2355, 2330, "junkrat, pharah", 1
 "2017-07-09T23:55:13.000Z", Oasis, WIN, 2330, 2354, "junkrat, s76, dva", 1
 "2017-07-10T00:44:40.000Z", Nepal, WIN, 2354, 2379, "zenyatta, junkrat", 1
+"2017-07-10T01:29:24.000Z", Ilios, LOSS, "", 2356, "mercy, zenyatta, pharah", 1
+"2017-07-10T01:48:47.000Z", Horizon Lunar Colony, DRAW, 2356, 2356, "s76, pharah, junkrat", 1
+"2017-07-10T02:20:18.000Z", Route 66, WIN, 2356, 2386, "pharah, junkrat", 1
+"2017-07-11T03:24:22.000Z", Dorado, LOSS, 2386, 2358, "junkrat, zenyatta, mercy", 1
+"2017-07-11T03:38:46.000Z", "Watchpoint: Gibraltar", LOSS, 2358, 2333, "zenyatta, pharah, mercy", 1
+"2017-07-11T23:53:38.000Z", Oasis, LOSS, 2333, 2311, "zenyatta, pharah, dva", 1
+"2017-07-12T03:19:04.000Z", Ilios, WIN, "", 2306, "pharah, ana, reaper", 1
+"2017-07-12T23:46:49.000Z", Lijiang Tower, LOSS, 2306, 2279, "junkrat, s76, lucio", 1
+"2017-07-13T00:15:51.000Z", Route 66, WIN, 2279, 2302, "pharah, mercy, junkrat", 1
+"2017-07-13T00:39:31.000Z", Ilios, WIN, 2302, 2326, pharah, 1
+"2017-07-13T21:34:08.000Z", "King's Row", LOSS, 2326, 2303, "pharah, mercy, s76", 1
+"2017-07-14T00:41:32.000Z", Lijiang Tower, WIN, 2303, 2327, mercy, 1
+"2017-07-14T01:49:23.000Z", Eichenwalde, LOSS, "", 2302, "junkrat, pharah, mercy", 1
+"2017-07-14T05:05:41.000Z", Ilios, WIN, 2302, 2324, pharah, 1
 

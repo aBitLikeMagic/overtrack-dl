@@ -1,3 +1,21 @@
 Date, Map, Result, SR Before, SR After, Heroes, Group Size
 "2017-07-09T09:00:15.000Z", Hanamura, WIN, 2697, 2753, "zenyatta, mercy, dva", 1
+"2017-07-13T01:11:29.000Z", Route 66, LOSS, 2753, 2720, "junkrat, reinhardt, dva", 1
+"2017-07-13T01:47:48.000Z", "King's Row", LOSS, 2720, 2687, "junkrat, mei, mercy", 1
+"2017-07-13T02:21:11.000Z", Ilios, WIN, 2687, "", mercy, 1
+"2017-07-13T03:39:12.000Z", Lijiang Tower, LOSS, 2656, 2626, "pharah, ana, mercy", 1
+"2017-07-13T03:57:11.000Z", Oasis, WIN, 2626, 2668, mercy, 1
+"2017-07-13T22:04:50.000Z", Hollywood, LOSS, 2668, 2643, "dva, mercy, junkrat", 1
+"2017-07-13T22:20:11.000Z", "Watchpoint: Gibraltar", WIN, 2643, 2684, "winston, mercy", 1
+"2017-07-13T22:51:24.000Z", Route 66, WIN, 2684, 2716, mercy, 1
+"2017-07-13T23:13:20.000Z", "King's Row", WIN, 2716, 2748, mercy, 1
+"2017-07-14T02:30:46.000Z", Horizon Lunar Colony, LOSS, "", 2724, "junkrat, mercy", 1
+"2017-07-14T02:47:52.000Z", Lijiang Tower, LOSS, 2724, 2703, "junkrat, pharah, mercy", 1
+"2017-07-14T03:05:19.000Z", Numbani, LOSS, 2703, 2681, "mercy, dva", 1
+"2017-07-14T03:49:17.000Z", Nepal, LOSS, 2681, 2659, "mercy, reinhardt, dva", 1
+"2017-07-14T04:36:12.000Z", Horizon Lunar Colony, WIN, 2659, 2686, mercy, 1
+"2017-07-14T05:35:49.000Z", Dorado, LOSS, 2686, 2665, "junkrat, widowmaker, mercy", 1
+"2017-07-14T05:45:59.000Z", Hanamura, LOSS, 2665, 2642, mercy, 1
+"2017-07-14T06:06:00.000Z", Volskaya Industries, WIN, 2642, 2667, mercy, 1
+"2017-07-15T03:32:04.000Z", Nepal, WIN, 2667, 2696, mercy, 1
 

@@ -106,7 +106,7 @@
     "hero_statistics": {
       "ALL": {
         "damage": 6177,
-        "deaths": 16,
+        "deaths": 14,
         "elims": 19,
         "healing": 200,
         "hero_stat_1": 15,
@@ -116,55 +116,85 @@
         "hero_stat_6": 995466,
         "objective_kills": 9,
         "objective_time": 84,
-        "tab_health": 0.17142857142857143,
+        "tab_health": 0.37142857142857144,
         "time_played": 980263
       },
       "junkrat": {
-        "damage": 4933,
+        "damage": 2662,
         "deaths": 4,
-        "elims": 2,
+        "elims": 12,
         "healing": 0,
-        "hero_stat_1": 1,
-        "hero_stat_2": 0,
-        "hero_stat_3": 0,
+        "hero_stat_1": 11,
+        "hero_stat_2": 1,
+        "hero_stat_3": 6,
         "hero_stat_4": 1,
-        "objective_kills": 1,
-        "objective_time": 15,
-        "tab_health": 0.17142857142857143,
-        "time_played": 128398
+        "hero_stat_5": 6,
+        "objective_kills": 5,
+        "objective_time": 49,
+        "tab_health": 0.37142857142857144,
+        "time_played": 329530
+      },
+      "mei": {
+        "damage": 606,
+        "deaths": 2,
+        "elims": 3,
+        "healing": 200,
+        "hero_stat_1": 697,
+        "hero_stat_2": 0,
+        "hero_stat_3": 3,
+        "hero_stat_4": 200,
+        "hero_stat_5": 2,
+        "objective_kills": 3,
+        "objective_time": 17,
+        "tab_health": 0.37142857142857144,
+        "time_played": 99784
       },
       "pharah": {
-        "damage": 1298,
-        "deaths": 2,
+        "damage": 1398,
+        "deaths": 3,
         "elims": 4,
         "healing": 0,
         "hero_stat_1": 30,
         "hero_stat_2": 1,
         "hero_stat_3": 2,
-        "hero_stat_4": 1,
+        "hero_stat_4": 5,
         "hero_stat_5": 1,
         "objective_kills": 1,
         "objective_time": 2,
-        "tab_health": 0.17142857142857143,
+        "tab_health": 0.37142857142857144,
         "time_played": 222799
+      },
+      "winston": {
+        "damage": 0,
+        "deaths": 0,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.37142857142857144,
+        "time_played": 5470
       }
     },
     "heroes_played": [
       [
         "junkrat",
-        0.4747091224073954
+        0.4697486852574043
       ],
       [
         "pharah",
-        0.3750420384181685
+        0.3711230649408034
       ],
       [
         "mei",
-        0.15024883917443613
+        0.14867882526822707
       ],
       [
         "winston",
-        0
+        0.010449424533565264
       ]
     ],
     "key": "Magic-11407/2017-07-06-08-16-jvsaAPVEMuFzXeigEGt2F8",
@@ -210,6 +240,7 @@
         "junkrat",
         "JUANDAVIDGM",
         [
+          "zenyatta"
         ],
         null
       ],
@@ -221,6 +252,7 @@
         "s76",
         "LIJOHN",
         [
+          "ana"
         ],
         null
       ],
@@ -232,6 +264,7 @@
         "ana",
         "TRAQULAR",
         [
+          "mercy"
         ],
         null
       ],
@@ -304,6 +337,7 @@
         "pharah",
         "MIGHT",
         [
+          "ana"
         ],
         null
       ],
@@ -329,6 +363,7 @@
         "winston",
         "MIGHT",
         [
+          "ana"
         ],
         null
       ],
@@ -354,6 +389,7 @@
         "mercy",
         "KXNT",
         [
+          "zenyatta"
         ],
         null
       ],
@@ -445,6 +481,7 @@
         "s76",
         "LIJOHN",
         [
+          "ana"
         ],
         null
       ],
@@ -492,6 +529,7 @@
         "junkrat",
         "MIGHT",
         [
+          "zenyatta"
         ],
         null
       ],
@@ -517,6 +555,7 @@
         "zarya",
         "BIGDAMNHERO",
         [
+          "mercy"
         ],
         null
       ],
@@ -539,6 +578,7 @@
         "reaper",
         "SIWERSTRIDE",
         [
+          "ana"
         ],
         null
       ],
@@ -564,6 +604,7 @@
         "reinhardt",
         "INFINITY",
         [
+          "zenyatta"
         ],
         null
       ],
@@ -631,6 +672,8 @@
         "reinhardt",
         "INFINITY",
         [
+          "junkrat",
+          "ana"
         ],
         null
       ],
@@ -664,6 +707,7 @@
         "zenyatta",
         "WAR8AL",
         [
+          "mercy"
         ],
         [
           "reinhardt",
@@ -689,6 +733,7 @@
         "junkrat",
         "MIGHT",
         [
+          "zenyatta"
         ],
         null
       ],
@@ -725,6 +770,8 @@
         "reinhardt",
         "INFINITY",
         [
+          "junkrat",
+          "zenyatta"
         ],
         null
       ],
@@ -773,12 +820,24 @@
         0,
         0,
         0,
-        1282,
-        1282,
-        1282,
-        1298,
+        895,
+        895,
+        1285,
+        1285,
+        1285,
+        1285,
+        1398,
+        1459,
+        1459,
+        2280,
         2886,
-        1244,
+        3515,
+        3923,
+        3923,
+        5344,
+        5344,
+        5464,
+        6177,
         6177
       ],
       "deaths": [
@@ -788,13 +847,25 @@
         0,
         0,
         0,
+        1,
+        1,
         2,
         2,
         2,
         2,
+        3,
+        4,
+        4,
+        6,
         8,
+        10,
+        11,
+        11,
         12,
-        16
+        12,
+        13,
+        14,
+        14
       ],
       "elims": [
         0,
@@ -803,12 +874,24 @@
         0,
         0,
         0,
+        2,
+        2,
+        3,
         3,
         3,
         3,
         4,
+        4,
+        4,
+        4,
         7,
+        7,
+        9,
+        9,
         17,
+        17,
+        17,
+        19,
         19
       ],
       "healing": [
@@ -822,6 +905,18 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        200,
+        200,
+        200,
+        200,
+        200,
+        200,
         200,
         200,
         200
@@ -837,7 +932,19 @@
         "pharah",
         "pharah",
         "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "winston",
+        "winston",
         "mei",
+        "mei",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
         "junkrat",
         "junkrat"
       ],
@@ -848,12 +955,24 @@
         0,
         0,
         0,
+        28,
+        28,
+        32,
         32,
         32,
         32,
         30,
+        28,
+        28,
+        147,
         844,
+        11,
         10,
+        10,
+        10,
+        10,
+        10,
+        11,
         11
       ],
       "hero_stat_2": [
@@ -866,8 +985,20 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
         1,
         0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
         1,
         1
       ],
@@ -882,7 +1013,19 @@
         2,
         2,
         2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
         3,
+        0,
+        2,
+        2,
+        6,
+        6,
+        6,
         6,
         6
       ],
@@ -893,12 +1036,24 @@
         0,
         0,
         0,
-        1,
-        1,
-        1,
-        1,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        null,
+        null,
+        0,
         200,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
         1
       ],
       "hero_stat_5": [
@@ -911,12 +1066,36 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
         1,
+        0,
+        0,
+        2,
+        4,
+        0,
+        0,
+        0,
         4,
         4,
+        4,
+        6,
         null
       ],
       "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null,
@@ -938,12 +1117,24 @@
         0,
         0,
         0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         1,
         1,
         4,
+        4,
+        5,
+        5,
         8,
+        8,
+        8,
+        9,
         9
       ],
       "objective_time": [
@@ -953,12 +1144,24 @@
         0,
         0,
         0,
+        0,
+        0,
         2,
         2,
         2,
         2,
+        2,
+        2,
+        2,
+        8,
         25,
+        35,
+        52,
+        52,
         69,
+        69,
+        69,
+        84,
         84
       ],
       "time": [
@@ -968,12 +1171,24 @@
         63883,
         88003,
         93523,
+        185683,
+        191021,
+        226061,
         231555,
         238732,
         245535,
         265412,
+        296268,
+        301738,
+        401199,
         500983,
+        693346,
+        735032,
+        740073,
+        881659,
         894478,
+        927886,
+        989907,
         1022876
       ]
     },
@@ -1167,15 +1382,15 @@
     "heroes_played": [
       [
         "junkrat",
-        0.4747091224073954
+        0.4697486852574043
       ],
       [
         "pharah",
-        0.3750420384181685
+        0.3711230649408034
       ],
       [
         "mei",
-        0.15024883917443613
+        0.14867882526822707
       ]
     ],
     "key": "Magic-11407/2017-07-06-08-16-jvsaAPVEMuFzXeigEGt2F8",

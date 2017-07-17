@@ -1,18 +1,6 @@
 {
   "data": {
     "assists": [
-      [
-        484876,
-        "FIFI",
-        1,
-        0
-      ],
-      [
-        599271,
-        "MEMEY8OI",
-        1,
-        0
-      ]
     ],
     "avg_sr": [
       null,
@@ -24,164 +12,13 @@
     "game_duration": 606,
     "game_ended": 1499196550,
     "game_started": 1499195900,
-    "group_size": null,
+    "group_size": 0,
     "hero_statistics": {
     },
     "heroes_played": [
-      [
-        "dva",
-        1
-      ]
     ],
     "key": "Magic-11407/2017-07-04-19-29-BPsCPCCxzswyBt5Z2MZ96h",
     "killfeed": [
-      [
-        134995,
-        0,
-        "dva",
-        "XI8RQ",
-        "mercy",
-        "MIGHT",
-        [
-        ],
-        null
-      ],
-      [
-        170175,
-        0,
-        "mccree",
-        "FIFI",
-        "winston",
-        "MFMFY8QI",
-        [
-        ],
-        null
-      ],
-      [
-        281457,
-        0,
-        "dva",
-        "KI8RO",
-        "winston",
-        "MFMFY8QI",
-        [
-        ],
-        [
-          "dva",
-          "selfdestruct"
-        ]
-      ],
-      [
-        281457,
-        0,
-        "dva",
-        "KI8RO",
-        "mercy",
-        "MIGHT",
-        [
-        ],
-        [
-          "dva",
-          "selfdestruct"
-        ]
-      ],
-      [
-        281457,
-        0,
-        "dva",
-        "XI8RQ",
-        "dva_mech",
-        "LELOUCH84",
-        [
-        ],
-        [
-          "dva",
-          "selfdestruct"
-        ]
-      ],
-      [
-        286734,
-        0,
-        "dva",
-        "XI8RQ",
-        "dva",
-        "LELOUCH84",
-        [
-        ],
-        null
-      ],
-      [
-        288249,
-        0,
-        "mccree",
-        "FIFI",
-        "tracer",
-        "PWNAQFPFTF",
-        [
-        ],
-        null
-      ],
-      [
-        291513,
-        1,
-        null,
-        null,
-        "orisa_supercharger",
-        "CLQUOY",
-        [
-        ],
-        null
-      ],
-      [
-        332552,
-        0,
-        "dva",
-        "XI8RQ",
-        "mercy",
-        "MIGHT",
-        [
-        ],
-        null
-      ],
-      [
-        334571,
-        0,
-        "mccree",
-        "FIFI",
-        "winston",
-        "MFMFY8QI",
-        [
-        ],
-        null
-      ],
-      [
-        598730,
-        1,
-        "dva",
-        "XI8RO",
-        "mercy",
-        "MIQHT",
-        [
-        ],
-        [
-          "dva",
-          "selfdestruct"
-        ]
-      ],
-      [
-        598730,
-        1,
-        "dva",
-        "XI8RO",
-        "winston",
-        "MEMEY8OI",
-        [
-        ],
-        [
-          "dva",
-          "selfdestruct"
-        ]
-      ]
     ],
     "map": "Eichenwalde",
     "map_type": "Hybrid",
@@ -197,7 +34,7 @@
       {
         "checkpoints": [
           [
-            563178,
+            565415,
             1
           ]
         ],
@@ -208,7 +45,7 @@
       }
     ],
     "owner": "Magic#11407",
-    "player": "XI8RO",
+    "player": "UNKNOWN",
     "result": "LOSS",
     "score": [
       0,
@@ -220,120 +57,65 @@
       "blue": [
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "dva",
-              "start": 598730
-            }
           ],
-          "name": "XI8RO"
+          "name": "@UNKNOWN_BLUE#0"
         },
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "mercy",
-              "start": 134995
-            }
           ],
-          "name": "MIGHT"
+          "name": "YUUI"
         },
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "tracer",
-              "start": 288249
-            }
           ],
-          "name": "PWNAQFPFTF"
+          "name": "MASIC1UN1LL"
         },
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "mccree",
-              "start": 170175
-            }
           ],
-          "name": "FIFI"
+          "name": "UCHB4"
         },
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "dva",
-              "start": 286734
-            }
           ],
-          "name": "LELOUCH84"
+          "name": "PWNAGEPE1E"
         },
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "winston",
-              "start": 170175
-            }
           ],
-          "name": "MFMFY8QI"
+          "name": "@UNKNOWN_BLUE#1"
         }
       ],
       "red": [
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "mccree",
-              "start": 170175
-            }
           ],
-          "name": "FIFI"
-        },
-        {
-          "heroes": [
-            {
-              "end": 598730,
-              "hero": "dva",
-              "start": 134995
-            }
-          ],
-          "name": "XI8RQ"
+          "name": "@UNKNOWN_RED#0"
         },
         {
           "heroes": [
           ],
-          "name": "CLQUOY"
+          "name": "@UNKNOWN_RED#1"
         },
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "winston",
-              "start": 598730
-            }
           ],
-          "name": "MEMEY8OI"
+          "name": "CLUUDY"
         },
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "mercy",
-              "start": 598730
-            }
           ],
-          "name": "MIQHT"
+          "name": "YUKIS"
         },
         {
           "heroes": [
-            {
-              "end": 598730,
-              "hero": "dva",
-              "start": 281457
-            }
           ],
-          "name": "KI8RO"
+          "name": "NUNAMLKILLIN"
+        },
+        {
+          "heroes": [
+          ],
+          "name": "@UNKNOWN_RED#2"
         }
       ]
     },
@@ -344,10 +126,6 @@
     "duration": 606,
     "end_sr": 2341,
     "heroes_played": [
-      [
-        "dva",
-        1
-      ]
     ],
     "key": "Magic-11407/2017-07-04-19-29-BPsCPCCxzswyBt5Z2MZ96h",
     "map": "Eichenwalde",

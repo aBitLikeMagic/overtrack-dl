@@ -12,4 +12,15 @@ Date, Map, Result, SR Before, SR After, Heroes, Group Size
 "2017-07-07T06:30:40.000Z", "", "", 2357, 2332, "pharah, junkrat", 1
 "2017-07-08T02:59:56.000Z", Oasis, WIN, 2332, 2354, "pharah, zenyatta, junkrat", 1
 "2017-07-09T07:28:57.000Z", Temple of Anubis, WIN, 2354, 2379, "pharah, junkrat", 1
+"2017-07-11T06:45:30.000Z", Dorado, LOSS, 2379, 2351, "pharah, zenyatta, s76", 1
+"2017-07-11T18:28:22.000Z", Volskaya Industries, WIN, 2351, 2374, mercy, 1
+"2017-07-11T18:47:39.000Z", Eichenwalde, WIN, 2374, 2394, mercy, 1
+"2017-07-11T19:01:47.000Z", Dorado, LOSS, 2394, 2370, mercy, 1
+"2017-07-11T19:16:22.000Z", Numbani, LOSS, 2370, 2346, "zenyatta, junkrat, mercy", 1
+"2017-07-12T19:32:40.000Z", Ilios, WIN, 2346, 2366, lucio, 1
+"2017-07-13T18:31:49.000Z", Nepal, WIN, 2366, 2393, "pharah, junkrat", 1
+"2017-07-13T18:31:49.000Z", Nepal, WIN, "", 2393, "pharah, junkrat", 1
+"2017-07-13T19:05:01.000Z", Hollywood, LOSS, 2393, 2365, "reinhardt, dva", 1
+"2017-07-13T19:05:07.000Z", Hollywood, LOSS, 2393, 2365, "reinhardt, dva", 1
+"2017-07-13T19:22:37.000Z", Horizon Lunar Colony, LOSS, 2365, 2343, "lucio, mercy, ana", 1
 
