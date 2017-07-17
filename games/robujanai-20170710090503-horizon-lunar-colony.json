@@ -1,0 +1,1669 @@
+{
+  "data": {
+    "assists": [
+      [
+        209955,
+        "SHADDER2K",
+        1,
+        0
+      ],
+      [
+        240533,
+        "LAST",
+        1,
+        0
+      ],
+      [
+        293633,
+        "COWBOY",
+        1,
+        0
+      ],
+      [
+        299156,
+        "SHADDER2K",
+        1,
+        0
+      ],
+      [
+        306158,
+        "LAST",
+        1,
+        0
+      ],
+      [
+        517599,
+        "SHADDER2K",
+        1,
+        0
+      ],
+      [
+        701499,
+        "LAST",
+        1,
+        0
+      ],
+      [
+        706994,
+        "COWBOY",
+        1,
+        0
+      ],
+      [
+        709018,
+        "BACHOMUONNAM",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      1961,
+      192
+    ],
+    "custom_game": false,
+    "deaths": 6,
+    "end_sr": 1936,
+    "game_duration": 710,
+    "game_ended": 1499678243,
+    "game_started": 1499677503,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 4711,
+        "deaths": 5,
+        "elims": 8,
+        "healing": 0,
+        "hero_stat_1": 9,
+        "hero_stat_2": 0,
+        "hero_stat_3": 7,
+        "hero_stat_5": 9,
+        "hero_stat_6": 710002,
+        "objective_kills": 1,
+        "objective_time": 0,
+        "tab_health": 0.391304347826087,
+        "time_played": 617824
+      },
+      "hanzo": {
+        "damage": 4078,
+        "deaths": 4,
+        "elims": 8,
+        "healing": 0,
+        "hero_stat_1": 31,
+        "hero_stat_2": 1,
+        "hero_stat_3": 7,
+        "hero_stat_4": 3,
+        "hero_stat_5": 4,
+        "hero_stat_6": 1,
+        "objective_kills": 1,
+        "objective_time": 0,
+        "tab_health": 0.391304347826087,
+        "time_played": 552678
+      },
+      "widowmaker": {
+        "damage": 0,
+        "deaths": 0,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.391304347826087,
+        "time_played": 8524
+      }
+    },
+    "heroes_played": [
+      [
+        "hanzo",
+        0.9172233130860844
+      ],
+      [
+        "widowmaker",
+        0.08277668691391554
+      ]
+    ],
+    "key": "notrob-1514/2017-07-10-09-17-soBEwEMFRmgCyvPWiPhGmF",
+    "killfeed": [
+      [
+        114771,
+        0,
+        "roadhog",
+        "LAST",
+        "hanzo",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        122270,
+        0,
+        "genji",
+        "LUCIFEROO7",
+        "torb_turret",
+        "PDOID",
+        [
+        ],
+        null
+      ],
+      [
+        138802,
+        1,
+        "tracer",
+        "EMPION",
+        "dva_mech",
+        "CHOKNAJA",
+        [
+        ],
+        null
+      ],
+      [
+        139306,
+        1,
+        "torb",
+        "PDOID",
+        "mccree",
+        "SHADDER2K",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        141306,
+        0,
+        "genji",
+        "LUCIFEROO7",
+        "mercy",
+        "YTHOANGTMS",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        145315,
+        1,
+        "zarya",
+        "DREAD",
+        "zenyatta",
+        "BACHOMUONNAM",
+        [
+        ],
+        null
+      ],
+      [
+        160351,
+        1,
+        "tracer",
+        "EMPION",
+        "dva_mech",
+        "CHOKNAJA",
+        [
+        ],
+        null
+      ],
+      [
+        164862,
+        1,
+        "zarya",
+        "DREAD",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        167370,
+        1,
+        "tracer",
+        "EMPION",
+        "dva",
+        "CHOKNAJA",
+        [
+        ],
+        null
+      ],
+      [
+        167865,
+        1,
+        "zarya",
+        "DREAD",
+        "mercy",
+        "COWBOY",
+        [
+        ],
+        null
+      ],
+      [
+        180396,
+        1,
+        "tracer",
+        "EMPION",
+        "zenyatta",
+        "BACHOMUONNAM",
+        [
+        ],
+        null
+      ],
+      [
+        181395,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "hanzo",
+        "SHADDER2K",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        190415,
+        0,
+        "genji",
+        "LUCIFEROO7",
+        "genji",
+        "YTHOANGTMS",
+        [
+        ],
+        null
+      ],
+      [
+        209955,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "hanzo",
+        "SHADDER2K",
+        [
+        ],
+        null
+      ],
+      [
+        216476,
+        0,
+        "roadhog",
+        "LAST",
+        "zarya",
+        "DREAD",
+        [
+          "mccree"
+        ],
+        null
+      ],
+      [
+        216476,
+        0,
+        "lucio",
+        "BACHOMUONNAM",
+        "symmetra",
+        "BEATPORT",
+        [
+          "mccree"
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        220986,
+        1,
+        "symmetra",
+        "BEATPORT",
+        "genji",
+        "LUCIFEROO7",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        221493,
+        0,
+        "mccree",
+        "CHOKNAJA",
+        "tracer",
+        "EMPION",
+        [
+        ],
+        null
+      ],
+      [
+        228508,
+        1,
+        "symmetra",
+        "BEATPORT",
+        "mercy",
+        "COWBOY",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        234010,
+        0,
+        "hanzo",
+        "SHADDER2K",
+        "torb",
+        "PDOID",
+        [
+        ],
+        null
+      ],
+      [
+        238017,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "mccree",
+        "CHOKNAJA",
+        [
+        ],
+        null
+      ],
+      [
+        239528,
+        1,
+        "symmetra",
+        "BEATPORT",
+        "lucio",
+        "BACHOMUONNAM",
+        [
+          "genji"
+        ],
+        null
+      ],
+      [
+        240533,
+        1,
+        "tracer",
+        "EMPION",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        257062,
+        0,
+        "hanzo",
+        "SHADDER2K",
+        "tracer",
+        "EMPION",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        283114,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "mccree",
+        "CHOKNAJA",
+        [
+        ],
+        null
+      ],
+      [
+        286621,
+        1,
+        "symmetra",
+        "BEATPORT",
+        "lucio",
+        "BACHOMUONNAM",
+        [
+        ],
+        null
+      ],
+      [
+        293633,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "mercy",
+        "COWBOY",
+        [
+        ],
+        null
+      ],
+      [
+        299156,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "hanzo",
+        "SHADDER2K",
+        [
+        ],
+        [
+          "hanzo",
+          "sonicarrow"
+        ]
+      ],
+      [
+        306158,
+        1,
+        "symmetra",
+        "BEATPORT",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        315181,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "mccree",
+        "CHOKNAJA",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        316678,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "lucio",
+        "BACHOMUONNAM",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        322204,
+        1,
+        "tracer",
+        "EMPION",
+        "mercy",
+        "COWBOY",
+        [
+        ],
+        null
+      ],
+      [
+        323192,
+        0,
+        "hanzo",
+        "SHADDER2K",
+        "genji",
+        "YTHOANGTMS",
+        [
+        ],
+        null
+      ],
+      [
+        336726,
+        1,
+        "zarya",
+        "DREAD",
+        "hanzo",
+        "SHADDER2K",
+        [
+        ],
+        null
+      ],
+      [
+        336726,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        337729,
+        0,
+        "hanzo",
+        "SHADDER2K",
+        "hanzo",
+        "ROBUJANAI",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        344752,
+        0,
+        "mccree",
+        "CHOKNAJA",
+        "tracer",
+        "EMPION",
+        [
+        ],
+        null
+      ],
+      [
+        486538,
+        0,
+        "ana",
+        "BACHOMUONNAM",
+        "hanzo",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        493047,
+        0,
+        "reinhardt",
+        "LUCIFEROO7",
+        "reaper",
+        "PDOID",
+        [
+        ],
+        null
+      ],
+      [
+        497056,
+        0,
+        "torb",
+        "COWBOY",
+        "genji",
+        "YTHOANGTMS",
+        [
+          "mercy"
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        505078,
+        0,
+        "torb",
+        "COWBOY",
+        "mercy",
+        "BEATPORT",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        515100,
+        0,
+        "s76",
+        "SHADDER2K",
+        "zarya",
+        "DREAD",
+        [
+        ],
+        null
+      ],
+      [
+        517599,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "s76",
+        "SHADDER2K",
+        [
+        ],
+        null
+      ],
+      [
+        528129,
+        0,
+        "reinhardt",
+        "LUCIFEROO7",
+        "reaper",
+        "PDOID",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        536136,
+        1,
+        "hanzo",
+        "ROBUJANAI",
+        "torb_turret",
+        "COWBOY",
+        [
+        ],
+        null
+      ],
+      [
+        538641,
+        1,
+        "tracer",
+        "EMPION",
+        "mercy",
+        "CHOKNAJA",
+        [
+        ],
+        null
+      ],
+      [
+        543155,
+        1,
+        "tracer",
+        "EMPION",
+        "reinhardt",
+        "LUCIFEROO7",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        573217,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "ana",
+        "BACHOMUONNAM",
+        [
+        ],
+        null
+      ],
+      [
+        577727,
+        1,
+        "zarya",
+        "DREAD",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        578733,
+        0,
+        "torb",
+        "COWBOY",
+        "mercy",
+        "BEATPORT",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        579736,
+        2,
+        "mercy",
+        "CHOKNAJA",
+        "ana",
+        "BACHOMUONNAM",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        579736,
+        2,
+        "mercy",
+        "CHOKNAJA",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        581738,
+        0,
+        "torb",
+        "COWBOY",
+        "mercy",
+        "BEATPORT",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        581738,
+        1,
+        null,
+        null,
+        "ana",
+        "BACHOMUONNAM",
+        [
+        ],
+        null
+      ],
+      [
+        581738,
+        1,
+        null,
+        null,
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        583743,
+        1,
+        "reaper",
+        "PDOID",
+        "torb_turret",
+        "COWBOY",
+        [
+        ],
+        null
+      ],
+      [
+        583743,
+        0,
+        "s76",
+        "SHADDER2K",
+        "reaper",
+        "PDOID",
+        [
+        ],
+        null
+      ],
+      [
+        586246,
+        0,
+        "roadhog",
+        "LAST",
+        "zarya",
+        "DREAD",
+        [
+        ],
+        [
+          "roadhog",
+          "wholehog"
+        ]
+      ],
+      [
+        587247,
+        0,
+        "roadhog",
+        "LAST",
+        "tracer",
+        "EMPION",
+        [
+        ],
+        [
+          "roadhog",
+          "wholehog"
+        ]
+      ],
+      [
+        589251,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        594265,
+        0,
+        "s76",
+        "SHADDER2K",
+        "hanzo",
+        "ROBUJANAI",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        599275,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "torb_turret",
+        "COWBOY",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        602286,
+        0,
+        "reinhardt",
+        "LUCIFEROO7",
+        "genji",
+        "YTHOANGTMS",
+        [
+        ],
+        null
+      ],
+      [
+        623328,
+        0,
+        "torb",
+        "COWBOY",
+        "reaper",
+        "PDOID",
+        [
+          "ana"
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        649877,
+        1,
+        "zarya",
+        "DREAD",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        651382,
+        0,
+        "reinhardt",
+        "LUCIFEROO7",
+        "genji",
+        "YTHOANGTMS",
+        [
+        ],
+        null
+      ],
+      [
+        651890,
+        0,
+        "s76",
+        "SHADDER2K",
+        "junkrat",
+        "EMPION",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        652898,
+        3,
+        "mercy",
+        "BEATPORT",
+        "junkrat",
+        "EMPION",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        652898,
+        3,
+        "mercy",
+        "BEATPORT",
+        "genji",
+        "YTHOANGTMS",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        654889,
+        1,
+        "widowmaker",
+        "ROBUJANAI",
+        "torb_turret",
+        "COWBOY",
+        [
+        ],
+        null
+      ],
+      [
+        655393,
+        1,
+        "reaper",
+        "PDOID",
+        "torb",
+        "COWBOY",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        657402,
+        0,
+        "s76",
+        "SHADDER2K",
+        "widowmaker",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        657902,
+        1,
+        "reaper",
+        "PDOID",
+        "ana",
+        "BACHOMUONNAM",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        665419,
+        1,
+        "genji",
+        "YTHOANGTMS",
+        "reinhardt",
+        "LUCIFEROO7",
+        [
+        ],
+        null
+      ],
+      [
+        665917,
+        1,
+        "junkrat",
+        "EMPION",
+        "s76",
+        "SHADDER2K",
+        [
+        ],
+        null
+      ],
+      [
+        701499,
+        1,
+        "zarya",
+        "DREAD",
+        "roadhog",
+        "LAST",
+        [
+        ],
+        null
+      ],
+      [
+        702498,
+        0,
+        "reinhardt",
+        "LUCIFEROO7",
+        "genji",
+        "YTHOANGTMS",
+        [
+        ],
+        null
+      ],
+      [
+        702997,
+        0,
+        "s76",
+        "SHADDER2K",
+        "junkrat",
+        "EMPION",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        704002,
+        3,
+        "mercy",
+        "BEATPORT",
+        "junkrat",
+        "EMPION",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        704002,
+        3,
+        "mercy",
+        "BEATPORT",
+        "genji",
+        "YTHOANGTMS",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        706495,
+        1,
+        "widowmaker",
+        "ROBUJANAI",
+        "torb_turret",
+        "COWBOY",
+        [
+        ],
+        null
+      ],
+      [
+        706994,
+        1,
+        "reaper",
+        "PDOID",
+        "torb",
+        "COWBOY",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        706994,
+        0,
+        "s76",
+        "SHADDER2K",
+        "widowmaker",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        709018,
+        1,
+        "reaper",
+        "PDOID",
+        "ana",
+        "BACHOMUONNAM",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ]
+    ],
+    "map": "Horizon Lunar Colony",
+    "map_type": "Assault",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 345746,
+        "end_score": 0,
+        "stage": "Defend",
+        "start": 39591
+      },
+      {
+        "checkpoints": [
+          [
+            667417,
+            1
+          ]
+        ],
+        "end": 673930,
+        "end_score": 1,
+        "stage": "Attack",
+        "start": 397847
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "ROBUJANAI",
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 1909,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        207,
+        207,
+        207,
+        207,
+        1162,
+        2611,
+        2611,
+        2846,
+        2846,
+        2846,
+        4078,
+        4078,
+        4711,
+        4711
+      ],
+      "deaths": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        7,
+        7,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8,
+        8
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "widowmaker",
+        "widowmaker"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        22,
+        22,
+        22,
+        22,
+        19,
+        26,
+        26,
+        30,
+        30,
+        30,
+        31,
+        31,
+        0,
+        0
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        92,
+        92
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        0,
+        0
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        1,
+        1
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "time": [
+        47109,
+        53627,
+        115759,
+        123785,
+        138298,
+        143813,
+        260056,
+        338734,
+        399354,
+        485530,
+        494047,
+        499566,
+        592277,
+        599787,
+        656409,
+        664933
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 594265,
+              "hero": "hanzo",
+              "start": 114771
+            },
+            {
+              "end": 709018,
+              "hero": "widowmaker",
+              "start": 654889
+            }
+          ],
+          "name": "ROBUJANAI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 306158,
+              "hero": "symmetra",
+              "start": 216476
+            },
+            {
+              "end": 709018,
+              "hero": "mercy",
+              "start": 505078
+            }
+          ],
+          "name": "BEATPORT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 234010,
+              "hero": "torb",
+              "start": 139306
+            },
+            {
+              "end": 709018,
+              "hero": "reaper",
+              "start": 493047
+            }
+          ],
+          "name": "PDOID"
+        },
+        {
+          "heroes": [
+            {
+              "end": 709018,
+              "hero": "zarya",
+              "start": 145315
+            }
+          ],
+          "name": "DREAD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 587247,
+              "hero": "tracer",
+              "start": 138802
+            },
+            {
+              "end": 709018,
+              "hero": "junkrat",
+              "start": 651890
+            }
+          ],
+          "name": "EMPION"
+        },
+        {
+          "heroes": [
+            {
+              "end": 141306,
+              "hero": "mercy",
+              "start": 141306
+            },
+            {
+              "end": 709018,
+              "hero": "genji",
+              "start": 181395
+            }
+          ],
+          "name": "YTHOANGTMS"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 167370,
+              "hero": "dva",
+              "start": 167370
+            },
+            {
+              "end": 344752,
+              "hero": "mccree",
+              "start": 221493
+            },
+            {
+              "end": 709018,
+              "hero": "mercy",
+              "start": 538641
+            }
+          ],
+          "name": "CHOKNAJA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 139306,
+              "hero": "mccree",
+              "start": 139306
+            },
+            {
+              "end": 337729,
+              "hero": "hanzo",
+              "start": 181395
+            },
+            {
+              "end": 709018,
+              "hero": "s76",
+              "start": 515100
+            }
+          ],
+          "name": "SHADDER2K"
+        },
+        {
+          "heroes": [
+            {
+              "end": 220986,
+              "hero": "genji",
+              "start": 122270
+            },
+            {
+              "end": 709018,
+              "hero": "reinhardt",
+              "start": 493047
+            }
+          ],
+          "name": "LUCIFEROO7"
+        },
+        {
+          "heroes": [
+            {
+              "end": 709018,
+              "hero": "roadhog",
+              "start": 114771
+            }
+          ],
+          "name": "LAST"
+        },
+        {
+          "heroes": [
+            {
+              "end": 180396,
+              "hero": "zenyatta",
+              "start": 145315
+            },
+            {
+              "end": 316678,
+              "hero": "lucio",
+              "start": 216476
+            },
+            {
+              "end": 709018,
+              "hero": "ana",
+              "start": 486538
+            }
+          ],
+          "name": "BACHOMUONNAM"
+        },
+        {
+          "heroes": [
+            {
+              "end": 322204,
+              "hero": "mercy",
+              "start": 167865
+            },
+            {
+              "end": 709018,
+              "hero": "torb",
+              "start": 497056
+            }
+          ],
+          "name": "COWBOY"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 710,
+    "end_sr": 1936,
+    "heroes_played": [
+      [
+        "hanzo",
+        0.9172233130860844
+      ],
+      [
+        "widowmaker",
+        0.08277668691391554
+      ]
+    ],
+    "key": "notrob-1514/2017-07-10-09-17-soBEwEMFRmgCyvPWiPhGmF",
+    "map": "Horizon Lunar Colony",
+    "player_name": "ROBUJANAI",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 1909,
+    "time": 1499677503,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-07-10-09-17-soBEwEMFRmgCyvPWiPhGmF/game.json",
+    "user_id": 2235147
+  }
+}

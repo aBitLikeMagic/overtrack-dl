@@ -1,0 +1,1320 @@
+{
+  "data": {
+    "assists": [
+      [
+        311609,
+        null,
+        1,
+        0
+      ],
+      [
+        450883,
+        null,
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 5,
+    "end_sr": 1852,
+    "game_duration": 530,
+    "game_ended": 1499682110,
+    "game_started": 1499681580,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 3551,
+        "deaths": 5,
+        "elims": 4,
+        "healing": 0,
+        "hero_stat_1": 2,
+        "hero_stat_2": 0,
+        "hero_stat_3": 2,
+        "hero_stat_5": 4,
+        "hero_stat_6": 530042,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.4444444444444444,
+        "time_played": 436868
+      },
+      "hanzo": {
+        "damage": 752,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 47,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "hero_stat_6": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.4444444444444444,
+        "time_played": 77659
+      },
+      "junkrat": {
+        "damage": 2301,
+        "deaths": 2,
+        "elims": 4,
+        "healing": 0,
+        "hero_stat_1": 33,
+        "hero_stat_2": 2,
+        "hero_stat_3": 3,
+        "hero_stat_4": 0,
+        "hero_stat_5": 2,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.4444444444444444,
+        "time_played": 285074
+      },
+      "winston": {
+        "damage": 498,
+        "deaths": 2,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 973,
+        "hero_stat_2": 3,
+        "hero_stat_3": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.4444444444444444,
+        "time_played": 61116
+      }
+    },
+    "heroes_played": [
+      [
+        "junkrat",
+        0.5158850897274943
+      ],
+      [
+        "hanzo",
+        0.3551605177925243
+      ],
+      [
+        "winston",
+        0.12895439247998144
+      ]
+    ],
+    "key": "notrob-1514/2017-07-10-10-21-qHgyzf8XZNyX2NM5CJH6Yc",
+    "killfeed": [
+      [
+        107708,
+        0,
+        "lucio",
+        "@UNKNOWN_RED#2",
+        "tracer",
+        "SALUTE",
+        [
+        ],
+        null
+      ],
+      [
+        123226,
+        0,
+        "torb",
+        "SPOS",
+        "dva_mech",
+        "VREN",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        123730,
+        0,
+        "s76",
+        "GINTOKAI",
+        "dva",
+        "VREN",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        124228,
+        0,
+        "torb",
+        "SPOS",
+        "mercy",
+        "ALICEDMAJOR",
+        [
+          "mercy"
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        126739,
+        0,
+        "s76",
+        "GINTOKAI",
+        "zarya",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        131743,
+        1,
+        "zenyatta",
+        "SIMBA",
+        "s76",
+        "GINTOKAI",
+        [
+        ],
+        null
+      ],
+      [
+        155288,
+        0,
+        "s76",
+        "GINTOKAI",
+        "tracer",
+        "SALUTE",
+        [
+        ],
+        null
+      ],
+      [
+        156793,
+        1,
+        "dva",
+        "VREN",
+        "torb_turret",
+        "SPOS",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        160307,
+        0,
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        "hanzo",
+        "ROBUJANAI",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        163305,
+        0,
+        "s76",
+        "GINTOKAI",
+        "dva",
+        "VREN",
+        [
+        ],
+        null
+      ],
+      [
+        169822,
+        0,
+        "reinhardt",
+        "@UNKNOWN_RED#1",
+        "zarya",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        169822,
+        0,
+        "s76",
+        "GINTOKAI",
+        "mercy",
+        "ALICEDMAJOR",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        172842,
+        0,
+        "s76",
+        "GINTOKAI",
+        "tracer",
+        "SALUTE",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        193870,
+        0,
+        "reinhardt",
+        "@UNKNOWN_RED#1",
+        "winston",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        198883,
+        0,
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        198883,
+        0,
+        "s76",
+        "GINTOKAI",
+        "mercy",
+        "ALICEDMAJOR",
+        [
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        212911,
+        0,
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        "zenyatta",
+        "SIMBA",
+        [
+        ],
+        null
+      ],
+      [
+        215411,
+        0,
+        "s76",
+        "GINTOKAI",
+        "dva_mech",
+        "VREN",
+        [
+        ],
+        null
+      ],
+      [
+        216414,
+        0,
+        "s76",
+        "GINTOKAI",
+        "dva",
+        "VREN",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        227428,
+        0,
+        "lucio",
+        "@UNKNOWN_RED#2",
+        "winston",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        230934,
+        0,
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        "mercy",
+        "ALICEDMAJOR",
+        [
+        ],
+        null
+      ],
+      [
+        234452,
+        0,
+        "reinhardt",
+        "@UNKNOWN_RED#1",
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        260499,
+        1,
+        "tracer",
+        "SALUTE",
+        "torb_turret",
+        "SPOS",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        260499,
+        1,
+        "tracer",
+        "SALUTE",
+        "torb",
+        "SPOS",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        260499,
+        0,
+        "torb",
+        "SPOS",
+        "tracer",
+        "SALUTE",
+        [
+        ],
+        null
+      ],
+      [
+        271026,
+        0,
+        "reinhardt",
+        "@UNKNOWN_RED#1",
+        "zenyatta",
+        "SIMBA",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        272524,
+        3,
+        "mercy",
+        "ALICEDMAJOR",
+        "zenyatta",
+        "SIMBA",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        273536,
+        0,
+        "s76",
+        "GINTOKAI",
+        "dva_mech",
+        "VREN",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        278037,
+        0,
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        "junkrat",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        282548,
+        1,
+        "tracer",
+        "SALUTE",
+        "s76",
+        "GINTOKAI",
+        [
+        ],
+        null
+      ],
+      [
+        283551,
+        1,
+        null,
+        null,
+        "s76",
+        "GINTOKAI",
+        [
+        ],
+        null
+      ],
+      [
+        283551,
+        2,
+        "mercy",
+        "TOPBITXH",
+        "lucio",
+        "@UNKNOWN_RED#2",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        284048,
+        2,
+        "mercy",
+        "TOPBITXH",
+        "s76",
+        "GINTOKAI",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        285550,
+        1,
+        null,
+        null,
+        "lucio",
+        "@UNKNOWN_RED#2",
+        [
+        ],
+        null
+      ],
+      [
+        286051,
+        0,
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        "mercy",
+        "ALICEDMAJOR",
+        [
+        ],
+        null
+      ],
+      [
+        288067,
+        1,
+        "zenyatta",
+        "SIMBA",
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        [
+        ],
+        null
+      ],
+      [
+        290561,
+        0,
+        "reinhardt",
+        "@UNKNOWN_RED#1",
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        292580,
+        0,
+        "torb",
+        "SPOS",
+        "zenyatta",
+        "SIMBA",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        294571,
+        0,
+        "torb",
+        "SPOS",
+        "tracer",
+        "SALUTE",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        311609,
+        1,
+        "junkrat",
+        "ROBUJANAI",
+        "s76",
+        "GINTOKAI",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        323127,
+        0,
+        "torb",
+        "SPOS",
+        "mercy",
+        "ALICEDMAJOR",
+        [
+        ],
+        null
+      ],
+      [
+        325629,
+        0,
+        "torb",
+        "SPOS",
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        326136,
+        0,
+        "torb",
+        "SPOS",
+        "zenyatta",
+        "SIMBA",
+        [
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        329638,
+        0,
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        "dva_mech",
+        "VREN",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        331139,
+        0,
+        "symmetra",
+        "@UNKNOWN_RED#0",
+        "dva",
+        "VREN",
+        [
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        450388,
+        1,
+        "junkrat",
+        "ROBUJANAI",
+        "zenyatta",
+        "TOPBITXH",
+        [
+        ],
+        [
+          "junkrat",
+          "steeltrap"
+        ]
+      ],
+      [
+        463914,
+        0,
+        "reinhardt",
+        "@UNKNOWN_RED#1",
+        "bastion",
+        "SALUTE",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        463914,
+        1,
+        null,
+        null,
+        "reinhardt",
+        "@UNKNOWN_RED#1",
+        [
+        ],
+        null
+      ],
+      [
+        464416,
+        0,
+        "reinhardt",
+        "@UNKNOWN_RED#1",
+        "reinhardt",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        468425,
+        0,
+        "reaper",
+        "@UNKNOWN_RED#0",
+        "mercy",
+        "ALICEDMAJOR",
+        [
+        ],
+        null
+      ],
+      [
+        474933,
+        1,
+        "symmetra",
+        "SIMBA",
+        "s76",
+        "GINTOKAI",
+        [
+          "zenyatta"
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        474933,
+        0,
+        "winston",
+        "@UNKNOWN_RED#2",
+        "dva_mech",
+        "VREN",
+        [
+        ],
+        [
+          "winston",
+          "jumppack"
+        ]
+      ],
+      [
+        477442,
+        0,
+        "reaper",
+        "@UNKNOWN_RED#0",
+        "symmetra",
+        "SIMBA",
+        [
+        ],
+        null
+      ],
+      [
+        481451,
+        0,
+        "reaper",
+        "@UNKNOWN_RED#0",
+        "dva",
+        "VREN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        486954,
+        0,
+        "zenyatta",
+        "TOPBITXH",
+        "junkrat",
+        "ROBUJANAI",
+        [
+          "ana"
+        ],
+        null
+      ]
+    ],
+    "map": "Eichenwalde",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 338164,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 32058
+      },
+      {
+        "checkpoints": [
+          [
+            485961,
+            1
+          ]
+        ],
+        "end": 487961,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 389762
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "ROBUJANAI",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 1873,
+    "tab_statistics": {
+      "damage": [
+        0,
+        752,
+        752,
+        752,
+        1163,
+        1163,
+        1163,
+        1250,
+        1250,
+        1250,
+        1406,
+        1486,
+        1486,
+        2431,
+        2431,
+        3551,
+        3551,
+        3551,
+        3551
+      ],
+      "deaths": [
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "hanzo",
+        "hanzo",
+        "hanzo",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat"
+      ],
+      "hero_stat_1": [
+        0,
+        47,
+        47,
+        0,
+        600,
+        600,
+        600,
+        973,
+        973,
+        0,
+        25,
+        25,
+        25,
+        37,
+        37,
+        33,
+        33,
+        33,
+        33
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_6": [
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "time": [
+        90664,
+        161299,
+        168323,
+        174331,
+        194876,
+        200882,
+        205888,
+        228931,
+        235447,
+        242458,
+        279043,
+        284561,
+        290058,
+        336662,
+        393777,
+        486456,
+        503989,
+        509507,
+        527532
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 160307,
+              "hero": "hanzo",
+              "start": 160307
+            },
+            {
+              "end": 227428,
+              "hero": "winston",
+              "start": 193870
+            },
+            {
+              "end": 486954,
+              "hero": "junkrat",
+              "start": 278037
+            }
+          ],
+          "name": "ROBUJANAI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 486954,
+              "hero": "mercy",
+              "start": 124228
+            }
+          ],
+          "name": "ALICEDMAJOR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 294571,
+              "hero": "tracer",
+              "start": 107708
+            },
+            {
+              "end": 486954,
+              "hero": "bastion",
+              "start": 463914
+            }
+          ],
+          "name": "SALUTE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 326136,
+              "hero": "zenyatta",
+              "start": 131743
+            },
+            {
+              "end": 486954,
+              "hero": "symmetra",
+              "start": 474933
+            }
+          ],
+          "name": "SIMBA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 486954,
+              "hero": "dva",
+              "start": 123730
+            }
+          ],
+          "name": "VREN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 169822,
+              "hero": "zarya",
+              "start": 126739
+            },
+            {
+              "end": 486954,
+              "hero": "reinhardt",
+              "start": 198883
+            }
+          ],
+          "name": "@UNKNOWN_BLUE#0"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 331139,
+              "hero": "symmetra",
+              "start": 160307
+            },
+            {
+              "end": 486954,
+              "hero": "reaper",
+              "start": 468425
+            }
+          ],
+          "name": "@UNKNOWN_RED#0"
+        },
+        {
+          "heroes": [
+            {
+              "end": 486954,
+              "hero": "s76",
+              "start": 123730
+            }
+          ],
+          "name": "GINTOKAI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 486954,
+              "hero": "reinhardt",
+              "start": 169822
+            }
+          ],
+          "name": "@UNKNOWN_RED#1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 285550,
+              "hero": "lucio",
+              "start": 107708
+            },
+            {
+              "end": 486954,
+              "hero": "winston",
+              "start": 474933
+            }
+          ],
+          "name": "@UNKNOWN_RED#2"
+        },
+        {
+          "heroes": [
+            {
+              "end": 486954,
+              "hero": "torb",
+              "start": 123226
+            }
+          ],
+          "name": "SPOS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 284048,
+              "hero": "mercy",
+              "start": 283551
+            },
+            {
+              "end": 486954,
+              "hero": "zenyatta",
+              "start": 450388
+            }
+          ],
+          "name": "TOPBITXH"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 530,
+    "end_sr": 1852,
+    "heroes_played": [
+      [
+        "junkrat",
+        0.5158850897274943
+      ],
+      [
+        "hanzo",
+        0.3551605177925243
+      ],
+      [
+        "winston",
+        0.12895439247998144
+      ]
+    ],
+    "key": "notrob-1514/2017-07-10-10-21-qHgyzf8XZNyX2NM5CJH6Yc",
+    "map": "Eichenwalde",
+    "player_name": "ROBUJANAI",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 1873,
+    "time": 1499681580,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-07-10-10-21-qHgyzf8XZNyX2NM5CJH6Yc/game.json",
+    "user_id": 2235147
+  }
+}

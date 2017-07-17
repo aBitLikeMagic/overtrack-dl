@@ -1,0 +1,1056 @@
+{
+  "data": {
+    "assists": [
+      [
+        258034,
+        "ZED",
+        1,
+        0
+      ],
+      [
+        346489,
+        "PANIXC",
+        0,
+        1
+      ],
+      [
+        404731,
+        "PANIXC",
+        0,
+        1
+      ],
+      [
+        440982,
+        "OBOSTARWARS",
+        0,
+        1
+      ],
+      [
+        648340,
+        "OBOSTARWARS",
+        0,
+        1
+      ]
+    ],
+    "avg_sr": [
+      2364,
+      2334
+    ],
+    "custom_game": false,
+    "deaths": 11,
+    "end_sr": 2353,
+    "game_duration": 804,
+    "game_ended": 1499411638,
+    "game_started": 1499410826,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 820,
+        "deaths": 12,
+        "elims": 1,
+        "healing": 8181,
+        "hero_stat_1": 1,
+        "hero_stat_2": 4,
+        "hero_stat_3": 0,
+        "hero_stat_5": 1,
+        "hero_stat_6": 804599,
+        "objective_kills": 1,
+        "objective_time": 52,
+        "tab_health": 0.3333333333333333,
+        "time_played": 725845
+      },
+      "mercy": {
+        "damage": 820,
+        "deaths": 12,
+        "elims": 1,
+        "healing": 8181,
+        "hero_stat_1": 3,
+        "hero_stat_2": 1,
+        "hero_stat_3": 11,
+        "hero_stat_4": 202,
+        "hero_stat_5": 10,
+        "objective_kills": 1,
+        "objective_time": 52,
+        "tab_health": 0.3333333333333333,
+        "time_played": 725845
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-07-07-13-VoVM62ksLndM3E8BNHq68Y",
+    "killfeed": [
+      [
+        120545,
+        0,
+        "tracer",
+        "PANIXC",
+        "orisa",
+        "ABYSSRAPTOR",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        120545,
+        0,
+        "tracer",
+        "PANIXC",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        120545,
+        0,
+        "tracer",
+        "PANIXC",
+        "s76",
+        "PRODIGIZEDDP",
+        [
+        ],
+        null
+      ],
+      [
+        122549,
+        0,
+        "dva",
+        "KACHING",
+        "roadhog",
+        "FATALITY",
+        [
+        ],
+        null
+      ],
+      [
+        176165,
+        0,
+        "pharah",
+        "ZED",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        176165,
+        0,
+        "pharah",
+        "ZED",
+        "orisa",
+        "ABYSSRAPTOR",
+        [
+        ],
+        null
+      ],
+      [
+        179293,
+        0,
+        "pharah",
+        "ZED",
+        "reaper",
+        "SOTURI",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        181313,
+        0,
+        "pharah",
+        "ZED",
+        "ana",
+        "CIRUYA",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        227721,
+        0,
+        "tracer",
+        "PANIXC",
+        "reaper",
+        "SOTURI",
+        [
+        ],
+        null
+      ],
+      [
+        227721,
+        0,
+        "tracer",
+        "PANIXC",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        274796,
+        0,
+        "tracer",
+        "PANIXC",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        274796,
+        1,
+        null,
+        null,
+        "pharah",
+        "ZED",
+        [
+        ],
+        null
+      ],
+      [
+        359377,
+        0,
+        "dva",
+        "KACHING",
+        "mercy",
+        "MOGUL",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        359377,
+        0,
+        "pharah",
+        "ZED",
+        "ana",
+        "CIRUYA",
+        [
+        ],
+        null
+      ],
+      [
+        363206,
+        0,
+        "lucio",
+        "IMRICKLAND",
+        "dva_mech",
+        "PRODIGIZEDDP",
+        [
+        ],
+        null
+      ],
+      [
+        364727,
+        0,
+        "pharah",
+        "ZED",
+        "dva",
+        "PRODIGIZEDDP",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        447330,
+        1,
+        "s76",
+        "SOTURI",
+        "winston",
+        "STARSHIP",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        463146,
+        0,
+        "dva",
+        "KACHING",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        463146,
+        0,
+        "pharah",
+        "ZED",
+        "genji",
+        "FATALITY",
+        [
+        ],
+        null
+      ],
+      [
+        511637,
+        0,
+        "pharah",
+        "ZED",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        512327,
+        1,
+        "s76",
+        "SOTURI",
+        "lucio",
+        "IMRICKLAND",
+        [
+        ],
+        null
+      ],
+      [
+        512327,
+        0,
+        "dva",
+        "KACHING",
+        "zenyatta",
+        "CIRUYA",
+        [
+        ],
+        null
+      ],
+      [
+        513832,
+        0,
+        "winston",
+        "STARSHIP",
+        "s76",
+        "SOTURI",
+        [
+        ],
+        null
+      ],
+      [
+        603086,
+        0,
+        "dva",
+        "KACHING",
+        "zenyatta",
+        "CIRUYA",
+        [
+        ],
+        null
+      ],
+      [
+        604327,
+        0,
+        "tracer",
+        "PANIXC",
+        "reinhardt",
+        "PRODIGIZEDDP",
+        [
+        ],
+        null
+      ],
+      [
+        651572,
+        1,
+        "winston",
+        "ABYSSRAPTOR",
+        "mercy",
+        "OBOSTARWARS",
+        [
+        ],
+        null
+      ],
+      [
+        651572,
+        0,
+        "pharah",
+        "ZED",
+        "mercy",
+        "MOGUL",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        675228,
+        1,
+        "junkrat",
+        "FATALITY",
+        "lucio",
+        "IMRICKLAND",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        675228,
+        1,
+        "junkrat",
+        "FATALITY",
+        "tracer",
+        "PANIXC",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        678767,
+        1,
+        null,
+        null,
+        "tracer",
+        "PANIXC",
+        [
+        ],
+        null
+      ],
+      [
+        678767,
+        1,
+        null,
+        null,
+        "lucio",
+        "IMRICKLAND",
+        [
+        ],
+        null
+      ],
+      [
+        678767,
+        1,
+        null,
+        null,
+        "winston",
+        "STARSHIP",
+        [
+        ],
+        null
+      ],
+      [
+        681517,
+        0,
+        "winston",
+        "STARSHIP",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        708919,
+        0,
+        "tracer",
+        "PANIXC",
+        "dva_mech",
+        "ABYSSRAPTOR",
+        [
+        ],
+        null
+      ],
+      [
+        710076,
+        0,
+        "pharah",
+        "ZED",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        710076,
+        0,
+        "pharah",
+        "ZED",
+        "zenyatta",
+        "CIRUYA",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        710076,
+        0,
+        "winston",
+        "STARSHIP",
+        "dva",
+        "ABYSSRAPTOR",
+        [
+        ],
+        null
+      ],
+      [
+        771588,
+        0,
+        "pharah",
+        "ZED",
+        "mercy",
+        "MOGUL",
+        [
+        ],
+        null
+      ],
+      [
+        771588,
+        1,
+        "dva",
+        "ABYSSRAPTOR",
+        "pharah",
+        "ZED",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        774461,
+        1,
+        "pharah",
+        "SOTURI",
+        "dva_mech",
+        "KACHING",
+        [
+        ],
+        null
+      ],
+      [
+        775096,
+        1,
+        "reinhardt",
+        "PRODIGIZEDDP",
+        "lucio",
+        "IMRICKLAND",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        776079,
+        0,
+        "dva",
+        "KACHING",
+        "zenyatta",
+        "CIRUYA",
+        [
+        ],
+        null
+      ],
+      [
+        778732,
+        1,
+        "reinhardt",
+        "PRODIGIZEDDP",
+        "dva",
+        "KACHING",
+        [
+        ],
+        null
+      ],
+      [
+        780004,
+        2,
+        "mercy",
+        "OBOSTARWARS",
+        "lucio",
+        "IMRICKLAND",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        780004,
+        2,
+        "mercy",
+        "OBOSTARWARS",
+        "dva",
+        "KACHING",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ]
+    ],
+    "map": "UNKNOWN",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MOGUL",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2371,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        211,
+        211,
+        211,
+        211,
+        211,
+        121,
+        121,
+        121,
+        661,
+        661,
+        820,
+        820,
+        820
+      ],
+      "deaths": [
+        0,
+        2,
+        4,
+        4,
+        4,
+        1,
+        1,
+        7,
+        7,
+        7,
+        9,
+        9,
+        12,
+        12,
+        12
+      ],
+      "elims": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "healing": [
+        0,
+        1922,
+        2620,
+        2620,
+        2620,
+        4607,
+        4712,
+        6011,
+        6011,
+        6011,
+        6714,
+        6714,
+        8181,
+        8181,
+        8181
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        3,
+        4,
+        8,
+        8,
+        8,
+        9,
+        9,
+        11,
+        11,
+        11
+      ],
+      "hero_stat_4": [
+        0,
+        66,
+        24,
+        24,
+        24,
+        74,
+        24,
+        219,
+        219,
+        219,
+        290,
+        290,
+        202,
+        202,
+        202
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        4,
+        4,
+        4,
+        4,
+        6,
+        8,
+        8,
+        8,
+        8,
+        8,
+        10,
+        10,
+        10
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "objective_time": [
+        0,
+        1,
+        14,
+        14,
+        14,
+        18,
+        18,
+        25,
+        25,
+        25,
+        27,
+        27,
+        52,
+        52,
+        52
+      ],
+      "time": [
+        82333,
+        187528,
+        269042,
+        274796,
+        317611,
+        398521,
+        409439,
+        523195,
+        530475,
+        583800,
+        662328,
+        668307,
+        796864,
+        802491,
+        808178
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 780004,
+              "hero": "mercy",
+              "start": 120545
+            }
+          ],
+          "name": "MOGUL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 122549,
+              "hero": "roadhog",
+              "start": 122549
+            },
+            {
+              "end": 463146,
+              "hero": "genji",
+              "start": 463146
+            },
+            {
+              "end": 780004,
+              "hero": "junkrat",
+              "start": 675228
+            }
+          ],
+          "name": "FATALITY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 227721,
+              "hero": "reaper",
+              "start": 179293
+            },
+            {
+              "end": 513832,
+              "hero": "s76",
+              "start": 447330
+            },
+            {
+              "end": 780004,
+              "hero": "pharah",
+              "start": 774461
+            }
+          ],
+          "name": "SOTURI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 176165,
+              "hero": "orisa",
+              "start": 120545
+            },
+            {
+              "end": 651572,
+              "hero": "winston",
+              "start": 651572
+            },
+            {
+              "end": 780004,
+              "hero": "dva",
+              "start": 710076
+            }
+          ],
+          "name": "ABYSSRAPTOR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 359377,
+              "hero": "ana",
+              "start": 181313
+            },
+            {
+              "end": 780004,
+              "hero": "zenyatta",
+              "start": 512327
+            }
+          ],
+          "name": "CIRUYA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 120545,
+              "hero": "s76",
+              "start": 120545
+            },
+            {
+              "end": 364727,
+              "hero": "dva",
+              "start": 364727
+            },
+            {
+              "end": 780004,
+              "hero": "reinhardt",
+              "start": 604327
+            }
+          ],
+          "name": "PRODIGIZEDDP"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 780004,
+              "hero": "tracer",
+              "start": 120545
+            }
+          ],
+          "name": "PANIXC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 780004,
+              "hero": "pharah",
+              "start": 176165
+            }
+          ],
+          "name": "ZED"
+        },
+        {
+          "heroes": [
+            {
+              "end": 780004,
+              "hero": "lucio",
+              "start": 363206
+            }
+          ],
+          "name": "IMRICKLAND"
+        },
+        {
+          "heroes": [
+            {
+              "end": 780004,
+              "hero": "mercy",
+              "start": 651572
+            }
+          ],
+          "name": "OBOSTARWARS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 780004,
+              "hero": "dva",
+              "start": 122549
+            }
+          ],
+          "name": "KACHING"
+        },
+        {
+          "heroes": [
+            {
+              "end": 780004,
+              "hero": "winston",
+              "start": 447330
+            }
+          ],
+          "name": "STARSHIP"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 804,
+    "end_sr": 2353,
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-07-07-13-VoVM62ksLndM3E8BNHq68Y",
+    "map": "UNKNOWN",
+    "player_name": "MOGUL",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2371,
+    "time": 1499410826,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-07-07-13-VoVM62ksLndM3E8BNHq68Y/game.json",
+    "user_id": 151467
+  }
+}

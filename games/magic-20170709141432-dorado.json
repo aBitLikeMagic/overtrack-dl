@@ -1,0 +1,2360 @@
+{
+  "data": {
+    "assists": [
+      [
+        159297,
+        "DEATHKNIGHT",
+        1,
+        0
+      ],
+      [
+        237239,
+        "MINUSTALENT",
+        1,
+        0
+      ],
+      [
+        262600,
+        "DEATHKNIGHT",
+        1,
+        0
+      ],
+      [
+        267672,
+        "MULTIBLITZ",
+        1,
+        0
+      ],
+      [
+        311936,
+        "VAPORWHALE",
+        1,
+        0
+      ],
+      [
+        325219,
+        "BIZAR",
+        1,
+        0
+      ],
+      [
+        650003,
+        "MINUSTALENT",
+        1,
+        0
+      ],
+      [
+        703316,
+        "BIZAR",
+        1,
+        0
+      ],
+      [
+        818684,
+        "MINUSTALENT",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      2450
+    ],
+    "custom_game": false,
+    "deaths": 11,
+    "end_sr": 2418,
+    "game_duration": 905,
+    "game_ended": 1499610621,
+    "game_started": 1499609672,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 6939,
+        "deaths": 9,
+        "elims": 9,
+        "healing": 117,
+        "hero_stat_1": 9,
+        "hero_stat_2": 0,
+        "hero_stat_3": 6,
+        "hero_stat_5": 9,
+        "hero_stat_6": 905932,
+        "objective_kills": 4,
+        "objective_time": 91,
+        "tab_health": 0.4,
+        "time_played": 844284
+      },
+      "dva": {
+        "damage": 1517,
+        "deaths": 3,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 45,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 1,
+        "hero_stat_5": 2003,
+        "objective_kills": 1,
+        "objective_time": 50,
+        "tab_health": 0.4,
+        "time_played": 201700
+      },
+      "junkrat": {
+        "damage": 1031,
+        "deaths": 2,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 12,
+        "hero_stat_2": 2,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 5,
+        "tab_health": 0.4,
+        "time_played": 119708
+      },
+      "pharah": {
+        "damage": 3779,
+        "deaths": 3,
+        "elims": 8,
+        "healing": 0,
+        "hero_stat_1": 42,
+        "hero_stat_2": 1,
+        "hero_stat_3": 7,
+        "hero_stat_4": 24,
+        "hero_stat_5": 5,
+        "objective_kills": 3,
+        "objective_time": 33,
+        "tab_health": 0.4,
+        "time_played": 324530
+      },
+      "reaper": {
+        "damage": 0,
+        "deaths": 0,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.4,
+        "time_played": 18130
+      }
+    },
+    "heroes_played": [
+      [
+        "pharah",
+        0.5215252432657105
+      ],
+      [
+        "dva",
+        0.28710762906320636
+      ],
+      [
+        "junkrat",
+        0.17039702558204417
+      ],
+      [
+        "reaper",
+        0.02097010208903895
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-14-30-DfxYkEu5AphV4CzhmhmGKg",
+    "killfeed": [
+      [
+        110370,
+        1,
+        "winston",
+        "DYSELLE",
+        "lucio",
+        "MULTIBLITZ",
+        [
+          "zenyatta"
+        ],
+        [
+          "winston",
+          "jumppack"
+        ]
+      ],
+      [
+        111455,
+        0,
+        "hanzo",
+        "BISHOP",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        114756,
+        0,
+        "hanzo",
+        "BISHOP",
+        "mercy",
+        "JELLI3",
+        [
+        ],
+        null
+      ],
+      [
+        118405,
+        1,
+        "winston",
+        "DYSELLE",
+        "hanzo",
+        "BISHOP",
+        [
+        ],
+        null
+      ],
+      [
+        130026,
+        1,
+        "dva",
+        "PLAYMAKER",
+        "dva_mech",
+        "MINUSTALENT",
+        [
+        ],
+        null
+      ],
+      [
+        133147,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "dva_mech",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        149640,
+        0,
+        "hanzo",
+        "BISHOP",
+        "dva",
+        "PLAYMAKER",
+        [
+        ],
+        [
+          "hanzo",
+          "sonicarrow"
+        ]
+      ],
+      [
+        159297,
+        1,
+        "pharah",
+        "MAGIC",
+        "s76",
+        "DEATHKNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        170892,
+        0,
+        "hanzo",
+        "BISHOP",
+        "mercy",
+        "JELLI3",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        171565,
+        0,
+        "winston",
+        "VAPORWHALE",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        174526,
+        0,
+        "lucio",
+        "MULTIBLITZ",
+        "tracer",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        188446,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        190208,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "dva_mech",
+        "PLAYMAKER",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        191477,
+        0,
+        "s76",
+        "DEATHKNIGHT",
+        "winston",
+        "DYSELLE",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        192860,
+        0,
+        "lucio",
+        "MULTIBLITZ",
+        "dva",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        195642,
+        3,
+        "mercy",
+        "JELLI3",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        195642,
+        3,
+        "mercy",
+        "JELLI3",
+        "dva",
+        "PLAYMAKER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        214064,
+        1,
+        "reinhardt",
+        "DYSELLE",
+        "hanzo",
+        "BISHOP",
+        [
+          "zenyatta"
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        228156,
+        1,
+        "dva",
+        "PLAYMAKER",
+        "lucio",
+        "MULTIBLITZ",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        237239,
+        1,
+        "reinhardt",
+        "DYSELLE",
+        "dva_mech",
+        "MINUSTALENT",
+        [
+        ],
+        null
+      ],
+      [
+        237239,
+        1,
+        "reinhardt",
+        "DYSELLE",
+        "dva",
+        "MINUSTALENT",
+        [
+        ],
+        null
+      ],
+      [
+        241397,
+        1,
+        "reinhardt",
+        "DYSELLE",
+        "winston",
+        "VAPORWHALE",
+        [
+          "zenyatta"
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        241397,
+        1,
+        null,
+        null,
+        "winston",
+        "VAPORWHALE",
+        [
+        ],
+        null
+      ],
+      [
+        241397,
+        1,
+        null,
+        null,
+        "dva",
+        "MINUSTALENT",
+        [
+        ],
+        null
+      ],
+      [
+        242805,
+        2,
+        "mercy",
+        "BIZAR",
+        "winston",
+        "VAPORWHALE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        242805,
+        2,
+        "mercy",
+        "BIZAR",
+        "dva",
+        "MINUSTALENT",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        246855,
+        1,
+        "tracer",
+        "@UNKNOWN_BLUE#0",
+        "mercy",
+        "BIZAR",
+        [
+          "mercy",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        249332,
+        0,
+        "winston",
+        "VAPORWHALE",
+        "mercy",
+        "JELLI3",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        252046,
+        0,
+        "s76",
+        "DEATHKNIGHT",
+        "dva_mech",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        254998,
+        1,
+        "tracer",
+        "@UNKNOWN_BLUE#0",
+        "dva_mech",
+        "MINUSTALENT",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        259402,
+        1,
+        "zenyatta",
+        "PIMPAROO",
+        "winston",
+        "VAPORWHALE",
+        [
+        ],
+        null
+      ],
+      [
+        261398,
+        0,
+        "s76",
+        "DEATHKNIGHT",
+        "dva",
+        "PLAYMAKER",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        261398,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "tracer",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        263734,
+        1,
+        "pharah",
+        "MAGIC",
+        "s76",
+        "DEATHKNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        267672,
+        1,
+        "pharah",
+        "MAGIC",
+        "lucio",
+        "MULTIBLITZ",
+        [
+        ],
+        null
+      ],
+      [
+        268496,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        null
+      ],
+      [
+        283755,
+        1,
+        "tracer",
+        "@UNKNOWN_BLUE#0",
+        "hanzo",
+        "BISHOP",
+        [
+        ],
+        null
+      ],
+      [
+        311936,
+        1,
+        "zenyatta",
+        "PIMPAROO",
+        "winston",
+        "VAPORWHALE",
+        [
+        ],
+        null
+      ],
+      [
+        318379,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "dva_mech",
+        "PLAYMAKER",
+        [
+          "mercy"
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        325219,
+        1,
+        "pharah",
+        "MAGIC",
+        "mercy",
+        "BIZAR",
+        [
+          "mercy",
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        326283,
+        1,
+        "reinhardt",
+        "DYSELLE",
+        "lucio",
+        "MULTIBLITZ",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        326283,
+        1,
+        "zenyatta",
+        "PIMPAROO",
+        "dva_mech",
+        "MINUSTALENT",
+        [
+          "mercy",
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        328108,
+        1,
+        "pharah",
+        "MAGIC",
+        "dva",
+        "MINUSTALENT",
+        [
+          "mercy"
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        328108,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        333257,
+        0,
+        "hanzo",
+        "BISHOP",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        335010,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "dva",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        336461,
+        3,
+        "mercy",
+        "JELLI3",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        336461,
+        3,
+        "mercy",
+        "JELLI3",
+        "reinhardt",
+        "DYSELLE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        337858,
+        0,
+        "hanzo",
+        "BISHOP",
+        "reinhardt",
+        "DYSELLE",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        337858,
+        3,
+        "mercy",
+        "JELLI3",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        339419,
+        0,
+        "hanzo",
+        "BISHOP",
+        "mercy",
+        "JELLI3",
+        [
+        ],
+        null
+      ],
+      [
+        339419,
+        1,
+        "reinhardt",
+        "DYSELLE",
+        "hanzo",
+        "BISHOP",
+        [
+          "zenyatta"
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        351928,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        null
+      ],
+      [
+        357866,
+        0,
+        "winston",
+        "VAPORWHALE",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        370355,
+        0,
+        "hanzo",
+        "BISHOP",
+        "reinhardt",
+        "DYSELLE",
+        [
+        ],
+        null
+      ],
+      [
+        372675,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "dva_mech",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        372675,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "dva",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        418141,
+        0,
+        "hanzo",
+        "BISHOP",
+        "mercy",
+        "JELLI3",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        419145,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "dva_mech",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        420288,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "tracer",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        420288,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        421201,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "dva",
+        "PLAYMAKER",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        421201,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        424050,
+        1,
+        "reinhardt",
+        "DYSELLE",
+        "hanzo",
+        "BISHOP",
+        [
+        ],
+        null
+      ],
+      [
+        424521,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "reinhardt",
+        "DYSELLE",
+        [
+        ],
+        null
+      ],
+      [
+        464626,
+        1,
+        "zenyatta",
+        "PIMPAROO",
+        "hanzo",
+        "BISHOP",
+        [
+        ],
+        null
+      ],
+      [
+        466079,
+        0,
+        "hanzo",
+        "BISHOP",
+        "dva_mech",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        474056,
+        0,
+        "lucio",
+        "MULTIBLITZ",
+        "tracer",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        477977,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "dva",
+        "PLAYMAKER",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        477977,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        479755,
+        0,
+        "lucio",
+        "MULTIBLITZ",
+        "zenyatta",
+        "PIMPAROO",
+        [
+        ],
+        null
+      ],
+      [
+        484302,
+        0,
+        "winston",
+        "VAPORWHALE",
+        "mercy",
+        "JELLI3",
+        [
+        ],
+        null
+      ],
+      [
+        486737,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "reaper",
+        "DYSELLE",
+        [
+        ],
+        null
+      ],
+      [
+        631555,
+        1,
+        "hanzo",
+        "PLAYMAKER",
+        "lucio",
+        "MULTIBLITZ",
+        [
+        ],
+        null
+      ],
+      [
+        633308,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "s76",
+        "DYSELLE",
+        [
+        ],
+        null
+      ],
+      [
+        636928,
+        0,
+        "bastion",
+        "BISHOP",
+        "reinhardt",
+        "PIMPAROO",
+        [
+        ],
+        null
+      ],
+      [
+        643446,
+        1,
+        "hanzo",
+        "PLAYMAKER",
+        "ana",
+        "VAPORWHALE",
+        [
+        ],
+        null
+      ],
+      [
+        646890,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "hanzo",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        650003,
+        1,
+        "dva",
+        "MAGIC",
+        "dva_mech",
+        "MINUSTALENT",
+        [
+        ],
+        null
+      ],
+      [
+        661053,
+        0,
+        "lucio",
+        "MULTIBLITZ",
+        "dva_mech",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        668134,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        671964,
+        0,
+        "ana",
+        "VAPORWHALE",
+        "mei",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "ana",
+          "bioticgrenade"
+        ]
+      ],
+      [
+        687817,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "symmetra_teleporter",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        688505,
+        1,
+        "s76",
+        "DYSELLE",
+        "dva_mech",
+        "MINUSTALENT",
+        [
+        ],
+        null
+      ],
+      [
+        689390,
+        1,
+        "s76",
+        "DYSELLE",
+        "dva",
+        "MINUSTALENT",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        691854,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "mei",
+        "PIMPAROO",
+        [
+        ],
+        null
+      ],
+      [
+        693313,
+        1,
+        "hanzo",
+        "PLAYMAKER",
+        "bastion",
+        "BISHOP",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        694536,
+        1,
+        "s76",
+        "DYSELLE",
+        "ana",
+        "VAPORWHALE",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        703316,
+        1,
+        "symmetra",
+        "@UNKNOWN_BLUE#0",
+        "orisa",
+        "BIZAR",
+        [
+        ],
+        null
+      ],
+      [
+        704272,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "hanzo",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        727297,
+        1,
+        "mercy",
+        "JELLI3",
+        "mccree",
+        "DEATHKNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        738811,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "s76",
+        "DYSELLE",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        738811,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "symmetra",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        740726,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "dva_mech",
+        "MAGIC",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        743040,
+        0,
+        "lucio",
+        "MULTIBLITZ",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        743904,
+        0,
+        "bastion",
+        "BISHOP",
+        "mei",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        744429,
+        3,
+        "mercy",
+        "JELLI3",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        744429,
+        3,
+        "mercy",
+        "JELLI3",
+        "symmetra",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        744429,
+        3,
+        "mercy",
+        "JELLI3",
+        "mei",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        749667,
+        1,
+        "hanzo",
+        "PLAYMAKER",
+        "lucio",
+        "MULTIBLITZ",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        750899,
+        0,
+        "bastion",
+        "BISHOP",
+        "mercy",
+        "JELLI3",
+        [
+        ],
+        null
+      ],
+      [
+        752474,
+        1,
+        "hanzo",
+        "PLAYMAKER",
+        "orisa_supercharger",
+        "BIZAR",
+        [
+        ],
+        null
+      ],
+      [
+        752474,
+        1,
+        "mei",
+        "PIMPAROO",
+        "orisa",
+        "BIZAR",
+        [
+        ],
+        null
+      ],
+      [
+        752474,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "mei",
+        "PIMPAROO",
+        [
+        ],
+        null
+      ],
+      [
+        753310,
+        0,
+        "bastion",
+        "BISHOP",
+        "symmetra",
+        "@UNKNOWN_BLUE#0",
+        [
+          "orisa"
+        ],
+        null
+      ],
+      [
+        754406,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "hanzo",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        760527,
+        0,
+        "bastion",
+        "BISHOP",
+        "dva",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        785716,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "s76",
+        "DYSELLE",
+        [
+        ],
+        null
+      ],
+      [
+        792760,
+        1,
+        "mei",
+        "PIMPAROO",
+        "lucio",
+        "MULTIBLITZ",
+        [
+        ],
+        null
+      ],
+      [
+        800711,
+        0,
+        "ana",
+        "VAPORWHALE",
+        "mei",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "ana",
+          "bioticgrenade"
+        ]
+      ],
+      [
+        815355,
+        0,
+        "bastion",
+        "BISHOP",
+        "s76",
+        "DYSELLE",
+        [
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        815355,
+        0,
+        "bastion",
+        "BISHOP",
+        "mei",
+        "PIMPAROO",
+        [
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        816473,
+        1,
+        "symmetra",
+        "@UNKNOWN_BLUE#0",
+        "bastion",
+        "BISHOP",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        818684,
+        0,
+        "orisa",
+        "BIZAR",
+        "symmetra",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        818684,
+        1,
+        "symmetra",
+        "@UNKNOWN_BLUE#0",
+        "dva_mech",
+        "MINUSTALENT",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        821864,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "symmetra_teleporter",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        827155,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "mercy",
+        "JELLI3",
+        [
+        ],
+        null
+      ],
+      [
+        842474,
+        0,
+        "orisa",
+        "BIZAR",
+        "reaper",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        846493,
+        1,
+        "mei",
+        "PIMPAROO",
+        "ana",
+        "VAPORWHALE",
+        [
+        ],
+        null
+      ],
+      [
+        849525,
+        0,
+        "dva",
+        "MINUSTALENT",
+        "mei",
+        "PIMPAROO",
+        [
+        ],
+        null
+      ],
+      [
+        851096,
+        1,
+        "s76",
+        "DYSELLE",
+        "lucio",
+        "MULTIBLITZ",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        851096,
+        0,
+        "orisa",
+        "BIZAR",
+        "symmetra",
+        "@UNKNOWN_BLUE#0",
+        [
+        ],
+        null
+      ],
+      [
+        855267,
+        0,
+        "orisa",
+        "BIZAR",
+        "hanzo",
+        "PLAYMAKER",
+        [
+        ],
+        null
+      ],
+      [
+        857206,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "mercy",
+        "JELLI3",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        857206,
+        0,
+        "mccree",
+        "DEATHKNIGHT",
+        "s76",
+        "DYSELLE",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ]
+    ],
+    "map": "Dorado",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            271778,
+            1
+          ]
+        ],
+        "end": 493143,
+        "end_score": 1,
+        "stage": "Attack",
+        "start": 37174
+      },
+      {
+        "checkpoints": [
+          [
+            770206,
+            1
+          ],
+          [
+            863704,
+            2
+          ]
+        ],
+        "end": 866513,
+        "end_score": 2,
+        "stage": "Defend",
+        "start": 549924
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "LOSS",
+    "score": [
+      1,
+      2
+    ],
+    "start_sr": 2442,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1017,
+        3779,
+        3779,
+        3935,
+        3935,
+        4810,
+        4810,
+        4810,
+        4810,
+        4810,
+        4810,
+        5825,
+        5825,
+        6327,
+        6939,
+        6939,
+        6939
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        8,
+        9,
+        9,
+        9
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        9
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        117,
+        117,
+        117
+      ],
+      "hero": [
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "dva",
+        "reaper",
+        "reaper",
+        "reaper"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        43,
+        42,
+        0,
+        0,
+        0,
+        12,
+        12,
+        0,
+        0,
+        0,
+        0,
+        53,
+        53,
+        45,
+        49,
+        49,
+        49
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        24,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        117,
+        117,
+        117
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1221,
+        1221,
+        2003,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        33,
+        33,
+        36,
+        36,
+        38,
+        38,
+        38,
+        38,
+        38,
+        38,
+        51,
+        51,
+        88,
+        91,
+        91,
+        91
+      ],
+      "time": [
+        41854,
+        53252,
+        60402,
+        65792,
+        71644,
+        77459,
+        83274,
+        93894,
+        173938,
+        366384,
+        376791,
+        423465,
+        429522,
+        483626,
+        496499,
+        567173,
+        580075,
+        588931,
+        601699,
+        667689,
+        674009,
+        768873,
+        868008,
+        880338,
+        886138
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 357866,
+              "hero": "pharah",
+              "start": 159297
+            },
+            {
+              "end": 477977,
+              "hero": "junkrat",
+              "start": 420288
+            },
+            {
+              "end": 760527,
+              "hero": "dva",
+              "start": 650003
+            },
+            {
+              "end": 857206,
+              "hero": "reaper",
+              "start": 842474
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 479755,
+              "hero": "zenyatta",
+              "start": 111455
+            },
+            {
+              "end": 636928,
+              "hero": "reinhardt",
+              "start": 636928
+            },
+            {
+              "end": 857206,
+              "hero": "mei",
+              "start": 671964
+            }
+          ],
+          "name": "PIMPAROO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 191477,
+              "hero": "winston",
+              "start": 110370
+            },
+            {
+              "end": 424521,
+              "hero": "reinhardt",
+              "start": 214064
+            },
+            {
+              "end": 486737,
+              "hero": "reaper",
+              "start": 486737
+            },
+            {
+              "end": 857206,
+              "hero": "s76",
+              "start": 633308
+            }
+          ],
+          "name": "DYSELLE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 477977,
+              "hero": "dva",
+              "start": 130026
+            },
+            {
+              "end": 857206,
+              "hero": "hanzo",
+              "start": 631555
+            }
+          ],
+          "name": "PLAYMAKER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 857206,
+              "hero": "mercy",
+              "start": 114756
+            }
+          ],
+          "name": "JELLI3"
+        },
+        {
+          "heroes": [
+            {
+              "end": 474056,
+              "hero": "tracer",
+              "start": 174526
+            },
+            {
+              "end": 857206,
+              "hero": "symmetra",
+              "start": 703316
+            }
+          ],
+          "name": "@UNKNOWN_BLUE#0"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 466079,
+              "hero": "hanzo",
+              "start": 111455
+            },
+            {
+              "end": 857206,
+              "hero": "bastion",
+              "start": 636928
+            }
+          ],
+          "name": "BISHOP"
+        },
+        {
+          "heroes": [
+            {
+              "end": 484302,
+              "hero": "winston",
+              "start": 171565
+            },
+            {
+              "end": 857206,
+              "hero": "ana",
+              "start": 643446
+            }
+          ],
+          "name": "VAPORWHALE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 857206,
+              "hero": "lucio",
+              "start": 110370
+            }
+          ],
+          "name": "MULTIBLITZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 325219,
+              "hero": "mercy",
+              "start": 242805
+            },
+            {
+              "end": 857206,
+              "hero": "orisa",
+              "start": 703316
+            }
+          ],
+          "name": "BIZAR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 263734,
+              "hero": "s76",
+              "start": 159297
+            },
+            {
+              "end": 857206,
+              "hero": "mccree",
+              "start": 328108
+            }
+          ],
+          "name": "DEATHKNIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 857206,
+              "hero": "dva",
+              "start": 133147
+            }
+          ],
+          "name": "MINUSTALENT"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 905,
+    "end_sr": 2418,
+    "heroes_played": [
+      [
+        "pharah",
+        0.5215252432657105
+      ],
+      [
+        "dva",
+        0.28710762906320636
+      ],
+      [
+        "junkrat",
+        0.17039702558204417
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-14-30-DfxYkEu5AphV4CzhmhmGKg",
+    "map": "Dorado",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      1,
+      2
+    ],
+    "start_sr": 2442,
+    "time": 1499609672,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-09-14-30-DfxYkEu5AphV4CzhmhmGKg/game.json",
+    "user_id": 151467
+  }
+}

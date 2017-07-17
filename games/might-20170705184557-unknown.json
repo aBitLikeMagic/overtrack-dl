@@ -1,0 +1,1378 @@
+{
+  "data": {
+    "assists": [
+      [
+        146219,
+        "AIRYLIN",
+        1,
+        0
+      ],
+      [
+        288424,
+        "ACIDORB",
+        1,
+        0
+      ],
+      [
+        298313,
+        "ASIANNATION",
+        1,
+        0
+      ],
+      [
+        326307,
+        "ASIANNATION",
+        1,
+        0
+      ],
+      [
+        362700,
+        "STARDARK",
+        1,
+        0
+      ],
+      [
+        440334,
+        "AIRYLIN",
+        1,
+        0
+      ],
+      [
+        449888,
+        "ASIANNATION",
+        1,
+        0
+      ],
+      [
+        604289,
+        "ASIANNATION",
+        1,
+        0
+      ],
+      [
+        608866,
+        "ACIDORB",
+        1,
+        0
+      ],
+      [
+        656153,
+        "TEMUJOE",
+        1,
+        0
+      ],
+      [
+        726638,
+        "TEMUJOE",
+        1,
+        0
+      ],
+      [
+        809039,
+        "ASIANNATION",
+        1,
+        0
+      ],
+      [
+        856534,
+        "ACIDORB",
+        1,
+        0
+      ],
+      [
+        868977,
+        "STARDARK",
+        1,
+        0
+      ],
+      [
+        889851,
+        "ASIANNATION",
+        1,
+        0
+      ],
+      [
+        921730,
+        "AIRYLIN",
+        1,
+        0
+      ],
+      [
+        929022,
+        "ASIANNATION",
+        1,
+        0
+      ],
+      [
+        960446,
+        "ACIDORB",
+        1,
+        0
+      ],
+      [
+        1099949,
+        "AIRYLIN",
+        1,
+        0
+      ],
+      [
+        1100695,
+        "TEMUJOE",
+        1,
+        0
+      ],
+      [
+        1103623,
+        "ACIDORB",
+        1,
+        0
+      ],
+      [
+        1107489,
+        "ASIANNATION",
+        1,
+        0
+      ],
+      [
+        1117645,
+        "STARDARK",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      2376,
+      2402
+    ],
+    "custom_game": false,
+    "deaths": 15,
+    "end_sr": 2371,
+    "game_duration": 1179,
+    "game_ended": 1499281543,
+    "game_started": 1499280357,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 12286,
+        "deaths": 11,
+        "elims": 27,
+        "healing": 0,
+        "hero_stat_1": 23,
+        "hero_stat_2": 0,
+        "hero_stat_3": 3,
+        "hero_stat_5": 27,
+        "hero_stat_6": 1179654,
+        "objective_kills": 10,
+        "objective_time": 92,
+        "tab_health": 0.18421052631578946,
+        "time_played": 1099080
+      },
+      "junkrat": {
+        "damage": 11553,
+        "deaths": 7,
+        "elims": 16,
+        "healing": 0,
+        "hero_stat_1": 26,
+        "hero_stat_2": 10,
+        "hero_stat_3": 5,
+        "hero_stat_4": 1,
+        "hero_stat_5": 9,
+        "objective_kills": 7,
+        "objective_time": 58,
+        "tab_health": 0.18421052631578946,
+        "time_played": 548857
+      },
+      "pharah": {
+        "damage": 3531,
+        "deaths": 11,
+        "elims": 9,
+        "healing": 0,
+        "hero_stat_1": 53,
+        "hero_stat_2": 2,
+        "hero_stat_3": 5,
+        "hero_stat_4": 38,
+        "hero_stat_5": 5,
+        "objective_kills": 2,
+        "objective_time": 33,
+        "tab_health": 0.18421052631578946,
+        "time_played": 316226
+      }
+    },
+    "heroes_played": [
+      [
+        "junkrat",
+        0.5956670099691239
+      ],
+      [
+        "pharah",
+        0.40433299003087614
+      ],
+      [
+        "dva",
+        0
+      ]
+    ],
+    "key": "Magic-11407/2017-07-05-19-05-XyiyRcbPx7KtxPrF6qfRKo",
+    "killfeed": [
+      [
+        155629,
+        0,
+        "genji",
+        "ACIDORB",
+        "dva_mech",
+        "NONHUMAN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        155629,
+        0,
+        "s76",
+        "LTHALITE",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        157736,
+        0,
+        "genji",
+        "ACIDORB",
+        "dva",
+        "NONHUMAN",
+        [
+        ],
+        null
+      ],
+      [
+        157736,
+        0,
+        "reinhardt",
+        "ASIANNATION",
+        "winston",
+        "AHHOII",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        161319,
+        0,
+        "genji",
+        "ACIDORB",
+        "lucio",
+        "DONGPONG",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        180769,
+        0,
+        "s76",
+        "LTHALITE",
+        "mccree",
+        "TCKARMA",
+        [
+        ],
+        null
+      ],
+      [
+        180769,
+        0,
+        "reinhardt",
+        "ASIANNATION",
+        "pharah",
+        "MIGHT",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        185654,
+        0,
+        "reinhardt",
+        "ASIANNATION",
+        "winston",
+        "AHHOII",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        191058,
+        0,
+        "mercy",
+        "AIRYLIN",
+        "lucio",
+        "DONGPONG",
+        [
+        ],
+        null
+      ],
+      [
+        261352,
+        0,
+        "zenyatta",
+        "TEMUJOE",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        261352,
+        0,
+        "tracer",
+        "STARDARK",
+        "winston",
+        "AHHOII",
+        [
+        ],
+        null
+      ],
+      [
+        261870,
+        0,
+        "s76",
+        "LTHALITE",
+        "mercy",
+        "ATALANTA",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        264009,
+        0,
+        "s76",
+        "LTHALITE",
+        "dva",
+        "NONHUMAN",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        384638,
+        0,
+        "tracer",
+        "STARDARK",
+        "lucio",
+        "DONGPONG",
+        [
+        ],
+        null
+      ],
+      [
+        384638,
+        0,
+        "zenyatta",
+        "TEMUJOE",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        390844,
+        3,
+        "mercy",
+        "ATALANTA",
+        "lucio",
+        "DONGPONG",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        423630,
+        1,
+        "mccree",
+        "TCKARMA",
+        "zenyatta",
+        "TEMUJOE",
+        [
+        ],
+        null
+      ],
+      [
+        423630,
+        1,
+        "mccree",
+        "TCKARMA",
+        "s76",
+        "LTHALITE",
+        [
+        ],
+        null
+      ],
+      [
+        423630,
+        0,
+        "tracer",
+        "STARDARK",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        450659,
+        0,
+        "zenyatta",
+        "TEMUJOE",
+        "mercy",
+        "ATALANTA",
+        [
+        ],
+        null
+      ],
+      [
+        450659,
+        0,
+        "genji",
+        "ACIDORB",
+        "lucio",
+        "DONGPONG",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        450659,
+        0,
+        "genji",
+        "ACIDORB",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        450659,
+        1,
+        "junkrat",
+        "MIGHT",
+        "reinhardt",
+        "ASIANNATION",
+        [
+        ],
+        [
+          "junkrat",
+          "totalmayhem"
+        ]
+      ],
+      [
+        451231,
+        0,
+        "genji",
+        "ACIDORB",
+        "dva_mech",
+        "NONHUMAN",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        452165,
+        0,
+        "genji",
+        "ACIDORB",
+        "dva",
+        "NONHUMAN",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        609661,
+        1,
+        "junkrat",
+        "MIGHT",
+        "reinhardt",
+        "ASIANNATION",
+        [
+        ],
+        [
+          "junkrat",
+          "steeltrap"
+        ]
+      ],
+      [
+        609661,
+        0,
+        "zarya",
+        "ACIDORB",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        609661,
+        1,
+        "widowmaker",
+        "TCKARMA",
+        "zarya",
+        "ACIDORB",
+        [
+        ],
+        null
+      ],
+      [
+        611794,
+        0,
+        "zenyatta",
+        "TEMUJOE",
+        "reinhardt",
+        "AHHOII",
+        [
+        ],
+        null
+      ],
+      [
+        612361,
+        1,
+        "reinhardt",
+        "AHHOII",
+        "mercy",
+        "AIRYLIN",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        697510,
+        0,
+        "tracer",
+        "STARDARK",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        697510,
+        0,
+        "pharah",
+        "LTHALITE",
+        "lucio",
+        "DONGPONG",
+        [
+        ],
+        null
+      ],
+      [
+        739302,
+        0,
+        "reinhardt",
+        "ASIANNATION",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        739302,
+        1,
+        "widowmaker",
+        "TCKARMA",
+        "pharah",
+        "LTHALITE",
+        [
+        ],
+        null
+      ],
+      [
+        781032,
+        0,
+        "zarya",
+        "ACIDORB",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        781032,
+        1,
+        "widowmaker",
+        "TCKARMA",
+        "pharah",
+        "LTHALITE",
+        [
+        ],
+        null
+      ],
+      [
+        784073,
+        0,
+        "tracer",
+        "STARDARK",
+        "widowmaker",
+        "TCKARMA",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        812315,
+        0,
+        "zenyatta",
+        "TEMUJOE",
+        "widowmaker",
+        "TCKARMA",
+        [
+        ],
+        null
+      ],
+      [
+        812315,
+        1,
+        "ana",
+        "ATALANTA",
+        "reinhardt",
+        "ASIANNATION",
+        [
+        ],
+        null
+      ],
+      [
+        812315,
+        1,
+        null,
+        null,
+        "reinhardt",
+        "ASIANNATION",
+        [
+        ],
+        null
+      ],
+      [
+        830385,
+        0,
+        "zarya",
+        "ACIDORB",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        832724,
+        0,
+        "tracer",
+        "STARDARK",
+        "hanzo",
+        "AHHOII",
+        [
+        ],
+        null
+      ],
+      [
+        892827,
+        1,
+        "mccree",
+        "TCKARMA",
+        "reinhardt",
+        "ASIANNATION",
+        [
+        ],
+        null
+      ],
+      [
+        892827,
+        0,
+        "pharah",
+        "LTHALITE",
+        "s76",
+        "NONHUMAN",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        892827,
+        0,
+        "pharah",
+        "LTHALITE",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        892827,
+        1,
+        "mccree",
+        "TCKARMA",
+        "pharah",
+        "LTHALITE",
+        [
+        ],
+        null
+      ],
+      [
+        938031,
+        0,
+        "pharah",
+        "LTHALITE",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        938031,
+        0,
+        "tracer",
+        "STARDARK",
+        "ana",
+        "ATALANTA",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        938867,
+        1,
+        "junkrat",
+        "MIGHT",
+        "zenyatta",
+        "TEMUJOE",
+        [
+        ],
+        null
+      ],
+      [
+        994582,
+        0,
+        "reinhardt",
+        "ASIANNATION",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        994582,
+        1,
+        "s76",
+        "NONHUMAN",
+        "zarya",
+        "ACIDORB",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        995386,
+        1,
+        "mccree",
+        "TCKARMA",
+        "reinhardt",
+        "ASIANNATION",
+        [
+        ],
+        null
+      ],
+      [
+        999597,
+        1,
+        "mccree",
+        "TCKARMA",
+        "mercy",
+        "AIRYLIN",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        1067709,
+        1,
+        "dva",
+        "ATALANTA",
+        "mercy",
+        "AIRYLIN",
+        [
+        ],
+        null
+      ],
+      [
+        1067709,
+        0,
+        "pharah",
+        "LTHALITE",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        1067709,
+        0,
+        "pharah",
+        "LTHALITE",
+        "lucio",
+        "DONGPONG",
+        [
+        ],
+        null
+      ],
+      [
+        1067709,
+        0,
+        "pharah",
+        "LTHALITE",
+        "s76",
+        "NONHUMAN",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        1067709,
+        1,
+        null,
+        null,
+        "pharah",
+        "LTHALITE",
+        [
+        ],
+        null
+      ],
+      [
+        1068672,
+        0,
+        "zenyatta",
+        "TEMUJOE",
+        "tracer",
+        "AHHOII",
+        [
+        ],
+        null
+      ],
+      [
+        1071503,
+        1,
+        "mccree",
+        "TCKARMA",
+        "reinhardt",
+        "ASIANNATION",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "UNKNOWN",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2390,
+    "tab_statistics": {
+      "damage": [
+        0,
+        1124,
+        1124,
+        1702,
+        4400,
+        1024,
+        1024,
+        1827,
+        7848,
+        9879,
+        9879,
+        10662,
+        12286
+      ],
+      "deaths": [
+        0,
+        1,
+        1,
+        2,
+        1,
+        6,
+        6,
+        7,
+        11,
+        12,
+        12,
+        14,
+        11
+      ],
+      "elims": [
+        0,
+        1,
+        1,
+        1,
+        6,
+        8,
+        8,
+        11,
+        13,
+        19,
+        19,
+        21,
+        27
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "pharah",
+        "pharah",
+        "pharah",
+        "junkrat",
+        "junkrat",
+        "dva",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "pharah",
+        "pharah",
+        "pharah"
+      ],
+      "hero_stat_1": [
+        0,
+        58,
+        58,
+        0,
+        29,
+        0,
+        28,
+        24,
+        24,
+        26,
+        55,
+        60,
+        53
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        2,
+        4,
+        2,
+        10,
+        0,
+        0,
+        2
+      ],
+      "hero_stat_3": [
+        0,
+        1,
+        1,
+        0,
+        5,
+        0,
+        5,
+        5,
+        5,
+        5,
+        1,
+        1,
+        5
+      ],
+      "hero_stat_4": [
+        0,
+        14,
+        14,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        20,
+        20,
+        44
+      ],
+      "hero_stat_5": [
+        0,
+        1,
+        1,
+        null,
+        2,
+        0,
+        4,
+        6,
+        7,
+        11,
+        1,
+        1,
+        5
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        3,
+        5,
+        8,
+        8,
+        10,
+        10
+      ],
+      "objective_time": [
+        0,
+        4,
+        4,
+        5,
+        18,
+        18,
+        18,
+        28,
+        50,
+        63,
+        63,
+        70,
+        92
+      ],
+      "time": [
+        40437,
+        159800,
+        166439,
+        268267,
+        434449,
+        540369,
+        561237,
+        657881,
+        828832,
+        943912,
+        949293,
+        1023417,
+        1139517
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 261352,
+              "hero": "pharah",
+              "start": 155629
+            },
+            {
+              "end": 938867,
+              "hero": "junkrat",
+              "start": 384638
+            },
+            {
+              "end": 1071503,
+              "hero": "pharah",
+              "start": 994582
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 450659,
+              "hero": "mercy",
+              "start": 261870
+            },
+            {
+              "end": 938031,
+              "hero": "ana",
+              "start": 812315
+            },
+            {
+              "end": 1071503,
+              "hero": "dva",
+              "start": 1067709
+            }
+          ],
+          "name": "ATALANTA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1071503,
+              "hero": "lucio",
+              "start": 161319
+            }
+          ],
+          "name": "DONGPONG"
+        },
+        {
+          "heroes": [
+            {
+              "end": 452165,
+              "hero": "dva",
+              "start": 157736
+            },
+            {
+              "end": 1071503,
+              "hero": "s76",
+              "start": 892827
+            }
+          ],
+          "name": "NONHUMAN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 261352,
+              "hero": "winston",
+              "start": 157736
+            },
+            {
+              "end": 612361,
+              "hero": "reinhardt",
+              "start": 611794
+            },
+            {
+              "end": 832724,
+              "hero": "hanzo",
+              "start": 832724
+            },
+            {
+              "end": 1071503,
+              "hero": "tracer",
+              "start": 1068672
+            }
+          ],
+          "name": "AHHOII"
+        },
+        {
+          "heroes": [
+            {
+              "end": 423630,
+              "hero": "mccree",
+              "start": 180769
+            },
+            {
+              "end": 812315,
+              "hero": "widowmaker",
+              "start": 609661
+            },
+            {
+              "end": 1071503,
+              "hero": "mccree",
+              "start": 892827
+            }
+          ],
+          "name": "TCKARMA"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 1071503,
+              "hero": "reinhardt",
+              "start": 157736
+            }
+          ],
+          "name": "ASIANNATION"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1071503,
+              "hero": "mercy",
+              "start": 191058
+            }
+          ],
+          "name": "AIRYLIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 423630,
+              "hero": "s76",
+              "start": 155629
+            },
+            {
+              "end": 1071503,
+              "hero": "pharah",
+              "start": 697510
+            }
+          ],
+          "name": "LTHALITE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1071503,
+              "hero": "tracer",
+              "start": 261352
+            }
+          ],
+          "name": "STARDARK"
+        },
+        {
+          "heroes": [
+            {
+              "end": 452165,
+              "hero": "genji",
+              "start": 155629
+            },
+            {
+              "end": 1071503,
+              "hero": "zarya",
+              "start": 609661
+            }
+          ],
+          "name": "ACIDORB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 1071503,
+              "hero": "zenyatta",
+              "start": 261352
+            }
+          ],
+          "name": "TEMUJOE"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 1179,
+    "end_sr": 2371,
+    "heroes_played": [
+      [
+        "junkrat",
+        0.5956670099691239
+      ],
+      [
+        "pharah",
+        0.40433299003087614
+      ],
+      [
+        "dva",
+        0
+      ]
+    ],
+    "key": "Magic-11407/2017-07-05-19-05-XyiyRcbPx7KtxPrF6qfRKo",
+    "map": "UNKNOWN",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2390,
+    "time": 1499280357,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-05-19-05-XyiyRcbPx7KtxPrF6qfRKo/game.json",
+    "user_id": 151467
+  }
+}

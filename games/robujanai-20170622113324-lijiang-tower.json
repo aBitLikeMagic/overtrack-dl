@@ -1,0 +1,2357 @@
+{
+  "data": {
+    "assists": [
+      [
+        84283,
+        "RAY",
+        1,
+        0
+      ],
+      [
+        92804,
+        "DEZZA",
+        1,
+        0
+      ],
+      [
+        99319,
+        "ZCPILIEBACH",
+        1,
+        0
+      ],
+      [
+        112349,
+        "MESSIX",
+        1,
+        0
+      ],
+      [
+        117360,
+        "RAY",
+        1,
+        0
+      ],
+      [
+        133898,
+        "DEZZA",
+        1,
+        0
+      ],
+      [
+        161963,
+        "TRIGGERED",
+        1,
+        0
+      ],
+      [
+        174991,
+        "RAKHASHI",
+        1,
+        0
+      ],
+      [
+        219590,
+        "TRIGGERED",
+        1,
+        0
+      ],
+      [
+        370916,
+        "DEZZA",
+        1,
+        0
+      ],
+      [
+        403983,
+        "DEZZA",
+        1,
+        0
+      ],
+      [
+        566356,
+        "RAY",
+        1,
+        0
+      ],
+      [
+        589907,
+        "MESSIX",
+        1,
+        0
+      ]
+    ],
+    "custom_game": false,
+    "deaths": 12,
+    "end_sr": null,
+    "game_duration": 724,
+    "game_ended": 1498131970,
+    "game_started": 1498131204,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 2202,
+        "deaths": 12,
+        "elims": 14,
+        "healing": 0,
+        "hero_stat_1": 13,
+        "hero_stat_2": 0,
+        "hero_stat_3": 9,
+        "hero_stat_5": 14,
+        "hero_stat_6": 724209,
+        "objective_kills": 3,
+        "objective_time": 50,
+        "tab_health": 0.8333333333333334,
+        "time_played": 640423
+      },
+      "pharah": {
+        "damage": 90,
+        "deaths": 2,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 13,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 1,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 5,
+        "tab_health": 0.8333333333333334,
+        "time_played": 65147
+      },
+      "tracer": {
+        "damage": 2112,
+        "deaths": 4,
+        "elims": 3,
+        "healing": 0,
+        "hero_stat_1": 34,
+        "hero_stat_2": 0,
+        "hero_stat_3": 3,
+        "hero_stat_4": 0,
+        "hero_stat_5": 2,
+        "objective_kills": 1,
+        "objective_time": 4,
+        "tab_health": 0.8333333333333334,
+        "time_played": 154847
+      },
+      "winston": {
+        "damage": 2212,
+        "deaths": 6,
+        "elims": 11,
+        "healing": 0,
+        "hero_stat_1": 6367,
+        "hero_stat_2": 24,
+        "hero_stat_3": 8,
+        "hero_stat_5": 2,
+        "objective_kills": 2,
+        "objective_time": 41,
+        "tab_health": 0.8333333333333334,
+        "time_played": 378835
+      }
+    },
+    "key": "notrob-1514/2017-06-22-11-46-b75PAxo8mtqiLWxfvTLBoA",
+    "killfeed": [
+      [
+        83782,
+        1,
+        "genji",
+        "BOOMKIN",
+        "genji",
+        "RAY",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        89296,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "dva_mech",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        92804,
+        1,
+        "winston",
+        "ROBUJANAI",
+        "symmetra",
+        "DEZZA",
+        [
+        ]
+      ],
+      [
+        99319,
+        1,
+        "winston",
+        "ROBUJANAI",
+        "reaper",
+        "ZCPILIEBACH",
+        [
+        ]
+      ],
+      [
+        112349,
+        1,
+        "lucio",
+        "CRYSISQ",
+        "reinhardt",
+        "MESSIX",
+        [
+        ]
+      ],
+      [
+        115355,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "mercy",
+        "ICEWEASEL",
+        [
+        ]
+      ],
+      [
+        117360,
+        1,
+        "winston",
+        "ROBUJANAI",
+        "genji",
+        "RAY",
+        [
+        ]
+      ],
+      [
+        124877,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "lucio",
+        "CRYSISQ",
+        [
+        ]
+      ],
+      [
+        124877,
+        1,
+        "dva",
+        "HAYBREAKER",
+        "junkrat",
+        "RAKHASHI",
+        [
+        ]
+      ],
+      [
+        126381,
+        1,
+        "genji",
+        "BOOMKIN",
+        "s76",
+        "TRIGGERED",
+        [
+        ]
+      ],
+      [
+        129888,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "dva_mech",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        133397,
+        1,
+        "winston",
+        "ROBUJANAI",
+        "symmetra",
+        "DEZZA",
+        [
+        ]
+      ],
+      [
+        136905,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "genji",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        153942,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "lucio",
+        "CRYSISQ",
+        [
+        ]
+      ],
+      [
+        159457,
+        0,
+        "s76",
+        "TRIGGERED",
+        "dva_mech",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        161963,
+        1,
+        "winston",
+        "ROBUJANAI",
+        "s76",
+        "TRIGGERED",
+        [
+        ]
+      ],
+      [
+        163466,
+        1,
+        "mercy",
+        "ICEWEASEL",
+        "reinhardt",
+        "MESSIX",
+        [
+        ]
+      ],
+      [
+        166472,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "dva",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        166472,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "mercy",
+        "ICEWEASEL",
+        [
+        ]
+      ],
+      [
+        166973,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "genji",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        172486,
+        0,
+        "symmetra",
+        "DEZZA",
+        "hanzo",
+        "LASTENTITY",
+        [
+        ]
+      ],
+      [
+        174991,
+        1,
+        "winston",
+        "ROBUJANAI",
+        "junkrat",
+        "RAKHASHI",
+        [
+        ]
+      ],
+      [
+        186017,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "winston",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        203056,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "dva_mech",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        203056,
+        1,
+        "dva",
+        "HAYBREAKER",
+        "symmetra",
+        "DEZZA",
+        [
+        ]
+      ],
+      [
+        203056,
+        1,
+        "hanzo",
+        "LASTENTITY",
+        "genji",
+        "RAY",
+        [
+        ]
+      ],
+      [
+        210070,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "lucio",
+        "CRYSISQ",
+        [
+        ]
+      ],
+      [
+        213577,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "genji",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        213577,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "dva",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        214579,
+        3,
+        "mercy",
+        "ICEWEASEL",
+        "genji",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        214579,
+        3,
+        "mercy",
+        "ICEWEASEL",
+        "dva",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        219590,
+        1,
+        "genji",
+        "BOOMKIN",
+        "s76",
+        "TRIGGERED",
+        [
+        ]
+      ],
+      [
+        220593,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "mercy",
+        "ICEWEASEL",
+        [
+        ]
+      ],
+      [
+        224101,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "winston",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        225604,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "dva",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        226105,
+        0,
+        "symmetra",
+        "DEZZA",
+        "dva_mech",
+        "HAYBREAKER",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        230616,
+        1,
+        "hanzo",
+        "LASTENTITY",
+        "symmetra_teleporter",
+        "DEZZA",
+        [
+        ]
+      ],
+      [
+        230616,
+        1,
+        "genji",
+        "BOOMKIN",
+        "junkrat",
+        "RAKHASHI",
+        [
+        ]
+      ],
+      [
+        231619,
+        0,
+        "genji",
+        "RAY",
+        "genji",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        298762,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "winston",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        308783,
+        1,
+        "pharah",
+        "CRYSISQ",
+        "s76",
+        "TRIGGERED",
+        [
+        ]
+      ],
+      [
+        308783,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "lucio",
+        "LASTENTITY",
+        [
+        ]
+      ],
+      [
+        313794,
+        0,
+        "symmetra",
+        "DEZZA",
+        "genji",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        321811,
+        1,
+        "junkrat",
+        "HAYBREAKER",
+        "reaper",
+        "ZCPILIEBACH",
+        [
+        ]
+      ],
+      [
+        337343,
+        1,
+        "junkrat",
+        "HAYBREAKER",
+        "junkrat",
+        "RAKHASHI",
+        [
+        ]
+      ],
+      [
+        337343,
+        1,
+        "pharah",
+        "CRYSISQ",
+        "reinhardt",
+        "MESSIX",
+        [
+        ]
+      ],
+      [
+        340852,
+        0,
+        "symmetra",
+        "DEZZA",
+        "winston",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        342856,
+        0,
+        "symmetra",
+        "DEZZA",
+        "pharah",
+        "CRYSISQ",
+        [
+        ]
+      ],
+      [
+        345361,
+        0,
+        "symmetra",
+        "DEZZA",
+        "tracer",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        352877,
+        1,
+        "junkrat",
+        "HAYBREAKER",
+        "genji",
+        "RAY",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        354381,
+        1,
+        "junkrat",
+        "HAYBREAKER",
+        "s76",
+        "TRIGGERED",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        366407,
+        1,
+        "junkrat",
+        "HAYBREAKER",
+        "symmetra_teleporter",
+        "DEZZA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        370916,
+        1,
+        "tracer",
+        "BOOMKIN",
+        "symmetra",
+        "DEZZA",
+        [
+        ]
+      ],
+      [
+        374423,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "tracer",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        377931,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "winston",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        378933,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "lucio",
+        "LASTENTITY",
+        [
+        ]
+      ],
+      [
+        390457,
+        1,
+        "junkrat",
+        "HAYBREAKER",
+        "genji",
+        "RAY",
+        [
+        ]
+      ],
+      [
+        395465,
+        1,
+        "junkrat",
+        "HAYBREAKER",
+        "s76",
+        "TRIGGERED",
+        [
+        ]
+      ],
+      [
+        398973,
+        0,
+        "symmetra",
+        "DEZZA",
+        "tracer",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        401478,
+        0,
+        "symmetra",
+        "DEZZA",
+        "mercy",
+        "ICEWEASEL",
+        [
+        ]
+      ],
+      [
+        401979,
+        1,
+        "pharah",
+        "CRYSISQ",
+        "reinhardt",
+        "MESSIX",
+        [
+        ]
+      ],
+      [
+        403983,
+        1,
+        "winston",
+        "ROBUJANAI",
+        "symmetra",
+        "DEZZA",
+        [
+        ]
+      ],
+      [
+        403983,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "pharah",
+        "CRYSISQ",
+        [
+        ]
+      ],
+      [
+        422025,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "winston",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        424530,
+        1,
+        "tracer",
+        "BOOMKIN",
+        "junkrat",
+        "RAKHASHI",
+        [
+        ]
+      ],
+      [
+        426533,
+        0,
+        "s76",
+        "TRIGGERED",
+        "roadhog",
+        "LASTENTITY",
+        [
+        ]
+      ],
+      [
+        430043,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "tracer",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        430043,
+        1,
+        null,
+        null,
+        "reinhardt",
+        "MESSIX",
+        [
+        ]
+      ],
+      [
+        432047,
+        1,
+        "pharah",
+        "CRYSISQ",
+        "reaper",
+        "ZCPILIEBACH",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        432548,
+        1,
+        "pharah",
+        "CRYSISQ",
+        "genji",
+        "RAY",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        439063,
+        1,
+        "pharah",
+        "CRYSISQ",
+        "s76",
+        "TRIGGERED",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        501708,
+        0,
+        "s76",
+        "TRIGGERED",
+        "tracer",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        505716,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "roadhog",
+        "LASTENTITY",
+        [
+        ]
+      ],
+      [
+        508723,
+        0,
+        "symmetra",
+        "DEZZA",
+        "winston",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        516240,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "lucio",
+        "CRYSISQ",
+        [
+        ]
+      ],
+      [
+        526762,
+        0,
+        "symmetra",
+        "DEZZA",
+        "tracer",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        530772,
+        1,
+        "junkrat",
+        "HAYBREAKER",
+        "s76",
+        "TRIGGERED",
+        [
+        ]
+      ],
+      [
+        542799,
+        1,
+        "dva",
+        "BOOMKIN",
+        "tracer",
+        "RAY",
+        [
+        ]
+      ],
+      [
+        544804,
+        1,
+        "lucio",
+        "CRYSISQ",
+        "symmetra",
+        "DEZZA",
+        [
+        ]
+      ],
+      [
+        547310,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "tracer",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        553825,
+        1,
+        "dva",
+        "BOOMKIN",
+        "junkrat",
+        "RAKHASHI",
+        [
+        ]
+      ],
+      [
+        553825,
+        1,
+        "roadhog",
+        "LASTENTITY",
+        "reinhardt",
+        "MESSIX",
+        [
+        ]
+      ],
+      [
+        557334,
+        1,
+        "lucio",
+        "CRYSISQ",
+        "reaper",
+        "ZCPILIEBACH",
+        [
+        ]
+      ],
+      [
+        566356,
+        1,
+        "tracer",
+        "ROBUJANAI",
+        "tracer",
+        "RAY",
+        [
+          "junkrat"
+        ]
+      ],
+      [
+        585899,
+        0,
+        "reinhardt",
+        "MESSIX",
+        "junkrat",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        589907,
+        1,
+        "tracer",
+        "ROBUJANAI",
+        "reinhardt",
+        "MESSIX",
+        [
+          "junkrat"
+        ]
+      ],
+      [
+        592413,
+        3,
+        "mercy",
+        "ICEWEASEL",
+        "junkrat",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        592914,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "lucio",
+        "CRYSISQ",
+        [
+          "reinhardt"
+        ]
+      ],
+      [
+        594917,
+        0,
+        "symmetra",
+        "DEZZA",
+        "tracer",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        594917,
+        0,
+        "tracer",
+        "RAY",
+        "roadhog",
+        "LASTENTITY",
+        [
+        ]
+      ],
+      [
+        595419,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "dva_mech",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        598426,
+        0,
+        "symmetra",
+        "DEZZA",
+        "junkrat",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        601934,
+        1,
+        "dva",
+        "BOOMKIN",
+        "reaper",
+        "ZCPILIEBACH",
+        [
+        ]
+      ],
+      [
+        601934,
+        0,
+        "symmetra",
+        "DEZZA",
+        "dva",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        624484,
+        1,
+        null,
+        null,
+        "s76",
+        "TRIGGERED",
+        [
+        ]
+      ],
+      [
+        624484,
+        1,
+        "lucio",
+        "CRYSISQ",
+        "junkrat",
+        "RAKHASHI",
+        [
+          "roadhog"
+        ]
+      ],
+      [
+        630497,
+        1,
+        "dva",
+        "BOOMKIN",
+        "reinhardt",
+        "MESSIX",
+        [
+        ]
+      ],
+      [
+        633503,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "dva_mech",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        637011,
+        0,
+        "symmetra",
+        "DEZZA",
+        "dva",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        641523,
+        0,
+        "symmetra",
+        "DEZZA",
+        "lucio",
+        "CRYSISQ",
+        [
+          "junkrat"
+        ]
+      ],
+      [
+        642024,
+        0,
+        "symmetra",
+        "DEZZA",
+        "roadhog",
+        "LASTENTITY",
+        [
+        ]
+      ],
+      [
+        646535,
+        0,
+        "s76",
+        "TRIGGERED",
+        "junkrat",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        650544,
+        1,
+        "mercy",
+        "ICEWEASEL",
+        "symmetra",
+        "DEZZA",
+        [
+        ]
+      ],
+      [
+        652548,
+        0,
+        "reaper",
+        "ZCPILIEBACH",
+        "pharah",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        659564,
+        0,
+        "tracer",
+        "RAY",
+        "mercy",
+        "ICEWEASEL",
+        [
+        ]
+      ],
+      [
+        665578,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "lucio",
+        "CRYSISQ",
+        [
+        ]
+      ],
+      [
+        678607,
+        0,
+        "s76",
+        "TRIGGERED",
+        "pharah",
+        "ROBUJANAI",
+        [
+        ]
+      ],
+      [
+        688628,
+        0,
+        "symmetra",
+        "DEZZA",
+        "reaper",
+        "HAYBREAKER",
+        [
+        ]
+      ],
+      [
+        688628,
+        0,
+        "junkrat",
+        "RAKHASHI",
+        "dva",
+        "BOOMKIN",
+        [
+        ]
+      ],
+      [
+        688628,
+        0,
+        "symmetra",
+        "DEZZA",
+        "dva_mech",
+        "BOOMKIN",
+        [
+          "junkrat"
+        ]
+      ],
+      [
+        691636,
+        0,
+        "symmetra",
+        "DEZZA",
+        "lucio",
+        "CRYSISQ",
+        [
+        ]
+      ],
+      [
+        691636,
+        0,
+        "s76",
+        "TRIGGERED",
+        "mercy",
+        "ICEWEASEL",
+        [
+        ]
+      ]
+    ],
+    "map": "Lijiang Tower",
+    "map_type": "Control",
+    "objective_stages": [
+      {
+        "end": 224101,
+        "end_score": [
+          0,
+          1
+        ],
+        "ownership": [
+          {
+            "end": 221094,
+            "owner": "red",
+            "start": 102326
+          }
+        ],
+        "round_winner": "red",
+        "stage": "Control Center (C)",
+        "start": 68316
+      },
+      {
+        "end": 432548,
+        "end_score": [
+          0,
+          2
+        ],
+        "ownership": [
+          {
+            "end": 421523,
+            "owner": "red",
+            "start": 313293
+          }
+        ],
+        "round_winner": "red",
+        "stage": "Garden (B)",
+        "start": 278783
+      },
+      {
+        "end": 723207,
+        "end_score": [
+          0,
+          3
+        ],
+        "ownership": [
+          {
+            "end": 561844,
+            "owner": "red",
+            "start": 516741
+          },
+          {
+            "end": 605441,
+            "owner": "blue",
+            "start": 561844
+          },
+          {
+            "end": 694142,
+            "owner": "red",
+            "start": 605441
+          },
+          {
+            "end": 721203,
+            "owner": "blue",
+            "start": 694142
+          }
+        ],
+        "round_winner": "red",
+        "stage": "Night Market (A)",
+        "start": 482732
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "ROBUJANAI",
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": null,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        168,
+        1124,
+        1124,
+        1124,
+        1662,
+        1662,
+        1662,
+        1662,
+        1662,
+        1662,
+        1760,
+        1760,
+        1760,
+        1760,
+        1760,
+        1794,
+        1794,
+        1794,
+        1794,
+        1794,
+        2004,
+        2004,
+        2004,
+        2212,
+        2212,
+        2212,
+        2212,
+        2212,
+        2212,
+        2212,
+        2212,
+        2227,
+        2227,
+        2227,
+        2429,
+        2429,
+        2429,
+        2412,
+        2412,
+        2412,
+        2112,
+        2112,
+        2112,
+        2202,
+        2202,
+        2202,
+        2202,
+        2202,
+        2202
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        10,
+        10,
+        10,
+        11,
+        11,
+        11,
+        12,
+        12,
+        12
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        6,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        10,
+        10,
+        10,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        12,
+        12,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14,
+        14
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "tracer",
+        "tracer",
+        "tracer",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "tracer"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        1800,
+        3321,
+        3321,
+        3321,
+        3546,
+        3546,
+        3546,
+        3546,
+        3546,
+        3546,
+        4146,
+        4146,
+        4146,
+        4146,
+        4146,
+        4608,
+        4627,
+        4627,
+        4627,
+        4627,
+        5227,
+        5227,
+        5227,
+        6367,
+        6367,
+        6367,
+        6367,
+        0,
+        0,
+        0,
+        0,
+        45,
+        45,
+        45,
+        33,
+        33,
+        33,
+        31,
+        31,
+        31,
+        34,
+        34,
+        0,
+        17,
+        17,
+        17,
+        13,
+        13,
+        34
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        2,
+        17,
+        17,
+        17,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        21,
+        21,
+        21,
+        21,
+        21,
+        22,
+        22,
+        22,
+        22,
+        22,
+        22,
+        22,
+        22,
+        24,
+        24,
+        24,
+        24,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        6,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        13,
+        26,
+        26,
+        26,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        31,
+        33,
+        33,
+        33,
+        33,
+        33,
+        35,
+        35,
+        35,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        41,
+        45,
+        45,
+        45,
+        50,
+        50,
+        50,
+        50,
+        50,
+        50
+      ],
+      "time": [
+        52215,
+        57725,
+        63237,
+        71256,
+        137406,
+        187018,
+        193534,
+        199046,
+        223099,
+        228612,
+        237130,
+        253162,
+        273203,
+        279719,
+        299262,
+        308281,
+        314295,
+        321310,
+        327323,
+        341353,
+        347865,
+        353879,
+        358890,
+        365406,
+        378432,
+        387952,
+        393462,
+        423027,
+        429542,
+        438060,
+        450091,
+        457106,
+        464123,
+        473646,
+        484168,
+        502710,
+        508723,
+        513735,
+        527765,
+        533276,
+        540294,
+        548313,
+        558335,
+        563347,
+        594917,
+        600931,
+        622480,
+        653550,
+        659063,
+        667082,
+        679609,
+        687627,
+        692638
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 422025,
+              "hero": "winston",
+              "start": 92804
+            },
+            {
+              "end": 594917,
+              "hero": "tracer",
+              "start": 501708
+            },
+            {
+              "end": 691636,
+              "hero": "pharah",
+              "start": 652548
+            }
+          ],
+          "name": "ROBUJANAI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 313794,
+              "hero": "genji",
+              "start": 83782
+            },
+            {
+              "end": 430043,
+              "hero": "tracer",
+              "start": 345361
+            },
+            {
+              "end": 508723,
+              "hero": "winston",
+              "start": 508723
+            },
+            {
+              "end": 691636,
+              "hero": "dva",
+              "start": 542799
+            }
+          ],
+          "name": "BOOMKIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 691636,
+              "hero": "mercy",
+              "start": 115355
+            }
+          ],
+          "name": "ICEWEASEL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 230616,
+              "hero": "hanzo",
+              "start": 172486
+            },
+            {
+              "end": 378933,
+              "hero": "lucio",
+              "start": 308783
+            },
+            {
+              "end": 691636,
+              "hero": "roadhog",
+              "start": 426533
+            }
+          ],
+          "name": "LASTENTITY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 210070,
+              "hero": "lucio",
+              "start": 112349
+            },
+            {
+              "end": 439063,
+              "hero": "pharah",
+              "start": 308783
+            },
+            {
+              "end": 691636,
+              "hero": "lucio",
+              "start": 516240
+            }
+          ],
+          "name": "CRYSISQ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 225604,
+              "hero": "dva",
+              "start": 124877
+            },
+            {
+              "end": 646535,
+              "hero": "junkrat",
+              "start": 321811
+            },
+            {
+              "end": 691636,
+              "hero": "reaper",
+              "start": 688628
+            }
+          ],
+          "name": "HAYBREAKER"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 691636,
+              "hero": "symmetra",
+              "start": 92804
+            }
+          ],
+          "name": "DEZZA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 691636,
+              "hero": "reinhardt",
+              "start": 112349
+            }
+          ],
+          "name": "MESSIX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 691636,
+              "hero": "junkrat",
+              "start": 115355
+            }
+          ],
+          "name": "RAKHASHI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 691636,
+              "hero": "s76",
+              "start": 126381
+            }
+          ],
+          "name": "TRIGGERED"
+        },
+        {
+          "heroes": [
+            {
+              "end": 432548,
+              "hero": "genji",
+              "start": 83782
+            },
+            {
+              "end": 691636,
+              "hero": "tracer",
+              "start": 542799
+            }
+          ],
+          "name": "RAY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 691636,
+              "hero": "reaper",
+              "start": 89296
+            }
+          ],
+          "name": "ZCPILIEBACH"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 724,
+    "end_sr": null,
+    "heroes_played": [
+      [
+        "winston",
+        0.7133437915747598
+      ],
+      [
+        "tracer",
+        0.2019617869725558
+      ],
+      [
+        "pharah",
+        0.0846944214526844
+      ]
+    ],
+    "key": "notrob-1514/2017-06-22-11-46-b75PAxo8mtqiLWxfvTLBoA",
+    "map": "Lijiang Tower",
+    "player_name": "ROBUJANAI",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": null,
+    "time": 1498131204,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-22-11-46-b75PAxo8mtqiLWxfvTLBoA/game.json",
+    "user_id": 2235147
+  }
+}

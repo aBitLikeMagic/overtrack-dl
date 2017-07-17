@@ -1,0 +1,2180 @@
+{
+  "data": {
+    "assists": [
+      [
+        132261,
+        "NOVA",
+        1,
+        0
+      ],
+      [
+        138774,
+        "SILVERWOLF",
+        0,
+        1
+      ],
+      [
+        154806,
+        "BIMIL2KO",
+        1,
+        0
+      ],
+      [
+        243991,
+        "SILVERWOLF",
+        0,
+        1
+      ],
+      [
+        248500,
+        "BIMIL2KO",
+        1,
+        1
+      ],
+      [
+        281060,
+        "PEKK",
+        1,
+        0
+      ],
+      [
+        291079,
+        "NOVA",
+        1,
+        1
+      ],
+      [
+        301600,
+        "SILVERWOLF",
+        1,
+        0
+      ],
+      [
+        334169,
+        "NOVA",
+        1,
+        1
+      ],
+      [
+        491488,
+        "MOSKITO",
+        1,
+        0
+      ],
+      [
+        502012,
+        "BIMIL2KO",
+        0,
+        1
+      ],
+      [
+        551615,
+        "VILL",
+        1,
+        0
+      ],
+      [
+        572155,
+        "NOVA",
+        1,
+        0
+      ],
+      [
+        578667,
+        "BIMIL2KO",
+        1,
+        0
+      ],
+      [
+        583678,
+        "VILL",
+        0,
+        1
+      ],
+      [
+        584679,
+        "MOSKITO",
+        1,
+        1
+      ],
+      [
+        666933,
+        "MOSKITO",
+        1,
+        0
+      ],
+      [
+        672946,
+        "NOVA",
+        1,
+        0
+      ],
+      [
+        729058,
+        "NOVA",
+        1,
+        1
+      ],
+      [
+        733067,
+        "PEKK",
+        0,
+        1
+      ],
+      [
+        826254,
+        "MOSKITO",
+        1,
+        0
+      ],
+      [
+        826755,
+        "SILVERWOLF",
+        1,
+        0
+      ],
+      [
+        827257,
+        "PEKK",
+        1,
+        0
+      ],
+      [
+        829261,
+        "NOVA",
+        1,
+        0
+      ]
+    ],
+    "custom_game": false,
+    "deaths": 8,
+    "end_sr": 2645,
+    "game_duration": 833,
+    "game_ended": 1498410673,
+    "game_started": 1498409797,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 2622,
+        "deaths": 7,
+        "elims": 16,
+        "healing": 6678,
+        "hero_stat_1": 19,
+        "hero_stat_2": 10,
+        "hero_stat_3": 6,
+        "hero_stat_5": 19,
+        "hero_stat_6": 833769,
+        "objective_kills": 11,
+        "objective_time": 64,
+        "tab_health": 0.5555555555555556,
+        "time_played": 740083
+      },
+      "lucio": {
+        "damage": 2622,
+        "deaths": 7,
+        "elims": 16,
+        "healing": 6678,
+        "hero_stat_1": 34,
+        "hero_stat_2": 6,
+        "hero_stat_3": 6,
+        "hero_stat_4": 2,
+        "hero_stat_5": 13,
+        "objective_kills": 11,
+        "objective_time": 64,
+        "tab_health": 0.5555555555555556,
+        "time_played": 740083
+      }
+    },
+    "key": "notrob-1514/2017-06-25-17-11-NAtdh4aizBgW4c3osV9TJH",
+    "killfeed": [
+      [
+        96190,
+        1,
+        "reaper",
+        "SEAN",
+        "tracer",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        102203,
+        0,
+        "lucio",
+        "NOVA",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        102705,
+        0,
+        "symmetra",
+        "VILL",
+        "mercy",
+        "CROFTY",
+        [
+        ]
+      ],
+      [
+        103206,
+        1,
+        "reaper",
+        "SEAN",
+        "genji",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        113224,
+        1,
+        "genji",
+        "BABY",
+        "ana",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        113725,
+        0,
+        "ana",
+        "BIMIL2KO",
+        "dva_mech",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        115729,
+        1,
+        "reaper",
+        "SEAN",
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        117231,
+        0,
+        "symmetra",
+        "VILL",
+        "dva",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        118233,
+        0,
+        "tracer",
+        "SILVERWOLF",
+        "winston",
+        "POETICOUTURE",
+        [
+          "ana"
+        ]
+      ],
+      [
+        118734,
+        1,
+        "reaper",
+        "SEAN",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        123243,
+        0,
+        "lucio",
+        "NOVA",
+        "reaper",
+        "SEAN",
+        [
+        ]
+      ],
+      [
+        132261,
+        1,
+        "lucio",
+        "NOTROB",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        138273,
+        1,
+        "genji",
+        "BABY",
+        "tracer",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        155307,
+        1,
+        "winston",
+        "POETICOUTURE",
+        "ana",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        159315,
+        0,
+        "winston",
+        "PEKK",
+        "mercy",
+        "CROFTY",
+        [
+        ]
+      ],
+      [
+        161320,
+        0,
+        "symmetra",
+        "VILL",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        163324,
+        1,
+        "genji",
+        "BABY",
+        "symmetra_shieldgen",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        171342,
+        1,
+        "genji",
+        "BABY",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        174850,
+        0,
+        "genji",
+        "MOSKITO",
+        "genji",
+        "BABY",
+        [
+        ]
+      ],
+      [
+        176854,
+        1,
+        "reaper",
+        "SEAN",
+        "genji",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        177355,
+        1,
+        "reaper",
+        "SEAN",
+        "tracer",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        177355,
+        1,
+        "reaper",
+        "SEAN",
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        179860,
+        1,
+        "reaper",
+        "SEAN",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        210424,
+        0,
+        "lucio",
+        "NOVA",
+        "reaper",
+        "SEAN",
+        [
+        ]
+      ],
+      [
+        211426,
+        0,
+        "tracer",
+        "SILVERWOLF",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        216936,
+        0,
+        "genji",
+        "MOSKITO",
+        "dva_mech",
+        "TECHNOSYNDRO",
+        [
+          "ana"
+        ]
+      ],
+      [
+        217437,
+        0,
+        "winston",
+        "PEKK",
+        "dva",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        221446,
+        3,
+        "mercy",
+        "CROFTY",
+        "dva",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        227459,
+        1,
+        "winston",
+        "POETICOUTURE",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        231466,
+        1,
+        "genji",
+        "BABY",
+        "genji",
+        "MOSKITO",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        231967,
+        0,
+        "symmetra",
+        "VILL",
+        "dva_mech",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        236477,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "winston",
+        "PEKK",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        238982,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        239483,
+        1,
+        "winston",
+        "POETICOUTURE",
+        "symmetra_shieldgen",
+        "VILL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        243490,
+        1,
+        "winston",
+        "POETICOUTURE",
+        "tracer",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        248500,
+        1,
+        "reaper",
+        "SEAN",
+        "ana",
+        "BIMIL2KO",
+        [
+          "genji",
+          "mercy"
+        ]
+      ],
+      [
+        273045,
+        1,
+        "reaper",
+        "SEAN",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        281060,
+        1,
+        "reaper",
+        "SEAN",
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        283064,
+        1,
+        "reaper",
+        "SEAN",
+        "ana",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        290578,
+        1,
+        "lucio",
+        "NOTROB",
+        "lucio",
+        "NOVA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        291079,
+        1,
+        "genji",
+        "BABY",
+        "reaper",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        301600,
+        1,
+        "lucio",
+        "NOTROB",
+        "tracer",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        332667,
+        1,
+        "genji",
+        "BABY",
+        "ana",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        333167,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        336173,
+        1,
+        "reaper",
+        "SEAN",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        336173,
+        0,
+        "symmetra",
+        "VILL",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        337675,
+        1,
+        "reaper",
+        "SEAN",
+        "symmetra_teleporter",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        341685,
+        1,
+        "reaper",
+        "SEAN",
+        "reaper",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        342186,
+        3,
+        "mercy",
+        "CROFTY",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        343689,
+        1,
+        "genji",
+        "BABY",
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        417839,
+        0,
+        "hanzo",
+        "SILVERWOLF",
+        "winston",
+        "POETICOUTURE",
+        [
+          "ana"
+        ]
+      ],
+      [
+        418841,
+        1,
+        "genji",
+        "BABY",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        424352,
+        0,
+        "reaper",
+        "MOSKITO",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        428360,
+        1,
+        "s76",
+        "SEAN",
+        "reaper",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        431365,
+        1,
+        "s76",
+        "SEAN",
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        434369,
+        1,
+        "genji",
+        "BABY",
+        "symmetra",
+        "VILL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        441382,
+        1,
+        "s76",
+        "SEAN",
+        "hanzo",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        469943,
+        1,
+        null,
+        null,
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        471946,
+        1,
+        "s76",
+        "SEAN",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        484974,
+        1,
+        "s76",
+        "SEAN",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        489484,
+        1,
+        "genji",
+        "BABY",
+        "hanzo",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        491488,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "reaper",
+        "MOSKITO",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        501511,
+        1,
+        "s76",
+        "SEAN",
+        "ana",
+        "BIMIL2KO",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        504517,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "symmetra_teleporter",
+        "VILL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        506522,
+        1,
+        "genji",
+        "BABY",
+        "symmetra",
+        "VILL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        508526,
+        0,
+        "hanzo",
+        "SILVERWOLF",
+        "genji",
+        "BABY",
+        [
+        ]
+      ],
+      [
+        510530,
+        1,
+        "winston",
+        "POETICOUTURE",
+        "hanzo",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        516042,
+        3,
+        "mercy",
+        "CROFTY",
+        "genji",
+        "BABY",
+        [
+        ]
+      ],
+      [
+        523558,
+        1,
+        "genji",
+        "BABY",
+        "ana",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        524059,
+        0,
+        "zarya",
+        "NOVA",
+        "genji",
+        "BABY",
+        [
+          "ana"
+        ]
+      ],
+      [
+        531074,
+        0,
+        "zarya",
+        "NOVA",
+        "dva_mech",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        533077,
+        0,
+        "zarya",
+        "NOVA",
+        "dva",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        549611,
+        1,
+        "s76",
+        "SEAN",
+        "lucio",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        550613,
+        0,
+        "lucio",
+        "MOSKITO",
+        "s76",
+        "SEAN",
+        [
+        ]
+      ],
+      [
+        551615,
+        1,
+        "lucio",
+        "NOTROB",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        560131,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "hanzo",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        565141,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        565141,
+        0,
+        "zarya",
+        "NOVA",
+        "mercy",
+        "CROFTY",
+        [
+        ]
+      ],
+      [
+        572155,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "zarya",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        578667,
+        1,
+        "s76",
+        "SEAN",
+        "tracer",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        581674,
+        0,
+        "torb",
+        "SILVERWOLF",
+        "dva_mech",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        583678,
+        1,
+        "winston",
+        "POETICOUTURE",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        584679,
+        1,
+        "lucio",
+        "NOTROB",
+        "lucio",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        587685,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "symmetra_teleporter",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        590691,
+        0,
+        "winston",
+        "PEKK",
+        "dva",
+        "TECHNOSYNDRO",
+        [
+        ]
+      ],
+      [
+        656915,
+        1,
+        "genji",
+        "BABY",
+        "symmetra",
+        "VILL",
+        [
+        ]
+      ],
+      [
+        660422,
+        1,
+        "lucio",
+        "NOTROB",
+        "torb_turret",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        662926,
+        1,
+        "winston",
+        "POETICOUTURE",
+        "torb",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        663427,
+        1,
+        "genji",
+        "BABY",
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        666933,
+        1,
+        "pharah",
+        "SEAN",
+        "lucio",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        670439,
+        1,
+        "genji",
+        "BABY",
+        "s76",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        672946,
+        1,
+        "pharah",
+        "SEAN",
+        "zarya",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        685971,
+        1,
+        null,
+        null,
+        "torb",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        686472,
+        1,
+        "pharah",
+        "SEAN",
+        "symmetra",
+        "VILL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        723046,
+        1,
+        "genji",
+        "BABY",
+        "zenyatta",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        723547,
+        0,
+        "torb",
+        "SILVERWOLF",
+        "genji",
+        "BABY",
+        [
+          "zarya",
+          "zenyatta"
+        ]
+      ],
+      [
+        729058,
+        1,
+        "winston",
+        "POETICOUTURE",
+        "zarya",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        732566,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "s76",
+        "PEKK",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        734569,
+        1,
+        "pharah",
+        "SEAN",
+        "symmetra",
+        "VILL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        739579,
+        0,
+        "torb",
+        "SILVERWOLF",
+        "lucio",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        752103,
+        0,
+        "torb",
+        "SILVERWOLF",
+        "pharah",
+        "SEAN",
+        [
+        ]
+      ],
+      [
+        769637,
+        0,
+        "lucio",
+        "MOSKITO",
+        "winston",
+        "POETICOUTURE",
+        [
+        ]
+      ],
+      [
+        772142,
+        1,
+        "dva",
+        "TECHNOSYNDRO",
+        "lucio",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        777153,
+        3,
+        "mercy",
+        "CROFTY",
+        "winston",
+        "POETICOUTURE",
+        [
+        ]
+      ],
+      [
+        778656,
+        0,
+        "symmetra",
+        "VILL",
+        "lucio",
+        "NOTROB",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        779658,
+        1,
+        "pharah",
+        "SEAN",
+        "symmetra",
+        "VILL",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        782164,
+        1,
+        "pharah",
+        "SEAN",
+        "s76",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        783667,
+        1,
+        "genji",
+        "BABY",
+        "torb_turret",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        784670,
+        1,
+        "pharah",
+        "SEAN",
+        "zarya",
+        "NOVA",
+        [
+        ]
+      ],
+      [
+        788677,
+        1,
+        "pharah",
+        "SEAN",
+        "torb_turret",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        788677,
+        1,
+        "genji",
+        "BABY",
+        "zenyatta",
+        "BIMIL2KO",
+        [
+        ]
+      ],
+      [
+        797192,
+        1,
+        null,
+        null,
+        "torb",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        799697,
+        1,
+        "genji",
+        "BABY",
+        "lucio",
+        "MOSKITO",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        825251,
+        0,
+        "genji",
+        "MOSKITO",
+        "genji",
+        "BABY",
+        [
+        ]
+      ],
+      [
+        826254,
+        1,
+        "reaper",
+        "SEAN",
+        "genji",
+        "MOSKITO",
+        [
+        ]
+      ],
+      [
+        826755,
+        1,
+        "reaper",
+        "SEAN",
+        "tracer",
+        "SILVERWOLF",
+        [
+        ]
+      ],
+      [
+        826755,
+        1,
+        "reaper",
+        "SEAN",
+        "winston",
+        "PEKK",
+        [
+        ]
+      ],
+      [
+        829261,
+        1,
+        "reaper",
+        "SEAN",
+        "lucio",
+        "NOVA",
+        [
+        ]
+      ]
+    ],
+    "map": "Ilios",
+    "map_type": "Control",
+    "objective_stages": [
+      {
+        "end": 343189,
+        "end_score": [
+          1,
+          0
+        ],
+        "ownership": [
+          {
+            "end": 335672,
+            "owner": "blue",
+            "start": 182366
+          }
+        ],
+        "round_winner": "blue",
+        "stage": "Lighthouse (A)",
+        "start": 68695
+      },
+      {
+        "end": 586182,
+        "end_score": [
+          2,
+          0
+        ],
+        "ownership": [
+          {
+            "end": 584179,
+            "owner": "blue",
+            "start": 437376
+          }
+        ],
+        "round_winner": "blue",
+        "stage": "Well (B)",
+        "start": 393350
+      },
+      {
+        "end": 803204,
+        "end_score": [
+          3,
+          0
+        ],
+        "ownership": [
+          {
+            "end": 801201,
+            "owner": "blue",
+            "start": 674449
+          }
+        ],
+        "round_winner": "blue",
+        "stage": "Ruins (C)",
+        "start": 634429
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2623,
+    "tab_statistics": {
+      "damage": [
+        0,
+        201,
+        201,
+        201,
+        119,
+        986,
+        986,
+        986,
+        986,
+        1146,
+        1146,
+        1146,
+        1146,
+        1171,
+        1626,
+        1626,
+        1626,
+        1819,
+        1819,
+        1819,
+        1819,
+        1819,
+        2286,
+        2748,
+        2748,
+        2488,
+        2488,
+        2488,
+        2488,
+        2622,
+        2622,
+        2622,
+        2622
+      ],
+      "deaths": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        9,
+        13,
+        13,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16
+      ],
+      "healing": [
+        0,
+        166,
+        166,
+        166,
+        772,
+        1198,
+        1198,
+        1191,
+        1191,
+        1249,
+        1249,
+        1249,
+        1249,
+        1472,
+        2462,
+        2462,
+        2462,
+        2928,
+        2928,
+        2921,
+        2921,
+        2946,
+        2181,
+        4121,
+        4121,
+        6112,
+        6112,
+        6112,
+        6112,
+        6678,
+        6678,
+        6671,
+        6678
+      ],
+      "hero": [
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio"
+      ],
+      "hero_stat_1": [
+        0,
+        38,
+        38,
+        38,
+        32,
+        42,
+        42,
+        42,
+        42,
+        35,
+        35,
+        35,
+        35,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        32,
+        34,
+        35,
+        35,
+        33,
+        33,
+        33,
+        33,
+        34,
+        34,
+        34,
+        34
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        1,
+        1,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        6,
+        6,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        8,
+        8,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        10,
+        10,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11
+      ],
+      "objective_time": [
+        0,
+        1,
+        1,
+        1,
+        9,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        19,
+        33,
+        34,
+        34,
+        34,
+        34,
+        34,
+        34,
+        34,
+        34,
+        55,
+        55,
+        60,
+        60,
+        60,
+        60,
+        64,
+        64,
+        64,
+        64
+      ],
+      "time": [
+        67131,
+        102203,
+        116731,
+        122241,
+        141279,
+        161821,
+        167835,
+        173347,
+        185872,
+        212427,
+        218439,
+        223952,
+        229462,
+        254010,
+        337175,
+        350204,
+        366234,
+        424853,
+        431365,
+        438378,
+        443888,
+        457917,
+        526064,
+        605722,
+        623852,
+        738578,
+        744086,
+        751100,
+        756112,
+        779157,
+        786172,
+        796692,
+        807214
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 829261,
+              "hero": "lucio",
+              "start": 102203
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 829261,
+              "hero": "mercy",
+              "start": 102705
+            }
+          ],
+          "name": "CROFTY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 829261,
+              "hero": "dva",
+              "start": 117231
+            }
+          ],
+          "name": "TECHNOSYNDRO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 829261,
+              "hero": "genji",
+              "start": 113224
+            }
+          ],
+          "name": "BABY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 829261,
+              "hero": "winston",
+              "start": 118233
+            }
+          ],
+          "name": "POETICOUTURE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 341685,
+              "hero": "reaper",
+              "start": 96190
+            },
+            {
+              "end": 578667,
+              "hero": "s76",
+              "start": 428360
+            },
+            {
+              "end": 788677,
+              "hero": "pharah",
+              "start": 666933
+            },
+            {
+              "end": 829261,
+              "hero": "reaper",
+              "start": 826254
+            }
+          ],
+          "name": "SEAN"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 301600,
+              "hero": "tracer",
+              "start": 96190
+            },
+            {
+              "end": 560131,
+              "hero": "hanzo",
+              "start": 417839
+            },
+            {
+              "end": 797192,
+              "hero": "torb",
+              "start": 581674
+            },
+            {
+              "end": 829261,
+              "hero": "tracer",
+              "start": 826755
+            }
+          ],
+          "name": "SILVERWOLF"
+        },
+        {
+          "heroes": [
+            {
+              "end": 663427,
+              "hero": "winston",
+              "start": 115729
+            },
+            {
+              "end": 782164,
+              "hero": "s76",
+              "start": 732566
+            },
+            {
+              "end": 829261,
+              "hero": "winston",
+              "start": 826755
+            }
+          ],
+          "name": "PEKK"
+        },
+        {
+          "heroes": [
+            {
+              "end": 484974,
+              "hero": "lucio",
+              "start": 102203
+            },
+            {
+              "end": 784670,
+              "hero": "zarya",
+              "start": 524059
+            },
+            {
+              "end": 829261,
+              "hero": "lucio",
+              "start": 829261
+            }
+          ],
+          "name": "NOVA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 829261,
+              "hero": "symmetra",
+              "start": 102705
+            }
+          ],
+          "name": "VILL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 523558,
+              "hero": "ana",
+              "start": 113224
+            },
+            {
+              "end": 578667,
+              "hero": "tracer",
+              "start": 578667
+            },
+            {
+              "end": 670439,
+              "hero": "s76",
+              "start": 670439
+            },
+            {
+              "end": 829261,
+              "hero": "zenyatta",
+              "start": 723046
+            }
+          ],
+          "name": "BIMIL2KO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 231466,
+              "hero": "genji",
+              "start": 103206
+            },
+            {
+              "end": 491488,
+              "hero": "reaper",
+              "start": 291079
+            },
+            {
+              "end": 799697,
+              "hero": "lucio",
+              "start": 549611
+            },
+            {
+              "end": 829261,
+              "hero": "genji",
+              "start": 825251
+            }
+          ],
+          "name": "MOSKITO"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 833,
+    "end_sr": 2645,
+    "heroes_played": [
+      [
+        "lucio",
+        1
+      ]
+    ],
+    "key": "notrob-1514/2017-06-25-17-11-NAtdh4aizBgW4c3osV9TJH",
+    "map": "Ilios",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2623,
+    "time": 1498409797,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-25-17-11-NAtdh4aizBgW4c3osV9TJH/game.json",
+    "user_id": 2235147
+  }
+}

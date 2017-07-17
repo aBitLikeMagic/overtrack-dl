@@ -1,0 +1,1144 @@
+{
+  "data": {
+    "assists": [
+      [
+        222252,
+        "MANGO",
+        0,
+        1
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 5,
+    "end_sr": 2642,
+    "game_duration": 541,
+    "game_ended": 1500011722,
+    "game_started": 1500011159,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 170,
+        "deaths": 5,
+        "elims": 0,
+        "healing": 3205,
+        "hero_stat_1": 0,
+        "hero_stat_2": 1,
+        "hero_stat_3": 2,
+        "hero_stat_5": 0,
+        "hero_stat_6": 541809,
+        "objective_kills": 0,
+        "objective_time": 9,
+        "tab_health": 0.6111111111111112,
+        "time_played": 483436
+      },
+      "mercy": {
+        "damage": 170,
+        "deaths": 5,
+        "elims": 0,
+        "healing": 3205,
+        "hero_stat_1": 1,
+        "hero_stat_2": 0,
+        "hero_stat_3": 2,
+        "hero_stat_4": 68,
+        "hero_stat_5": 2,
+        "objective_kills": 0,
+        "objective_time": 9,
+        "tab_health": 0.6111111111111112,
+        "time_played": 483436
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-14-05-55-GNsH82SMhmQjLcR4oVELdM",
+    "killfeed": [
+      [
+        108704,
+        1,
+        "lucio",
+        "CALUM",
+        "torb_turret",
+        "RICKEDWARDS",
+        [
+        ],
+        null
+      ],
+      [
+        123250,
+        0,
+        "reinhardt",
+        "MANGO",
+        "mercy",
+        "MAGOO",
+        [
+          "mercy"
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        126210,
+        1,
+        "dva",
+        "SKILL3R",
+        "mercy",
+        "GAMINDONUT",
+        [
+        ],
+        null
+      ],
+      [
+        127748,
+        1,
+        "genji",
+        "SWANKYTIGER",
+        "torb_turret",
+        "RICKEDWARDS",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        128295,
+        0,
+        "reinhardt",
+        "MANGO",
+        "winston",
+        "BGYNG",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        133057,
+        1,
+        "genji",
+        "SWANKYTIGER",
+        "torb",
+        "RICKEDWARDS",
+        [
+        ],
+        null
+      ],
+      [
+        133512,
+        0,
+        "winston",
+        "ANABALLECTER",
+        "genji",
+        "SWANKYTIGER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        136273,
+        0,
+        "reinhardt",
+        "MANGO",
+        "tracer",
+        "KORZAN757",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        171557,
+        1,
+        "winston",
+        "BGYNG",
+        "torb_turret",
+        "RICKEDWARDS",
+        [
+        ],
+        null
+      ],
+      [
+        195621,
+        1,
+        "tracer",
+        "KORZAN757",
+        "torb_turret",
+        "RICKEDWARDS",
+        [
+        ],
+        null
+      ],
+      [
+        199978,
+        1,
+        "winston",
+        "BGYNG",
+        "torb",
+        "RICKEDWARDS",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        205375,
+        0,
+        "s76",
+        "MELVIN",
+        "dva",
+        "SKILL3R",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        214442,
+        0,
+        "reinhardt",
+        "MANGO",
+        "winston",
+        "BGYNG",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        215010,
+        0,
+        "zenyatta",
+        "BRIGID",
+        "lucio",
+        "CALUM",
+        [
+        ],
+        null
+      ],
+      [
+        215010,
+        0,
+        "reinhardt",
+        "MANGO",
+        "tracer",
+        "KORZAN757",
+        [
+        ],
+        null
+      ],
+      [
+        216462,
+        3,
+        "mercy",
+        "MAGOO",
+        "winston",
+        "BGYNG",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        216462,
+        3,
+        "mercy",
+        "MAGOO",
+        "tracer",
+        "KORZAN757",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        217367,
+        0,
+        "s76",
+        "MELVIN",
+        "genji",
+        "SWANKYTIGER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        221420,
+        1,
+        "tracer",
+        "KORZAN757",
+        "reinhardt",
+        "MANGO",
+        [
+        ],
+        null
+      ],
+      [
+        225603,
+        1,
+        "winston",
+        "BGYNG",
+        "zenyatta",
+        "BRIGID",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        227208,
+        0,
+        null,
+        null,
+        "winston",
+        "BGYNG",
+        [
+        ],
+        null
+      ],
+      [
+        229576,
+        0,
+        "s76",
+        "MELVIN",
+        "tracer",
+        "KORZAN757",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        229576,
+        2,
+        "mercy",
+        "GAMINDONUT",
+        "zenyatta",
+        "BRIGID",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        229576,
+        2,
+        "mercy",
+        "GAMINDONUT",
+        "reinhardt",
+        "MANGO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        230337,
+        0,
+        "mercy",
+        "GAMINDONUT",
+        "mercy",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        236257,
+        0,
+        "reinhardt",
+        "MANGO",
+        "dva_mech",
+        "SKILL3R",
+        [
+          "zenyatta"
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        237104,
+        0,
+        "winston",
+        "ANABALLECTER",
+        "dva",
+        "SKILL3R",
+        [
+        ],
+        null
+      ],
+      [
+        242798,
+        0,
+        "winston",
+        "ANABALLECTER",
+        "lucio",
+        "CALUM",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        247490,
+        0,
+        "s76",
+        "MELVIN",
+        "genji",
+        "SWANKYTIGER",
+        [
+        ],
+        null
+      ],
+      [
+        278125,
+        0,
+        "winston",
+        "ANABALLECTER",
+        "mercy",
+        "MAGOO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        284221,
+        1,
+        "winston",
+        "BGYNG",
+        "mercy",
+        "GAMINDONUT",
+        [
+        ],
+        null
+      ],
+      [
+        284950,
+        0,
+        "reinhardt",
+        "MANGO",
+        "winston",
+        "BGYNG",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        288021,
+        0,
+        "torb",
+        "RICKEDWARDS",
+        "lucio",
+        "CALUM",
+        [
+        ],
+        [
+          "torb",
+          "turret"
+        ]
+      ],
+      [
+        288021,
+        0,
+        "s76",
+        "MELVIN",
+        "tracer",
+        "KORZAN757",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        295342,
+        0,
+        "winston",
+        "ANABALLECTER",
+        "reinhardt",
+        "SKILL3R",
+        [
+        ],
+        null
+      ],
+      [
+        312375,
+        0,
+        "s76",
+        "MELVIN",
+        "winston",
+        "BGYNG",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        324142,
+        0,
+        "torb",
+        "RICKEDWARDS",
+        "genji",
+        "SWANKYTIGER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        324142,
+        0,
+        "s76",
+        "MELVIN",
+        "tracer",
+        "KORZAN757",
+        [
+        ],
+        null
+      ],
+      [
+        324142,
+        0,
+        "winston",
+        "ANABALLECTER",
+        "mercy",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        332130,
+        0,
+        "winston",
+        "ANABALLECTER",
+        "reinhardt",
+        "SKILL3R",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        334561,
+        0,
+        "s76",
+        "MELVIN",
+        "lucio",
+        "CALUM",
+        [
+          "zenyatta"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        339639,
+        0,
+        "winston",
+        "ANABALLECTER",
+        "winston",
+        "BGYNG",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        472286,
+        0,
+        "widowmaker",
+        "MELVIN",
+        "mercy",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        477379,
+        0,
+        "widowmaker",
+        "MELVIN",
+        "ana",
+        "KORZAN757",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        484971,
+        0,
+        "hanzo",
+        "RICKEDWARDS",
+        "orisa",
+        "BGYNG",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        486484,
+        0,
+        "widowmaker",
+        "MELVIN",
+        "junkrat",
+        "SWANKYTIGER",
+        [
+        ],
+        null
+      ],
+      [
+        489017,
+        0,
+        "hanzo",
+        "RICKEDWARDS",
+        "symmetra",
+        "CALUM",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        496558,
+        0,
+        "dva",
+        "MANGO",
+        "reinhardt",
+        "SKILL3R",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Hanamura",
+    "map_type": "Assault",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 346401,
+        "end_score": 0,
+        "stage": "Attack",
+        "start": 54746
+      },
+      {
+        "checkpoints": [
+          [
+            500054,
+            1
+          ]
+        ],
+        "end": 504901,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 402434
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGOO",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2665,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170,
+        170
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        479,
+        479,
+        1925,
+        1925,
+        2309,
+        2751,
+        2751,
+        2945,
+        3203,
+        3203,
+        3205,
+        3205,
+        3205,
+        3205
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        33,
+        33,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68,
+        68
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "time": [
+        53761,
+        59478,
+        67177,
+        124763,
+        134563,
+        231506,
+        238280,
+        267377,
+        280727,
+        289419,
+        309354,
+        332723,
+        348280,
+        474328,
+        494534,
+        502930,
+        537197
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 496558,
+              "hero": "mercy",
+              "start": 123250
+            }
+          ],
+          "name": "MAGOO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 324142,
+              "hero": "tracer",
+              "start": 136273
+            },
+            {
+              "end": 496558,
+              "hero": "ana",
+              "start": 477379
+            }
+          ],
+          "name": "KORZAN757"
+        },
+        {
+          "heroes": [
+            {
+              "end": 324142,
+              "hero": "genji",
+              "start": 127748
+            },
+            {
+              "end": 496558,
+              "hero": "junkrat",
+              "start": 486484
+            }
+          ],
+          "name": "SWANKYTIGER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 334561,
+              "hero": "lucio",
+              "start": 108704
+            },
+            {
+              "end": 496558,
+              "hero": "symmetra",
+              "start": 489017
+            }
+          ],
+          "name": "CALUM"
+        },
+        {
+          "heroes": [
+            {
+              "end": 339639,
+              "hero": "winston",
+              "start": 128295
+            },
+            {
+              "end": 496558,
+              "hero": "orisa",
+              "start": 484971
+            }
+          ],
+          "name": "BGYNG"
+        },
+        {
+          "heroes": [
+            {
+              "end": 237104,
+              "hero": "dva",
+              "start": 126210
+            },
+            {
+              "end": 496558,
+              "hero": "reinhardt",
+              "start": 295342
+            }
+          ],
+          "name": "SKILL3R"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 334561,
+              "hero": "s76",
+              "start": 205375
+            },
+            {
+              "end": 496558,
+              "hero": "widowmaker",
+              "start": 472286
+            }
+          ],
+          "name": "MELVIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 496558,
+              "hero": "winston",
+              "start": 133512
+            }
+          ],
+          "name": "ANABALLECTER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 284950,
+              "hero": "reinhardt",
+              "start": 123250
+            },
+            {
+              "end": 496558,
+              "hero": "dva",
+              "start": 496558
+            }
+          ],
+          "name": "MANGO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 496558,
+              "hero": "mercy",
+              "start": 126210
+            }
+          ],
+          "name": "GAMINDONUT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 496558,
+              "hero": "zenyatta",
+              "start": 215010
+            }
+          ],
+          "name": "BRIGID"
+        },
+        {
+          "heroes": [
+            {
+              "end": 324142,
+              "hero": "torb",
+              "start": 133057
+            },
+            {
+              "end": 496558,
+              "hero": "hanzo",
+              "start": 484971
+            }
+          ],
+          "name": "RICKEDWARDS"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 541,
+    "end_sr": 2642,
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-14-05-55-GNsH82SMhmQjLcR4oVELdM",
+    "map": "Hanamura",
+    "player_name": "MAGOO",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2665,
+    "time": 1500011159,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-14-05-55-GNsH82SMhmQjLcR4oVELdM/game.json",
+    "user_id": 151467
+  }
+}

@@ -1,0 +1,973 @@
+{
+  "data": {
+    "assists": [
+      [
+        150837,
+        "SINGER",
+        0,
+        1
+      ],
+      [
+        297385,
+        "BLAKIDS",
+        0,
+        1
+      ],
+      [
+        300202,
+        "FROSTYICE",
+        0,
+        1
+      ],
+      [
+        498675,
+        "POSETO",
+        0,
+        1
+      ],
+      [
+        724048,
+        "POISSONDIST",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      235,
+      2353
+    ],
+    "custom_game": false,
+    "deaths": 10,
+    "end_sr": 2314,
+    "game_duration": 816,
+    "game_ended": 1499325700,
+    "game_started": 1499324884,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 896,
+        "deaths": 12,
+        "elims": 1,
+        "healing": 1447,
+        "hero_stat_1": 1,
+        "hero_stat_2": 4,
+        "hero_stat_3": 1,
+        "hero_stat_5": 1,
+        "hero_stat_6": 816320,
+        "objective_kills": 0,
+        "objective_time": 38,
+        "tab_health": 0.3333333333333333,
+        "time_played": 735037
+      },
+      "mei": {
+        "damage": 0,
+        "deaths": 0,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.3333333333333333,
+        "time_played": 11854
+      },
+      "mercy": {
+        "damage": 20,
+        "deaths": 10,
+        "elims": 0,
+        "healing": 1172,
+        "hero_stat_1": 7,
+        "hero_stat_2": 0,
+        "hero_stat_3": 11,
+        "hero_stat_4": 228,
+        "hero_stat_5": 2,
+        "objective_kills": 0,
+        "objective_time": 15,
+        "tab_health": 0.3333333333333333,
+        "time_played": 513245
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        0.991433792607255
+      ],
+      [
+        "mei",
+        0.00856620739274507
+      ]
+    ],
+    "key": "Magic-11407/2017-07-06-07-21-S9J2NCsK4wcxCsksfPS4HB",
+    "killfeed": [
+      [
+        149836,
+        1,
+        "s76",
+        "EPIKSOL",
+        "zenyatta",
+        "BLAKIDS",
+        [
+        ],
+        null
+      ],
+      [
+        149836,
+        0,
+        null,
+        null,
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        150347,
+        0,
+        "pharah",
+        "ASTROZOMBIE",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        150347,
+        0,
+        "pharah",
+        "ASTROZOMBIE",
+        "zenyatta",
+        "MISSTINU",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        150347,
+        1,
+        "s76",
+        "EPIKSOL",
+        "pharah",
+        "ASTROZOMBIE",
+        [
+        ],
+        null
+      ],
+      [
+        150837,
+        1,
+        "reinhardt",
+        "WIDOWMATRIX",
+        "winston",
+        "SINGER",
+        [
+        ],
+        null
+      ],
+      [
+        155354,
+        1,
+        "winston",
+        "MAYORWEST",
+        "dva",
+        "POSETO",
+        [
+        ],
+        null
+      ],
+      [
+        177473,
+        0,
+        "winston",
+        "SINGER",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        181756,
+        0,
+        "winston",
+        "SINGER",
+        "reinhardt",
+        "WIDOWMATRIX",
+        [
+        ],
+        null
+      ],
+      [
+        183897,
+        0,
+        "winston",
+        "SINGER",
+        "pharah",
+        "GHOSTDOGGO",
+        [
+        ],
+        null
+      ],
+      [
+        209249,
+        0,
+        "dva",
+        "POSETO",
+        "winston",
+        "MAYORWEST",
+        [
+        ],
+        null
+      ],
+      [
+        209249,
+        0,
+        "winston",
+        "SINGER",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        210740,
+        0,
+        "pharah",
+        "ASTROZOMBIE",
+        "reinhardt",
+        "WIDOWMATRIX",
+        [
+        ],
+        null
+      ],
+      [
+        243014,
+        0,
+        "s76",
+        "POISSONDIST",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        243014,
+        1,
+        "pharah",
+        "GHOSTDOGGO",
+        "winston",
+        "SINGER",
+        [
+        ],
+        null
+      ],
+      [
+        243014,
+        0,
+        "zenyatta",
+        "BLAKIDS",
+        "s76",
+        "EPIKSOL",
+        [
+        ],
+        null
+      ],
+      [
+        244086,
+        0,
+        "s76",
+        "POISSONDIST",
+        "pharah",
+        "GHOSTDOGGO",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        244086,
+        0,
+        "lucio",
+        "FROSTYICE",
+        "winston",
+        "MAYORWEST",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        260276,
+        0,
+        "dva",
+        "POSETO",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        326986,
+        0,
+        "winston",
+        "SINGER",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        326986,
+        1,
+        "pharah",
+        "GHOSTDOGGO",
+        "zenyatta",
+        "BLAKIDS",
+        [
+        ],
+        null
+      ],
+      [
+        330300,
+        0,
+        "pharah",
+        "ASTROZOMBIE",
+        "s76",
+        "EPIKSOL",
+        [
+        ],
+        null
+      ],
+      [
+        331916,
+        1,
+        "reinhardt",
+        "WIDOWMATRIX",
+        "lucio",
+        "FROSTYICE",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        331916,
+        0,
+        "dva",
+        "POSETO",
+        "reinhardt",
+        "WIDOWMATRIX",
+        [
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        332390,
+        1,
+        "reinhardt",
+        "WIDOWMATRIX",
+        "dva",
+        "POSETO",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        333325,
+        1,
+        "reinhardt",
+        "WIDOWMATRIX",
+        "dva_mech",
+        "POSETO",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        429105,
+        0,
+        "winston",
+        "SINGER",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        429105,
+        0,
+        "dva",
+        "POSETO",
+        "s76",
+        "EPIKSOL",
+        [
+        ],
+        null
+      ],
+      [
+        433400,
+        0,
+        "winston",
+        "SINGER",
+        "zenyatta",
+        "MISSTINU",
+        [
+        ],
+        null
+      ],
+      [
+        435035,
+        0,
+        "s76",
+        "POISSONDIST",
+        "pharah",
+        "WIDOWMATRIX",
+        [
+        ],
+        null
+      ],
+      [
+        435543,
+        0,
+        "dva",
+        "POSETO",
+        "winston",
+        "MAYORWEST",
+        [
+        ],
+        null
+      ],
+      [
+        536488,
+        0,
+        "pharah",
+        "ASTROZOMBIE",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        536488,
+        0,
+        "winston",
+        "SINGER",
+        "s76",
+        "EPIKSOL",
+        [
+        ],
+        null
+      ],
+      [
+        537376,
+        0,
+        "s76",
+        "POISSONDIST",
+        "winston",
+        "MAYORWEST",
+        [
+        ],
+        null
+      ],
+      [
+        537376,
+        0,
+        "pharah",
+        "ASTROZOMBIE",
+        "dva",
+        "GHOSTDOGGO",
+        [
+        ],
+        null
+      ],
+      [
+        729234,
+        1,
+        "mei",
+        "MIGHT",
+        "widowmaker",
+        "POISSONDIST",
+        [
+        ],
+        null
+      ],
+      [
+        729234,
+        0,
+        "dva",
+        "POSETO",
+        "mei",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        729234,
+        0,
+        "lucio",
+        "FROSTYICE",
+        "ana",
+        "GHOSTDOGGO",
+        [
+        ],
+        null
+      ],
+      [
+        729234,
+        1,
+        "pharah",
+        "WIDOWMATRIX",
+        "winston",
+        "SINGER",
+        [
+        ],
+        null
+      ],
+      [
+        734306,
+        0,
+        "lucio",
+        "FROSTYICE",
+        "pharah",
+        "WIDOWMATRIX",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "UNKNOWN",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2336,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        896,
+        896,
+        896
+      ],
+      "deaths": [
+        0,
+        0,
+        1,
+        6,
+        6,
+        6,
+        6,
+        7,
+        8,
+        10,
+        12,
+        12,
+        12
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "healing": [
+        0,
+        928,
+        2992,
+        2026,
+        2026,
+        2026,
+        2026,
+        4187,
+        4668,
+        1172,
+        1447,
+        1447,
+        1447
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mei",
+        "mei",
+        "mei"
+      ],
+      "hero_stat_1": [
+        0,
+        1,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        2271,
+        2271,
+        2271
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        1,
+        9,
+        10,
+        10,
+        10,
+        10,
+        10,
+        11,
+        11,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_4": [
+        0,
+        11,
+        116,
+        116,
+        116,
+        116,
+        116,
+        116,
+        278,
+        228,
+        221,
+        221,
+        221
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        9,
+        12,
+        12,
+        12,
+        12,
+        15,
+        15,
+        15,
+        38,
+        38,
+        38
+      ],
+      "time": [
+        73777,
+        107388,
+        317987,
+        344114,
+        349510,
+        361363,
+        393325,
+        453888,
+        512654,
+        587022,
+        796960,
+        802709,
+        808814
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 536488,
+              "hero": "mercy",
+              "start": 149836
+            },
+            {
+              "end": 734306,
+              "hero": "mei",
+              "start": 729234
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 326986,
+              "hero": "pharah",
+              "start": 183897
+            },
+            {
+              "end": 537376,
+              "hero": "dva",
+              "start": 537376
+            },
+            {
+              "end": 734306,
+              "hero": "ana",
+              "start": 729234
+            }
+          ],
+          "name": "GHOSTDOGGO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 734306,
+              "hero": "winston",
+              "start": 155354
+            }
+          ],
+          "name": "MAYORWEST"
+        },
+        {
+          "heroes": [
+            {
+              "end": 333325,
+              "hero": "reinhardt",
+              "start": 150837
+            },
+            {
+              "end": 734306,
+              "hero": "pharah",
+              "start": 435035
+            }
+          ],
+          "name": "WIDOWMATRIX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 734306,
+              "hero": "s76",
+              "start": 149836
+            }
+          ],
+          "name": "EPIKSOL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 734306,
+              "hero": "zenyatta",
+              "start": 150347
+            }
+          ],
+          "name": "MISSTINU"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 734306,
+              "hero": "lucio",
+              "start": 244086
+            }
+          ],
+          "name": "FROSTYICE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 734306,
+              "hero": "dva",
+              "start": 155354
+            }
+          ],
+          "name": "POSETO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 537376,
+              "hero": "s76",
+              "start": 243014
+            },
+            {
+              "end": 734306,
+              "hero": "widowmaker",
+              "start": 729234
+            }
+          ],
+          "name": "POISSONDIST"
+        },
+        {
+          "heroes": [
+            {
+              "end": 734306,
+              "hero": "winston",
+              "start": 150837
+            }
+          ],
+          "name": "SINGER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 734306,
+              "hero": "pharah",
+              "start": 150347
+            }
+          ],
+          "name": "ASTROZOMBIE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 734306,
+              "hero": "zenyatta",
+              "start": 149836
+            }
+          ],
+          "name": "BLAKIDS"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 816,
+    "end_sr": 2314,
+    "heroes_played": [
+      [
+        "mercy",
+        0.991433792607255
+      ],
+      [
+        "mei",
+        0.00856620739274507
+      ]
+    ],
+    "key": "Magic-11407/2017-07-06-07-21-S9J2NCsK4wcxCsksfPS4HB",
+    "map": "UNKNOWN",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": 2336,
+    "time": 1499324884,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-06-07-21-S9J2NCsK4wcxCsksfPS4HB/game.json",
+    "user_id": 151467
+  }
+}

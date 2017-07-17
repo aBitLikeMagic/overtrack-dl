@@ -1,0 +1,2973 @@
+{
+  "data": {
+    "assists": [
+      [
+        173367,
+        "WAVY",
+        1,
+        0
+      ],
+      [
+        265052,
+        "GATITO",
+        1,
+        0
+      ],
+      [
+        374265,
+        "TRACER",
+        0,
+        1
+      ],
+      [
+        383272,
+        "GATITO",
+        0,
+        1
+      ],
+      [
+        400809,
+        "ELCHAPOJR",
+        1,
+        0
+      ],
+      [
+        482468,
+        "WAVY",
+        1,
+        1
+      ],
+      [
+        505015,
+        "KIFNER",
+        1,
+        1
+      ],
+      [
+        506524,
+        "ELCHAPOJR",
+        1,
+        1
+      ],
+      [
+        829667,
+        "ILIKEBUTTS",
+        1,
+        0
+      ],
+      [
+        877265,
+        "WAVY",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 12,
+    "end_sr": 2601,
+    "game_duration": 884,
+    "game_ended": 1499578756,
+    "game_started": 1499577865,
+    "group_size": 3,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 3111,
+        "deaths": 11,
+        "elims": 7,
+        "healing": 2974,
+        "hero_stat_1": 8,
+        "hero_stat_2": 5,
+        "hero_stat_3": 2,
+        "hero_stat_5": 8,
+        "hero_stat_6": 884780,
+        "objective_kills": 3,
+        "objective_time": 24,
+        "tab_health": 0.7666666666666667,
+        "time_played": 836669
+      },
+      "junkrat": {
+        "damage": 350,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 9,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.7666666666666667,
+        "time_played": 90185
+      },
+      "lucio": {
+        "damage": 625,
+        "deaths": 5,
+        "elims": 2,
+        "healing": 1603,
+        "hero_stat_1": 21,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 3,
+        "objective_kills": 2,
+        "objective_time": 2,
+        "tab_health": 0.7666666666666667,
+        "time_played": 268046
+      },
+      "zarya": {
+        "damage": 285,
+        "deaths": 1,
+        "elims": 2,
+        "healing": 0,
+        "hero_stat_1": 776,
+        "hero_stat_2": 18,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 1,
+        "objective_kills": 1,
+        "objective_time": 11,
+        "tab_health": 0.7666666666666667,
+        "time_played": 100196
+      },
+      "zenyatta": {
+        "damage": 1791,
+        "deaths": 3,
+        "elims": 3,
+        "healing": 1216,
+        "hero_stat_1": 30,
+        "hero_stat_2": 3,
+        "hero_stat_3": 2,
+        "hero_stat_4": 188,
+        "hero_stat_5": 4,
+        "objective_kills": 0,
+        "objective_time": 11,
+        "tab_health": 0.7666666666666667,
+        "time_played": 307606
+      }
+    },
+    "heroes_played": [
+      [
+        "lucio",
+        0.38808109946526187
+      ],
+      [
+        "zenyatta",
+        0.38182138654565134
+      ],
+      [
+        "zarya",
+        0.11815378810071149
+      ],
+      [
+        "junkrat",
+        0.11194372588837528
+      ]
+    ],
+    "key": "notrob-1514/2017-07-09-05-39-B28AaCumbUFGDsZEGt7TLf",
+    "killfeed": [
+      [
+        91692,
+        0,
+        "winston",
+        "ELCHAPOJR",
+        "mccree",
+        "YANTHRAX",
+        [
+        ],
+        null
+      ],
+      [
+        96204,
+        0,
+        "s76",
+        "WAVY",
+        "lucio",
+        "NOTROB",
+        [
+        ],
+        null
+      ],
+      [
+        99714,
+        0,
+        "s76",
+        "WAVY",
+        "ana",
+        "JIMMYASS",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        102713,
+        0,
+        "pharah",
+        "TRACER",
+        "winston",
+        "PASTADACTYL",
+        [
+          "mercy",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        114737,
+        0,
+        "pharah",
+        "TRACER",
+        "genji",
+        "BEMIOBO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        147306,
+        0,
+        "winston",
+        "ELCHAPOJR",
+        "lucio",
+        "NOTROB",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        147306,
+        1,
+        "winston",
+        "PASTADACTYL",
+        "mercy",
+        "ILIKEBUTTS",
+        [
+        ],
+        null
+      ],
+      [
+        149306,
+        0,
+        "pharah",
+        "TRACER",
+        "ana",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        149810,
+        1,
+        "mccree",
+        "YANTHRAX",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        159832,
+        0,
+        "s76",
+        "WAVY",
+        "mccree",
+        "YANTHRAX",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        160829,
+        1,
+        "winston",
+        "PASTADACTYL",
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        161340,
+        1,
+        "winston",
+        "PASTADACTYL",
+        "zenyatta",
+        "GATITO",
+        [
+        ],
+        null
+      ],
+      [
+        162333,
+        0,
+        "s76",
+        "WAVY",
+        "winston",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        168347,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "winston",
+        "ELCHAPOJR",
+        [
+        ],
+        null
+      ],
+      [
+        173367,
+        1,
+        "reaper",
+        "BEMIOBO",
+        "s76",
+        "WAVY",
+        [
+        ],
+        null
+      ],
+      [
+        176379,
+        0,
+        "pharah",
+        "TRACER",
+        "lucio",
+        "NOTROB",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        177363,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        178367,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        178367,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "s76",
+        "WAVY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        178874,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "winston",
+        "ELCHAPOJR",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        181378,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "mercy",
+        "ILIKEBUTTS",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        181378,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "s76",
+        "WAVY",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        183380,
+        0,
+        "pharah",
+        "TRACER",
+        "tracer",
+        "JACKSWAN",
+        [
+        ],
+        null
+      ],
+      [
+        189389,
+        0,
+        "winston",
+        "ELCHAPOJR",
+        "ana",
+        "JIMMYASS",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        194907,
+        1,
+        "winston",
+        "PASTADACTYL",
+        "winston",
+        "ELCHAPOJR",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        198911,
+        1,
+        "mccree",
+        "YANTHRAX",
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        200918,
+        1,
+        "mccree",
+        "YANTHRAX",
+        "zenyatta",
+        "GATITO",
+        [
+        ],
+        null
+      ],
+      [
+        214949,
+        1,
+        "reaper",
+        "BEMIOBO",
+        "s76",
+        "WAVY",
+        [
+        ],
+        null
+      ],
+      [
+        240495,
+        0,
+        "zenyatta",
+        "GATITO",
+        "lucio",
+        "NOTROB",
+        [
+        ],
+        null
+      ],
+      [
+        241997,
+        1,
+        "mccree",
+        "YANTHRAX",
+        "junkrat_riptire",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        247508,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "s76",
+        "WAVY",
+        [
+        ],
+        null
+      ],
+      [
+        252020,
+        0,
+        "pharah",
+        "TRACER",
+        "mccree",
+        "YANTHRAX",
+        [
+        ],
+        null
+      ],
+      [
+        260042,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        260042,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        260549,
+        0,
+        "junkrat",
+        "KIFNER",
+        "ana",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        261539,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        261539,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        261539,
+        0,
+        "zenyatta",
+        "GATITO",
+        "winston",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        263547,
+        0,
+        "junkrat",
+        "KIFNER",
+        "ana",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        263547,
+        1,
+        null,
+        null,
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        263547,
+        1,
+        null,
+        null,
+        "pharah",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        264043,
+        0,
+        "zenyatta",
+        "GATITO",
+        "tracer",
+        "JACKSWAN",
+        [
+        ],
+        null
+      ],
+      [
+        265052,
+        1,
+        "reaper",
+        "BEMIOBO",
+        "zenyatta",
+        "GATITO",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        266552,
+        1,
+        "reaper",
+        "BEMIOBO",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        266552,
+        0,
+        "junkrat",
+        "KIFNER",
+        "reaper",
+        "BEMIOBO",
+        [
+        ],
+        null
+      ],
+      [
+        289599,
+        0,
+        "junkrat",
+        "KIFNER",
+        "ana",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        293601,
+        0,
+        "pharah",
+        "TRACER",
+        "mccree",
+        "YANTHRAX",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        298118,
+        0,
+        "s76",
+        "WAVY",
+        "lucio",
+        "NOTROB",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        308636,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "junkrat_riptire",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        313144,
+        1,
+        "reaper",
+        "BEMIOBO",
+        "winston",
+        "ELCHAPOJR",
+        [
+        ],
+        null
+      ],
+      [
+        374265,
+        1,
+        "dva",
+        "PASTADACTYL",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        378763,
+        0,
+        "junkrat",
+        "KIFNER",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        383272,
+        1,
+        "s76",
+        "YANTHRAX",
+        "zenyatta",
+        "GATITO",
+        [
+        ],
+        null
+      ],
+      [
+        387279,
+        0,
+        "s76",
+        "WAVY",
+        "s76",
+        "YANTHRAX",
+        [
+        ],
+        null
+      ],
+      [
+        393299,
+        0,
+        "tracer",
+        "TRACER",
+        "tracer",
+        "JACKSWAN",
+        [
+        ],
+        null
+      ],
+      [
+        394800,
+        1,
+        "zenyatta",
+        "NOTROB",
+        "dva_mech",
+        "ELCHAPOJR",
+        [
+        ],
+        null
+      ],
+      [
+        396797,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "mccree",
+        "BEMIOBO",
+        [
+        ],
+        null
+      ],
+      [
+        400809,
+        1,
+        "zenyatta",
+        "NOTROB",
+        "dva",
+        "ELCHAPOJR",
+        [
+        ],
+        null
+      ],
+      [
+        408324,
+        0,
+        "tracer",
+        "TRACER",
+        "ana",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        410825,
+        0,
+        "tracer",
+        "TRACER",
+        "zenyatta",
+        "NOTROB",
+        [
+        ],
+        null
+      ],
+      [
+        411825,
+        1,
+        "s76",
+        "YANTHRAX",
+        "mercy",
+        "ILIKEBUTTS",
+        [
+        ],
+        null
+      ],
+      [
+        416836,
+        0,
+        "zenyatta",
+        "GATITO",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        417842,
+        0,
+        "junkrat",
+        "KIFNER",
+        "s76",
+        "YANTHRAX",
+        [
+        ],
+        null
+      ],
+      [
+        419840,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        422353,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "tracer",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        437377,
+        0,
+        "s76",
+        "WAVY",
+        "mccree",
+        "BEMIOBO",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        437882,
+        0,
+        "s76",
+        "WAVY",
+        "dva",
+        "PASTADACTYL",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        457420,
+        0,
+        "tracer",
+        "TRACER",
+        "tracer",
+        "JACKSWAN",
+        [
+        ],
+        null
+      ],
+      [
+        480973,
+        1,
+        "dva",
+        "PASTADACTYL",
+        "dva_mech",
+        "ELCHAPOJR",
+        [
+        ],
+        null
+      ],
+      [
+        480973,
+        1,
+        "mccree",
+        "BEMIOBO",
+        "s76",
+        "WAVY",
+        [
+        ],
+        null
+      ],
+      [
+        483970,
+        1,
+        "s76",
+        "YANTHRAX",
+        "tracer",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        485491,
+        1,
+        null,
+        null,
+        "tracer",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        485979,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "tracer",
+        "TRACER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        485979,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "s76",
+        "WAVY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        487483,
+        1,
+        null,
+        null,
+        "s76",
+        "WAVY",
+        [
+        ],
+        null
+      ],
+      [
+        488987,
+        1,
+        "s76",
+        "YANTHRAX",
+        "junkrat_riptire",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        492500,
+        1,
+        "mccree",
+        "BEMIOBO",
+        "s76",
+        "WAVY",
+        [
+        ],
+        null
+      ],
+      [
+        492990,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "mercy",
+        "ILIKEBUTTS",
+        [
+        ],
+        null
+      ],
+      [
+        493996,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        497001,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "dva",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        498004,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "zenyatta",
+        "GATITO",
+        [
+        ],
+        null
+      ],
+      [
+        505015,
+        1,
+        "s76",
+        "YANTHRAX",
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        505522,
+        1,
+        "mccree",
+        "BEMIOBO",
+        "dva_mech",
+        "ELCHAPOJR",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        509528,
+        1,
+        null,
+        null,
+        "tracer",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        510530,
+        1,
+        "mccree",
+        "BEMIOBO",
+        "dva",
+        "ELCHAPOJR",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        539093,
+        0,
+        "reaper",
+        "TRACER",
+        "mccree",
+        "BEMIOBO",
+        [
+        ],
+        null
+      ],
+      [
+        544599,
+        0,
+        "reaper",
+        "TRACER",
+        "zenyatta",
+        "NOTROB",
+        [
+        ],
+        null
+      ],
+      [
+        554620,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "tracer",
+        "JACKSWAN",
+        [
+        ],
+        null
+      ],
+      [
+        555624,
+        1,
+        "ana",
+        "JIMMYASS",
+        "reaper",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        556632,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "dva",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        561138,
+        1,
+        null,
+        null,
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        561138,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "ana",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        568152,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "s76",
+        "YANTHRAX",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        590191,
+        0,
+        "reaper",
+        "TRACER",
+        "pharah",
+        "BEMIOBO",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        594696,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "zenyatta",
+        "NOTROB",
+        [
+        ],
+        null
+      ],
+      [
+        597710,
+        1,
+        "mccree",
+        "YANTHRAX",
+        "reaper",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        601213,
+        1,
+        "mccree",
+        "YANTHRAX",
+        "mercy",
+        "ILIKEBUTTS",
+        [
+        ],
+        null
+      ],
+      [
+        605724,
+        0,
+        "junkrat",
+        "KIFNER",
+        "mccree",
+        "YANTHRAX",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        606724,
+        1,
+        "dva",
+        "PASTADACTYL",
+        "zarya",
+        "GATITO",
+        [
+        ],
+        null
+      ],
+      [
+        610728,
+        0,
+        "s76",
+        "WAVY",
+        "tracer",
+        "JACKSWAN",
+        [
+        ],
+        null
+      ],
+      [
+        686894,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "mccree",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        699410,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "reinhardt",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        701411,
+        0,
+        "s76",
+        "WAVY",
+        "mccree",
+        "YANTHRAX",
+        [
+        ],
+        null
+      ],
+      [
+        707424,
+        0,
+        "s76",
+        "WAVY",
+        "tracer",
+        "JACKSWAN",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        718954,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        721457,
+        0,
+        "junkrat",
+        "KIFNER",
+        "junkrat",
+        "NOTROB",
+        [
+        ],
+        null
+      ],
+      [
+        725961,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "dva",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        730467,
+        0,
+        "junkrat",
+        "KIFNER",
+        "mccree",
+        "YANTHRAX",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        751014,
+        0,
+        "mccree",
+        "TRACER",
+        "tracer",
+        "JACKSWAN",
+        [
+        ],
+        null
+      ],
+      [
+        751014,
+        0,
+        "junkrat",
+        "KIFNER",
+        "reinhardt",
+        "JIMMYASS",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        760030,
+        0,
+        "junkrat",
+        "KIFNER",
+        "lucio",
+        "NOTROB",
+        [
+        ],
+        null
+      ],
+      [
+        781074,
+        0,
+        "s76",
+        "WAVY",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        783077,
+        0,
+        "mccree",
+        "TRACER",
+        "dva",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        793598,
+        1,
+        "pharah",
+        "YANTHRAX",
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        801621,
+        0,
+        "zarya",
+        "GATITO",
+        "reinhardt",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        803621,
+        1,
+        "reaper",
+        "JACKSWAN",
+        "dva_mech",
+        "ELCHAPOJR",
+        [
+        ],
+        null
+      ],
+      [
+        804620,
+        1,
+        "pharah",
+        "YANTHRAX",
+        "mccree",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        805621,
+        0,
+        "s76",
+        "WAVY",
+        "pharah",
+        "YANTHRAX",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        814140,
+        1,
+        "reaper",
+        "JACKSWAN",
+        "zarya",
+        "GATITO",
+        [
+        ],
+        null
+      ],
+      [
+        820151,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "zarya",
+        "GATITO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        821667,
+        1,
+        null,
+        null,
+        "zarya",
+        "GATITO",
+        [
+        ],
+        null
+      ],
+      [
+        825161,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "dva_mech",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        828678,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "dva",
+        "PASTADACTYL",
+        [
+        ],
+        null
+      ],
+      [
+        829667,
+        1,
+        "reaper",
+        "JACKSWAN",
+        "mercy",
+        "ILIKEBUTTS",
+        [
+        ],
+        null
+      ],
+      [
+        831182,
+        0,
+        "dva",
+        "ELCHAPOJR",
+        "zarya",
+        "NOTROB",
+        [
+        ],
+        null
+      ],
+      [
+        832177,
+        0,
+        "zarya",
+        "GATITO",
+        "reaper",
+        "JACKSWAN",
+        [
+        ],
+        null
+      ],
+      [
+        835679,
+        1,
+        "pharah",
+        "YANTHRAX",
+        "junkrat",
+        "KIFNER",
+        [
+        ],
+        null
+      ],
+      [
+        837684,
+        0,
+        "zarya",
+        "GATITO",
+        "reinhardt",
+        "JIMMYASS",
+        [
+        ],
+        null
+      ],
+      [
+        844202,
+        0,
+        "mccree",
+        "TRACER",
+        "pharah",
+        "YANTHRAX",
+        [
+        ],
+        null
+      ],
+      [
+        846704,
+        0,
+        "s76",
+        "WAVY",
+        "ana",
+        "BEMIOBO",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        853213,
+        1,
+        "dva",
+        "PASTADACTYL",
+        "mccree",
+        "TRACER",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        854720,
+        1,
+        "dva",
+        "PASTADACTYL",
+        "dva_mech",
+        "ELCHAPOJR",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        876263,
+        1,
+        "reaper",
+        "BEMIOBO",
+        "s76",
+        "WAVY",
+        [
+        ],
+        null
+      ],
+      [
+        879273,
+        0,
+        "pharah",
+        "TRACER",
+        "lucio",
+        "NOTROB",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        879772,
+        1,
+        "tracer",
+        "JACKSWAN",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        880271,
+        1,
+        null,
+        null,
+        "pharah",
+        "TRACER",
+        [
+        ],
+        null
+      ],
+      [
+        880271,
+        1,
+        null,
+        null,
+        "s76",
+        "WAVY",
+        [
+        ],
+        null
+      ],
+      [
+        881272,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "pharah",
+        "TRACER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        881272,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "s76",
+        "WAVY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        881272,
+        2,
+        "mercy",
+        "ILIKEBUTTS",
+        "winston",
+        "ELCHAPOJR",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ]
+    ],
+    "map": "Ilios",
+    "map_type": "Control",
+    "objective_stages": [
+      {
+        "end": 301618,
+        "end_score": [
+          0,
+          1
+        ],
+        "ownership": [
+          {
+            "end": 192903,
+            "owner": "red",
+            "start": 112733
+          },
+          {
+            "end": 269057,
+            "owner": "blue",
+            "start": 192903
+          },
+          {
+            "end": 297612,
+            "owner": "red",
+            "start": 269057
+          }
+        ],
+        "round_winner": "red",
+        "stage": "Lighthouse (A)",
+        "start": 76219
+      },
+      {
+        "end": 613240,
+        "end_score": [
+          0,
+          2
+        ],
+        "ownership": [
+          {
+            "end": 513540,
+            "owner": "red",
+            "start": 437882
+          },
+          {
+            "end": 544599,
+            "owner": "blue",
+            "start": 513540
+          },
+          {
+            "end": 609227,
+            "owner": "red",
+            "start": 544599
+          }
+        ],
+        "round_winner": "red",
+        "stage": "Well (B)",
+        "start": 357279
+      },
+      {
+        "end": 853213,
+        "end_score": [
+          0,
+          3
+        ],
+        "ownership": [
+          {
+            "end": 824667,
+            "owner": "red",
+            "start": 702926
+          },
+          {
+            "end": 849207,
+            "owner": "blue",
+            "start": 824667
+          },
+          {
+            "end": 850709,
+            "owner": "red",
+            "start": 849207
+          }
+        ],
+        "round_winner": "red",
+        "stage": "Ruins (C)",
+        "start": 663893
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": 2630,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        120,
+        120,
+        120,
+        120,
+        150,
+        190,
+        190,
+        190,
+        230,
+        230,
+        230,
+        515,
+        515,
+        515,
+        590,
+        625,
+        625,
+        625,
+        625,
+        625,
+        625,
+        625,
+        625,
+        1274,
+        1274,
+        1274,
+        1885,
+        1885,
+        1885,
+        1885,
+        2416,
+        2416,
+        2416,
+        2416,
+        2416,
+        2416,
+        2416,
+        2416,
+        2416,
+        2416,
+        2766,
+        2766,
+        2826,
+        2826,
+        2826,
+        2826,
+        3064,
+        3064,
+        3111,
+        3111
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        10,
+        10,
+        11,
+        11,
+        11,
+        11
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        6,
+        7,
+        7,
+        7
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        230,
+        230,
+        230,
+        230,
+        432,
+        772,
+        772,
+        772,
+        930,
+        930,
+        930,
+        1386,
+        1386,
+        1386,
+        1386,
+        1603,
+        1603,
+        1603,
+        1603,
+        1603,
+        1603,
+        1603,
+        1603,
+        1889,
+        1889,
+        1889,
+        2670,
+        2670,
+        2670,
+        2670,
+        2819,
+        2819,
+        2819,
+        2819,
+        2819,
+        2819,
+        2819,
+        2819,
+        2819,
+        2819,
+        2819,
+        2819,
+        2974,
+        2974,
+        2974,
+        2974,
+        2974,
+        2974,
+        2974,
+        2974
+      ],
+      "hero": [
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "lucio",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "lucio",
+        "lucio",
+        "zarya",
+        "zarya",
+        "zarya",
+        "zarya",
+        "zarya",
+        "zarya"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        17,
+        17,
+        17,
+        17,
+        33,
+        26,
+        26,
+        26,
+        24,
+        24,
+        24,
+        22,
+        22,
+        22,
+        23,
+        21,
+        21,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        43,
+        43,
+        43,
+        25,
+        25,
+        25,
+        25,
+        30,
+        30,
+        30,
+        30,
+        30,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        9,
+        19,
+        19,
+        0,
+        0,
+        776,
+        776,
+        776,
+        776
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        22,
+        22,
+        18,
+        18
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        188,
+        188,
+        188,
+        188,
+        188,
+        188,
+        188,
+        188,
+        188,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        24,
+        24,
+        24,
+        24
+      ],
+      "time": [
+        44101,
+        51617,
+        71152,
+        97201,
+        102713,
+        108729,
+        117744,
+        131768,
+        145300,
+        150808,
+        156321,
+        177363,
+        182882,
+        188390,
+        241493,
+        246507,
+        251518,
+        275577,
+        299115,
+        306634,
+        314647,
+        334184,
+        341193,
+        347208,
+        352220,
+        360232,
+        411330,
+        417337,
+        423355,
+        545609,
+        551116,
+        556125,
+        566143,
+        594198,
+        599709,
+        611732,
+        617246,
+        622253,
+        639793,
+        645311,
+        653316,
+        659833,
+        665346,
+        722461,
+        729978,
+        760532,
+        766045,
+        780574,
+        787088,
+        831671,
+        837182,
+        875260,
+        880770
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 298118,
+              "hero": "lucio",
+              "start": 96204
+            },
+            {
+              "end": 594696,
+              "hero": "zenyatta",
+              "start": 394800
+            },
+            {
+              "end": 721457,
+              "hero": "junkrat",
+              "start": 721457
+            },
+            {
+              "end": 760030,
+              "hero": "lucio",
+              "start": 760030
+            },
+            {
+              "end": 831182,
+              "hero": "zarya",
+              "start": 831182
+            },
+            {
+              "end": 881272,
+              "hero": "lucio",
+              "start": 879273
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 261539,
+              "hero": "winston",
+              "start": 102713
+            },
+            {
+              "end": 881272,
+              "hero": "dva",
+              "start": 374265
+            }
+          ],
+          "name": "PASTADACTYL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 293601,
+              "hero": "mccree",
+              "start": 91692
+            },
+            {
+              "end": 568152,
+              "hero": "s76",
+              "start": 383272
+            },
+            {
+              "end": 730467,
+              "hero": "mccree",
+              "start": 597710
+            },
+            {
+              "end": 881272,
+              "hero": "pharah",
+              "start": 793598
+            }
+          ],
+          "name": "YANTHRAX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 114737,
+              "hero": "genji",
+              "start": 114737
+            },
+            {
+              "end": 313144,
+              "hero": "reaper",
+              "start": 173367
+            },
+            {
+              "end": 539093,
+              "hero": "mccree",
+              "start": 396797
+            },
+            {
+              "end": 590191,
+              "hero": "pharah",
+              "start": 590191
+            },
+            {
+              "end": 846704,
+              "hero": "ana",
+              "start": 846704
+            },
+            {
+              "end": 881272,
+              "hero": "reaper",
+              "start": 876263
+            }
+          ],
+          "name": "BEMIOBO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 751014,
+              "hero": "tracer",
+              "start": 168347
+            },
+            {
+              "end": 832177,
+              "hero": "reaper",
+              "start": 803621
+            },
+            {
+              "end": 881272,
+              "hero": "tracer",
+              "start": 879772
+            }
+          ],
+          "name": "JACKSWAN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 561138,
+              "hero": "ana",
+              "start": 99714
+            },
+            {
+              "end": 881272,
+              "hero": "reinhardt",
+              "start": 699410
+            }
+          ],
+          "name": "JIMMYASS"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 313144,
+              "hero": "winston",
+              "start": 91692
+            },
+            {
+              "end": 831182,
+              "hero": "dva",
+              "start": 396797
+            },
+            {
+              "end": 881272,
+              "hero": "winston",
+              "start": 881272
+            }
+          ],
+          "name": "ELCHAPOJR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 881272,
+              "hero": "s76",
+              "start": 96204
+            }
+          ],
+          "name": "WAVY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 498004,
+              "hero": "zenyatta",
+              "start": 161340
+            },
+            {
+              "end": 881272,
+              "hero": "zarya",
+              "start": 606724
+            }
+          ],
+          "name": "GATITO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 881272,
+              "hero": "mercy",
+              "start": 147306
+            }
+          ],
+          "name": "ILIKEBUTTS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 881272,
+              "hero": "junkrat",
+              "start": 160829
+            }
+          ],
+          "name": "KIFNER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 374265,
+              "hero": "pharah",
+              "start": 102713
+            },
+            {
+              "end": 509528,
+              "hero": "tracer",
+              "start": 393299
+            },
+            {
+              "end": 597710,
+              "hero": "reaper",
+              "start": 539093
+            },
+            {
+              "end": 853213,
+              "hero": "mccree",
+              "start": 686894
+            },
+            {
+              "end": 881272,
+              "hero": "pharah",
+              "start": 879273
+            }
+          ],
+          "name": "TRACER"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 884,
+    "end_sr": 2601,
+    "heroes_played": [
+      [
+        "lucio",
+        0.38808109946526187
+      ],
+      [
+        "zenyatta",
+        0.38182138654565134
+      ],
+      [
+        "zarya",
+        0.11815378810071149
+      ]
+    ],
+    "key": "notrob-1514/2017-07-09-05-39-B28AaCumbUFGDsZEGt7TLf",
+    "map": "Ilios",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": 2630,
+    "time": 1499577865,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-07-09-05-39-B28AaCumbUFGDsZEGt7TLf/game.json",
+    "user_id": 2235147
+  }
+}

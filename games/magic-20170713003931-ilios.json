@@ -1,0 +1,1870 @@
+{
+  "data": {
+    "assists": [
+      [
+        80060,
+        "FORCELCIORE",
+        1,
+        0
+      ],
+      [
+        86288,
+        "GEORGECARVER",
+        1,
+        0
+      ],
+      [
+        91372,
+        "MEXICANGENJI",
+        1,
+        0
+      ],
+      [
+        129394,
+        "GEORGECARVER",
+        1,
+        0
+      ],
+      [
+        145855,
+        "SANITY",
+        1,
+        0
+      ],
+      [
+        146398,
+        "RIGGITYREKT",
+        1,
+        0
+      ],
+      [
+        148320,
+        "FORCELCIORE",
+        1,
+        0
+      ],
+      [
+        155731,
+        "MEXICANGENJI",
+        1,
+        0
+      ],
+      [
+        189010,
+        "SANITY",
+        1,
+        0
+      ],
+      [
+        202434,
+        "RIGGITYREKT",
+        1,
+        0
+      ],
+      [
+        304479,
+        "MEXICANGENJI",
+        1,
+        0
+      ],
+      [
+        321115,
+        "GEORGECARVER",
+        1,
+        0
+      ],
+      [
+        342543,
+        "SANITY",
+        1,
+        0
+      ],
+      [
+        391703,
+        "MEXICANGENJI",
+        1,
+        0
+      ],
+      [
+        527636,
+        "GEORGECARVER",
+        1,
+        0
+      ],
+      [
+        527636,
+        "KURLY",
+        1,
+        0
+      ],
+      [
+        528917,
+        "MEXICANGENJI",
+        1,
+        0
+      ],
+      [
+        647944,
+        "KURLY",
+        1,
+        0
+      ],
+      [
+        763160,
+        "SANITY",
+        1,
+        0
+      ],
+      [
+        796196,
+        "KURLY",
+        1,
+        0
+      ],
+      [
+        797737,
+        "GEORGECARVER",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      2262
+    ],
+    "custom_game": false,
+    "deaths": 5,
+    "end_sr": 2326,
+    "game_duration": 804,
+    "game_ended": 1499907218,
+    "game_started": 1499906371,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 12309,
+        "deaths": 5,
+        "elims": 34,
+        "healing": 0,
+        "hero_stat_1": 21,
+        "hero_stat_2": 0,
+        "hero_stat_3": 18,
+        "hero_stat_5": 34,
+        "hero_stat_6": 804142,
+        "objective_kills": 8,
+        "objective_time": 29,
+        "tab_health": 0.3333333333333333,
+        "time_played": 550687
+      },
+      "pharah": {
+        "damage": 12309,
+        "deaths": 4,
+        "elims": 22,
+        "healing": 0,
+        "hero_stat_1": 46,
+        "hero_stat_2": 7,
+        "hero_stat_3": 0,
+        "hero_stat_4": 54,
+        "hero_stat_5": 15,
+        "objective_kills": 5,
+        "objective_time": 11,
+        "tab_health": 0.3333333333333333,
+        "time_played": 550687
+      }
+    },
+    "heroes_played": [
+      [
+        "pharah",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-13-00-53-D9a88RtFy48jyTTGAM6Qab",
+    "killfeed": [
+      [
+        80060,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "lucio",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        86863,
+        1,
+        "dva",
+        "BIGBIRD",
+        "winston",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        91372,
+        1,
+        "pharah",
+        "MAGIC",
+        "genji",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        121000,
+        1,
+        "dva",
+        "BIGBIRD",
+        "lucio",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        128935,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "winston",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        130627,
+        1,
+        "lucio",
+        "AMICU",
+        "dva_mech",
+        "SANITY",
+        [
+        ],
+        null
+      ],
+      [
+        145855,
+        1,
+        "lucio",
+        "AMICU",
+        "dva",
+        "SANITY",
+        [
+        ],
+        null
+      ],
+      [
+        146398,
+        1,
+        "pharah",
+        "MAGIC",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        148320,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "lucio",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        155731,
+        1,
+        "dva",
+        "BIGBIRD",
+        "mercy",
+        "KURLY",
+        [
+        ],
+        null
+      ],
+      [
+        155731,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "s76",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        163802,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "winston",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        189010,
+        1,
+        "dva",
+        "BIGBIRD",
+        "dva_mech",
+        "SANITY",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        191095,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "dva",
+        "SANITY",
+        [
+        ],
+        null
+      ],
+      [
+        199552,
+        0,
+        "winston",
+        "GEORGECARVER",
+        "mercy",
+        "LYNNTHELION",
+        [
+        ],
+        null
+      ],
+      [
+        199552,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "s76",
+        "MEXICANGENJI",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        200899,
+        2,
+        "mercy",
+        "KURLY",
+        "dva",
+        "SANITY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        202434,
+        1,
+        "dva",
+        "BIGBIRD",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        207829,
+        1,
+        "lucio",
+        "AMICU",
+        "winston",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        213714,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "mercy",
+        "KURLY",
+        [
+        ],
+        null
+      ],
+      [
+        218314,
+        1,
+        "lucio",
+        "AMICU",
+        "lucio",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        221035,
+        1,
+        "dva",
+        "BIGBIRD",
+        "dva_mech",
+        "SANITY",
+        [
+          "mei"
+        ],
+        null
+      ],
+      [
+        223167,
+        1,
+        "dva",
+        "BIGBIRD",
+        "dva",
+        "SANITY",
+        [
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        224918,
+        1,
+        "lucio",
+        "AMICU",
+        "s76",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        230079,
+        0,
+        null,
+        null,
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        304479,
+        1,
+        "pharah",
+        "MAGIC",
+        "lucio",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        306886,
+        0,
+        "pharah",
+        "RIGGITYREKT",
+        "winston",
+        "MOESPANKYHAM",
+        [
+        ],
+        null
+      ],
+      [
+        314781,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "s76",
+        "SANITY",
+        [
+        ],
+        null
+      ],
+      [
+        321115,
+        1,
+        "dva",
+        "BIGBIRD",
+        "mercy",
+        "KURLY",
+        [
+        ],
+        null
+      ],
+      [
+        321115,
+        0,
+        "pharah",
+        "RIGGITYREKT",
+        "mercy",
+        "LYNNTHELION",
+        [
+        ],
+        null
+      ],
+      [
+        321115,
+        1,
+        "pharah",
+        "MAGIC",
+        "reinhardt",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        325260,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "dva_mech",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        327302,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "dva",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        331500,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        342543,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "s76",
+        "SANITY",
+        [
+        ],
+        null
+      ],
+      [
+        391703,
+        1,
+        "pharah",
+        "MAGIC",
+        "dva_mech",
+        "FORCELCIORE",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        391703,
+        1,
+        "pharah",
+        "MAGIC",
+        "lucio",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        393316,
+        0,
+        "pharah",
+        "RIGGITYREKT",
+        "winston",
+        "MOESPANKYHAM",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        398260,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        [
+          "mei",
+          "blizzard"
+        ]
+      ],
+      [
+        400733,
+        1,
+        "lucio",
+        "AMICU",
+        "reinhardt",
+        "GEORGECARVER",
+        [
+          "mei"
+        ],
+        null
+      ],
+      [
+        406951,
+        1,
+        "lucio",
+        "AMICU",
+        "s76",
+        "KURLY",
+        [
+        ],
+        null
+      ],
+      [
+        413783,
+        1,
+        "dva",
+        "BIGBIRD",
+        "dva",
+        "FORCELCIORE",
+        [
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        449129,
+        0,
+        null,
+        null,
+        "mei",
+        "EDELSTEIN",
+        [
+        ],
+        null
+      ],
+      [
+        459499,
+        0,
+        null,
+        null,
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        462206,
+        1,
+        null,
+        null,
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        466202,
+        0,
+        "lucio",
+        "MEXICANGENJI",
+        "mercy",
+        "LYNNTHELION",
+        [
+        ],
+        null
+      ],
+      [
+        466202,
+        0,
+        "s76",
+        "KURLY",
+        "winston",
+        "MOESPANKYHAM",
+        [
+        ],
+        null
+      ],
+      [
+        473236,
+        0,
+        "s76",
+        "KURLY",
+        "dva_mech",
+        "BIGBIRD",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        473236,
+        0,
+        "reinhardt",
+        "GEORGECARVER",
+        "dva",
+        "BIGBIRD",
+        [
+        ],
+        null
+      ],
+      [
+        483313,
+        0,
+        "s76",
+        "KURLY",
+        "lucio",
+        "AMICU",
+        [
+        ],
+        null
+      ],
+      [
+        527636,
+        1,
+        "pharah",
+        "MAGIC",
+        "s76",
+        "KURLY",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        527636,
+        1,
+        "pharah",
+        "MAGIC",
+        "reinhardt",
+        "GEORGECARVER",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        528917,
+        2,
+        "mercy",
+        "SANITY",
+        "lucio",
+        "MEXICANGENJI",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        528917,
+        2,
+        "mercy",
+        "SANITY",
+        "s76",
+        "KURLY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        528917,
+        2,
+        "mercy",
+        "SANITY",
+        "reinhardt",
+        "GEORGECARVER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        528917,
+        0,
+        "pharah",
+        "RIGGITYREKT",
+        "lucio",
+        "AMICU",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        533740,
+        1,
+        "pharah",
+        "MAGIC",
+        "dva",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        535907,
+        3,
+        "mercy",
+        "LYNNTHELION",
+        "lucio",
+        "AMICU",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        537224,
+        0,
+        null,
+        null,
+        "lucio",
+        "AMICU",
+        [
+        ],
+        null
+      ],
+      [
+        537224,
+        1,
+        "pharah",
+        "MAGIC",
+        "lucio",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        538515,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "s76",
+        "KURLY",
+        [
+        ],
+        null
+      ],
+      [
+        540005,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "mercy",
+        "SANITY",
+        [
+        ],
+        [
+          "winston",
+          "jumppack"
+        ]
+      ],
+      [
+        541079,
+        1,
+        "mei",
+        "EDELSTEIN",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        543416,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "reinhardt",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        626051,
+        0,
+        "mccree",
+        "FORCELCIORE",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        631561,
+        0,
+        "mccree",
+        "FORCELCIORE",
+        "lucio",
+        "AMICU",
+        [
+        ],
+        null
+      ],
+      [
+        631561,
+        1,
+        "widowmaker",
+        "EDELSTEIN",
+        "zarya",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        632707,
+        1,
+        "dva",
+        "BIGBIRD",
+        "mccree",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        647944,
+        1,
+        "pharah",
+        "MAGIC",
+        "winston",
+        "KURLY",
+        [
+        ],
+        null
+      ],
+      [
+        649665,
+        0,
+        "pharah",
+        "RIGGITYREKT",
+        "mercy",
+        "LYNNTHELION",
+        [
+        ],
+        null
+      ],
+      [
+        649665,
+        1,
+        "dva",
+        "BIGBIRD",
+        "mercy",
+        "SANITY",
+        [
+        ],
+        null
+      ],
+      [
+        651488,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "zenyatta",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        659795,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        672239,
+        1,
+        "widowmaker",
+        "EDELSTEIN",
+        "mccree",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        690450,
+        0,
+        null,
+        null,
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        698679,
+        1,
+        "winston",
+        "MOESPANKYHAM",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        703197,
+        1,
+        "dva",
+        "BIGBIRD",
+        "mercy",
+        "SANITY",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        704880,
+        1,
+        "dva",
+        "BIGBIRD",
+        "zenyatta",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        713743,
+        1,
+        "dva",
+        "BIGBIRD",
+        "mccree",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ],
+      [
+        722539,
+        1,
+        "widowmaker",
+        "EDELSTEIN",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        722539,
+        1,
+        "pharah",
+        "MAGIC",
+        "zarya",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        726341,
+        2,
+        "mercy",
+        "SANITY",
+        "zarya",
+        "GEORGECARVER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        726341,
+        2,
+        "mercy",
+        "SANITY",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        730768,
+        1,
+        "pharah",
+        "MAGIC",
+        "zenyatta",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        733796,
+        0,
+        "mccree",
+        "FORCELCIORE",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        751087,
+        1,
+        "pharah",
+        "MAGIC",
+        "pharah",
+        "RIGGITYREKT",
+        [
+        ],
+        null
+      ],
+      [
+        752047,
+        1,
+        "dva",
+        "BIGBIRD",
+        "mccree",
+        "FORCELCIORE",
+        [
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        757074,
+        1,
+        "widowmaker",
+        "EDELSTEIN",
+        "zarya",
+        "GEORGECARVER",
+        [
+        ],
+        null
+      ],
+      [
+        763160,
+        1,
+        "pharah",
+        "MAGIC",
+        "mercy",
+        "SANITY",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        767924,
+        1,
+        "pharah",
+        "MAGIC",
+        "zenyatta",
+        "MEXICANGENJI",
+        [
+        ],
+        null
+      ],
+      [
+        770756,
+        1,
+        "lucio",
+        "AMICU",
+        "winston",
+        "KURLY",
+        [
+        ],
+        null
+      ],
+      [
+        796196,
+        1,
+        "pharah",
+        "MAGIC",
+        "reinhardt",
+        "GEORGECARVER",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        797737,
+        0,
+        "pharah",
+        "RIGGITYREKT",
+        "lucio",
+        "AMICU",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        799155,
+        2,
+        "mercy",
+        "SANITY",
+        "reinhardt",
+        "GEORGECARVER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        799155,
+        2,
+        "mercy",
+        "SANITY",
+        "lucio",
+        "MEXICANGENJI",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        800255,
+        0,
+        null,
+        null,
+        "lucio",
+        "AMICU",
+        [
+        ],
+        null
+      ],
+      [
+        802399,
+        1,
+        "pharah",
+        "MAGIC",
+        "dva",
+        "FORCELCIORE",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Ilios",
+    "map_type": "Control",
+    "objective_stages": [
+      {
+        "end": 230079,
+        "end_score": [
+          1,
+          0
+        ],
+        "ownership": [
+          {
+            "end": 227172,
+            "owner": "blue",
+            "start": 102074
+          }
+        ],
+        "round_winner": "blue",
+        "stage": "Well (B)",
+        "start": 66573
+      },
+      {
+        "end": 549903,
+        "end_score": [
+          2,
+          0
+        ],
+        "ownership": [
+          {
+            "end": 478474,
+            "owner": "blue",
+            "start": 330289
+          },
+          {
+            "end": 547006,
+            "owner": "red",
+            "start": 478474
+          },
+          {
+            "end": 549006,
+            "owner": "blue",
+            "start": 547006
+          }
+        ],
+        "round_winner": "blue",
+        "stage": "Lighthouse (A)",
+        "start": 279342
+      },
+      {
+        "end": 772251,
+        "end_score": [
+          3,
+          0
+        ],
+        "ownership": [
+          {
+            "end": 769499,
+            "owner": "blue",
+            "start": 636915
+          }
+        ],
+        "round_winner": "blue",
+        "stage": "Ruins (C)",
+        "start": 606915
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2302,
+    "tab_statistics": {
+      "damage": [
+        2588,
+        88,
+        2588,
+        6928,
+        7675,
+        9862,
+        9862,
+        9862,
+        9862,
+        9862,
+        10558,
+        10901,
+        10901,
+        11426,
+        12309
+      ],
+      "deaths": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        4,
+        4,
+        5,
+        5
+      ],
+      "elims": [
+        12,
+        12,
+        12,
+        19,
+        19,
+        25,
+        25,
+        25,
+        25,
+        25,
+        25,
+        27,
+        27,
+        29,
+        34
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah"
+      ],
+      "hero_stat_1": [
+        46,
+        46,
+        46,
+        51,
+        48,
+        48,
+        48,
+        48,
+        48,
+        48,
+        48,
+        47,
+        47,
+        46,
+        46
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        7
+      ],
+      "hero_stat_3": [
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12,
+        12
+      ],
+      "hero_stat_4": [
+        20,
+        20,
+        20,
+        44,
+        45,
+        52,
+        52,
+        52,
+        52,
+        52,
+        60,
+        67,
+        67,
+        71,
+        74
+      ],
+      "hero_stat_5": [
+        2,
+        2,
+        2,
+        6,
+        6,
+        11,
+        11,
+        11,
+        11,
+        11,
+        11,
+        12,
+        12,
+        14,
+        17
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        3,
+        3,
+        3,
+        4,
+        4,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        8
+      ],
+      "objective_time": [
+        18,
+        18,
+        18,
+        21,
+        22,
+        26,
+        26,
+        26,
+        26,
+        26,
+        26,
+        26,
+        26,
+        26,
+        29
+      ],
+      "time": [
+        233670,
+        247190,
+        252975,
+        402716,
+        460996,
+        553763,
+        571628,
+        580061,
+        585885,
+        592825,
+        628362,
+        690450,
+        697129,
+        742073,
+        784357
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 802399,
+              "hero": "pharah",
+              "start": 91372
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 541079,
+              "hero": "mei",
+              "start": 128935
+            },
+            {
+              "end": 802399,
+              "hero": "widowmaker",
+              "start": 631561
+            }
+          ],
+          "name": "EDELSTEIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 802399,
+              "hero": "winston",
+              "start": 80060
+            }
+          ],
+          "name": "MOESPANKYHAM"
+        },
+        {
+          "heroes": [
+            {
+              "end": 802399,
+              "hero": "dva",
+              "start": 86863
+            }
+          ],
+          "name": "BIGBIRD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 802399,
+              "hero": "lucio",
+              "start": 130627
+            }
+          ],
+          "name": "AMICU"
+        },
+        {
+          "heroes": [
+            {
+              "end": 802399,
+              "hero": "mercy",
+              "start": 199552
+            }
+          ],
+          "name": "LYNNTHELION"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 223167,
+              "hero": "dva",
+              "start": 145855
+            },
+            {
+              "end": 342543,
+              "hero": "s76",
+              "start": 314781
+            },
+            {
+              "end": 802399,
+              "hero": "mercy",
+              "start": 528917
+            }
+          ],
+          "name": "SANITY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 91372,
+              "hero": "genji",
+              "start": 91372
+            },
+            {
+              "end": 224918,
+              "hero": "s76",
+              "start": 155731
+            },
+            {
+              "end": 537224,
+              "hero": "lucio",
+              "start": 304479
+            },
+            {
+              "end": 767924,
+              "hero": "zenyatta",
+              "start": 651488
+            },
+            {
+              "end": 802399,
+              "hero": "lucio",
+              "start": 799155
+            }
+          ],
+          "name": "MEXICANGENJI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 207829,
+              "hero": "winston",
+              "start": 86863
+            },
+            {
+              "end": 543416,
+              "hero": "reinhardt",
+              "start": 321115
+            },
+            {
+              "end": 757074,
+              "hero": "zarya",
+              "start": 631561
+            },
+            {
+              "end": 802399,
+              "hero": "reinhardt",
+              "start": 796196
+            }
+          ],
+          "name": "GEORGECARVER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 802399,
+              "hero": "pharah",
+              "start": 146398
+            }
+          ],
+          "name": "RIGGITYREKT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 218314,
+              "hero": "lucio",
+              "start": 80060
+            },
+            {
+              "end": 533740,
+              "hero": "dva",
+              "start": 327302
+            },
+            {
+              "end": 752047,
+              "hero": "mccree",
+              "start": 626051
+            },
+            {
+              "end": 802399,
+              "hero": "dva",
+              "start": 802399
+            }
+          ],
+          "name": "FORCELCIORE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 321115,
+              "hero": "mercy",
+              "start": 155731
+            },
+            {
+              "end": 538515,
+              "hero": "s76",
+              "start": 406951
+            },
+            {
+              "end": 802399,
+              "hero": "winston",
+              "start": 647944
+            }
+          ],
+          "name": "KURLY"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 804,
+    "end_sr": 2326,
+    "heroes_played": [
+      [
+        "pharah",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-13-00-53-D9a88RtFy48jyTTGAM6Qab",
+    "map": "Ilios",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2302,
+    "time": 1499906371,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-13-00-53-D9a88RtFy48jyTTGAM6Qab/game.json",
+    "user_id": 151467
+  }
+}

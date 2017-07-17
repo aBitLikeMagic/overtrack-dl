@@ -1,0 +1,1334 @@
+{
+  "data": {
+    "assists": [
+      [
+        124538,
+        "MRDRPROFSIMO",
+        0,
+        1
+      ],
+      [
+        168167,
+        "AKARU",
+        0,
+        1
+      ]
+    ],
+    "avg_sr": [
+      2334,
+      2321
+    ],
+    "custom_game": false,
+    "deaths": 3,
+    "end_sr": 2394,
+    "game_duration": 569,
+    "game_ended": 1499799470,
+    "game_started": 1499798859,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 20,
+        "deaths": 3,
+        "elims": 0,
+        "healing": 4603,
+        "hero_stat_1": 0,
+        "hero_stat_2": 2,
+        "hero_stat_3": 2,
+        "hero_stat_5": 0,
+        "hero_stat_6": 569536,
+        "objective_kills": 0,
+        "objective_time": 28,
+        "tab_health": 0.42105263157894735,
+        "time_played": 503449
+      },
+      "mercy": {
+        "damage": 20,
+        "deaths": 3,
+        "elims": 0,
+        "healing": 4603,
+        "hero_stat_1": 5,
+        "hero_stat_2": 0,
+        "hero_stat_3": 13,
+        "hero_stat_4": 138,
+        "hero_stat_5": 2,
+        "objective_kills": 0,
+        "objective_time": 28,
+        "tab_health": 0.42105263157894735,
+        "time_played": 503449
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-11-18-57-67B4riz96vN6giH63dbW3N",
+    "killfeed": [
+      [
+        100585,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "sombra",
+        "MIGHTYOWL42O",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        112279,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "dva_mech",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        119739,
+        1,
+        "s76",
+        "MASS",
+        "genji",
+        "MASTAED1B",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        120907,
+        1,
+        "dva",
+        "CLINTTACIOUS",
+        "winston",
+        "GOLDY",
+        [
+        ],
+        null
+      ],
+      [
+        124538,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "dva",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        127739,
+        0,
+        "lucio",
+        "JERMMMMM",
+        "hanzo",
+        "SPARTAKUSH",
+        [
+        ],
+        null
+      ],
+      [
+        137743,
+        0,
+        "tracer",
+        "AKARU",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        140315,
+        1,
+        "sombra",
+        "MERCY",
+        "tracer",
+        "AKARU",
+        [
+        ],
+        null
+      ],
+      [
+        155775,
+        1,
+        "sombra",
+        "MERCY",
+        "genji",
+        "MASTAED1B",
+        [
+        ],
+        null
+      ],
+      [
+        158186,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "winston",
+        "GOLDY",
+        [
+        ],
+        null
+      ],
+      [
+        161812,
+        0,
+        "sombra",
+        "MIGHTYOWL42O",
+        "junkrat",
+        "JUIICYMELONS",
+        [
+        ],
+        null
+      ],
+      [
+        163017,
+        0,
+        "dva",
+        "MRDRPROFSIMO",
+        "dva_mech",
+        "CLINTTACIOUS",
+        [
+          "sombra"
+        ],
+        null
+      ],
+      [
+        163017,
+        1,
+        "sombra",
+        "MERCY",
+        "dva_mech",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        163017,
+        0,
+        "sombra",
+        "MIGHTYOWL42O",
+        "s76",
+        "MASS",
+        [
+        ],
+        null
+      ],
+      [
+        166655,
+        0,
+        "sombra",
+        "MIGHTYOWL42O",
+        "dva",
+        "CLINTTACIOUS",
+        [
+        ],
+        null
+      ],
+      [
+        168167,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "tracer",
+        "AKARU",
+        [
+          "mercy",
+          "sombra"
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        176636,
+        1,
+        "sombra",
+        "MERCY",
+        "lucio",
+        "JERMMMMM",
+        [
+        ],
+        null
+      ],
+      [
+        178520,
+        0,
+        "genji",
+        "MASTAED1B",
+        "mercy",
+        "MIGHT",
+        [
+          "sombra"
+        ],
+        null
+      ],
+      [
+        183440,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "dva",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        189729,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "genji",
+        "MASTAED1B",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        189729,
+        0,
+        "winston",
+        "GOLDY",
+        "hanzo",
+        "SPARTAKUSH",
+        [
+        ],
+        null
+      ],
+      [
+        191404,
+        1,
+        "s76",
+        "MASS",
+        "sombra",
+        "MIGHTYOWL42O",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        198151,
+        1,
+        "sombra",
+        "MERCY",
+        "tracer",
+        "AKARU",
+        [
+        ],
+        null
+      ],
+      [
+        202023,
+        1,
+        "s76",
+        "MASS",
+        "winston",
+        "GOLDY",
+        [
+        ],
+        null
+      ],
+      [
+        204843,
+        1,
+        "s76",
+        "MASS",
+        "lucio",
+        "JERMMMMM",
+        [
+        ],
+        null
+      ],
+      [
+        214585,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "dva_mech",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        216117,
+        1,
+        "dva",
+        "CLINTTACIOUS",
+        "dva",
+        "MRDRPROFSIMO",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        230355,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "genji",
+        "MASTAED1B",
+        [
+        ],
+        null
+      ],
+      [
+        245289,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "sombra",
+        "MIGHTYOWL42O",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        247783,
+        1,
+        "s76",
+        "MASS",
+        "dva_mech",
+        "MRDRPROFSIMO",
+        [
+          "sombra"
+        ],
+        null
+      ],
+      [
+        249908,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "dva",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        253551,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "tracer",
+        "AKARU",
+        [
+        ],
+        null
+      ],
+      [
+        253551,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "winston",
+        "GOLDY",
+        [
+          "sombra"
+        ],
+        null
+      ],
+      [
+        281063,
+        0,
+        "tracer",
+        "AKARU",
+        "sombra",
+        "MERCY",
+        [
+        ],
+        null
+      ],
+      [
+        285649,
+        0,
+        "tracer",
+        "AKARU",
+        "junkrat",
+        "JUIICYMELONS",
+        [
+        ],
+        null
+      ],
+      [
+        289768,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "lucio",
+        "JERMMMMM",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        289768,
+        3,
+        "mercy",
+        "MIGHT",
+        "junkrat",
+        "JUIICYMELONS",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        289768,
+        3,
+        "mercy",
+        "MIGHT",
+        "sombra",
+        "MERCY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        289768,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "tracer",
+        "AKARU",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        293034,
+        1,
+        "s76",
+        "MASS",
+        "winston",
+        "GOLDY",
+        [
+        ],
+        null
+      ],
+      [
+        296884,
+        0,
+        "sombra",
+        "MIGHTYOWL42O",
+        "junkrat",
+        "JUIICYMELONS",
+        [
+        ],
+        null
+      ],
+      [
+        298586,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "dva_mech",
+        "MRDRPROFSIMO",
+        [
+          "sombra"
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        298586,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "dva",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        302015,
+        1,
+        "sombra",
+        "MERCY",
+        "sombra",
+        "MIGHTYOWL42O",
+        [
+        ],
+        null
+      ],
+      [
+        317629,
+        0,
+        "lucio",
+        "JERMMMMM",
+        "sombra",
+        "MERCY",
+        [
+        ],
+        null
+      ],
+      [
+        320800,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "genji",
+        "MASTAED1B",
+        [
+        ],
+        null
+      ],
+      [
+        330441,
+        1,
+        "dva",
+        "CLINTTACIOUS",
+        "dva_mech",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        333177,
+        0,
+        "sombra",
+        "MIGHTYOWL42O",
+        "s76",
+        "MASS",
+        [
+        ],
+        null
+      ],
+      [
+        333177,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "dva",
+        "MRDRPROFSIMO",
+        [
+          "junkrat"
+        ],
+        null
+      ],
+      [
+        334317,
+        0,
+        "sombra",
+        "MIGHTYOWL42O",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        344717,
+        1,
+        "dva",
+        "CLINTTACIOUS",
+        "sombra",
+        "MIGHTYOWL42O",
+        [
+          "sombra"
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        344717,
+        1,
+        "sombra",
+        "MERCY",
+        "tracer",
+        "AKARU",
+        [
+        ],
+        null
+      ],
+      [
+        344717,
+        0,
+        "genji",
+        "MASTAED1B",
+        "hanzo",
+        "SPARTAKUSH",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        349737,
+        1,
+        "dva",
+        "CLINTTACIOUS",
+        "genji",
+        "MASTAED1B",
+        [
+        ],
+        null
+      ],
+      [
+        352023,
+        1,
+        "junkrat",
+        "JUIICYMELONS",
+        "lucio",
+        "JERMMMMM",
+        [
+          "sombra"
+        ],
+        null
+      ],
+      [
+        356282,
+        0,
+        "lucio",
+        "JERMMMMM",
+        "dva_mech",
+        "CLINTTACIOUS",
+        [
+        ],
+        null
+      ],
+      [
+        481628,
+        0,
+        "tracer",
+        "AKARU",
+        "s76",
+        "MASS",
+        [
+          "mercy",
+          "orisa"
+        ],
+        null
+      ],
+      [
+        482595,
+        1,
+        "s76",
+        "MASS",
+        "tracer",
+        "AKARU",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        491750,
+        1,
+        "dva",
+        "CLINTTACIOUS",
+        "mercy",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ],
+      [
+        494092,
+        0,
+        "reaper",
+        "MASTAED1B",
+        "genji",
+        "SPARTAKUSH",
+        [
+        ],
+        null
+      ],
+      [
+        500595,
+        0,
+        "sombra",
+        "MIGHTYOWL42O",
+        "dva_mech",
+        "CLINTTACIOUS",
+        [
+        ],
+        null
+      ],
+      [
+        503654,
+        0,
+        "sombra",
+        "MIGHTYOWL42O",
+        "dva",
+        "CLINTTACIOUS",
+        [
+          "roadhog"
+        ],
+        null
+      ],
+      [
+        503654,
+        1,
+        "sombra",
+        "MERCY",
+        "reaper",
+        "MASTAED1B",
+        [
+        ],
+        null
+      ],
+      [
+        505189,
+        1,
+        "sombra",
+        "MERCY",
+        "sombra",
+        "MIGHTYOWL42O",
+        [
+        ],
+        null
+      ],
+      [
+        507404,
+        1,
+        "s76",
+        "MASS",
+        "orisa",
+        "GOLDY",
+        [
+          "mercy",
+          "ana"
+        ],
+        null
+      ],
+      [
+        515276,
+        1,
+        "sombra",
+        "MERCY",
+        "tracer",
+        "AKARU",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        517948,
+        1,
+        "s76",
+        "MASS",
+        "roadhog",
+        "JERMMMMM",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        560978,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "sombra",
+        "MIGHTYOWL42O",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        561911,
+        1,
+        "s76",
+        "MASS",
+        "dva_mech",
+        "MRDRPROFSIMO",
+        [
+          "sombra"
+        ],
+        null
+      ],
+      [
+        565353,
+        1,
+        "hanzo",
+        "SPARTAKUSH",
+        "dva",
+        "MRDRPROFSIMO",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Eichenwalde",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 359611,
+        "end_score": null,
+        "stage": "Defend",
+        "start": 43032
+      },
+      {
+        "checkpoints": [
+          [
+            522434,
+            1
+          ]
+        ],
+        "end": 524434,
+        "end_score": 1,
+        "stage": "Attack",
+        "start": 412938
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 2374,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        20,
+        20
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        3
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        932,
+        932,
+        932,
+        1319,
+        1319,
+        4230,
+        4603,
+        4603
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        5,
+        5
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        4,
+        4,
+        9,
+        13,
+        13
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        13,
+        138,
+        138
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        16,
+        28,
+        28
+      ],
+      "time": [
+        44991,
+        53338,
+        71895,
+        83048,
+        89127,
+        138830,
+        145337,
+        153145,
+        180001,
+        186922,
+        352810,
+        529761,
+        548440
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 565353,
+              "hero": "mercy",
+              "start": 137743
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 344717,
+              "hero": "hanzo",
+              "start": 127739
+            },
+            {
+              "end": 494092,
+              "hero": "genji",
+              "start": 494092
+            },
+            {
+              "end": 565353,
+              "hero": "hanzo",
+              "start": 560978
+            }
+          ],
+          "name": "SPARTAKUSH"
+        },
+        {
+          "heroes": [
+            {
+              "end": 565353,
+              "hero": "junkrat",
+              "start": 100585
+            }
+          ],
+          "name": "JUIICYMELONS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 565353,
+              "hero": "sombra",
+              "start": 140315
+            }
+          ],
+          "name": "MERCY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 565353,
+              "hero": "dva",
+              "start": 120907
+            }
+          ],
+          "name": "CLINTTACIOUS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 565353,
+              "hero": "s76",
+              "start": 119739
+            }
+          ],
+          "name": "MASS"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 565353,
+              "hero": "tracer",
+              "start": 137743
+            }
+          ],
+          "name": "AKARU"
+        },
+        {
+          "heroes": [
+            {
+              "end": 356282,
+              "hero": "lucio",
+              "start": 127739
+            },
+            {
+              "end": 565353,
+              "hero": "roadhog",
+              "start": 517948
+            }
+          ],
+          "name": "JERMMMMM"
+        },
+        {
+          "heroes": [
+            {
+              "end": 333177,
+              "hero": "dva",
+              "start": 124538
+            },
+            {
+              "end": 491750,
+              "hero": "mercy",
+              "start": 491750
+            },
+            {
+              "end": 565353,
+              "hero": "dva",
+              "start": 565353
+            }
+          ],
+          "name": "MRDRPROFSIMO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 565353,
+              "hero": "sombra",
+              "start": 100585
+            }
+          ],
+          "name": "MIGHTYOWL42O"
+        },
+        {
+          "heroes": [
+            {
+              "end": 293034,
+              "hero": "winston",
+              "start": 120907
+            },
+            {
+              "end": 565353,
+              "hero": "orisa",
+              "start": 507404
+            }
+          ],
+          "name": "GOLDY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 349737,
+              "hero": "genji",
+              "start": 119739
+            },
+            {
+              "end": 565353,
+              "hero": "reaper",
+              "start": 494092
+            }
+          ],
+          "name": "MASTAED1B"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 569,
+    "end_sr": 2394,
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-11-18-57-67B4riz96vN6giH63dbW3N",
+    "map": "Eichenwalde",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 2374,
+    "time": 1499798859,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-11-18-57-67B4riz96vN6giH63dbW3N/game.json",
+    "user_id": 151467
+  }
+}

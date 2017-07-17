@@ -1,0 +1,89 @@
+Date, Map, Result, SR Before, SR After, Heroes, Group Size
+"2017-06-03T12:50:28.000Z", Dorado, WIN, 2421, 2464, "s76, symmetra", 1
+"2017-06-03T13:15:21.000Z", Eichenwalde, LOSS, 2464, 2449, tracer, 1
+"2017-06-03T13:32:27.000Z", "King's Row", WIN, 2449, 2491, zenyatta, 1
+"2017-06-03T13:55:45.000Z", Temple of Anubis, LOSS, 2491, 2472, "mercy, symmetra", 1
+"2017-06-04T12:40:42.000Z", Dorado, WIN, 2472, 2512, "zenyatta, symmetra", 1
+"2017-06-04T12:55:25.000Z", Hanamura, WIN, 2512, 2529, "tracer, s76, zenyatta", 1
+"2017-06-04T13:28:59.000Z", Ilios, LOSS, 2529, 2513, "lucio, zenyatta, tracer", 1
+"2017-06-04T13:50:09.000Z", Nepal, WIN, 2513, 2553, mercy, 1
+"2017-06-05T11:59:49.000Z", Lijiang Tower, WIN, 2553, 2590, lucio, 1
+"2017-06-05T12:22:14.000Z", Volskaya Industries, LOSS, 2590, 2571, "zenyatta, lucio, mercy", 1
+"2017-06-05T12:42:36.000Z", Hollywood, LOSS, 2571, 2561, "symmetra, mercy", 1
+"2017-06-05T12:56:17.000Z", Dorado, LOSS, 2561, 2544, "widowmaker, symmetra, mercy", 1
+"2017-06-05T13:14:19.000Z", "Watchpoint: Gibraltar", WIN, 2544, 2576, mercy, 1
+"2017-06-05T13:30:43.000Z", Temple of Anubis, WIN, 2576, 2615, mercy, 1
+"2017-06-06T11:37:57.000Z", Eichenwalde, LOSS, 2615, 2595, "widowmaker, junkrat, mercy", 1
+"2017-06-06T12:01:24.000Z", "Watchpoint: Gibraltar", WIN, 2595, 2631, "mercy, zenyatta", 1
+"2017-06-06T12:18:29.000Z", Temple of Anubis, LOSS, 2631, 2620, "zenyatta, mercy", 1
+"2017-06-06T12:37:45.000Z", Route 66, LOSS, 2620, 2599, "zenyatta, mercy, s76", 1
+"2017-06-06T13:03:56.000Z", "King's Row", LOSS, 2599, 2582, "tracer, symmetra, mercy", 1
+"2017-06-06T13:24:21.000Z", Hanamura, WIN, 2582, 2619, mercy, 1
+"2017-06-09T01:24:03.000Z", Temple of Anubis, WIN, 2619, 2647, "symmetra, zenyatta", 1
+"2017-06-09T03:00:46.000Z", Dorado, WIN, "", 2679, mercy, 1
+"2017-06-09T03:23:22.000Z", Route 66, LOSS, 2679, 2660, "mercy, zenyatta", 1
+"2017-06-09T03:54:44.000Z", Oasis, WIN, 2660, 2686, "mercy, lucio", 1
+"2017-06-09T04:26:30.000Z", Eichenwalde, WIN, 2686, 2713, "lucio, mercy", 1
+"2017-06-09T04:49:05.000Z", Ilios, LOSS, 2713, 2689, "mercy, lucio", 1
+"2017-06-12T14:02:30.000Z", Hollywood, WIN, 2689, 2725, "symmetra, mercy", 1
+"2017-06-12T14:27:23.000Z", Nepal, LOSS, 2725, 2701, "ana, zenyatta, lucio", 1
+"2017-06-14T13:38:00.000Z", Eichenwalde, LOSS, 2701, 2675, "mercy, ana, zenyatta", 1
+"2017-06-14T13:56:38.000Z", Route 66, WIN, 2675, 2695, "lucio, zarya, zenyatta", 1
+"2017-06-15T13:22:18.000Z", Ilios, LOSS, "", 2644, "tracer, lucio", 1
+"2017-06-15T13:40:11.000Z", "Watchpoint: Gibraltar", LOSS, 2644, "", "zenyatta, winston, s76", 1
+"2017-06-16T12:32:11.000Z", Oasis, LOSS, 2622, 2605, "zenyatta, mercy, lucio", 1
+"2017-06-16T12:51:16.000Z", Temple of Anubis, WIN, 2605, 2638, "zenyatta, mercy", 1
+"2017-06-19T12:26:08.000Z", Hollywood, LOSS, 2638, 2613, "symmetra, lucio, mercy", 1
+"2017-06-19T12:46:52.000Z", Temple of Anubis, DRAW, 2613, 2613, "s76, symmetra, lucio", 1
+"2017-06-19T13:15:38.000Z", "King's Row", LOSS, 2613, 2585, "reinhardt, junkrat, s76", 1
+"2017-06-20T12:18:46.000Z", "Watchpoint: Gibraltar", WIN, 2585, 2612, "junkrat, mercy", 1
+"2017-06-20T12:43:30.000Z", Ilios, LOSS, 2612, 2585, "mei, winston, lucio", 1
+"2017-06-20T13:14:10.000Z", Route 66, WIN, 2585, 2610, mercy, 1
+"2017-06-20T13:31:31.000Z", Temple of Anubis, DRAW, 2610, 2610, mercy, 1
+"2017-06-20T13:53:47.000Z", Eichenwalde, LOSS, 2610, 2590, "mercy, lucio", 1
+"2017-06-20T14:18:46.000Z", Volskaya Industries, LOSS, 2590, 2574, "mercy, symmetra", 1
+"2017-06-20T14:34:26.000Z", Oasis, LOSS, 2574, 2555, "zenyatta, mercy", 1
+"2017-06-21T12:17:58.000Z", Hollywood, WIN, 2555, 2577, "zenyatta, junkrat, symmetra", 1
+"2017-06-21T12:45:23.000Z", Oasis, WIN, 2577, 2601, "lucio, ana, junkrat", 1
+"2017-06-23T11:31:57.000Z", "Watchpoint: Gibraltar", WIN, "", 2625, "mercy, winston, junkrat", 1
+"2017-06-23T12:07:55.000Z", Nepal, LOSS, 2625, 2606, mercy, 1
+"2017-06-23T12:45:53.000Z", Oasis, WIN, 2606, 2628, "zenyatta, mercy", 1
+"2017-06-24T05:49:40.000Z", "Watchpoint: Gibraltar", WIN, 2628, 2658, mercy, 1
+"2017-06-24T06:52:23.000Z", Oasis, LOSS, 2680, 2656, "zenyatta, lucio", 1
+"2017-06-25T02:32:54.000Z", Hollywood, LOSS, 2656, 2632, "mercy, zenyatta, ana", 1
+"2017-06-25T02:44:29.000Z", Route 66, LOSS, 2632, 2608, "symmetra, lucio, zenyatta", 1
+"2017-06-25T13:55:54.000Z", Route 66, WIN, 2608, 2627, "lucio, zenyatta", 1
+"2017-06-25T14:20:54.000Z", Lijiang Tower, WIN, 2627, 2651, "zenyatta, lucio", 1
+"2017-06-25T14:49:50.000Z", Oasis, LOSS, 2651, 2624, "lucio, dva, winston", 1
+"2017-06-25T15:06:41.000Z", "King's Row", WIN, 2624, 2646, "symmetra, lucio, zenyatta", 1
+"2017-06-25T15:48:02.000Z", Eichenwalde, LOSS, 2646, 2623, "mei, zarya, tracer", 1
+"2017-06-25T16:09:04.000Z", Numbani, DRAW, 2623, 2623, "zenyatta, tracer, lucio", 1
+"2017-06-25T16:25:03.000Z", Volskaya Industries, DRAW, 2623, 2623, "mercy, zenyatta, lucio", 1
+"2017-06-25T16:56:37.000Z", Ilios, WIN, 2623, 2645, lucio, 1
+"2017-06-25T17:17:35.000Z", Dorado, LOSS, 2645, 2624, "symmetra, lucio, zenyatta", 1
+"2017-06-25T17:43:51.000Z", "Watchpoint: Gibraltar", WIN, 2624, 2646, "dva, winston", 1
+"2017-06-27T10:38:17.000Z", Eichenwalde, WIN, 2665, 2686, "mercy, zenyatta", 1
+"2017-06-27T10:52:11.000Z", Lijiang Tower, WIN, 2686, 2717, "lucio, mercy", 1
+"2017-06-27T11:16:41.000Z", Volskaya Industries, DRAW, 2717, 2717, "mercy, lucio, zenyatta", 1
+"2017-06-27T11:42:04.000Z", Temple of Anubis, WIN, 2717, 2747, "junkrat, mercy", 1
+"2017-06-27T12:07:19.000Z", Dorado, WIN, 2747, 2767, "dva, mercy, winston", 1
+"2017-06-27T12:26:42.000Z", Ilios, LOSS, 2767, 2741, "mei, s76, dva", 1
+"2017-07-05T11:32:27.000Z", Horizon Lunar Colony, WIN, 2739, 2763, "lucio, mercy, zenyatta", 1
+"2017-07-06T13:00:41.000Z", Volskaya Industries, LOSS, 2763, "", "lucio, zenyatta", 1
+"2017-07-06T13:24:20.000Z", Oasis, LOSS, "", 2717, "s76, ana, zenyatta", 1
+"2017-07-06T13:40:22.000Z", Horizon Lunar Colony, LOSS, 2717, 2692, "pharah, junkrat, mercy", 1
+"2017-07-08T02:25:15.000Z", "King's Row", LOSS, 2720, 2700, "junkrat, s76, zenyatta", 4
+"2017-07-08T02:46:14.000Z", Dorado, LOSS, 2700, "", "zenyatta, lucio", 5
+"2017-07-09T01:53:34.000Z", Volskaya Industries, LOSS, 2680, 2652, "lucio, zenyatta, ana", 2
+"2017-07-09T02:33:37.000Z", "Watchpoint: Gibraltar", WIN, 2652, 2682, mercy, 2
+"2017-07-09T03:00:59.000Z", Eichenwalde, LOSS, 2682, 2656, "tracer, reaper, winston", 2
+"2017-07-09T03:16:56.000Z", Dorado, WIN, 2656, 2686, mercy, 2
+"2017-07-09T04:28:31.000Z", Hollywood, LOSS, 2686, 2667, "symmetra, widowmaker, mercy", 4
+"2017-07-09T04:49:40.000Z", Temple of Anubis, LOSS, 2667, 2648, "ana, mercy", 4
+"2017-07-09T05:07:49.000Z", Oasis, LOSS, 2648, 2630, "junkrat, mercy, ana", 4
+"2017-07-09T05:24:25.000Z", Ilios, LOSS, 2630, 2601, "zarya, zenyatta, lucio", 3
+"2017-07-13T08:33:00.000Z", Horizon Lunar Colony, LOSS, "", 2578, "lucio, mercy, zenyatta", 2
+"2017-07-13T08:49:36.000Z", Hollywood, LOSS, 2578, 2556, "lucio, ana, zenyatta", 3
+"2017-07-13T09:20:06.000Z", Oasis, LOSS, 2556, 2533, "zenyatta, lucio, ana", 4
+"2017-07-13T09:41:52.000Z", Ilios, LOSS, 2533, 2511, "zenyatta, lucio", 3
+

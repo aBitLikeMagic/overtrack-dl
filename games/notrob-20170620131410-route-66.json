@@ -1,0 +1,1061 @@
+{
+  "data": {
+    "assists": [
+      [
+        186923,
+        "DATBURLI",
+        0,
+        1
+      ],
+      [
+        230016,
+        "DATBURLI",
+        0,
+        1
+      ],
+      [
+        230016,
+        "BLUEBEER",
+        0,
+        1
+      ],
+      [
+        507135,
+        "BARKINGFISH",
+        0,
+        1
+      ],
+      [
+        513652,
+        "BLUEBEER",
+        0,
+        1
+      ],
+      [
+        572779,
+        "DATBURLI",
+        1,
+        0
+      ]
+    ],
+    "custom_game": false,
+    "deaths": 1,
+    "end_sr": 2610,
+    "game_duration": 577,
+    "game_ended": 1497965071,
+    "game_started": 1497964450,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 396,
+        "deaths": 1,
+        "elims": 2,
+        "healing": 4843,
+        "hero_stat_1": 1,
+        "hero_stat_2": 5,
+        "hero_stat_3": 1,
+        "hero_stat_5": 2,
+        "hero_stat_6": 577287,
+        "objective_kills": 1,
+        "objective_time": 44,
+        "tab_health": 0.5555555555555556,
+        "time_played": 487586
+      },
+      "mercy": {
+        "damage": 396,
+        "deaths": 1,
+        "elims": 2,
+        "healing": 4843,
+        "hero_stat_1": 7,
+        "hero_stat_2": 2,
+        "hero_stat_3": 13,
+        "hero_stat_4": 205,
+        "hero_stat_5": 1,
+        "objective_kills": 1,
+        "objective_time": 44,
+        "tab_health": 0.5555555555555556,
+        "time_played": 487586
+      }
+    },
+    "key": "notrob-1514/2017-06-20-13-24-hzAaHp8QCPFMz3VfpHzid3",
+    "killfeed": [
+      [
+        127788,
+        1,
+        "genji",
+        "SAEVANG",
+        "genji",
+        "DATBURLI",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        135804,
+        0,
+        "mccree",
+        "BLUEBEER",
+        "zenyatta",
+        "LIZARD",
+        [
+        ]
+      ],
+      [
+        138310,
+        0,
+        "roadhog",
+        "BARKINGFISH",
+        "dva_mech",
+        "FINITENO1",
+        [
+          "ana"
+        ]
+      ],
+      [
+        139313,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "pharah",
+        "@UNKNOWN_RED#1",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        140816,
+        0,
+        null,
+        null,
+        "s76",
+        "BLUESKY",
+        [
+        ]
+      ],
+      [
+        144323,
+        0,
+        "roadhog",
+        "BARKINGFISH",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        146828,
+        0,
+        "roadhog",
+        "BARKINGFISH",
+        "dva",
+        "FINITENO1",
+        [
+        ]
+      ],
+      [
+        156851,
+        1,
+        "genji",
+        "SAEVANG",
+        "ana",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        157351,
+        0,
+        "roadhog",
+        "BARKINGFISH",
+        "genji",
+        "SAEVANG",
+        [
+        ]
+      ],
+      [
+        162363,
+        0,
+        "genji",
+        "DATBURLI",
+        "winston",
+        "INSOMNIADDIC",
+        [
+        ]
+      ],
+      [
+        186923,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "genji",
+        "DATBURLI",
+        [
+        ]
+      ],
+      [
+        189429,
+        1,
+        "genji",
+        "SAEVANG",
+        "reinhardt",
+        "@UNKNOWN_RED#2",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        195443,
+        1,
+        "genji",
+        "SAEVANG",
+        "ana",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        195944,
+        1,
+        "s76",
+        "BLUESKY",
+        "pharah",
+        "@UNKNOWN_RED#1",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        198950,
+        1,
+        "genji",
+        "SAEVANG",
+        "roadhog",
+        "BARKINGFISH",
+        [
+        ]
+      ],
+      [
+        229515,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "genji",
+        "DATBURLI",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        230016,
+        1,
+        "genji",
+        "SAEVANG",
+        "mccree",
+        "BLUEBEER",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        246051,
+        1,
+        "genji",
+        "SAEVANG",
+        "reinhardt",
+        "@UNKNOWN_RED#2",
+        [
+          "mercy",
+          "zenyatta"
+        ]
+      ],
+      [
+        248056,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "ana",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        252569,
+        1,
+        "dva",
+        "FINITENO1",
+        "pharah",
+        "@UNKNOWN_RED#1",
+        [
+          "mercy",
+          "zenyatta"
+        ]
+      ],
+      [
+        259587,
+        0,
+        "mccree",
+        "BLUEBEER",
+        "winston",
+        "INSOMNIADDIC",
+        [
+        ]
+      ],
+      [
+        259587,
+        1,
+        null,
+        null,
+        "roadhog",
+        "BARKINGFISH",
+        [
+        ]
+      ],
+      [
+        260088,
+        1,
+        "zenyatta",
+        "LIZARD",
+        "mccree",
+        "BLUEBEER",
+        [
+        ]
+      ],
+      [
+        264096,
+        3,
+        "mercy",
+        "NOTROB",
+        "winston",
+        "INSOMNIADDIC",
+        [
+        ]
+      ],
+      [
+        265599,
+        1,
+        "genji",
+        "SAEVANG",
+        "genji",
+        "DATBURLI",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        291160,
+        1,
+        "genji",
+        "SAEVANG",
+        "mccree",
+        "BLUEBEER",
+        [
+        ]
+      ],
+      [
+        310701,
+        1,
+        "genji",
+        "SAEVANG",
+        "ana",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        316214,
+        1,
+        "genji",
+        "SAEVANG",
+        "reinhardt",
+        "@UNKNOWN_RED#2",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        316714,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "zarya",
+        "BARKINGFISH",
+        [
+        ]
+      ],
+      [
+        320221,
+        1,
+        "zenyatta",
+        "LIZARD",
+        "mccree",
+        "BLUEBEER",
+        [
+        ]
+      ],
+      [
+        336259,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "widowmaker",
+        "DATBURLI",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        344776,
+        0,
+        "pharah",
+        "@UNKNOWN_RED#1",
+        "s76",
+        "BLUESKY",
+        [
+          "ana"
+        ]
+      ],
+      [
+        468050,
+        0,
+        "mei",
+        "@UNKNOWN_RED#0",
+        "zenyatta",
+        "LIZARD",
+        [
+        ]
+      ],
+      [
+        469052,
+        1,
+        "genji",
+        "SAEVANG",
+        "mccree",
+        "DATBURLI",
+        [
+        ]
+      ],
+      [
+        474062,
+        0,
+        "pharah",
+        "@UNKNOWN_RED#1",
+        "winston",
+        "INSOMNIADDIC",
+        [
+        ]
+      ],
+      [
+        481076,
+        0,
+        "pharah",
+        "@UNKNOWN_RED#1",
+        "genji",
+        "SAEVANG",
+        [
+        ]
+      ],
+      [
+        489094,
+        1,
+        "zenyatta",
+        "LIZARD",
+        "mei",
+        "@UNKNOWN_RED#0",
+        [
+          "orisa"
+        ]
+      ],
+      [
+        496110,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "pharah",
+        "@UNKNOWN_RED#1",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        499116,
+        1,
+        "zenyatta",
+        "LIZARD",
+        "mercy",
+        "@UNKNOWN_RED#2",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        500118,
+        1,
+        "dva",
+        "FINITENO1",
+        "mccree",
+        "DATBURLI",
+        [
+        ]
+      ],
+      [
+        506133,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "zarya",
+        "BARKINGFISH",
+        [
+          "zenyatta"
+        ]
+      ],
+      [
+        506634,
+        1,
+        "orisa",
+        "BLUESKY",
+        "torb_turret",
+        "BLUEBEER",
+        [
+        ]
+      ],
+      [
+        512650,
+        1,
+        "zenyatta",
+        "LIZARD",
+        "torb",
+        "BLUEBEER",
+        [
+        ]
+      ],
+      [
+        539708,
+        0,
+        "torb",
+        "BLUEBEER",
+        "winston",
+        "INSOMNIADDIC",
+        [
+        ]
+      ],
+      [
+        572779,
+        1,
+        "winston",
+        "INSOMNIADDIC",
+        "genji",
+        "DATBURLI",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        573781,
+        1,
+        "genji",
+        "SAEVANG",
+        "mccree",
+        "BLUEBEER",
+        [
+          "zenyatta",
+          "mercy"
+        ]
+      ]
+    ],
+    "map": "Route 66",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 345779,
+        "end_score": 0,
+        "stage": "Defend",
+        "start": 39595
+      },
+      {
+        "checkpoints": [
+          [
+            534197,
+            1
+          ]
+        ],
+        "end": 541211,
+        "end_score": 1,
+        "stage": "Attack",
+        "start": 397391
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 2585,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        310,
+        310,
+        310,
+        310,
+        310,
+        310,
+        310,
+        396
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1058,
+        1058,
+        1058,
+        1058,
+        2278,
+        3562,
+        3562,
+        3562,
+        3562,
+        3562,
+        3562,
+        4843
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        13
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        20,
+        20,
+        20,
+        114,
+        198,
+        198,
+        198,
+        198,
+        198,
+        198,
+        205
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        44
+      ],
+      "time": [
+        50118,
+        59137,
+        70162,
+        75175,
+        82688,
+        145326,
+        150836,
+        156349,
+        161861,
+        261592,
+        342272,
+        401400,
+        407917,
+        438987,
+        445001,
+        451014,
+        537704
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 573781,
+              "hero": "mercy",
+              "start": 144323
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 573781,
+              "hero": "dva",
+              "start": 146828
+            }
+          ],
+          "name": "FINITENO1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 344776,
+              "hero": "s76",
+              "start": 140816
+            },
+            {
+              "end": 573781,
+              "hero": "orisa",
+              "start": 506634
+            }
+          ],
+          "name": "BLUESKY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 573781,
+              "hero": "zenyatta",
+              "start": 135804
+            }
+          ],
+          "name": "LIZARD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 573781,
+              "hero": "genji",
+              "start": 127788
+            }
+          ],
+          "name": "SAEVANG"
+        },
+        {
+          "heroes": [
+            {
+              "end": 573781,
+              "hero": "winston",
+              "start": 139313
+            }
+          ],
+          "name": "INSOMNIADDIC"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 259587,
+              "hero": "roadhog",
+              "start": 138310
+            },
+            {
+              "end": 573781,
+              "hero": "zarya",
+              "start": 316714
+            }
+          ],
+          "name": "BARKINGFISH"
+        },
+        {
+          "heroes": [
+            {
+              "end": 265599,
+              "hero": "genji",
+              "start": 127788
+            },
+            {
+              "end": 336259,
+              "hero": "widowmaker",
+              "start": 336259
+            },
+            {
+              "end": 500118,
+              "hero": "mccree",
+              "start": 469052
+            },
+            {
+              "end": 573781,
+              "hero": "genji",
+              "start": 572779
+            }
+          ],
+          "name": "DATBURLI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 320221,
+              "hero": "mccree",
+              "start": 135804
+            },
+            {
+              "end": 539708,
+              "hero": "torb",
+              "start": 512650
+            },
+            {
+              "end": 573781,
+              "hero": "mccree",
+              "start": 573781
+            }
+          ],
+          "name": "BLUEBEER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 310701,
+              "hero": "ana",
+              "start": 156851
+            },
+            {
+              "end": 573781,
+              "hero": "mei",
+              "start": 468050
+            }
+          ],
+          "name": "@UNKNOWN_RED#0"
+        },
+        {
+          "heroes": [
+            {
+              "end": 573781,
+              "hero": "pharah",
+              "start": 139313
+            }
+          ],
+          "name": "@UNKNOWN_RED#1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 316214,
+              "hero": "reinhardt",
+              "start": 189429
+            },
+            {
+              "end": 573781,
+              "hero": "mercy",
+              "start": 499116
+            }
+          ],
+          "name": "@UNKNOWN_RED#2"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 577,
+    "end_sr": 2610,
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "notrob-1514/2017-06-20-13-24-hzAaHp8QCPFMz3VfpHzid3",
+    "map": "Route 66",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      1,
+      0
+    ],
+    "start_sr": 2585,
+    "time": 1497964450,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-20-13-24-hzAaHp8QCPFMz3VfpHzid3/game.json",
+    "user_id": 2235147
+  }
+}

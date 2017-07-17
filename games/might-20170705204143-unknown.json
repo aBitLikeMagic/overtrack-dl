@@ -1,0 +1,958 @@
+{
+  "data": {
+    "assists": [
+      [
+        95580,
+        "BIGDADDYREIN",
+        0,
+        1
+      ],
+      [
+        107961,
+        "GAYTURTLE",
+        0,
+        1
+      ],
+      [
+        127735,
+        "BADOODIS",
+        0,
+        1
+      ],
+      [
+        457308,
+        "REEFINOCEAN",
+        0,
+        1
+      ],
+      [
+        491009,
+        "GAYTURTLE",
+        0,
+        1
+      ],
+      [
+        649822,
+        "REEFINOCEAN",
+        1,
+        0
+      ],
+      [
+        691829,
+        "REEFINOCEAN",
+        0,
+        1
+      ],
+      [
+        706758,
+        "GAYTURTLE",
+        0,
+        1
+      ],
+      [
+        715293,
+        "BIGDADDYREIN",
+        0,
+        1
+      ],
+      [
+        777620,
+        "REEFINOCEAN",
+        0,
+        1
+      ]
+    ],
+    "avg_sr": [
+      null,
+      2280
+    ],
+    "custom_game": false,
+    "deaths": 11,
+    "end_sr": 2305,
+    "game_duration": 833,
+    "game_ended": 1499288160,
+    "game_started": 1499287303,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 80,
+        "deaths": 10,
+        "elims": 1,
+        "healing": 10896,
+        "hero_stat_1": 1,
+        "hero_stat_2": 9,
+        "hero_stat_3": 1,
+        "hero_stat_5": 1,
+        "hero_stat_6": 833667,
+        "objective_kills": 0,
+        "objective_time": 22,
+        "tab_health": 0.18518518518518517,
+        "time_played": 653298
+      },
+      "mercy": {
+        "damage": 80,
+        "deaths": 9,
+        "elims": 1,
+        "healing": 10896,
+        "hero_stat_1": 5,
+        "hero_stat_2": 1,
+        "hero_stat_3": 9,
+        "hero_stat_4": 112,
+        "hero_stat_5": 4,
+        "objective_kills": 0,
+        "objective_time": 14,
+        "tab_health": 0.18518518518518517,
+        "time_played": 653298
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-05-20-56-MsKkbXJqzotJtpSvYCUGjS",
+    "killfeed": [
+      [
+        128208,
+        1,
+        "s76",
+        "BLOODYKITTY",
+        "pharah",
+        "REEFINOCEAN",
+        [
+        ],
+        null
+      ],
+      [
+        128208,
+        0,
+        "winston",
+        "BIGDADDYREIN",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        128208,
+        1,
+        "dva",
+        "SOJARCOR",
+        "s76",
+        "BADOODIS",
+        [
+          "mercy"
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        128208,
+        1,
+        "s76",
+        "BLOODYKITTY",
+        "lucio",
+        "KRISSY",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        131821,
+        1,
+        "hanzo",
+        "NOOBG",
+        "winston",
+        "BIGDADDYREIN",
+        [
+        ],
+        null
+      ],
+      [
+        159175,
+        0,
+        "lucio",
+        "KRISSY",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        162054,
+        1,
+        "dva",
+        "SOJARCOR",
+        "pharah",
+        "REEFINOCEAN",
+        [
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        202482,
+        0,
+        "pharah",
+        "REEFINOCEAN",
+        "dva",
+        "SOJARCOR",
+        [
+        ],
+        null
+      ],
+      [
+        202482,
+        0,
+        "s76",
+        "BADOODIS",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        202482,
+        1,
+        "genji",
+        "IIPITOII",
+        "mercy",
+        "DOODSCR33N",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        270971,
+        1,
+        "genji",
+        "IIPITOII",
+        "s76",
+        "BADOODIS",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        270971,
+        0,
+        "reinhardt",
+        "GAYTURTLE",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        276541,
+        0,
+        "winston",
+        "BIGDADDYREIN",
+        "genji",
+        "IIPITOII",
+        [
+        ],
+        null
+      ],
+      [
+        341782,
+        0,
+        "winston",
+        "BIGDADDYREIN",
+        "s76",
+        "BLOODYKITTY",
+        [
+        ],
+        null
+      ],
+      [
+        353344,
+        0,
+        "winston",
+        "BIGDADDYREIN",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        353344,
+        0,
+        "winston",
+        "BIGDADDYREIN",
+        "genji",
+        "IIPITOII",
+        [
+        ],
+        null
+      ],
+      [
+        356954,
+        0,
+        "winston",
+        "BIGDADDYREIN",
+        "s76",
+        "BLOODYKITTY",
+        [
+        ],
+        null
+      ],
+      [
+        358144,
+        0,
+        "winston",
+        "BIGDADDYREIN",
+        "dva",
+        "SOJARCOR",
+        [
+        ],
+        null
+      ],
+      [
+        495513,
+        1,
+        null,
+        null,
+        "reinhardt",
+        "GAYTURTLE",
+        [
+        ],
+        null
+      ],
+      [
+        529058,
+        0,
+        "winston",
+        "BIGDADDYREIN",
+        "zenyatta",
+        "IIPITOII",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        529058,
+        0,
+        "s76",
+        "BADOODIS",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        535632,
+        0,
+        "reaper",
+        "REEFINOCEAN",
+        "junkrat",
+        "NOOBG",
+        [
+        ],
+        null
+      ],
+      [
+        535632,
+        0,
+        null,
+        null,
+        "s76",
+        "BLOODYKITTY",
+        [
+        ],
+        null
+      ],
+      [
+        536134,
+        0,
+        "s76",
+        "BADOODIS",
+        "zarya",
+        "SKULLIN",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        556368,
+        0,
+        "mercy",
+        "DOODSCR33N",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        719848,
+        1,
+        "dva",
+        "SOJARCOR",
+        "winston",
+        "BIGDADDYREIN",
+        [
+        ],
+        [
+          "dva",
+          "boosters"
+        ]
+      ],
+      [
+        719848,
+        0,
+        "tracer",
+        "REEFINOCEAN",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        724318,
+        1,
+        "dva",
+        "SOJARCOR",
+        "lucio",
+        "KRISSY",
+        [
+        ],
+        null
+      ],
+      [
+        748979,
+        0,
+        "s76",
+        "BADOODIS",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        781683,
+        1,
+        "tracer",
+        "IIPITOII",
+        "tracer",
+        "REEFINOCEAN",
+        [
+        ],
+        null
+      ],
+      [
+        781683,
+        0,
+        "s76",
+        "BADOODIS",
+        "mercy",
+        "MIGHT",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        827122,
+        3,
+        "mercy",
+        "MIGHT",
+        "junkrat",
+        "NOOBG",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        827122,
+        0,
+        "reinhardt",
+        "GAYTURTLE",
+        "lucio",
+        "BLOODYKITTY",
+        [
+        ],
+        null
+      ],
+      [
+        827122,
+        0,
+        "lucio",
+        "KRISSY",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        827122,
+        1,
+        "tracer",
+        "IIPITOII",
+        "reinhardt",
+        "GAYTURTLE",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        827623,
+        1,
+        null,
+        null,
+        "reinhardt",
+        "GAYTURTLE",
+        [
+        ],
+        null
+      ],
+      [
+        828149,
+        2,
+        "mercy",
+        "DOODSCR33N",
+        "winston",
+        "BIGDADDYREIN",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        828149,
+        2,
+        "mercy",
+        "DOODSCR33N",
+        "reinhardt",
+        "GAYTURTLE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        829651,
+        1,
+        null,
+        null,
+        "winston",
+        "BIGDADDYREIN",
+        [
+        ],
+        null
+      ],
+      [
+        829651,
+        0,
+        "tracer",
+        "REEFINOCEAN",
+        "junkrat",
+        "NOOBG",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        829651,
+        0,
+        "tracer",
+        "REEFINOCEAN",
+        "tracer",
+        "IIPITOII",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        829651,
+        1,
+        null,
+        null,
+        "tracer",
+        "REEFINOCEAN",
+        [
+        ],
+        null
+      ],
+      [
+        831154,
+        0,
+        "lucio",
+        "KRISSY",
+        "dva_mech",
+        "SOJARCOR",
+        [
+        ],
+        null
+      ],
+      [
+        832143,
+        0,
+        "reinhardt",
+        "GAYTURTLE",
+        "dva",
+        "SOJARCOR",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ]
+    ],
+    "map": "UNKNOWN",
+    "map_type": "UNKNOWN",
+    "objective_stages": null,
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": null,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        40,
+        40,
+        80,
+        80
+      ],
+      "deaths": [
+        1,
+        2,
+        4,
+        7,
+        8,
+        10
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "healing": [
+        2191,
+        2111,
+        4172,
+        8210,
+        10711,
+        10896
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy"
+      ],
+      "hero_stat_1": [
+        2,
+        2,
+        3,
+        6,
+        6,
+        7
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "hero_stat_3": [
+        4,
+        4,
+        7,
+        10,
+        13,
+        13
+      ],
+      "hero_stat_4": [
+        27,
+        27,
+        22,
+        149,
+        110,
+        112
+      ],
+      "hero_stat_5": [
+        1,
+        1,
+        1,
+        5,
+        5,
+        5
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        8,
+        8,
+        19,
+        22,
+        22,
+        22
+      ],
+      "time": [
+        143052,
+        174332,
+        283655,
+        580537,
+        731360,
+        796350
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 832143,
+              "hero": "mercy",
+              "start": 128208
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 131821,
+              "hero": "hanzo",
+              "start": 131821
+            },
+            {
+              "end": 832143,
+              "hero": "junkrat",
+              "start": 535632
+            }
+          ],
+          "name": "NOOBG"
+        },
+        {
+          "heroes": [
+            {
+              "end": 535632,
+              "hero": "s76",
+              "start": 128208
+            },
+            {
+              "end": 832143,
+              "hero": "lucio",
+              "start": 827122
+            }
+          ],
+          "name": "BLOODYKITTY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 832143,
+              "hero": "zarya",
+              "start": 536134
+            }
+          ],
+          "name": "SKULLIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 832143,
+              "hero": "dva",
+              "start": 128208
+            }
+          ],
+          "name": "SOJARCOR"
+        },
+        {
+          "heroes": [
+            {
+              "end": 353344,
+              "hero": "genji",
+              "start": 202482
+            },
+            {
+              "end": 529058,
+              "hero": "zenyatta",
+              "start": 529058
+            },
+            {
+              "end": 832143,
+              "hero": "tracer",
+              "start": 781683
+            }
+          ],
+          "name": "IIPITOII"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 832143,
+              "hero": "s76",
+              "start": 128208
+            }
+          ],
+          "name": "BADOODIS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 832143,
+              "hero": "mercy",
+              "start": 202482
+            }
+          ],
+          "name": "DOODSCR33N"
+        },
+        {
+          "heroes": [
+            {
+              "end": 832143,
+              "hero": "reinhardt",
+              "start": 270971
+            }
+          ],
+          "name": "GAYTURTLE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 832143,
+              "hero": "lucio",
+              "start": 128208
+            }
+          ],
+          "name": "KRISSY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 832143,
+              "hero": "winston",
+              "start": 128208
+            }
+          ],
+          "name": "BIGDADDYREIN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 202482,
+              "hero": "pharah",
+              "start": 128208
+            },
+            {
+              "end": 535632,
+              "hero": "reaper",
+              "start": 535632
+            },
+            {
+              "end": 832143,
+              "hero": "tracer",
+              "start": 719848
+            }
+          ],
+          "name": "REEFINOCEAN"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 833,
+    "end_sr": 2305,
+    "heroes_played": [
+      [
+        "mercy",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-05-20-56-MsKkbXJqzotJtpSvYCUGjS",
+    "map": "UNKNOWN",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "UNKNOWN",
+    "score": null,
+    "start_sr": null,
+    "time": 1499287303,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-05-20-56-MsKkbXJqzotJtpSvYCUGjS/game.json",
+    "user_id": 151467
+  }
+}

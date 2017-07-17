@@ -1,0 +1,2166 @@
+{
+  "data": {
+    "assists": [
+      [
+        183444,
+        "MRMEESEEKS",
+        0,
+        1
+      ],
+      [
+        233831,
+        "MRMEESEEKS",
+        0,
+        1
+      ],
+      [
+        368744,
+        "POINTSOURCE",
+        0,
+        1
+      ],
+      [
+        399625,
+        "DYSCONEKT",
+        1,
+        0
+      ],
+      [
+        673129,
+        "MRMEESEEKS",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      232,
+      2297
+    ],
+    "custom_game": false,
+    "deaths": 12,
+    "end_sr": 2333,
+    "game_duration": 871,
+    "game_ended": 1499745240,
+    "game_started": 1499744326,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 4503,
+        "deaths": 12,
+        "elims": 4,
+        "healing": 4249,
+        "hero_stat_1": 2,
+        "hero_stat_2": 3,
+        "hero_stat_3": 7,
+        "hero_stat_5": 4,
+        "hero_stat_6": 871420,
+        "objective_kills": 0,
+        "objective_time": 23,
+        "tab_health": 0.3448275862068966,
+        "time_played": 805741
+      },
+      "mercy": {
+        "damage": 120,
+        "deaths": 4,
+        "elims": 0,
+        "healing": 829,
+        "hero_stat_1": 3,
+        "hero_stat_2": 0,
+        "hero_stat_3": 11,
+        "hero_stat_4": 208,
+        "hero_stat_5": 3,
+        "objective_kills": 0,
+        "objective_time": 18,
+        "tab_health": 0.3448275862068966,
+        "time_played": 330966
+      },
+      "pharah": {
+        "damage": 1088,
+        "deaths": 2,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 72,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 5,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.3448275862068966,
+        "time_played": 110565
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        0.5965574127680767
+      ],
+      [
+        "pharah",
+        0.34278488498770504
+      ],
+      [
+        "zenyatta",
+        0.042333551218601176
+      ],
+      [
+        "junkrat",
+        0.01832415102561708
+      ]
+    ],
+    "key": "Magic-11407/2017-07-11-03-54-ejF4KekdFLUThKvRAHzv9Y",
+    "killfeed": [
+      [
+        113751,
+        1,
+        "mei",
+        "MAGICPANTS",
+        "widowmaker",
+        "MRMEESEEKS",
+        [
+        ],
+        null
+      ],
+      [
+        118133,
+        1,
+        "dva",
+        "CASTIEL",
+        "pharah",
+        "DYSCONEKT",
+        [
+        ],
+        null
+      ],
+      [
+        135550,
+        1,
+        "mccree",
+        "INEXIA",
+        "winston",
+        "PUMKIN",
+        [
+          "mei",
+          "orisa"
+        ],
+        null
+      ],
+      [
+        136349,
+        1,
+        "dva",
+        "CASTIEL",
+        "dva_mech",
+        "KRAIIT",
+        [
+          "orisa"
+        ],
+        null
+      ],
+      [
+        154766,
+        1,
+        "dva",
+        "CASTIEL",
+        "zenyatta",
+        "POINTSOURCE",
+        [
+          "orisa"
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        154766,
+        1,
+        "dva",
+        "CASTIEL",
+        "s76",
+        "MRMEESEEKS",
+        [
+          "orisa"
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        159453,
+        2,
+        "mercy",
+        "TROLLINMON",
+        "zenyatta",
+        "POINTSOURCE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        159453,
+        2,
+        "mercy",
+        "TROLLINMON",
+        "s76",
+        "MRMEESEEKS",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        175488,
+        0,
+        "pharah",
+        "DYSCONEKT",
+        "mccree",
+        "INEXIA",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        180116,
+        0,
+        "dva",
+        "KRAIIT",
+        "orisa",
+        "HOLMEZ",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        183444,
+        1,
+        "lucio",
+        "GERSTON",
+        "s76",
+        "MRMEESEEKS",
+        [
+        ],
+        null
+      ],
+      [
+        183444,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "lucio",
+        "GERSTON",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        186585,
+        3,
+        "mercy",
+        "MAGIC",
+        "orisa",
+        "HOLMEZ",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        186585,
+        0,
+        "zenyatta",
+        "POINTSOURCE",
+        "dva_mech",
+        "CASTIEL",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        191692,
+        0,
+        "winston",
+        "PUMKIN",
+        "dva",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        195459,
+        1,
+        "mei",
+        "MAGICPANTS",
+        "zenyatta",
+        "POINTSOURCE",
+        [
+          "orisa",
+          "mercy"
+        ],
+        [
+          "mei",
+          "blizzard"
+        ]
+      ],
+      [
+        203774,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "mercy",
+        "MAGIC",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        203774,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "orisa_supercharger",
+        "HOLMEZ",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        205054,
+        0,
+        "pharah",
+        "DYSCONEKT",
+        "mccree",
+        "INEXIA",
+        [
+        ],
+        null
+      ],
+      [
+        206162,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "orisa",
+        "HOLMEZ",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        207023,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "mei",
+        "MAGICPANTS",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        225390,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "lucio",
+        "GERSTON",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        230219,
+        0,
+        "dva",
+        "KRAIIT",
+        "dva_mech",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        233831,
+        1,
+        "mccree",
+        "INEXIA",
+        "s76",
+        "MRMEESEEKS",
+        [
+          "mercy"
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        235003,
+        0,
+        "pharah",
+        "DYSCONEKT",
+        "dva",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        249998,
+        1,
+        "s76",
+        "MAGICPANTS",
+        "mercy",
+        "TROLLINMON",
+        [
+        ],
+        null
+      ],
+      [
+        253014,
+        0,
+        "dva",
+        "KRAIIT",
+        "s76",
+        "MAGICPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        260711,
+        1,
+        "mccree",
+        "INEXIA",
+        "zenyatta",
+        "POINTSOURCE",
+        [
+        ],
+        null
+      ],
+      [
+        261842,
+        0,
+        "dva",
+        "KRAIIT",
+        "mercy",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        267407,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "mccree",
+        "INEXIA",
+        [
+        ],
+        null
+      ],
+      [
+        267963,
+        1,
+        "lucio",
+        "GERSTON",
+        "dva_mech",
+        "KRAIIT",
+        [
+        ],
+        null
+      ],
+      [
+        282281,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "dva_mech",
+        "CASTIEL",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        283884,
+        0,
+        "winston",
+        "PUMKIN",
+        "dva",
+        "CASTIEL",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        287570,
+        0,
+        "zenyatta",
+        "POINTSOURCE",
+        "orisa",
+        "HOLMEZ",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        287570,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "lucio",
+        "GERSTON",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        305576,
+        0,
+        "winston",
+        "PUMKIN",
+        "s76",
+        "MAGICPANTS",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        311490,
+        0,
+        "pharah",
+        "DYSCONEKT",
+        "widowmaker",
+        "INEXIA",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        314974,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "orisa",
+        "HOLMEZ",
+        [
+        ],
+        null
+      ],
+      [
+        317741,
+        0,
+        "pharah",
+        "DYSCONEKT",
+        "mercy",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        329013,
+        1,
+        "widowmaker",
+        "INEXIA",
+        "mercy",
+        "TROLLINMON",
+        [
+        ],
+        null
+      ],
+      [
+        330610,
+        1,
+        "widowmaker",
+        "INEXIA",
+        "zenyatta",
+        "POINTSOURCE",
+        [
+        ],
+        null
+      ],
+      [
+        332826,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "lucio",
+        "GERSTON",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        340142,
+        1,
+        "orisa",
+        "HOLMEZ",
+        "pharah",
+        "DYSCONEKT",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        343075,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "dva_mech",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        346266,
+        0,
+        "dva",
+        "KRAIIT",
+        "orisa_supercharger",
+        "HOLMEZ",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        348341,
+        0,
+        "winston",
+        "PUMKIN",
+        "dva",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        352470,
+        1,
+        "orisa",
+        "HOLMEZ",
+        "dva_mech",
+        "KRAIIT",
+        [
+        ],
+        null
+      ],
+      [
+        352470,
+        0,
+        "winston",
+        "PUMKIN",
+        "s76",
+        "MAGICPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        354750,
+        3,
+        "mercy",
+        "MAGIC",
+        "s76",
+        "MAGICPANTS",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        354750,
+        3,
+        "mercy",
+        "MAGIC",
+        "dva",
+        "CASTIEL",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        356418,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "s76",
+        "MAGICPANTS",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        368744,
+        1,
+        "dva",
+        "CASTIEL",
+        "zenyatta",
+        "POINTSOURCE",
+        [
+        ],
+        null
+      ],
+      [
+        372718,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "widowmaker",
+        "INEXIA",
+        [
+        ],
+        null
+      ],
+      [
+        373933,
+        0,
+        "dva",
+        "KRAIIT",
+        "mercy",
+        "MAGIC",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        377113,
+        0,
+        "pharah",
+        "DYSCONEKT",
+        "orisa",
+        "HOLMEZ",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        377975,
+        2,
+        "mercy",
+        "TROLLINMON",
+        "zenyatta",
+        "POINTSOURCE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        379489,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "lucio",
+        "GERSTON",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        382751,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "dva_mech",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        382751,
+        0,
+        "dva",
+        "KRAIIT",
+        "dva",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        382751,
+        0,
+        "zenyatta",
+        "POINTSOURCE",
+        "mccree",
+        "MAGICPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        394882,
+        1,
+        "widowmaker",
+        "INEXIA",
+        "dva_mech",
+        "KRAIIT",
+        [
+        ],
+        null
+      ],
+      [
+        395866,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "orisa",
+        "HOLMEZ",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        399625,
+        1,
+        "zenyatta",
+        "MAGIC",
+        "pharah",
+        "DYSCONEKT",
+        [
+        ],
+        null
+      ],
+      [
+        417477,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "mccree",
+        "MAGICPANTS",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        423663,
+        0,
+        "zenyatta",
+        "POINTSOURCE",
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        431759,
+        0,
+        "pharah",
+        "DYSCONEKT",
+        "lucio",
+        "GERSTON",
+        [
+        ],
+        null
+      ],
+      [
+        436171,
+        0,
+        "dva",
+        "KRAIIT",
+        "orisa",
+        "HOLMEZ",
+        [
+        ],
+        null
+      ],
+      [
+        439655,
+        0,
+        "dva",
+        "KRAIIT",
+        "dva_mech",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        440955,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "mccree",
+        "MAGICPANTS",
+        [
+          "zenyatta"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        442134,
+        0,
+        "dva",
+        "KRAIIT",
+        "widowmaker",
+        "INEXIA",
+        [
+        ],
+        null
+      ],
+      [
+        444828,
+        0,
+        "winston",
+        "PUMKIN",
+        "dva",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        444828,
+        0,
+        "s76",
+        "MRMEESEEKS",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        449011,
+        0,
+        "zenyatta",
+        "POINTSOURCE",
+        "lucio",
+        "GERSTON",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        587088,
+        0,
+        "orisa",
+        "KRAIIT",
+        "winston",
+        "CASTIEL",
+        [
+          "ana",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        596450,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "lucio",
+        "GERSTON",
+        [
+        ],
+        null
+      ],
+      [
+        604776,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        612141,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "ana",
+        "INEXIA",
+        [
+          "mercy",
+          "orisa"
+        ],
+        null
+      ],
+      [
+        619859,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "reinhardt",
+        "MAGICPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        620738,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "lucio",
+        "GERSTON",
+        [
+        ],
+        null
+      ],
+      [
+        623310,
+        1,
+        "winston",
+        "CASTIEL",
+        "mercy",
+        "TROLLINMON",
+        [
+        ],
+        null
+      ],
+      [
+        625636,
+        0,
+        "orisa",
+        "KRAIIT",
+        "s76",
+        "HOLMEZ",
+        [
+        ],
+        null
+      ],
+      [
+        634055,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        635132,
+        0,
+        "ana",
+        "POINTSOURCE",
+        "winston",
+        "CASTIEL",
+        [
+        ],
+        null
+      ],
+      [
+        659037,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "s76",
+        "HOLMEZ",
+        [
+          "orisa"
+        ],
+        null
+      ],
+      [
+        673129,
+        1,
+        "pharah",
+        "MAGIC",
+        "bastion",
+        "MRMEESEEKS",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        673129,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        676908,
+        0,
+        "reinhardt",
+        "PUMKIN",
+        "lucio",
+        "GERSTON",
+        [
+          "mercy",
+          "ana"
+        ],
+        null
+      ],
+      [
+        679918,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "winston",
+        "CASTIEL",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        682256,
+        2,
+        "mercy",
+        "TROLLINMON",
+        "bastion",
+        "MRMEESEEKS",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        683276,
+        1,
+        null,
+        null,
+        "bastion",
+        "MRMEESEEKS",
+        [
+        ],
+        null
+      ],
+      [
+        689617,
+        1,
+        "reinhardt",
+        "MAGICPANTS",
+        "bastion",
+        "MRMEESEEKS",
+        [
+          "ana"
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        693081,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "reinhardt",
+        "MAGICPANTS",
+        [
+          "orisa",
+          "ana"
+        ],
+        null
+      ],
+      [
+        717352,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "ana",
+        "INEXIA",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        718886,
+        1,
+        "genji",
+        "CASTIEL",
+        "ana",
+        "POINTSOURCE",
+        [
+        ],
+        null
+      ],
+      [
+        719992,
+        1,
+        "reinhardt",
+        "MAGICPANTS",
+        "reinhardt",
+        "PUMKIN",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        723406,
+        1,
+        "pharah",
+        "MAGIC",
+        "orisa_supercharger",
+        "KRAIIT",
+        [
+        ],
+        null
+      ],
+      [
+        729913,
+        1,
+        "lucio",
+        "GERSTON",
+        "bastion",
+        "MRMEESEEKS",
+        [
+        ],
+        null
+      ],
+      [
+        731249,
+        1,
+        "pharah",
+        "MAGIC",
+        "orisa",
+        "KRAIIT",
+        [
+        ],
+        null
+      ],
+      [
+        733551,
+        2,
+        "mercy",
+        "TROLLINMON",
+        "orisa",
+        "KRAIIT",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        733551,
+        2,
+        "mercy",
+        "TROLLINMON",
+        "bastion",
+        "MRMEESEEKS",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        742413,
+        1,
+        "s76",
+        "HOLMEZ",
+        "mercy",
+        "TROLLINMON",
+        [
+        ],
+        null
+      ],
+      [
+        742413,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "lucio",
+        "GERSTON",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        744103,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "genji",
+        "CASTIEL",
+        [
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        744103,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "pharah",
+        "MAGIC",
+        [
+          "ana"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        744103,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "s76",
+        "HOLMEZ",
+        [
+          "ana"
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        745578,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "reinhardt",
+        "MAGICPANTS",
+        [
+          "mercy",
+          "orisa",
+          "ana"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        792856,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        795620,
+        0,
+        "orisa",
+        "KRAIIT",
+        "s76",
+        "HOLMEZ",
+        [
+        ],
+        null
+      ],
+      [
+        795620,
+        1,
+        "genji",
+        "CASTIEL",
+        "orisa",
+        "KRAIIT",
+        [
+        ],
+        null
+      ],
+      [
+        795620,
+        1,
+        "junkrat",
+        "MAGICPANTS",
+        "bastion",
+        "MRMEESEEKS",
+        [
+        ],
+        null
+      ],
+      [
+        796734,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "genji",
+        "CASTIEL",
+        [
+          "orisa"
+        ],
+        null
+      ],
+      [
+        804576,
+        2,
+        "mercy",
+        "TROLLINMON",
+        "orisa",
+        "KRAIIT",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        805592,
+        2,
+        "mercy",
+        "TROLLINMON",
+        "bastion",
+        "MRMEESEEKS",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        811366,
+        0,
+        "reinhardt",
+        "PUMKIN",
+        "ana",
+        "INEXIA",
+        [
+        ],
+        null
+      ],
+      [
+        816803,
+        0,
+        "reinhardt",
+        "PUMKIN",
+        "junkrat",
+        "MAGICPANTS",
+        [
+        ],
+        null
+      ],
+      [
+        818722,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "lucio",
+        "GERSTON",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        818722,
+        1,
+        "s76",
+        "HOLMEZ",
+        "reinhardt",
+        "PUMKIN",
+        [
+        ],
+        null
+      ],
+      [
+        821904,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "pharah",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        823705,
+        0,
+        "s76",
+        "DYSCONEKT",
+        "s76",
+        "HOLMEZ",
+        [
+          "mercy",
+          "ana",
+          "orisa"
+        ],
+        null
+      ],
+      [
+        825029,
+        0,
+        "bastion",
+        "MRMEESEEKS",
+        "genji",
+        "CASTIEL",
+        [
+          "orisa"
+        ],
+        null
+      ]
+    ],
+    "map": "Watchpoint: Gibraltar",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            245743,
+            1
+          ],
+          [
+            388581,
+            2
+          ],
+          [
+            457729,
+            3
+          ]
+        ],
+        "end": 459729,
+        "end_score": 3,
+        "stage": "Defend",
+        "start": 51013
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 835398,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 512276
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": 2358,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        120,
+        120,
+        630,
+        630,
+        3415,
+        3415,
+        4198,
+        4198,
+        4503,
+        4503
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        3,
+        4,
+        null,
+        5,
+        6,
+        10,
+        10,
+        11,
+        11,
+        12,
+        12
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        2728,
+        3284,
+        3284,
+        3431,
+        4249,
+        829,
+        4249,
+        4249,
+        4249,
+        4249,
+        4249,
+        4249,
+        4249,
+        4249
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "zenyatta",
+        "junkrat",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        24,
+        0,
+        74,
+        74,
+        75,
+        75,
+        72,
+        72
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        7,
+        9,
+        9,
+        9,
+        11,
+        11,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        6,
+        106,
+        106,
+        106,
+        208,
+        208,
+        0,
+        0,
+        28,
+        28,
+        33,
+        33,
+        33,
+        33
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        3,
+        3,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        4,
+        13,
+        13,
+        13,
+        18,
+        18,
+        18,
+        18,
+        23,
+        23,
+        23,
+        23,
+        23,
+        23
+      ],
+      "time": [
+        52346,
+        60381,
+        66982,
+        72988,
+        208356,
+        263990,
+        278585,
+        322425,
+        376217,
+        383312,
+        426826,
+        456602,
+        747522,
+        754834,
+        796734,
+        804576,
+        825029,
+        858087
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 373933,
+              "hero": "mercy",
+              "start": 186585
+            },
+            {
+              "end": 423663,
+              "hero": "zenyatta",
+              "start": 399625
+            },
+            {
+              "end": 444828,
+              "hero": "junkrat",
+              "start": 444828
+            },
+            {
+              "end": 825029,
+              "hero": "pharah",
+              "start": 604776
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 207023,
+              "hero": "mei",
+              "start": 113751
+            },
+            {
+              "end": 356418,
+              "hero": "s76",
+              "start": 249998
+            },
+            {
+              "end": 440955,
+              "hero": "mccree",
+              "start": 382751
+            },
+            {
+              "end": 745578,
+              "hero": "reinhardt",
+              "start": 619859
+            },
+            {
+              "end": 825029,
+              "hero": "junkrat",
+              "start": 795620
+            }
+          ],
+          "name": "MAGICPANTS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 436171,
+              "hero": "orisa",
+              "start": 180116
+            },
+            {
+              "end": 825029,
+              "hero": "s76",
+              "start": 625636
+            }
+          ],
+          "name": "HOLMEZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 267407,
+              "hero": "mccree",
+              "start": 135550
+            },
+            {
+              "end": 442134,
+              "hero": "widowmaker",
+              "start": 311490
+            },
+            {
+              "end": 825029,
+              "hero": "ana",
+              "start": 612141
+            }
+          ],
+          "name": "INEXIA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 444828,
+              "hero": "dva",
+              "start": 118133
+            },
+            {
+              "end": 679918,
+              "hero": "winston",
+              "start": 587088
+            },
+            {
+              "end": 825029,
+              "hero": "genji",
+              "start": 718886
+            }
+          ],
+          "name": "CASTIEL"
+        },
+        {
+          "heroes": [
+            {
+              "end": 825029,
+              "hero": "lucio",
+              "start": 183444
+            }
+          ],
+          "name": "GERSTON"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 442134,
+              "hero": "dva",
+              "start": 180116
+            },
+            {
+              "end": 825029,
+              "hero": "orisa",
+              "start": 587088
+            }
+          ],
+          "name": "KRAIIT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 431759,
+              "hero": "pharah",
+              "start": 118133
+            },
+            {
+              "end": 825029,
+              "hero": "s76",
+              "start": 604776
+            }
+          ],
+          "name": "DYSCONEKT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 449011,
+              "hero": "zenyatta",
+              "start": 154766
+            },
+            {
+              "end": 825029,
+              "hero": "ana",
+              "start": 635132
+            }
+          ],
+          "name": "POINTSOURCE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 825029,
+              "hero": "mercy",
+              "start": 159453
+            }
+          ],
+          "name": "TROLLINMON"
+        },
+        {
+          "heroes": [
+            {
+              "end": 113751,
+              "hero": "widowmaker",
+              "start": 113751
+            },
+            {
+              "end": 444828,
+              "hero": "s76",
+              "start": 154766
+            },
+            {
+              "end": 825029,
+              "hero": "bastion",
+              "start": 596450
+            }
+          ],
+          "name": "MRMEESEEKS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 444828,
+              "hero": "winston",
+              "start": 135550
+            },
+            {
+              "end": 825029,
+              "hero": "reinhardt",
+              "start": 676908
+            }
+          ],
+          "name": "PUMKIN"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 871,
+    "end_sr": 2333,
+    "heroes_played": [
+      [
+        "mercy",
+        0.5965574127680767
+      ],
+      [
+        "pharah",
+        0.34278488498770504
+      ],
+      [
+        "zenyatta",
+        0.042333551218601176
+      ]
+    ],
+    "key": "Magic-11407/2017-07-11-03-54-ejF4KekdFLUThKvRAHzv9Y",
+    "map": "Watchpoint: Gibraltar",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": 2358,
+    "time": 1499744326,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-11-03-54-ejF4KekdFLUThKvRAHzv9Y/game.json",
+    "user_id": 151467
+  }
+}

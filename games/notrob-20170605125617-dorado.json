@@ -1,0 +1,2059 @@
+{
+  "data": {
+    "assists": [
+      [
+        138286,
+        "UNDINE",
+        0,
+        1
+      ],
+      [
+        141793,
+        "NAWEED",
+        0,
+        1
+      ],
+      [
+        215946,
+        "UNDINE",
+        1,
+        0
+      ],
+      [
+        217950,
+        "NEGUS",
+        1,
+        1
+      ],
+      [
+        267054,
+        "UNDINE",
+        0,
+        1
+      ],
+      [
+        268056,
+        "HIRAETH",
+        0,
+        1
+      ],
+      [
+        401836,
+        "NAWEED",
+        0,
+        1
+      ],
+      [
+        419875,
+        "UNDINE",
+        0,
+        1
+      ],
+      [
+        437913,
+        "HIRAETH",
+        1,
+        1
+      ]
+    ],
+    "deaths": 10,
+    "end_sr": 2544,
+    "game_duration": 845,
+    "game_ended": 1496668266,
+    "game_started": 1496667377,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 270,
+        "deaths": 10,
+        "elims": 5,
+        "healing": 5918,
+        "hero_stat_1": 3,
+        "hero_stat_2": 8,
+        "hero_stat_3": 5,
+        "hero_stat_5": 5,
+        "hero_stat_6": 845787,
+        "objective_kills": 1,
+        "objective_time": 60,
+        "tab_health": 0.6428571428571429,
+        "time_played": 779155
+      },
+      "mercy": {
+        "damage": 1090,
+        "deaths": 6,
+        "elims": 4,
+        "healing": 5918,
+        "hero_stat_1": 5,
+        "hero_stat_2": 4,
+        "hero_stat_3": 10,
+        "hero_stat_4": 177,
+        "hero_stat_5": 4,
+        "objective_kills": 1,
+        "objective_time": 58,
+        "tab_health": 0.6428571428571429,
+        "time_played": 497051
+      },
+      "symmetra": {
+        "damage": 1510,
+        "deaths": 3,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 1,
+        "hero_stat_2": 2,
+        "hero_stat_3": 1,
+        "hero_stat_4": 20,
+        "hero_stat_5": 100,
+        "objective_kills": 0,
+        "objective_time": 2,
+        "tab_health": 0.6428571428571429,
+        "time_played": 168360
+      },
+      "widowmaker": {
+        "damage": 270,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 0,
+        "hero_stat_2": 50,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.6428571428571429,
+        "time_played": 48603
+      }
+    },
+    "key": "notrob-1514/2017-06-05-13-11-4tDkEsGUVumWpQpCoETgHd",
+    "killfeed": [
+      [
+        126763,
+        1,
+        "hanzo",
+        "DOOD",
+        "s76",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        126763,
+        1,
+        "zarya",
+        "XTRA",
+        "reinhardt",
+        "DROGETO",
+        [
+        ]
+      ],
+      [
+        128267,
+        0,
+        "symmetra",
+        "UNDINE",
+        "zarya",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        135282,
+        0,
+        "lucio",
+        "HIRAETH",
+        "dva_mech",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        137786,
+        1,
+        "hanzo",
+        "DOOD",
+        "symmetra",
+        "UNDINE",
+        [
+        ]
+      ],
+      [
+        139788,
+        0,
+        "roadhog",
+        "NEGUS",
+        "dva",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        141793,
+        1,
+        "hanzo",
+        "DOOD",
+        "pharah",
+        "NAWEED",
+        [
+        ]
+      ],
+      [
+        157824,
+        1,
+        "hanzo",
+        "DOOD",
+        "lucio",
+        "HIRAETH",
+        [
+        ]
+      ],
+      [
+        162834,
+        1,
+        "hanzo",
+        "DOOD",
+        "reinhardt",
+        "DROGETO",
+        [
+        ]
+      ],
+      [
+        179870,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "dva_mech",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        181875,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "dva",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        187888,
+        0,
+        "symmetra",
+        "UNDINE",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        191394,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "s76",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        194401,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "zarya",
+        "XTRA",
+        [
+          "roadhog"
+        ]
+      ],
+      [
+        202919,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "reaper",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        207930,
+        0,
+        "roadhog",
+        "NEGUS",
+        "hanzo",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        211938,
+        3,
+        "mercy",
+        "NOTROB",
+        "reaper",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        211938,
+        3,
+        "mercy",
+        "NOTROB",
+        "hanzo",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        215946,
+        1,
+        "hanzo",
+        "DOOD",
+        "symmetra",
+        "UNDINE",
+        [
+        ]
+      ],
+      [
+        217950,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "roadhog",
+        "NEGUS",
+        [
+        ]
+      ],
+      [
+        222960,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "dva_mech",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        222960,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "dva",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        231478,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        236487,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "reaper",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        237490,
+        0,
+        "roadhog",
+        "NEGUS",
+        "lucio",
+        "ENVISAGE",
+        [
+        ]
+      ],
+      [
+        266553,
+        1,
+        "dva",
+        "INFINITENO1",
+        "symmetra",
+        "UNDINE",
+        [
+          "mercy",
+          "zarya"
+        ]
+      ],
+      [
+        268056,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "lucio",
+        "HIRAETH",
+        [
+          "mercy",
+          "zarya"
+        ]
+      ],
+      [
+        268557,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "reinhardt",
+        "DROGETO",
+        [
+          "mercy",
+          "zarya"
+        ]
+      ],
+      [
+        270059,
+        0,
+        "roadhog",
+        "NEGUS",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        271061,
+        0,
+        "pharah",
+        "NAWEED",
+        "hanzo",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        274067,
+        1,
+        "hanzo",
+        "DOOD",
+        "s76",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        274067,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "pharah",
+        "NAWEED",
+        [
+        ]
+      ],
+      [
+        283086,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "roadhog",
+        "NEGUS",
+        [
+        ]
+      ],
+      [
+        312652,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "s76",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        324175,
+        0,
+        "lucio",
+        "HIRAETH",
+        "reaper",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        327182,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "dva_mech",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        329688,
+        0,
+        "pharah",
+        "NAWEED",
+        "dva",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        337204,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "mercy",
+        "NOTROB",
+        [
+          "roadhog"
+        ]
+      ],
+      [
+        342214,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "s76",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        345220,
+        0,
+        "pharah",
+        "NAWEED",
+        "zarya",
+        "XTRA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        354239,
+        0,
+        "lucio",
+        "HIRAETH",
+        "dva_mech",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        355241,
+        0,
+        "roadhog",
+        "NEGUS",
+        "dva",
+        "INFINITENO1",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        357245,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "reaper",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        363260,
+        3,
+        "mercy",
+        "NOTROB",
+        "reaper",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        388813,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "s76",
+        "@UNKNOWN_RED#0",
+        [
+        ]
+      ],
+      [
+        401335,
+        1,
+        "s76",
+        "DOOD",
+        "pharah",
+        "NAWEED",
+        [
+        ]
+      ],
+      [
+        408349,
+        1,
+        "dva",
+        "INFINITENO1",
+        "roadhog",
+        "NEGUS",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        412359,
+        1,
+        null,
+        null,
+        "roadhog",
+        "NEGUS",
+        [
+        ]
+      ],
+      [
+        413360,
+        2,
+        "mercy",
+        "UNDINE",
+        "roadhog",
+        "NEGUS",
+        [
+        ]
+      ],
+      [
+        419374,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "mercy",
+        "UNDINE",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        428394,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "roadhog",
+        "NEGUS",
+        [
+        ]
+      ],
+      [
+        431399,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "reinhardt",
+        "DROGETO",
+        [
+        ]
+      ],
+      [
+        436912,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "s76",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        437913,
+        1,
+        "mercy",
+        "NOTROB",
+        "lucio",
+        "HIRAETH",
+        [
+        ]
+      ],
+      [
+        453448,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "pharah",
+        "NAWEED",
+        [
+        ]
+      ],
+      [
+        464974,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        465475,
+        0,
+        "roadhog",
+        "NEGUS",
+        "dva_mech",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        475999,
+        0,
+        "pharah",
+        "NAWEED",
+        "reaper",
+        "OCEANLAB",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        481509,
+        0,
+        "pharah",
+        "NAWEED",
+        "s76",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        485017,
+        0,
+        "lucio",
+        "HIRAETH",
+        "lucio",
+        "ENVISAGE",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        490029,
+        1,
+        "dva",
+        "INFINITENO1",
+        "lucio",
+        "HIRAETH",
+        [
+        ]
+      ],
+      [
+        495038,
+        0,
+        "pharah",
+        "NAWEED",
+        "zarya",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        495539,
+        3,
+        "mercy",
+        "NOTROB",
+        "zarya",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        517088,
+        1,
+        "reaper",
+        "OCEANLAB",
+        "reinhardt",
+        "DROGETO",
+        [
+        ]
+      ],
+      [
+        520095,
+        0,
+        "roadhog",
+        "NEGUS",
+        "reaper",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        523602,
+        0,
+        "pharah",
+        "NAWEED",
+        "mercy",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        527611,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "s76",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        529615,
+        1,
+        "dva",
+        "INFINITENO1",
+        "roadhog",
+        "NEGUS",
+        [
+        ]
+      ],
+      [
+        530618,
+        0,
+        "pharah",
+        "NAWEED",
+        "zarya",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        530618,
+        1,
+        null,
+        null,
+        "roadhog",
+        "NEGUS",
+        [
+        ]
+      ],
+      [
+        531119,
+        2,
+        "mercy",
+        "UNDINE",
+        "roadhog",
+        "NEGUS",
+        [
+        ]
+      ],
+      [
+        537131,
+        0,
+        "pharah",
+        "NAWEED",
+        "dva_mech",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        537131,
+        0,
+        "pharah",
+        "NAWEED",
+        "dva",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        537131,
+        0,
+        null,
+        null,
+        "lucio",
+        "ENVISAGE",
+        [
+        ]
+      ],
+      [
+        537631,
+        0,
+        "s76",
+        "@UNKNOWN_RED#0",
+        "lucio",
+        "ENVISAGE",
+        [
+        ]
+      ],
+      [
+        684957,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "symmetra",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        685458,
+        1,
+        "roadhog",
+        "XTRA",
+        "lucio",
+        "HIRAETH",
+        [
+        ]
+      ],
+      [
+        688963,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "reinhardt",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        700488,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "roadhog",
+        "XTRA",
+        [
+          "roadhog"
+        ]
+      ],
+      [
+        701489,
+        0,
+        "pharah",
+        "NAWEED",
+        "mercy",
+        "ENVISAGE",
+        [
+        ]
+      ],
+      [
+        706000,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "tracer",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        720029,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "s76",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        727541,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "reinhardt",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        727541,
+        0,
+        "pharah",
+        "NAWEED",
+        "symmetra",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        732051,
+        0,
+        "roadhog",
+        "NEGUS",
+        "mercy",
+        "ENVISAGE",
+        [
+        ]
+      ],
+      [
+        734555,
+        0,
+        "lucio",
+        "HIRAETH",
+        "roadhog",
+        "XTRA",
+        [
+        ]
+      ],
+      [
+        735056,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "reaper",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        745076,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "s76",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        760109,
+        0,
+        "pharah",
+        "NAWEED",
+        "symmetra",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        775642,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "hanzo",
+        "DOOD",
+        [
+        ]
+      ],
+      [
+        779152,
+        0,
+        "pharah",
+        "NAWEED",
+        "s76",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        780154,
+        0,
+        "pharah",
+        "NAWEED",
+        "mercy",
+        "ENVISAGE",
+        [
+        ]
+      ],
+      [
+        780655,
+        0,
+        null,
+        null,
+        "s76",
+        "OCEANLAB",
+        [
+        ]
+      ],
+      [
+        781658,
+        0,
+        "pharah",
+        "NAWEED",
+        "reinhardt",
+        "INFINITENO1",
+        [
+        ]
+      ],
+      [
+        784662,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "roadhog",
+        "XTRA",
+        [
+          "mercy"
+        ]
+      ],
+      [
+        788169,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "widowmaker",
+        "NOTROB",
+        [
+        ]
+      ],
+      [
+        801694,
+        0,
+        "hanzo",
+        "@UNKNOWN_RED#0",
+        "mercy",
+        "ENVISAGE",
+        [
+        ]
+      ],
+      [
+        806203,
+        0,
+        "reinhardt",
+        "DROGETO",
+        "hanzo",
+        "DOOD",
+        [
+        ]
+      ]
+    ],
+    "map": "Dorado",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            286094,
+            1
+          ]
+        ],
+        "end": 545148,
+        "end_score": 1,
+        "stage": "Attack",
+        "start": 40079
+      },
+      {
+        "checkpoints": [
+          [
+            738563,
+            1
+          ],
+          [
+            802697,
+            2
+          ]
+        ],
+        "end": 810213,
+        "end_score": 2,
+        "stage": "Defend",
+        "start": 556172
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "NOTROB",
+    "result": "LOSS",
+    "score": [
+      1,
+      2
+    ],
+    "start_sr": 2561,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        100,
+        100,
+        260,
+        260,
+        260,
+        260,
+        495,
+        495,
+        495,
+        495,
+        495,
+        495,
+        495,
+        910,
+        910,
+        910,
+        1090,
+        1090,
+        1090,
+        1090,
+        1090,
+        1090,
+        1090,
+        1090,
+        1936,
+        1936,
+        1936,
+        1998,
+        2005,
+        2481,
+        2481,
+        2481,
+        2584,
+        2600,
+        2600,
+        2708,
+        2708,
+        2708,
+        270
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7,
+        8,
+        8,
+        8,
+        9,
+        9,
+        9,
+        10,
+        10,
+        10,
+        10
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2077,
+        2077,
+        2077,
+        2077,
+        2408,
+        2422,
+        2422,
+        2422,
+        2775,
+        2775,
+        2775,
+        2775,
+        3499,
+        3499,
+        3499,
+        5109,
+        5109,
+        5109,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918,
+        5918
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "symmetra",
+        "widowmaker",
+        "widowmaker",
+        "widowmaker",
+        "widowmaker",
+        "widowmaker"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        0,
+        50,
+        50,
+        50,
+        50
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        10,
+        10,
+        10,
+        10,
+        10,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        17,
+        17,
+        17,
+        17,
+        76,
+        76,
+        76,
+        177,
+        177,
+        177,
+        177,
+        177,
+        177,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        15,
+        21,
+        25,
+        21,
+        20,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        100,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        21,
+        21,
+        21,
+        21,
+        26,
+        26,
+        26,
+        26,
+        27,
+        27,
+        27,
+        27,
+        40,
+        40,
+        40,
+        52,
+        52,
+        52,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        59,
+        59,
+        59,
+        59,
+        59,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60
+      ],
+      "time": [
+        43085,
+        54609,
+        63625,
+        68636,
+        76653,
+        188889,
+        194902,
+        199912,
+        207428,
+        229975,
+        235485,
+        240495,
+        246005,
+        269558,
+        278075,
+        284590,
+        290102,
+        336703,
+        342715,
+        348727,
+        464473,
+        471488,
+        478003,
+        524103,
+        531119,
+        540136,
+        597762,
+        603271,
+        609283,
+        617304,
+        646367,
+        683954,
+        688963,
+        693975,
+        699486,
+        704496,
+        728543,
+        734055,
+        744074,
+        760610,
+        766122,
+        773637,
+        788670,
+        796685,
+        805702,
+        822240
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 523602,
+              "hero": "mercy",
+              "start": 187888
+            },
+            {
+              "end": 760109,
+              "hero": "symmetra",
+              "start": 684957
+            },
+            {
+              "end": 806203,
+              "hero": "widowmaker",
+              "start": 788169
+            }
+          ],
+          "name": "NOTROB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 537131,
+              "hero": "dva",
+              "start": 139788
+            },
+            {
+              "end": 806203,
+              "hero": "reinhardt",
+              "start": 688963
+            }
+          ],
+          "name": "INFINITENO1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 530618,
+              "hero": "zarya",
+              "start": 126763
+            },
+            {
+              "end": 806203,
+              "hero": "roadhog",
+              "start": 685458
+            }
+          ],
+          "name": "XTRA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 537631,
+              "hero": "lucio",
+              "start": 237490
+            },
+            {
+              "end": 806203,
+              "hero": "mercy",
+              "start": 701489
+            }
+          ],
+          "name": "ENVISAGE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 520095,
+              "hero": "reaper",
+              "start": 191394
+            },
+            {
+              "end": 706000,
+              "hero": "tracer",
+              "start": 706000
+            },
+            {
+              "end": 735056,
+              "hero": "reaper",
+              "start": 735056
+            },
+            {
+              "end": 806203,
+              "hero": "s76",
+              "start": 779152
+            }
+          ],
+          "name": "OCEANLAB"
+        },
+        {
+          "heroes": [
+            {
+              "end": 274067,
+              "hero": "hanzo",
+              "start": 126763
+            },
+            {
+              "end": 745076,
+              "hero": "s76",
+              "start": 312652
+            },
+            {
+              "end": 806203,
+              "hero": "hanzo",
+              "start": 775642
+            }
+          ],
+          "name": "DOOD"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 806203,
+              "hero": "roadhog",
+              "start": 139788
+            }
+          ],
+          "name": "NEGUS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 806203,
+              "hero": "reinhardt",
+              "start": 126763
+            }
+          ],
+          "name": "DROGETO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 806203,
+              "hero": "lucio",
+              "start": 135282
+            }
+          ],
+          "name": "HIRAETH"
+        },
+        {
+          "heroes": [
+            {
+              "end": 806203,
+              "hero": "pharah",
+              "start": 141793
+            }
+          ],
+          "name": "NAWEED"
+        },
+        {
+          "heroes": [
+            {
+              "end": 266553,
+              "hero": "symmetra",
+              "start": 128267
+            },
+            {
+              "end": 806203,
+              "hero": "mercy",
+              "start": 413360
+            }
+          ],
+          "name": "UNDINE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 537631,
+              "hero": "s76",
+              "start": 126763
+            },
+            {
+              "end": 806203,
+              "hero": "hanzo",
+              "start": 684957
+            }
+          ],
+          "name": "@UNKNOWN_RED#0"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 845,
+    "end_sr": 2544,
+    "heroes_played": [
+      [
+        "mercy",
+        0.7827325716950339
+      ],
+      [
+        "symmetra",
+        0.17522033107950571
+      ],
+      [
+        "widowmaker",
+        0.04204709722546048
+      ]
+    ],
+    "key": "notrob-1514/2017-06-05-13-11-4tDkEsGUVumWpQpCoETgHd",
+    "map": "Dorado",
+    "player_name": "NOTROB",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      1,
+      2
+    ],
+    "start_sr": 2561,
+    "time": 1496667377,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-06-05-13-11-4tDkEsGUVumWpQpCoETgHd/game.json",
+    "user_id": 2235147
+  }
+}

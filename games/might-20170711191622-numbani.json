@@ -1,0 +1,1297 @@
+{
+  "data": {
+    "assists": [
+    ],
+    "avg_sr": [
+      null,
+      2330
+    ],
+    "custom_game": false,
+    "deaths": 6,
+    "end_sr": 2346,
+    "game_duration": 528,
+    "game_ended": 1499801119,
+    "game_started": 1499800582,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 701,
+        "deaths": 6,
+        "elims": 0,
+        "healing": 1661,
+        "hero_stat_1": 0,
+        "hero_stat_3": 3,
+        "hero_stat_5": 0,
+        "hero_stat_6": 528862,
+        "objective_kills": 0,
+        "objective_time": 8,
+        "tab_health": 0.5555555555555556,
+        "time_played": 479096
+      },
+      "junkrat": {
+        "damage": 526,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 69,
+        "hero_stat_2": 1,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.5555555555555556,
+        "time_played": 77793
+      },
+      "mercy": {
+        "damage": 0,
+        "deaths": 4,
+        "elims": 0,
+        "healing": 1276,
+        "hero_stat_1": 2,
+        "hero_stat_2": 0,
+        "hero_stat_3": 3,
+        "hero_stat_4": 439,
+        "hero_stat_5": 3,
+        "objective_kills": 0,
+        "objective_time": 6,
+        "tab_health": 0.5555555555555556,
+        "time_played": 212187
+      },
+      "s76": {
+        "damage": 19,
+        "deaths": 0,
+        "elims": 0,
+        "healing": 170,
+        "hero_stat_1": 7,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.5555555555555556,
+        "time_played": 31786
+      },
+      "zenyatta": {
+        "damage": 156,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 215,
+        "hero_stat_1": 31,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 2,
+        "tab_health": 0.5555555555555556,
+        "time_played": 55357
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        0.6412424823655971
+      ],
+      [
+        "junkrat",
+        0.18721707342313182
+      ],
+      [
+        "zenyatta",
+        0.13322246903300178
+      ],
+      [
+        "s76",
+        0.03831797517826931
+      ]
+    ],
+    "key": "Magic-11407/2017-07-11-19-25-o2zTYkFXz7hYLrp8cvdqe8",
+    "killfeed": [
+      [
+        103985,
+        0,
+        "s76",
+        "K1D",
+        "mercy",
+        "MIGHT",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        119960,
+        1,
+        "s76",
+        "DANEW2985",
+        "ana",
+        "HOOLIGAN",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        120640,
+        0,
+        "reinhardt",
+        "DREADOFCHAOS",
+        "reaper",
+        "AGBOY",
+        [
+        ],
+        null
+      ],
+      [
+        121236,
+        1,
+        "roadhog",
+        "FKTHISGAME",
+        "reinhardt",
+        "DREADOFCHAOS",
+        [
+          "orisa"
+        ],
+        null
+      ],
+      [
+        122280,
+        0,
+        "s76",
+        "K1D",
+        "roadhog",
+        "FKTHISGAME",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        128050,
+        0,
+        "s76",
+        "K1D",
+        "orisa",
+        "BENCHMARK",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        158724,
+        0,
+        "s76",
+        "K1D",
+        "s76",
+        "DANEW2985",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        163252,
+        0,
+        "reinhardt",
+        "DREADOFCHAOS",
+        "roadhog",
+        "FKTHISGAME",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        174777,
+        0,
+        "hanzo",
+        "PWNSOME",
+        "reaper",
+        "AGBOY",
+        [
+          "reinhardt"
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        175624,
+        0,
+        "hanzo",
+        "PWNSOME",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        175624,
+        1,
+        "lucio",
+        "LUCIO",
+        "winston",
+        "DARKKNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        176425,
+        0,
+        "ana",
+        "HOOLIGAN",
+        "orisa",
+        "BENCHMARK",
+        [
+          "reinhardt"
+        ],
+        [
+          "ana",
+          "bioticgrenade"
+        ]
+      ],
+      [
+        178010,
+        0,
+        "reinhardt",
+        "DREADOFCHAOS",
+        "lucio",
+        "LUCIO",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        185350,
+        0,
+        "s76",
+        "K1D",
+        "s76",
+        "DANEW2985",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        189066,
+        1,
+        "roadhog",
+        "FKTHISGAME",
+        "hanzo",
+        "PWNSOME",
+        [
+        ],
+        null
+      ],
+      [
+        202446,
+        1,
+        "roadhog",
+        "FKTHISGAME",
+        "ana",
+        "HOOLIGAN",
+        [
+        ],
+        null
+      ],
+      [
+        212111,
+        1,
+        "roadhog",
+        "FKTHISGAME",
+        "reinhardt",
+        "DREADOFCHAOS",
+        [
+          "mercy"
+        ],
+        [
+          "roadhog",
+          "wholehog"
+        ]
+      ],
+      [
+        218908,
+        0,
+        "s76",
+        "K1D",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        229378,
+        0,
+        "s76",
+        "K1D",
+        "s76",
+        "DANEW2985",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        237133,
+        0,
+        "s76",
+        "K1D",
+        "lucio",
+        "LUCIO",
+        [
+          "mercy",
+          "ana"
+        ],
+        null
+      ],
+      [
+        238346,
+        0,
+        "ana",
+        "HOOLIGAN",
+        "orisa",
+        "BENCHMARK",
+        [
+        ],
+        null
+      ],
+      [
+        242417,
+        0,
+        "s76",
+        "K1D",
+        "roadhog",
+        "FKTHISGAME",
+        [
+          "ana",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        245584,
+        1,
+        "zarya",
+        "AGBOY",
+        "winston",
+        "DARKKNIGHT",
+        [
+          "roadhog"
+        ],
+        null
+      ],
+      [
+        247994,
+        2,
+        "mercy",
+        "HECTO",
+        "winston",
+        "DARKKNIGHT",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        247994,
+        0,
+        "reinhardt",
+        "DREADOFCHAOS",
+        "zarya",
+        "AGBOY",
+        [
+          "mercy",
+          "ana"
+        ],
+        null
+      ],
+      [
+        247994,
+        3,
+        "mercy",
+        "MIGHT",
+        "orisa",
+        "BENCHMARK",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        247994,
+        3,
+        "mercy",
+        "MIGHT",
+        "roadhog",
+        "FKTHISGAME",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        249294,
+        3,
+        "mercy",
+        "MIGHT",
+        "zarya",
+        "AGBOY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        252917,
+        0,
+        "s76",
+        "K1D",
+        "zarya",
+        "AGBOY",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        254327,
+        1,
+        "orisa",
+        "BENCHMARK",
+        "ana",
+        "HOOLIGAN",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        259564,
+        0,
+        "s76",
+        "K1D",
+        "mercy",
+        "MIGHT",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        266451,
+        0,
+        "s76",
+        "K1D",
+        "roadhog",
+        "FKTHISGAME",
+        [
+        ],
+        null
+      ],
+      [
+        266451,
+        1,
+        "orisa",
+        "BENCHMARK",
+        "reinhardt",
+        "DREADOFCHAOS",
+        [
+          "roadhog"
+        ],
+        null
+      ],
+      [
+        266451,
+        0,
+        "s76",
+        "K1D",
+        "lucio",
+        "LUCIO",
+        [
+          "mercy"
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        269020,
+        0,
+        "winston",
+        "DARKKNIGHT",
+        "orisa_supercharger",
+        "BENCHMARK",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        270201,
+        1,
+        "s76",
+        "DANEW2985",
+        "hanzo",
+        "PWNSOME",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        275933,
+        0,
+        "s76",
+        "K1D",
+        "s76",
+        "DANEW2985",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        275933,
+        0,
+        "winston",
+        "DARKKNIGHT",
+        "orisa",
+        "BENCHMARK",
+        [
+        ],
+        null
+      ],
+      [
+        308561,
+        0,
+        "winston",
+        "DARKKNIGHT",
+        "lucio",
+        "LUCIO",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        314075,
+        0,
+        "hanzo",
+        "PWNSOME",
+        "pharah",
+        "FKTHISGAME",
+        [
+        ],
+        null
+      ],
+      [
+        317737,
+        0,
+        "s76",
+        "K1D",
+        "orisa",
+        "BENCHMARK",
+        [
+        ],
+        null
+      ],
+      [
+        317737,
+        0,
+        "hanzo",
+        "PWNSOME",
+        "zenyatta",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        321929,
+        0,
+        "hanzo",
+        "PWNSOME",
+        "s76",
+        "DANEW2985",
+        [
+        ],
+        null
+      ],
+      [
+        322430,
+        0,
+        "s76",
+        "K1D",
+        "zarya",
+        "AGBOY",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        453119,
+        1,
+        "symmetra",
+        "BENCHMARK",
+        "hanzo",
+        "PWNSOME",
+        [
+        ],
+        [
+          "symmetra",
+          "sentryturret"
+        ]
+      ],
+      [
+        462697,
+        0,
+        "winston",
+        "DARKKNIGHT",
+        "symmetra",
+        "BENCHMARK",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        482662,
+        1,
+        "reaper",
+        "DANEW2985",
+        "winston",
+        "DARKKNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        486197,
+        0,
+        "dva",
+        "DREADOFCHAOS",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        486197,
+        0,
+        "s76",
+        "K1D",
+        "roadhog",
+        "FKTHISGAME",
+        [
+          "mercy",
+          "ana"
+        ],
+        null
+      ],
+      [
+        487748,
+        1,
+        "reaper",
+        "DANEW2985",
+        "ana",
+        "HOOLIGAN",
+        [
+        ],
+        null
+      ],
+      [
+        489464,
+        0,
+        "s76",
+        "K1D",
+        "lucio",
+        "LUCIO",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        495774,
+        0,
+        "hanzo",
+        "PWNSOME",
+        "reaper",
+        "DANEW2985",
+        [
+        ],
+        null
+      ],
+      [
+        498159,
+        0,
+        "s76",
+        "K1D",
+        "symmetra",
+        "BENCHMARK",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        499127,
+        1,
+        "zarya",
+        "AGBOY",
+        "mercy",
+        "HECTO",
+        [
+        ],
+        null
+      ],
+      [
+        508392,
+        0,
+        "dva",
+        "DREADOFCHAOS",
+        "zarya",
+        "AGBOY",
+        [
+        ],
+        null
+      ],
+      [
+        517496,
+        0,
+        "hanzo",
+        "PWNSOME",
+        "roadhog",
+        "FKTHISGAME",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Numbani",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 337193,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 32957
+      },
+      {
+        "checkpoints": [
+          [
+            515399,
+            1
+          ]
+        ],
+        "end": 520454,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 403199
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2370,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        156,
+        156,
+        156,
+        156,
+        682,
+        682,
+        701
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        233,
+        744,
+        744,
+        1276,
+        1276,
+        1276,
+        1491,
+        1491,
+        1491,
+        1491,
+        1491,
+        1491,
+        1661
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "s76",
+        "s76"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        31,
+        31,
+        0,
+        0,
+        69,
+        0,
+        7
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        46,
+        46,
+        439,
+        439,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        6,
+        6,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "time": [
+        54264,
+        67116,
+        77173,
+        119231,
+        179227,
+        184855,
+        260502,
+        266451,
+        281296,
+        321929,
+        336653,
+        411138,
+        421058,
+        488931,
+        501574,
+        533360
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 259564,
+              "hero": "mercy",
+              "start": 103985
+            },
+            {
+              "end": 317737,
+              "hero": "zenyatta",
+              "start": 317737
+            },
+            {
+              "end": 517496,
+              "hero": "junkrat",
+              "start": 486197
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 517496,
+              "hero": "lucio",
+              "start": 175624
+            }
+          ],
+          "name": "LUCIO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 266451,
+              "hero": "roadhog",
+              "start": 121236
+            },
+            {
+              "end": 314075,
+              "hero": "pharah",
+              "start": 314075
+            },
+            {
+              "end": 517496,
+              "hero": "roadhog",
+              "start": 486197
+            }
+          ],
+          "name": "FKTHISGAME"
+        },
+        {
+          "heroes": [
+            {
+              "end": 321929,
+              "hero": "s76",
+              "start": 119960
+            },
+            {
+              "end": 517496,
+              "hero": "reaper",
+              "start": 482662
+            }
+          ],
+          "name": "DANEW2985"
+        },
+        {
+          "heroes": [
+            {
+              "end": 174777,
+              "hero": "reaper",
+              "start": 120640
+            },
+            {
+              "end": 517496,
+              "hero": "zarya",
+              "start": 245584
+            }
+          ],
+          "name": "AGBOY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 317737,
+              "hero": "orisa",
+              "start": 128050
+            },
+            {
+              "end": 517496,
+              "hero": "symmetra",
+              "start": 453119
+            }
+          ],
+          "name": "BENCHMARK"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 517496,
+              "hero": "ana",
+              "start": 119960
+            }
+          ],
+          "name": "HOOLIGAN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 266451,
+              "hero": "reinhardt",
+              "start": 120640
+            },
+            {
+              "end": 517496,
+              "hero": "dva",
+              "start": 486197
+            }
+          ],
+          "name": "DREADOFCHAOS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 517496,
+              "hero": "winston",
+              "start": 175624
+            }
+          ],
+          "name": "DARKKNIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 517496,
+              "hero": "hanzo",
+              "start": 174777
+            }
+          ],
+          "name": "PWNSOME"
+        },
+        {
+          "heroes": [
+            {
+              "end": 517496,
+              "hero": "mercy",
+              "start": 247994
+            }
+          ],
+          "name": "HECTO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 517496,
+              "hero": "s76",
+              "start": 103985
+            }
+          ],
+          "name": "K1D"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 528,
+    "end_sr": 2346,
+    "heroes_played": [
+      [
+        "mercy",
+        0.6412424823655971
+      ],
+      [
+        "junkrat",
+        0.18721707342313182
+      ],
+      [
+        "zenyatta",
+        0.13322246903300178
+      ]
+    ],
+    "key": "Magic-11407/2017-07-11-19-25-o2zTYkFXz7hYLrp8cvdqe8",
+    "map": "Numbani",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2370,
+    "time": 1499800582,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-11-19-25-o2zTYkFXz7hYLrp8cvdqe8/game.json",
+    "user_id": 151467
+  }
+}

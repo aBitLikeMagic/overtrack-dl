@@ -1,0 +1,1786 @@
+{
+  "data": {
+    "assists": [
+      [
+        104917,
+        "SLYGUY",
+        0,
+        1
+      ],
+      [
+        127112,
+        "THICCYATTA",
+        0,
+        1
+      ],
+      [
+        133207,
+        "DALBOK",
+        0,
+        1
+      ],
+      [
+        508463,
+        "ZOOTII",
+        1,
+        0
+      ],
+      [
+        517273,
+        "KAT",
+        0,
+        1
+      ],
+      [
+        697757,
+        "DALBOK",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      237,
+      2346
+    ],
+    "custom_game": false,
+    "deaths": 10,
+    "end_sr": 2358,
+    "game_duration": 782,
+    "game_ended": 1499744268,
+    "game_started": 1499743462,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 2085,
+        "deaths": 9,
+        "elims": 2,
+        "healing": 2526,
+        "hero_stat_1": 2,
+        "hero_stat_2": 4,
+        "hero_stat_3": 2,
+        "hero_stat_5": 2,
+        "hero_stat_6": 782657,
+        "objective_kills": 1,
+        "objective_time": 47,
+        "tab_health": 0.5,
+        "time_played": 732185
+      },
+      "junkrat": {
+        "damage": 989,
+        "deaths": 2,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 24,
+        "hero_stat_2": 2,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 5,
+        "tab_health": 0.5,
+        "time_played": 105098
+      },
+      "mercy": {
+        "damage": 0,
+        "deaths": 3,
+        "elims": 0,
+        "healing": 1,
+        "hero_stat_1": 1,
+        "hero_stat_2": 0,
+        "hero_stat_3": 3,
+        "hero_stat_4": 0,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 1,
+        "tab_health": 0.5,
+        "time_played": 260684
+      },
+      "zenyatta": {
+        "damage": 573,
+        "deaths": 2,
+        "elims": 1,
+        "healing": 505,
+        "hero_stat_1": 20,
+        "hero_stat_2": 1,
+        "hero_stat_3": 1,
+        "hero_stat_4": 0,
+        "hero_stat_5": 1,
+        "objective_kills": 1,
+        "objective_time": 28,
+        "tab_health": 0.5,
+        "time_played": 153313
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        0.5723409801876955
+      ],
+      [
+        "zenyatta",
+        0.2896151637424249
+      ],
+      [
+        "junkrat",
+        0.12860807604539753
+      ],
+      [
+        "pharah",
+        0.009435780024482024
+      ]
+    ],
+    "key": "Magic-11407/2017-07-11-03-37-FvvJVxcpTVmcvCkiS7hwjk",
+    "killfeed": [
+      [
+        104917,
+        1,
+        "bastion",
+        "DRIVEFORMER",
+        "winston",
+        "SLYGUY",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        127112,
+        1,
+        "genji",
+        "CHINDOTEDU",
+        "zenyatta",
+        "THICCYATTA",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        129888,
+        1,
+        "symmetra",
+        "JIMOTHY",
+        "mercy",
+        "KAT",
+        [
+        ],
+        null
+      ],
+      [
+        132582,
+        0,
+        "winston",
+        "SLYGUY",
+        "genji",
+        "CHINDOTEDU",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        133207,
+        1,
+        "bastion",
+        "DRIVEFORMER",
+        "pharah",
+        "DALBOK",
+        [
+        ],
+        null
+      ],
+      [
+        134859,
+        0,
+        "dva",
+        "NJRON",
+        "symmetra",
+        "JIMOTHY",
+        [
+        ],
+        null
+      ],
+      [
+        137957,
+        1,
+        "bastion",
+        "DRIVEFORMER",
+        "tracer",
+        "ZOOTII",
+        [
+        ],
+        null
+      ],
+      [
+        142995,
+        1,
+        "roadhog",
+        "WHORU",
+        "dva_mech",
+        "NJRON",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        142995,
+        1,
+        "roadhog",
+        "WHORU",
+        "dva",
+        "NJRON",
+        [
+        ],
+        null
+      ],
+      [
+        166435,
+        0,
+        "dva",
+        "NJRON",
+        "roadhog",
+        "WHORU",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        177304,
+        0,
+        "pharah",
+        "DALBOK",
+        "ana",
+        "SANTIAGO",
+        [
+        ],
+        null
+      ],
+      [
+        177304,
+        0,
+        "dva",
+        "NJRON",
+        "bastion",
+        "DRIVEFORMER",
+        [
+          "mercy",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        178805,
+        0,
+        "pharah",
+        "DALBOK",
+        "mercy",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        191732,
+        1,
+        "reinhardt",
+        "DRIVEFORMER",
+        "zenyatta",
+        "THICCYATTA",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        200144,
+        0,
+        "tracer",
+        "ZOOTII",
+        "symmetra_teleporter",
+        "JIMOTHY",
+        [
+        ],
+        null
+      ],
+      [
+        201471,
+        1,
+        "roadhog",
+        "WHORU",
+        "winston",
+        "SLYGUY",
+        [
+        ],
+        null
+      ],
+      [
+        205334,
+        0,
+        "dva",
+        "NJRON",
+        "mercy",
+        "MAGIC",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        211399,
+        1,
+        "roadhog",
+        "WHORU",
+        "tracer",
+        "ZOOTII",
+        [
+        ],
+        null
+      ],
+      [
+        212934,
+        0,
+        "pharah",
+        "DALBOK",
+        "genji",
+        "CHINDOTEDU",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        213594,
+        0,
+        "pharah",
+        "DALBOK",
+        "symmetra",
+        "JIMOTHY",
+        [
+          "mercy"
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        215205,
+        1,
+        "reinhardt",
+        "DRIVEFORMER",
+        "mercy",
+        "KAT",
+        [
+        ],
+        null
+      ],
+      [
+        218253,
+        0,
+        "pharah",
+        "DALBOK",
+        "ana",
+        "SANTIAGO",
+        [
+        ],
+        null
+      ],
+      [
+        225165,
+        0,
+        "pharah",
+        "DALBOK",
+        "reinhardt",
+        "DRIVEFORMER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        232736,
+        1,
+        "roadhog",
+        "WHORU",
+        "tracer",
+        "ZOOTII",
+        [
+        ],
+        null
+      ],
+      [
+        234160,
+        0,
+        "zenyatta",
+        "THICCYATTA",
+        "roadhog",
+        "WHORU",
+        [
+        ],
+        null
+      ],
+      [
+        265911,
+        0,
+        "dva",
+        "NJRON",
+        "reinhardt",
+        "DRIVEFORMER",
+        [
+          "mercy",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        274925,
+        0,
+        "zenyatta",
+        "THICCYATTA",
+        "genji",
+        "CHINDOTEDU",
+        [
+        ],
+        null
+      ],
+      [
+        276305,
+        1,
+        "symmetra",
+        "JIMOTHY",
+        "mercy",
+        "KAT",
+        [
+        ],
+        null
+      ],
+      [
+        278686,
+        3,
+        "mercy",
+        "MAGIC",
+        "genji",
+        "CHINDOTEDU",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        278686,
+        0,
+        "zenyatta",
+        "THICCYATTA",
+        "symmetra",
+        "JIMOTHY",
+        [
+        ],
+        null
+      ],
+      [
+        294033,
+        0,
+        "winston",
+        "SLYGUY",
+        "mercy",
+        "MAGIC",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        294033,
+        0,
+        "pharah",
+        "DALBOK",
+        "genji",
+        "CHINDOTEDU",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        297878,
+        1,
+        "roadhog",
+        "WHORU",
+        "mercy",
+        "KAT",
+        [
+        ],
+        null
+      ],
+      [
+        302979,
+        0,
+        "pharah",
+        "DALBOK",
+        "ana",
+        "SANTIAGO",
+        [
+        ],
+        null
+      ],
+      [
+        317556,
+        0,
+        "pharah",
+        "DALBOK",
+        "symmetra",
+        "JIMOTHY",
+        [
+        ],
+        null
+      ],
+      [
+        325801,
+        0,
+        "tracer",
+        "ZOOTII",
+        "tracer",
+        "CHINDOTEDU",
+        [
+        ],
+        null
+      ],
+      [
+        339476,
+        0,
+        "pharah",
+        "DALBOK",
+        "pharah",
+        "MAGIC",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        343222,
+        0,
+        "winston",
+        "SLYGUY",
+        "reinhardt",
+        "DRIVEFORMER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        373853,
+        0,
+        "pharah",
+        "DALBOK",
+        "ana",
+        "SANTIAGO",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        502401,
+        1,
+        "roadhog",
+        "WHORU",
+        "winston",
+        "SLYGUY",
+        [
+          "mccree",
+          "mei"
+        ],
+        null
+      ],
+      [
+        507566,
+        1,
+        "dva",
+        "CHINDOTEDU",
+        "tracer",
+        "ZOOTII",
+        [
+        ],
+        null
+      ],
+      [
+        514103,
+        1,
+        "mccree",
+        "SANTIAGO",
+        "zenyatta",
+        "THICCYATTA",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        517273,
+        1,
+        "dva",
+        "CHINDOTEDU",
+        "dva_mech",
+        "NJRON",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        517273,
+        1,
+        "dva",
+        "CHINDOTEDU",
+        "mercy",
+        "KAT",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        523676,
+        1,
+        "dva",
+        "CHINDOTEDU",
+        "dva",
+        "NJRON",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        536470,
+        1,
+        "roadhog",
+        "WHORU",
+        "tracer",
+        "ZOOTII",
+        [
+        ],
+        null
+      ],
+      [
+        540912,
+        0,
+        "orisa",
+        "SLYGUY",
+        "mei",
+        "JIMOTHY",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        550132,
+        3,
+        "mercy",
+        "DRIVEFORMER",
+        "mei",
+        "JIMOTHY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        556312,
+        0,
+        "pharah",
+        "DALBOK",
+        "zenyatta",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        559261,
+        1,
+        "dva",
+        "CHINDOTEDU",
+        "dva_mech",
+        "NJRON",
+        [
+          "mei",
+          "mccree"
+        ],
+        null
+      ],
+      [
+        563587,
+        1,
+        "mei",
+        "JIMOTHY",
+        "dva",
+        "NJRON",
+        [
+        ],
+        null
+      ],
+      [
+        564336,
+        0,
+        "pharah",
+        "DALBOK",
+        "mercy",
+        "DRIVEFORMER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        564336,
+        0,
+        "tracer",
+        "ZOOTII",
+        "roadhog",
+        "WHORU",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        565591,
+        1,
+        "dva",
+        "CHINDOTEDU",
+        "orisa",
+        "SLYGUY",
+        [
+          "mccree"
+        ],
+        null
+      ],
+      [
+        573086,
+        0,
+        "tracer",
+        "ZOOTII",
+        "mccree",
+        "SANTIAGO",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        575056,
+        0,
+        "pharah",
+        "DALBOK",
+        "mei",
+        "JIMOTHY",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        580186,
+        0,
+        "tracer",
+        "ZOOTII",
+        "dva_mech",
+        "CHINDOTEDU",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        581827,
+        0,
+        "tracer",
+        "ZOOTII",
+        "dva",
+        "CHINDOTEDU",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        601879,
+        1,
+        "mccree",
+        "SANTIAGO",
+        "pharah",
+        "DALBOK",
+        [
+        ],
+        null
+      ],
+      [
+        604510,
+        0,
+        "zenyatta",
+        "THICCYATTA",
+        "zenyatta",
+        "MAGIC",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        614311,
+        0,
+        "tracer",
+        "ZOOTII",
+        "mccree",
+        "SANTIAGO",
+        [
+        ],
+        null
+      ],
+      [
+        615600,
+        0,
+        "zenyatta",
+        "THICCYATTA",
+        "mei",
+        "JIMOTHY",
+        [
+        ],
+        null
+      ],
+      [
+        618070,
+        0,
+        "tracer",
+        "ZOOTII",
+        "s76",
+        "CHINDOTEDU",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        623192,
+        0,
+        "tracer",
+        "ZOOTII",
+        "mercy",
+        "DRIVEFORMER",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        624389,
+        0,
+        "orisa",
+        "SLYGUY",
+        "roadhog",
+        "WHORU",
+        [
+          "zenyatta",
+          "mercy"
+        ],
+        null
+      ],
+      [
+        644808,
+        0,
+        "zenyatta",
+        "THICCYATTA",
+        "s76",
+        "CHINDOTEDU",
+        [
+        ],
+        null
+      ],
+      [
+        651930,
+        1,
+        "roadhog",
+        "WHORU",
+        "zenyatta",
+        "THICCYATTA",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        651930,
+        0,
+        "tracer",
+        "ZOOTII",
+        "mercy",
+        "DRIVEFORMER",
+        [
+        ],
+        null
+      ],
+      [
+        653685,
+        1,
+        "mccree",
+        "SANTIAGO",
+        "mercy",
+        "KAT",
+        [
+          "mei"
+        ],
+        null
+      ],
+      [
+        656433,
+        0,
+        "pharah",
+        "DALBOK",
+        "mccree",
+        "SANTIAGO",
+        [
+        ],
+        null
+      ],
+      [
+        659953,
+        0,
+        "pharah",
+        "DALBOK",
+        "mei",
+        "JIMOTHY",
+        [
+        ],
+        null
+      ],
+      [
+        667911,
+        0,
+        "tracer",
+        "ZOOTII",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        672146,
+        3,
+        "mercy",
+        "DRIVEFORMER",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        680681,
+        0,
+        "dva",
+        "NJRON",
+        "mercy",
+        "DRIVEFORMER",
+        [
+        ],
+        null
+      ],
+      [
+        688867,
+        0,
+        "pharah",
+        "DALBOK",
+        "mccree",
+        "SANTIAGO",
+        [
+          "mercy",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        695014,
+        1,
+        null,
+        null,
+        "orisa_supercharger",
+        "SLYGUY",
+        [
+        ],
+        null
+      ],
+      [
+        697757,
+        1,
+        "junkrat",
+        "MAGIC",
+        "pharah",
+        "DALBOK",
+        [
+        ],
+        null
+      ],
+      [
+        703544,
+        2,
+        "mercy",
+        "KAT",
+        "pharah",
+        "DALBOK",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        705147,
+        0,
+        "pharah",
+        "DALBOK",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        null
+      ],
+      [
+        712381,
+        0,
+        "zenyatta",
+        "THICCYATTA",
+        "widowmaker",
+        "DRIVEFORMER",
+        [
+        ],
+        null
+      ],
+      [
+        714432,
+        1,
+        "roadhog",
+        "WHORU",
+        "zenyatta",
+        "THICCYATTA",
+        [
+        ],
+        null
+      ],
+      [
+        725721,
+        0,
+        "orisa",
+        "SLYGUY",
+        "mei",
+        "JIMOTHY",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        733413,
+        0,
+        "tracer",
+        "ZOOTII",
+        "mccree",
+        "SANTIAGO",
+        [
+        ],
+        null
+      ],
+      [
+        735992,
+        0,
+        "orisa",
+        "SLYGUY",
+        "junkrat",
+        "MAGIC",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Dorado",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            232736,
+            1
+          ],
+          [
+            328054,
+            2
+          ],
+          [
+            376953,
+            3
+          ]
+        ],
+        "end": 383223,
+        "end_score": 3,
+        "stage": "Defend",
+        "start": 41156
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 733413,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 446781
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGIC",
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": 2386,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        403,
+        403,
+        403,
+        697,
+        792,
+        792,
+        792,
+        976,
+        976,
+        976,
+        1096,
+        1970,
+        1970,
+        1970,
+        2085
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        3,
+        null,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        8,
+        8,
+        8,
+        9
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        824,
+        824,
+        1172,
+        2021,
+        1,
+        2021,
+        2021,
+        2021,
+        2084,
+        2442,
+        2442,
+        2442,
+        2526,
+        2526,
+        2526,
+        2526,
+        2526,
+        2526,
+        2526,
+        2526
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "pharah",
+        "junkrat",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "zenyatta",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        38,
+        0,
+        0,
+        21,
+        18,
+        18,
+        18,
+        20,
+        20,
+        20,
+        6,
+        29,
+        29,
+        29,
+        30
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        3,
+        3,
+        3,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        288,
+        288,
+        288,
+        390,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        8,
+        9,
+        14,
+        1,
+        14,
+        14,
+        14,
+        35,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        42,
+        47
+      ],
+      "time": [
+        42295,
+        52820,
+        71048,
+        78394,
+        84642,
+        92294,
+        181354,
+        187013,
+        207675,
+        297878,
+        302979,
+        344471,
+        349936,
+        477690,
+        524430,
+        559261,
+        564895,
+        571281,
+        606880,
+        613112,
+        631003,
+        669382,
+        706463,
+        712921,
+        718383,
+        774480
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 294033,
+              "hero": "mercy",
+              "start": 178805
+            },
+            {
+              "end": 339476,
+              "hero": "pharah",
+              "start": 339476
+            },
+            {
+              "end": 604510,
+              "hero": "zenyatta",
+              "start": 556312
+            },
+            {
+              "end": 735992,
+              "hero": "junkrat",
+              "start": 667911
+            }
+          ],
+          "name": "MAGIC"
+        },
+        {
+          "heroes": [
+            {
+              "end": 317556,
+              "hero": "symmetra",
+              "start": 129888
+            },
+            {
+              "end": 735992,
+              "hero": "mei",
+              "start": 540912
+            }
+          ],
+          "name": "JIMOTHY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 735992,
+              "hero": "roadhog",
+              "start": 142995
+            }
+          ],
+          "name": "WHORU"
+        },
+        {
+          "heroes": [
+            {
+              "end": 373853,
+              "hero": "ana",
+              "start": 177304
+            },
+            {
+              "end": 735992,
+              "hero": "mccree",
+              "start": 514103
+            }
+          ],
+          "name": "SANTIAGO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 294033,
+              "hero": "genji",
+              "start": 127112
+            },
+            {
+              "end": 325801,
+              "hero": "tracer",
+              "start": 325801
+            },
+            {
+              "end": 581827,
+              "hero": "dva",
+              "start": 507566
+            },
+            {
+              "end": 735992,
+              "hero": "s76",
+              "start": 618070
+            }
+          ],
+          "name": "CHINDOTEDU"
+        },
+        {
+          "heroes": [
+            {
+              "end": 177304,
+              "hero": "bastion",
+              "start": 104917
+            },
+            {
+              "end": 343222,
+              "hero": "reinhardt",
+              "start": 191732
+            },
+            {
+              "end": 680681,
+              "hero": "mercy",
+              "start": 550132
+            },
+            {
+              "end": 735992,
+              "hero": "widowmaker",
+              "start": 712381
+            }
+          ],
+          "name": "DRIVEFORMER"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 735992,
+              "hero": "pharah",
+              "start": 133207
+            }
+          ],
+          "name": "DALBOK"
+        },
+        {
+          "heroes": [
+            {
+              "end": 502401,
+              "hero": "winston",
+              "start": 104917
+            },
+            {
+              "end": 735992,
+              "hero": "orisa",
+              "start": 540912
+            }
+          ],
+          "name": "SLYGUY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 735992,
+              "hero": "zenyatta",
+              "start": 127112
+            }
+          ],
+          "name": "THICCYATTA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 735992,
+              "hero": "tracer",
+              "start": 137957
+            }
+          ],
+          "name": "ZOOTII"
+        },
+        {
+          "heroes": [
+            {
+              "end": 735992,
+              "hero": "mercy",
+              "start": 129888
+            }
+          ],
+          "name": "KAT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 735992,
+              "hero": "dva",
+              "start": 134859
+            }
+          ],
+          "name": "NJRON"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 782,
+    "end_sr": 2358,
+    "heroes_played": [
+      [
+        "mercy",
+        0.5723409801876955
+      ],
+      [
+        "zenyatta",
+        0.2896151637424249
+      ],
+      [
+        "junkrat",
+        0.12860807604539753
+      ]
+    ],
+    "key": "Magic-11407/2017-07-11-03-37-FvvJVxcpTVmcvCkiS7hwjk",
+    "map": "Dorado",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      3
+    ],
+    "start_sr": 2386,
+    "time": 1499743462,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-11-03-37-FvvJVxcpTVmcvCkiS7hwjk/game.json",
+    "user_id": 151467
+  }
+}

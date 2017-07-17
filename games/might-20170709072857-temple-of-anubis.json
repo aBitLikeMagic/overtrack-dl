@@ -1,0 +1,2020 @@
+{
+  "data": {
+    "assists": [
+      [
+        115314,
+        "JEFF76",
+        1,
+        0
+      ],
+      [
+        128465,
+        "TEEKA",
+        1,
+        0
+      ],
+      [
+        257887,
+        "POLO",
+        1,
+        0
+      ],
+      [
+        269477,
+        "JEFF76",
+        1,
+        0
+      ],
+      [
+        272734,
+        "NESSUNO",
+        1,
+        0
+      ],
+      [
+        286065,
+        "POLO",
+        1,
+        0
+      ],
+      [
+        332065,
+        "KRAUSUN",
+        1,
+        0
+      ],
+      [
+        341167,
+        "TEEKA",
+        1,
+        0
+      ],
+      [
+        383255,
+        "POLO",
+        1,
+        0
+      ],
+      [
+        393609,
+        "KRAUSUN",
+        1,
+        0
+      ],
+      [
+        412426,
+        "JEFF76",
+        1,
+        0
+      ],
+      [
+        431654,
+        "POLO",
+        1,
+        0
+      ],
+      [
+        461129,
+        "JEFF76",
+        1,
+        0
+      ],
+      [
+        527937,
+        "KRAUSUN",
+        1,
+        0
+      ],
+      [
+        544604,
+        "JPNIM",
+        1,
+        0
+      ],
+      [
+        548659,
+        "JEFF76",
+        1,
+        0
+      ],
+      [
+        552578,
+        "KRAUSUN",
+        1,
+        0
+      ],
+      [
+        582141,
+        "JPNIM",
+        1,
+        0
+      ],
+      [
+        582141,
+        "KRAUSUN",
+        1,
+        0
+      ],
+      [
+        589309,
+        "TEEKA",
+        1,
+        0
+      ],
+      [
+        816724,
+        "KRAUSUN",
+        1,
+        0
+      ],
+      [
+        828343,
+        "JEFF76",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      2351,
+      233
+    ],
+    "custom_game": false,
+    "deaths": 5,
+    "end_sr": 2379,
+    "game_duration": 853,
+    "game_ended": 1499586196,
+    "game_started": 1499585337,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 10405,
+        "deaths": 5,
+        "elims": 26,
+        "healing": 0,
+        "hero_stat_1": 22,
+        "hero_stat_2": 0,
+        "hero_stat_3": 12,
+        "hero_stat_5": 26,
+        "hero_stat_6": 853978,
+        "objective_kills": 13,
+        "objective_time": 40,
+        "tab_health": 0.3793103448275862,
+        "time_played": 801589
+      },
+      "junkrat": {
+        "damage": 9088,
+        "deaths": 3,
+        "elims": 24,
+        "healing": 0,
+        "hero_stat_1": 30,
+        "hero_stat_2": 11,
+        "hero_stat_3": 8,
+        "hero_stat_4": 3,
+        "hero_stat_5": 12,
+        "objective_kills": 13,
+        "objective_time": 36,
+        "tab_health": 0.3793103448275862,
+        "time_played": 495251
+      },
+      "pharah": {
+        "damage": 1317,
+        "deaths": 2,
+        "elims": 2,
+        "healing": 0,
+        "hero_stat_1": 36,
+        "hero_stat_2": 0,
+        "hero_stat_3": 2,
+        "hero_stat_4": 13,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 4,
+        "tab_health": 0.3793103448275862,
+        "time_played": 200580
+      }
+    },
+    "heroes_played": [
+      [
+        "junkrat",
+        0.6532929016592918
+      ],
+      [
+        "pharah",
+        0.3467070983407083
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-07-43-oJrmD6JiPHArkDedg86iFe",
+    "killfeed": [
+      [
+        115314,
+        1,
+        "s76",
+        "JV3",
+        "s76",
+        "JEFF76",
+        [
+        ],
+        null
+      ],
+      [
+        127905,
+        1,
+        "dva",
+        "NOMADIC",
+        "winston",
+        "TEEKA",
+        [
+        ],
+        null
+      ],
+      [
+        150478,
+        1,
+        "s76",
+        "JV3",
+        "mercy",
+        "NESSUNO",
+        [
+        ],
+        null
+      ],
+      [
+        152260,
+        0,
+        "s76",
+        "JEFF76",
+        "zarya",
+        "DONKEYCONE",
+        [
+        ],
+        null
+      ],
+      [
+        152260,
+        0,
+        "tracer",
+        "JPNIM",
+        "dva_mech",
+        "NOMADIC",
+        [
+          "roadhog",
+          "sombra"
+        ],
+        null
+      ],
+      [
+        156208,
+        0,
+        "winston",
+        "TEEKA",
+        "dva",
+        "NOMADIC",
+        [
+        ],
+        null
+      ],
+      [
+        166826,
+        0,
+        "s76",
+        "JEFF76",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        171859,
+        0,
+        "roadhog",
+        "KRAUSUN",
+        "s76",
+        "JV3",
+        [
+          "sombra"
+        ],
+        null
+      ],
+      [
+        171859,
+        0,
+        "s76",
+        "JEFF76",
+        "lucio",
+        "RIGUEROS",
+        [
+        ],
+        null
+      ],
+      [
+        178414,
+        0,
+        "roadhog",
+        "KRAUSUN",
+        "mei",
+        "MIYAMAE",
+        [
+        ],
+        null
+      ],
+      [
+        196327,
+        1,
+        "junkrat",
+        "MIGHT",
+        "sombra",
+        "POLO",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        207478,
+        1,
+        "junkrat",
+        "MIGHT",
+        "s76",
+        "JEFF76",
+        [
+        ],
+        null
+      ],
+      [
+        209162,
+        1,
+        "zenyatta",
+        "DONKEYCONE",
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        null
+      ],
+      [
+        228973,
+        1,
+        "mei",
+        "MIYAMAE",
+        "mercy",
+        "NESSUNO",
+        [
+        ],
+        null
+      ],
+      [
+        248586,
+        0,
+        "sombra",
+        "POLO",
+        "zenyatta",
+        "DONKEYCONE",
+        [
+        ],
+        null
+      ],
+      [
+        250180,
+        1,
+        "s76",
+        "JV3",
+        "s76",
+        "JEFF76",
+        [
+        ],
+        null
+      ],
+      [
+        256836,
+        1,
+        "dva",
+        "NOMADIC",
+        "winston",
+        "TEEKA",
+        [
+        ],
+        null
+      ],
+      [
+        257887,
+        1,
+        "junkrat",
+        "MIGHT",
+        "sombra",
+        "POLO",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        258834,
+        1,
+        "s76",
+        "JV3",
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        259517,
+        2,
+        "mercy",
+        "NESSUNO",
+        "winston",
+        "TEEKA",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        259517,
+        2,
+        "mercy",
+        "NESSUNO",
+        "s76",
+        "JEFF76",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        264870,
+        1,
+        "dva",
+        "NOMADIC",
+        "roadhog",
+        "KRAUSUN",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        269477,
+        1,
+        "lucio",
+        "RIGUEROS",
+        "s76",
+        "JEFF76",
+        [
+        ],
+        null
+      ],
+      [
+        272734,
+        1,
+        "dva",
+        "NOMADIC",
+        "mercy",
+        "NESSUNO",
+        [
+        ],
+        null
+      ],
+      [
+        278137,
+        1,
+        "zenyatta",
+        "DONKEYCONE",
+        "winston",
+        "TEEKA",
+        [
+        ],
+        null
+      ],
+      [
+        286065,
+        1,
+        "zenyatta",
+        "DONKEYCONE",
+        "sombra",
+        "POLO",
+        [
+        ],
+        null
+      ],
+      [
+        313568,
+        1,
+        "dva",
+        "NOMADIC",
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        null
+      ],
+      [
+        326073,
+        1,
+        "s76",
+        "JV3",
+        "sombra",
+        "POLO",
+        [
+          "zenyatta"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        332065,
+        1,
+        "s76",
+        "JV3",
+        "reinhardt",
+        "KRAUSUN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        334502,
+        1,
+        "s76",
+        "JV3",
+        "mercy",
+        "NESSUNO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        335582,
+        1,
+        "mei",
+        "MIYAMAE",
+        "s76",
+        "JEFF76",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        341167,
+        1,
+        "dva",
+        "NOMADIC",
+        "winston",
+        "TEEKA",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        363602,
+        0,
+        "s76",
+        "JEFF76",
+        "lucio",
+        "RIGUEROS",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        367123,
+        0,
+        "s76",
+        "JEFF76",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        372456,
+        0,
+        "s76",
+        "JEFF76",
+        "s76",
+        "JV3",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        372456,
+        1,
+        "dva",
+        "NOMADIC",
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        null
+      ],
+      [
+        383255,
+        1,
+        "junkrat",
+        "MIGHT",
+        "sombra",
+        "POLO",
+        [
+        ],
+        null
+      ],
+      [
+        384233,
+        0,
+        "winston",
+        "TEEKA",
+        "mei",
+        "MIYAMAE",
+        [
+        ],
+        null
+      ],
+      [
+        393609,
+        1,
+        "junkrat",
+        "MIGHT",
+        "reinhardt",
+        "KRAUSUN",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        397534,
+        2,
+        "mercy",
+        "NESSUNO",
+        "reinhardt",
+        "KRAUSUN",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        407039,
+        1,
+        "mei",
+        "MIYAMAE",
+        "winston",
+        "TEEKA",
+        [
+        ],
+        null
+      ],
+      [
+        408758,
+        1,
+        "dva",
+        "NOMADIC",
+        "reinhardt",
+        "KRAUSUN",
+        [
+        ],
+        null
+      ],
+      [
+        412426,
+        1,
+        "dva",
+        "NOMADIC",
+        "reinhardt",
+        "KRAUSUN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        412426,
+        1,
+        "mei",
+        "MIYAMAE",
+        "winston",
+        "TEEKA",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        412426,
+        1,
+        null,
+        null,
+        "s76",
+        "JEFF76",
+        [
+        ],
+        null
+      ],
+      [
+        413683,
+        0,
+        "s76",
+        "JEFF76",
+        "dva_mech",
+        "NOMADIC",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        417499,
+        0,
+        "tracer",
+        "JPNIM",
+        "s76",
+        "JV3",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        431654,
+        1,
+        "junkrat",
+        "MIGHT",
+        "pharah",
+        "POLO",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        436243,
+        0,
+        "winston",
+        "TEEKA",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        436243,
+        0,
+        "tracer",
+        "JPNIM",
+        "mei",
+        "MIYAMAE",
+        [
+        ],
+        null
+      ],
+      [
+        440629,
+        1,
+        "zenyatta",
+        "DONKEYCONE",
+        "winston",
+        "TEEKA",
+        [
+        ],
+        null
+      ],
+      [
+        445557,
+        1,
+        "zenyatta",
+        "DONKEYCONE",
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        null
+      ],
+      [
+        447677,
+        0,
+        "reinhardt",
+        "KRAUSUN",
+        "s76",
+        "JV3",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        461129,
+        1,
+        "dva",
+        "NOMADIC",
+        "s76",
+        "JEFF76",
+        [
+        ],
+        null
+      ],
+      [
+        468616,
+        0,
+        "reinhardt",
+        "KRAUSUN",
+        "mei",
+        "MIYAMAE",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        469854,
+        0,
+        "reinhardt",
+        "KRAUSUN",
+        "s76",
+        "JV3",
+        [
+        ],
+        null
+      ],
+      [
+        471359,
+        0,
+        "tracer",
+        "JPNIM",
+        "dva_mech",
+        "NOMADIC",
+        [
+        ],
+        null
+      ],
+      [
+        477264,
+        1,
+        "dva",
+        "NOMADIC",
+        "mercy",
+        "NESSUNO",
+        [
+        ],
+        null
+      ],
+      [
+        481531,
+        1,
+        "dva",
+        "NOMADIC",
+        "reinhardt",
+        "KRAUSUN",
+        [
+        ],
+        null
+      ],
+      [
+        486058,
+        1,
+        "zenyatta",
+        "DONKEYCONE",
+        "pharah",
+        "POLO",
+        [
+        ],
+        null
+      ],
+      [
+        487234,
+        0,
+        "pharah",
+        "POLO",
+        "junkrat",
+        "MIGHT",
+        [
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        496162,
+        0,
+        "tracer",
+        "JPNIM",
+        "dva",
+        "NOMADIC",
+        [
+        ],
+        null
+      ],
+      [
+        505607,
+        0,
+        "winston",
+        "TEEKA",
+        "s76",
+        "JV3",
+        [
+        ],
+        null
+      ],
+      [
+        511239,
+        0,
+        "winston",
+        "TEEKA",
+        "zenyatta",
+        "DONKEYCONE",
+        [
+        ],
+        null
+      ],
+      [
+        526875,
+        1,
+        "dva",
+        "NOMADIC",
+        "pharah",
+        "POLO",
+        [
+        ],
+        null
+      ],
+      [
+        527937,
+        1,
+        "s76",
+        "JV3",
+        "reinhardt",
+        "KRAUSUN",
+        [
+        ],
+        [
+          "s76",
+          "tacticalvisor"
+        ]
+      ],
+      [
+        531329,
+        1,
+        null,
+        null,
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        null
+      ],
+      [
+        532222,
+        1,
+        null,
+        null,
+        "reinhardt",
+        "KRAUSUN",
+        [
+        ],
+        null
+      ],
+      [
+        533114,
+        2,
+        "mercy",
+        "NESSUNO",
+        "reinhardt",
+        "KRAUSUN",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        533114,
+        2,
+        "mercy",
+        "NESSUNO",
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        533114,
+        2,
+        "mercy",
+        "NESSUNO",
+        "pharah",
+        "POLO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        533114,
+        0,
+        "tracer",
+        "JPNIM",
+        "dva_mech",
+        "NOMADIC",
+        [
+        ],
+        [
+          "tracer",
+          "pulsebomb"
+        ]
+      ],
+      [
+        539646,
+        0,
+        "reinhardt",
+        "KRAUSUN",
+        "s76",
+        "JV3",
+        [
+        ],
+        null
+      ],
+      [
+        541638,
+        1,
+        "lucio",
+        "RIGUEROS",
+        "mercy",
+        "NESSUNO",
+        [
+        ],
+        [
+          "lucio",
+          "soundwave"
+        ]
+      ],
+      [
+        541638,
+        0,
+        "tracer",
+        "JPNIM",
+        "lucio",
+        "RIGUEROS",
+        [
+        ],
+        null
+      ],
+      [
+        543253,
+        0,
+        "s76",
+        "JEFF76",
+        "dva",
+        "NOMADIC",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        544604,
+        1,
+        "junkrat",
+        "MIGHT",
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        null
+      ],
+      [
+        548659,
+        1,
+        "junkrat",
+        "MIGHT",
+        "s76",
+        "JEFF76",
+        [
+        ],
+        null
+      ],
+      [
+        551409,
+        1,
+        "junkrat",
+        "MIGHT",
+        "reinhardt",
+        "KRAUSUN",
+        [
+          "zenyatta"
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        554345,
+        1,
+        "mei",
+        "MIYAMAE",
+        "pharah",
+        "POLO",
+        [
+        ],
+        null
+      ],
+      [
+        579524,
+        1,
+        "dva",
+        "NOMADIC",
+        "s76",
+        "JEFF76",
+        [
+          "zenyatta"
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        581565,
+        1,
+        "junkrat",
+        "MIGHT",
+        "tracer",
+        "JPNIM",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        581565,
+        1,
+        "junkrat",
+        "MIGHT",
+        "reinhardt",
+        "KRAUSUN",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        581565,
+        1,
+        "s76",
+        "JV3",
+        "mercy",
+        "NESSUNO",
+        [
+        ],
+        null
+      ],
+      [
+        589309,
+        1,
+        "dva",
+        "NOMADIC",
+        "winston",
+        "TEEKA",
+        [
+        ],
+        null
+      ],
+      [
+        590497,
+        1,
+        "s76",
+        "JV3",
+        "pharah",
+        "POLO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        591943,
+        0,
+        "pharah",
+        "POLO",
+        "dva_mech",
+        "NOMADIC",
+        [
+          "zenyatta"
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        737961,
+        1,
+        "dva",
+        "NOMADIC",
+        "junkrat",
+        "TEEKA",
+        [
+        ],
+        null
+      ],
+      [
+        754263,
+        1,
+        "dva",
+        "NOMADIC",
+        "roadhog",
+        "JPNIM",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        754263,
+        0,
+        "s76",
+        "JEFF76",
+        "pharah",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        759060,
+        1,
+        "reinhardt",
+        "MIYAMAE",
+        "winston",
+        "POLO",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        761760,
+        1,
+        "reinhardt",
+        "MIYAMAE",
+        "mercy",
+        "NESSUNO",
+        [
+        ],
+        null
+      ],
+      [
+        766166,
+        1,
+        "reinhardt",
+        "MIYAMAE",
+        "ana",
+        "KRAUSUN",
+        [
+          "zenyatta"
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        768686,
+        1,
+        "dva",
+        "NOMADIC",
+        "s76",
+        "JEFF76",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        774341,
+        1,
+        "dva",
+        "NOMADIC",
+        "junkrat",
+        "TEEKA",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        807192,
+        0,
+        "ana",
+        "KRAUSUN",
+        "reinhardt",
+        "MIYAMAE",
+        [
+        ],
+        null
+      ],
+      [
+        815117,
+        1,
+        "s76",
+        "JV3",
+        "junkrat",
+        "TEEKA",
+        [
+        ],
+        null
+      ],
+      [
+        816724,
+        1,
+        "lucio",
+        "RIGUEROS",
+        "ana",
+        "KRAUSUN",
+        [
+        ],
+        null
+      ],
+      [
+        820487,
+        1,
+        "s76",
+        "JV3",
+        "mercy",
+        "NESSUNO",
+        [
+        ],
+        null
+      ],
+      [
+        823871,
+        1,
+        "junkrat",
+        "MIGHT",
+        "winston",
+        "POLO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        828343,
+        1,
+        "s76",
+        "JV3",
+        "s76",
+        "JEFF76",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        833900,
+        1,
+        "lucio",
+        "RIGUEROS",
+        "roadhog",
+        "JPNIM",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Temple of Anubis",
+    "map_type": "Assault",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            188945,
+            1
+          ]
+        ],
+        "end": 599912,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 39791
+      },
+      {
+        "checkpoints": [
+          [
+            788200,
+            1
+          ],
+          [
+            830995,
+            2
+          ]
+        ],
+        "end": 836688,
+        "end_score": 2,
+        "stage": "Attack",
+        "start": 653261
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MIGHT",
+    "result": "WIN",
+    "score": [
+      2,
+      1
+    ],
+    "start_sr": 2354,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        785,
+        785,
+        2349,
+        2598,
+        3891,
+        3966,
+        3966,
+        5109,
+        5509,
+        6299,
+        9295,
+        9295,
+        9827,
+        9827,
+        10405,
+        10405
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        4,
+        5,
+        10,
+        10,
+        10,
+        13,
+        15,
+        16,
+        23,
+        23,
+        23,
+        23,
+        26,
+        26
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "pharah",
+        "pharah",
+        "junkrat",
+        "junkrat",
+        "junkrat"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        36,
+        0,
+        28,
+        28,
+        30,
+        29,
+        29,
+        26,
+        25,
+        26,
+        32,
+        36,
+        36,
+        32,
+        30,
+        30
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        3,
+        4,
+        5,
+        6,
+        10,
+        0,
+        0,
+        10,
+        11,
+        11
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        2,
+        3,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        2,
+        2,
+        8,
+        8,
+        8
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        3,
+        7,
+        13,
+        3,
+        3,
+        3
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        3,
+        3,
+        3,
+        3,
+        5,
+        6,
+        6,
+        11,
+        0,
+        0,
+        11,
+        12,
+        12
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        3,
+        3,
+        3,
+        6,
+        6,
+        7,
+        11,
+        11,
+        11,
+        11,
+        13,
+        13
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        4,
+        4,
+        8,
+        11,
+        11,
+        11,
+        14,
+        14,
+        19,
+        36,
+        36,
+        36,
+        36,
+        40,
+        40
+      ],
+      "time": [
+        51872,
+        69029,
+        74548,
+        80105,
+        89667,
+        169010,
+        187123,
+        253775,
+        266653,
+        344538,
+        366227,
+        371698,
+        425507,
+        438741,
+        488821,
+        596901,
+        672682,
+        756124,
+        767988,
+        832587,
+        853461
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 166826,
+              "hero": "pharah",
+              "start": 166826
+            },
+            {
+              "end": 581565,
+              "hero": "junkrat",
+              "start": 196327
+            },
+            {
+              "end": 754263,
+              "hero": "pharah",
+              "start": 754263
+            },
+            {
+              "end": 833900,
+              "hero": "junkrat",
+              "start": 823871
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 833900,
+              "hero": "s76",
+              "start": 115314
+            }
+          ],
+          "name": "JV3"
+        },
+        {
+          "heroes": [
+            {
+              "end": 833900,
+              "hero": "lucio",
+              "start": 171859
+            }
+          ],
+          "name": "RIGUEROS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 152260,
+              "hero": "zarya",
+              "start": 152260
+            },
+            {
+              "end": 833900,
+              "hero": "zenyatta",
+              "start": 209162
+            }
+          ],
+          "name": "DONKEYCONE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 554345,
+              "hero": "mei",
+              "start": 178414
+            },
+            {
+              "end": 833900,
+              "hero": "reinhardt",
+              "start": 759060
+            }
+          ],
+          "name": "MIYAMAE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 833900,
+              "hero": "dva",
+              "start": 127905
+            }
+          ],
+          "name": "NOMADIC"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 833900,
+              "hero": "mercy",
+              "start": 150478
+            }
+          ],
+          "name": "NESSUNO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 833900,
+              "hero": "s76",
+              "start": 115314
+            }
+          ],
+          "name": "JEFF76"
+        },
+        {
+          "heroes": [
+            {
+              "end": 581565,
+              "hero": "tracer",
+              "start": 152260
+            },
+            {
+              "end": 833900,
+              "hero": "roadhog",
+              "start": 754263
+            }
+          ],
+          "name": "JPNIM"
+        },
+        {
+          "heroes": [
+            {
+              "end": 589309,
+              "hero": "winston",
+              "start": 127905
+            },
+            {
+              "end": 833900,
+              "hero": "junkrat",
+              "start": 737961
+            }
+          ],
+          "name": "TEEKA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 383255,
+              "hero": "sombra",
+              "start": 196327
+            },
+            {
+              "end": 591943,
+              "hero": "pharah",
+              "start": 431654
+            },
+            {
+              "end": 833900,
+              "hero": "winston",
+              "start": 759060
+            }
+          ],
+          "name": "POLO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 264870,
+              "hero": "roadhog",
+              "start": 171859
+            },
+            {
+              "end": 581565,
+              "hero": "reinhardt",
+              "start": 332065
+            },
+            {
+              "end": 833900,
+              "hero": "ana",
+              "start": 766166
+            }
+          ],
+          "name": "KRAUSUN"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 853,
+    "end_sr": 2379,
+    "heroes_played": [
+      [
+        "junkrat",
+        0.6532929016592918
+      ],
+      [
+        "pharah",
+        0.3467070983407083
+      ]
+    ],
+    "key": "Magic-11407/2017-07-09-07-43-oJrmD6JiPHArkDedg86iFe",
+    "map": "Temple of Anubis",
+    "player_name": "MIGHT",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      2,
+      1
+    ],
+    "start_sr": 2354,
+    "time": 1499585337,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-09-07-43-oJrmD6JiPHArkDedg86iFe/game.json",
+    "user_id": 151467
+  }
+}

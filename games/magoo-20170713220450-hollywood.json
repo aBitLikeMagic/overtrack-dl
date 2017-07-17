@@ -1,0 +1,1753 @@
+{
+  "data": {
+    "assists": [
+      [
+        137595,
+        "BAD",
+        0,
+        1
+      ],
+      [
+        296258,
+        "CHRISCALIB3R",
+        1,
+        0
+      ],
+      [
+        489533,
+        "BAD",
+        1,
+        0
+      ],
+      [
+        545035,
+        "MCWEE",
+        1,
+        0
+      ],
+      [
+        564010,
+        "CHRISCALIB3R",
+        1,
+        0
+      ],
+      [
+        601061,
+        "MCWEE",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      273,
+      2745
+    ],
+    "custom_game": false,
+    "deaths": 9,
+    "end_sr": 2643,
+    "game_duration": 690,
+    "game_ended": 1499984210,
+    "game_started": 1499983490,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 3467,
+        "deaths": 9,
+        "elims": 7,
+        "healing": 1801,
+        "hero_stat_1": 5,
+        "hero_stat_2": 1,
+        "hero_stat_3": 5,
+        "hero_stat_5": 7,
+        "hero_stat_6": 690780,
+        "objective_kills": 6,
+        "objective_time": 20,
+        "tab_health": 0.5217391304347826,
+        "time_played": 648454
+      },
+      "junkrat": {
+        "damage": 2717,
+        "deaths": 4,
+        "elims": 6,
+        "healing": 0,
+        "hero_stat_1": 45,
+        "hero_stat_2": 2,
+        "hero_stat_3": 2,
+        "hero_stat_4": 0,
+        "hero_stat_5": 4,
+        "objective_kills": 6,
+        "objective_time": 15,
+        "tab_health": 0.5217391304347826,
+        "time_played": 278237
+      },
+      "mercy": {
+        "damage": 0,
+        "deaths": 3,
+        "elims": 0,
+        "healing": 1801,
+        "hero_stat_1": 1,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 86,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 2,
+        "tab_health": 0.5217391304347826,
+        "time_played": 183474
+      }
+    },
+    "heroes_played": [
+      [
+        "junkrat",
+        0.4995765597072091
+      ],
+      [
+        "mercy",
+        0.47731083496467785
+      ],
+      [
+        "dva",
+        0.018629245042131246
+      ],
+      [
+        "pharah",
+        0.004483360285981786
+      ],
+      [
+        "widowmaker",
+        0
+      ]
+    ],
+    "key": "Magic-11407/2017-07-13-22-16-fULNkyrZubGWXEYUBXdSi7",
+    "killfeed": [
+      [
+        128752,
+        0,
+        "hanzo",
+        "BAD",
+        "lucio",
+        "GOLDALLDAY",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        130358,
+        0,
+        "hanzo",
+        "BAD",
+        "mei",
+        "VOIDNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        130358,
+        0,
+        "mercy",
+        "DINNERBOY",
+        "winston",
+        "SHVIGITY",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        131759,
+        1,
+        "hanzo",
+        "FINALBOSS",
+        "mercy",
+        "DINNERBOY",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        137595,
+        1,
+        "mccree",
+        "QUIGLES",
+        "hanzo",
+        "BAD",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        139124,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "hanzo",
+        "FINALBOSS",
+        [
+        ],
+        null
+      ],
+      [
+        139815,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "mccree",
+        "QUIGLES",
+        [
+        ],
+        null
+      ],
+      [
+        157930,
+        0,
+        "genji",
+        "MCWEE",
+        "mei",
+        "VOIDNIGHT",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        160562,
+        0,
+        "genji",
+        "MCWEE",
+        "lucio",
+        "GOLDALLDAY",
+        [
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        162462,
+        1,
+        "pharah",
+        "FINALBOSS",
+        "genji",
+        "MCWEE",
+        [
+        ],
+        null
+      ],
+      [
+        162462,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "mercy",
+        "MAGOO",
+        [
+          "zenyatta",
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        174545,
+        1,
+        "reaper",
+        "QUIGLES",
+        "winston",
+        "CRYOBIOLOGY",
+        [
+        ],
+        null
+      ],
+      [
+        183874,
+        0,
+        "hanzo",
+        "BAD",
+        "mercy",
+        "MAGOO",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        198821,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "reaper",
+        "QUIGLES",
+        [
+        ],
+        null
+      ],
+      [
+        200886,
+        0,
+        "hanzo",
+        "BAD",
+        "mei",
+        "VOIDNIGHT",
+        [
+          "zenyatta"
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        204625,
+        1,
+        "winston",
+        "SHVIGITY",
+        "mercy",
+        "DINNERBOY",
+        [
+        ],
+        null
+      ],
+      [
+        208691,
+        3,
+        "mercy",
+        "MAGOO",
+        "mei",
+        "VOIDNIGHT",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        209574,
+        0,
+        "hanzo",
+        "BAD",
+        "winston",
+        "SHVIGITY",
+        [
+        ],
+        null
+      ],
+      [
+        213992,
+        0,
+        "hanzo",
+        "BAD",
+        "mei",
+        "VOIDNIGHT",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        213992,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "mercy",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        215183,
+        0,
+        "genji",
+        "MCWEE",
+        "pharah",
+        "FINALBOSS",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        248095,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "winston",
+        "SHVIGITY",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        253611,
+        0,
+        "genji",
+        "MCWEE",
+        "mei",
+        "VOIDNIGHT",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        254702,
+        0,
+        "hanzo",
+        "BAD",
+        "reaper",
+        "QUIGLES",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        257355,
+        0,
+        "genji",
+        "MCWEE",
+        "mercy",
+        "FINALBOSS",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        262931,
+        0,
+        "genji",
+        "MCWEE",
+        "dva_mech",
+        "MAGOO",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        264571,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "lucio",
+        "GOLDALLDAY",
+        [
+        ],
+        null
+      ],
+      [
+        268755,
+        0,
+        "genji",
+        "MCWEE",
+        "dva",
+        "MAGOO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        293763,
+        0,
+        "genji",
+        "MCWEE",
+        "lucio",
+        "GOLDALLDAY",
+        [
+          "reinhardt",
+          "mercy",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        295231,
+        1,
+        "reaper",
+        "QUIGLES",
+        "reinhardt",
+        "CHRISCALIB3R",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        295231,
+        1,
+        "reaper",
+        "QUIGLES",
+        "hanzo",
+        "BAD",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        300354,
+        2,
+        "mercy",
+        "DINNERBOY",
+        "reinhardt",
+        "CHRISCALIB3R",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        300354,
+        2,
+        "mercy",
+        "DINNERBOY",
+        "hanzo",
+        "BAD",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        301210,
+        1,
+        "reaper",
+        "QUIGLES",
+        "hanzo",
+        "BAD",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        307638,
+        1,
+        "mei",
+        "VOIDNIGHT",
+        "hanzo",
+        "BAD",
+        [
+        ],
+        null
+      ],
+      [
+        307638,
+        0,
+        "zenyatta",
+        "DELUVIAL",
+        "reaper",
+        "QUIGLES",
+        [
+        ],
+        null
+      ],
+      [
+        315479,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "mercy",
+        "FINALBOSS",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        316977,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "winston",
+        "SHVIGITY",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        316977,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "mei",
+        "VOIDNIGHT",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        320930,
+        0,
+        "genji",
+        "MCWEE",
+        "lucio",
+        "GOLDALLDAY",
+        [
+        ],
+        null
+      ],
+      [
+        325682,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "pharah",
+        "MAGOO",
+        [
+          "zenyatta"
+        ],
+        [
+          "winston",
+          "jumppack"
+        ]
+      ],
+      [
+        337372,
+        0,
+        "genji",
+        "MCWEE",
+        "mercy",
+        "FINALBOSS",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        337372,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "reaper",
+        "QUIGLES",
+        [
+        ],
+        null
+      ],
+      [
+        341762,
+        0,
+        "genji",
+        "MCWEE",
+        "lucio",
+        "GOLDALLDAY",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        343118,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "winston",
+        "SHVIGITY",
+        [
+        ],
+        null
+      ],
+      [
+        345168,
+        0,
+        "hanzo",
+        "BAD",
+        "mei",
+        "VOIDNIGHT",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        489533,
+        1,
+        "mei",
+        "VOIDNIGHT",
+        "hanzo",
+        "BAD",
+        [
+        ],
+        null
+      ],
+      [
+        490961,
+        1,
+        "junkrat",
+        "MAGOO",
+        "reinhardt",
+        "CHRISCALIB3R",
+        [
+          "mccree"
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        493689,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "junkrat",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        500886,
+        1,
+        "mccree",
+        "FINALBOSS",
+        "winston",
+        "CRYOBIOLOGY",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        510609,
+        1,
+        "mccree",
+        "FINALBOSS",
+        "mercy",
+        "DINNERBOY",
+        [
+        ],
+        null
+      ],
+      [
+        513065,
+        1,
+        "mccree",
+        "FINALBOSS",
+        "genji",
+        "MCWEE",
+        [
+        ],
+        null
+      ],
+      [
+        523507,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "lucio",
+        "GOLDALLDAY",
+        [
+        ],
+        null
+      ],
+      [
+        534942,
+        0,
+        "genji",
+        "MCWEE",
+        "mei",
+        "VOIDNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        545035,
+        1,
+        "junkrat",
+        "MAGOO",
+        "genji",
+        "MCWEE",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        545980,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "mccree",
+        "FINALBOSS",
+        [
+          "ana"
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        550736,
+        2,
+        "mercy",
+        "DINNERBOY",
+        "genji",
+        "MCWEE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        551272,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "winston",
+        "SHVIGITY",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        556490,
+        1,
+        "junkrat",
+        "MAGOO",
+        "winston",
+        "CRYOBIOLOGY",
+        [
+        ],
+        null
+      ],
+      [
+        560768,
+        1,
+        "ana",
+        "QUIGLES",
+        "mercy",
+        "DINNERBOY",
+        [
+        ],
+        null
+      ],
+      [
+        562568,
+        0,
+        "widowmaker",
+        "BAD",
+        "junkrat",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        562568,
+        1,
+        "junkrat",
+        "MAGOO",
+        "reinhardt",
+        "CHRISCALIB3R",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        565764,
+        1,
+        "mei",
+        "VOIDNIGHT",
+        "genji",
+        "MCWEE",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        593259,
+        0,
+        "ana",
+        "DELUVIAL",
+        "lucio",
+        "GOLDALLDAY",
+        [
+          "reinhardt"
+        ],
+        [
+          "ana",
+          "bioticgrenade"
+        ]
+      ],
+      [
+        596666,
+        1,
+        "mccree",
+        "FINALBOSS",
+        "ana",
+        "DELUVIAL",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        596666,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "mei",
+        "VOIDNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        600063,
+        1,
+        "mei",
+        "VOIDNIGHT",
+        "genji",
+        "MCWEE",
+        [
+        ],
+        [
+          "mei",
+          "blizzard"
+        ]
+      ],
+      [
+        606775,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "ana",
+        "QUIGLES",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        608073,
+        0,
+        "widowmaker",
+        "BAD",
+        "winston",
+        "SHVIGITY",
+        [
+        ],
+        null
+      ],
+      [
+        610068,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "mccree",
+        "FINALBOSS",
+        [
+        ],
+        [
+          "reinhardt",
+          "charge"
+        ]
+      ],
+      [
+        613050,
+        0,
+        "widowmaker",
+        "BAD",
+        "junkrat",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        624672,
+        0,
+        "ana",
+        "DELUVIAL",
+        "lucio",
+        "GOLDALLDAY",
+        [
+        ],
+        [
+          "ana",
+          "bioticgrenade"
+        ]
+      ],
+      [
+        634033,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "mei",
+        "VOIDNIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        635563,
+        1,
+        "mccree",
+        "FINALBOSS",
+        "widowmaker",
+        "BAD",
+        [
+        ],
+        null
+      ],
+      [
+        638806,
+        1,
+        "mccree",
+        "FINALBOSS",
+        "mercy",
+        "DINNERBOY",
+        [
+          "ana"
+        ],
+        null
+      ],
+      [
+        640488,
+        0,
+        "genji",
+        "MCWEE",
+        "ana",
+        "QUIGLES",
+        [
+        ],
+        [
+          "genji",
+          "dragonblade"
+        ]
+      ],
+      [
+        642506,
+        0,
+        "ana",
+        "DELUVIAL",
+        "mccree",
+        "FINALBOSS",
+        [
+        ],
+        null
+      ],
+      [
+        644256,
+        0,
+        "reinhardt",
+        "CHRISCALIB3R",
+        "junkrat",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        645841,
+        0,
+        "winston",
+        "CRYOBIOLOGY",
+        "winston",
+        "SHVIGITY",
+        [
+          "ana"
+        ],
+        null
+      ]
+    ],
+    "map": "Hollywood",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 350637,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 39877
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 644845,
+        "end_score": null,
+        "stage": "Defend",
+        "start": 406155
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGOO",
+    "result": "LOSS",
+    "score": [
+      0,
+      0
+    ],
+    "start_sr": 2668,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        187,
+        750,
+        750,
+        750,
+        1424,
+        1424,
+        1424,
+        2918,
+        2918,
+        3327,
+        3467,
+        3467,
+        3467,
+        3467
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        3,
+        3,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        8,
+        9,
+        9,
+        9,
+        9
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        3,
+        3,
+        3,
+        6,
+        6,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1290,
+        1290,
+        1501,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801,
+        1801
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "dva",
+        "pharah",
+        "widowmaker",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat",
+        "junkrat"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        26,
+        32,
+        0,
+        0,
+        32,
+        32,
+        32,
+        53,
+        53,
+        42,
+        45,
+        45,
+        45,
+        45
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        86,
+        86,
+        86,
+        86,
+        86,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        396,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        3,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        10,
+        10,
+        16,
+        20,
+        20,
+        20,
+        20
+      ],
+      "time": [
+        40843,
+        46396,
+        52631,
+        61090,
+        79235,
+        86241,
+        91793,
+        99342,
+        165932,
+        171123,
+        184963,
+        216823,
+        224317,
+        277510,
+        327789,
+        350037,
+        411060,
+        496629,
+        502942,
+        508276,
+        565764,
+        573843,
+        616040,
+        646996,
+        672163,
+        681511,
+        689297
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 213992,
+              "hero": "mercy",
+              "start": 162462
+            },
+            {
+              "end": 268755,
+              "hero": "dva",
+              "start": 268755
+            },
+            {
+              "end": 325682,
+              "hero": "pharah",
+              "start": 325682
+            },
+            {
+              "end": 645841,
+              "hero": "junkrat",
+              "start": 490961
+            }
+          ],
+          "name": "MAGOO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 645841,
+              "hero": "winston",
+              "start": 130358
+            }
+          ],
+          "name": "SHVIGITY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 139815,
+              "hero": "mccree",
+              "start": 137595
+            },
+            {
+              "end": 337372,
+              "hero": "reaper",
+              "start": 174545
+            },
+            {
+              "end": 645841,
+              "hero": "ana",
+              "start": 560768
+            }
+          ],
+          "name": "QUIGLES"
+        },
+        {
+          "heroes": [
+            {
+              "end": 139124,
+              "hero": "hanzo",
+              "start": 131759
+            },
+            {
+              "end": 215183,
+              "hero": "pharah",
+              "start": 162462
+            },
+            {
+              "end": 337372,
+              "hero": "mercy",
+              "start": 257355
+            },
+            {
+              "end": 645841,
+              "hero": "mccree",
+              "start": 500886
+            }
+          ],
+          "name": "FINALBOSS"
+        },
+        {
+          "heroes": [
+            {
+              "end": 645841,
+              "hero": "mei",
+              "start": 130358
+            }
+          ],
+          "name": "VOIDNIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 645841,
+              "hero": "lucio",
+              "start": 128752
+            }
+          ],
+          "name": "GOLDALLDAY"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 489533,
+              "hero": "hanzo",
+              "start": 128752
+            },
+            {
+              "end": 645841,
+              "hero": "widowmaker",
+              "start": 562568
+            }
+          ],
+          "name": "BAD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 645841,
+              "hero": "reinhardt",
+              "start": 139124
+            }
+          ],
+          "name": "CHRISCALIB3R"
+        },
+        {
+          "heroes": [
+            {
+              "end": 645841,
+              "hero": "mercy",
+              "start": 130358
+            }
+          ],
+          "name": "DINNERBOY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 645841,
+              "hero": "genji",
+              "start": 157930
+            }
+          ],
+          "name": "MCWEE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 645841,
+              "hero": "winston",
+              "start": 162462
+            }
+          ],
+          "name": "CRYOBIOLOGY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 307638,
+              "hero": "zenyatta",
+              "start": 307638
+            },
+            {
+              "end": 645841,
+              "hero": "ana",
+              "start": 593259
+            }
+          ],
+          "name": "DELUVIAL"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 690,
+    "end_sr": 2643,
+    "heroes_played": [
+      [
+        "junkrat",
+        0.4995765597072091
+      ],
+      [
+        "mercy",
+        0.47731083496467785
+      ],
+      [
+        "dva",
+        0.018629245042131246
+      ]
+    ],
+    "key": "Magic-11407/2017-07-13-22-16-fULNkyrZubGWXEYUBXdSi7",
+    "map": "Hollywood",
+    "player_name": "MAGOO",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      0
+    ],
+    "start_sr": 2668,
+    "time": 1499983490,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-13-22-16-fULNkyrZubGWXEYUBXdSi7/game.json",
+    "user_id": 151467
+  }
+}

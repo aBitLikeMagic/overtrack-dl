@@ -1,0 +1,1133 @@
+{
+  "data": {
+    "assists": [
+    ],
+    "avg_sr": [
+      2724,
+      2731
+    ],
+    "custom_game": false,
+    "deaths": 6,
+    "end_sr": 2665,
+    "game_duration": 511,
+    "game_ended": 1500011073,
+    "game_started": 1500010549,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 1403,
+        "deaths": 6,
+        "elims": 0,
+        "healing": 2307,
+        "hero_stat_1": 0,
+        "hero_stat_3": 2,
+        "hero_stat_5": 0,
+        "hero_stat_6": 511082,
+        "objective_kills": 0,
+        "objective_time": 29,
+        "tab_health": 0.5,
+        "time_played": 478024
+      },
+      "junkrat": {
+        "damage": 204,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 4,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.5,
+        "time_played": 15747
+      },
+      "mercy": {
+        "damage": 100,
+        "deaths": 3,
+        "elims": 0,
+        "healing": 2307,
+        "hero_stat_1": 0,
+        "hero_stat_2": 0,
+        "hero_stat_3": 0,
+        "hero_stat_4": 31,
+        "hero_stat_5": 2,
+        "objective_kills": 0,
+        "objective_time": 20,
+        "tab_health": 0.5,
+        "time_played": 208044
+      },
+      "widowmaker": {
+        "damage": 193,
+        "deaths": 1,
+        "elims": 0,
+        "healing": 0,
+        "hero_stat_1": 0,
+        "hero_stat_2": 33,
+        "hero_stat_3": 0,
+        "hero_stat_4": 0,
+        "hero_stat_5": 0,
+        "objective_kills": 0,
+        "objective_time": 0,
+        "tab_health": 0.5,
+        "time_played": 121647
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        0.674759975655727
+      ],
+      [
+        "widowmaker",
+        0.24759841601359847
+      ],
+      [
+        "junkrat",
+        0.07764160833067459
+      ]
+    ],
+    "key": "Magic-11407/2017-07-14-05-44-Px9fridPfsrxxKwLFkBHpY",
+    "killfeed": [
+      [
+        123463,
+        0,
+        "mccree",
+        "GUN",
+        "tracer",
+        "MCLUTCHED",
+        [
+        ],
+        null
+      ],
+      [
+        132044,
+        0,
+        "mccree",
+        "GUN",
+        "mercy",
+        "MAGOO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        136520,
+        0,
+        "dva",
+        "RRRRRRANK1",
+        "s76",
+        "THEBEAN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        139534,
+        0,
+        "winston",
+        "BUVVLE",
+        "zenyatta",
+        "BISHAMON",
+        [
+          "mccree",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        154650,
+        0,
+        "dva",
+        "RRRRRRANK1",
+        "zarya",
+        "DARKNEST",
+        [
+        ],
+        null
+      ],
+      [
+        180238,
+        0,
+        "zenyatta",
+        "CHEWY",
+        "winston",
+        "TREX",
+        [
+          "mccree"
+        ],
+        null
+      ],
+      [
+        182760,
+        0,
+        "mccree",
+        "GUN",
+        "mercy",
+        "MAGOO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        191285,
+        0,
+        "winston",
+        "BUVVLE",
+        "zenyatta",
+        "BISHAMON",
+        [
+        ],
+        null
+      ],
+      [
+        195805,
+        0,
+        "mccree",
+        "GUN",
+        "tracer",
+        "MCLUTCHED",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        203038,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "reaper",
+        "THEBEAN",
+        [
+        ],
+        null
+      ],
+      [
+        232096,
+        0,
+        "mccree",
+        "GUN",
+        "tracer",
+        "MCLUTCHED",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        234782,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "zenyatta",
+        "BISHAMON",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        238279,
+        3,
+        "mercy",
+        "MAGOO",
+        "zenyatta",
+        "BISHAMON",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        238279,
+        3,
+        "mercy",
+        "MAGOO",
+        "tracer",
+        "MCLUTCHED",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        243653,
+        0,
+        "dva",
+        "RRRRRRANK1",
+        "mercy",
+        "MAGOO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        252181,
+        0,
+        "winston",
+        "BUVVLE",
+        "widowmaker",
+        "THEBEAN",
+        [
+        ],
+        [
+          "winston",
+          "primalrage"
+        ]
+      ],
+      [
+        260167,
+        0,
+        "winston",
+        "BUVVLE",
+        "zenyatta",
+        "BISHAMON",
+        [
+        ],
+        null
+      ],
+      [
+        261772,
+        0,
+        "mccree",
+        "GUN",
+        "zarya",
+        "DARKNEST",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        266075,
+        0,
+        "mccree",
+        "GUN",
+        "dva_mech",
+        "TREX",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        268560,
+        0,
+        "mccree",
+        "GUN",
+        "dva",
+        "TREX",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        284755,
+        0,
+        "mccree",
+        "GUN",
+        "tracer",
+        "MCLUTCHED",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        292756,
+        0,
+        "mccree",
+        "GUN",
+        "widowmaker",
+        "THEBEAN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        313830,
+        0,
+        "mccree",
+        "GUN",
+        "junkrat",
+        "MAGOO",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        313830,
+        0,
+        "winston",
+        "BUVVLE",
+        "mercy",
+        "BISHAMON",
+        [
+        ],
+        null
+      ],
+      [
+        322807,
+        0,
+        "winston",
+        "BUVVLE",
+        "zarya",
+        "DARKNEST",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        325370,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "dva_mech",
+        "TREX",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        328125,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "mccree",
+        "MCLUTCHED",
+        [
+          "mccree"
+        ],
+        null
+      ],
+      [
+        328125,
+        0,
+        "winston",
+        "BUVVLE",
+        "lucio",
+        "THEBEAN",
+        [
+          "mccree",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        331218,
+        0,
+        "dva",
+        "RRRRRRANK1",
+        "dva",
+        "TREX",
+        [
+        ],
+        null
+      ],
+      [
+        334560,
+        0,
+        "mccree",
+        "GUN",
+        "junkrat",
+        "MAGOO",
+        [
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        335419,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "mercy",
+        "BISHAMON",
+        [
+        ],
+        null
+      ],
+      [
+        466372,
+        0,
+        "zenyatta",
+        "CHEWY",
+        "torb_turret",
+        "DARKNEST",
+        [
+        ],
+        null
+      ],
+      [
+        467746,
+        1,
+        "hanzo",
+        "MCLUTCHED",
+        "genji",
+        "GUN",
+        [
+        ],
+        null
+      ],
+      [
+        469380,
+        1,
+        "hanzo",
+        "MCLUTCHED",
+        "mercy",
+        "LGOODYO1",
+        [
+        ],
+        null
+      ],
+      [
+        475144,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "torb",
+        "DARKNEST",
+        [
+        ],
+        null
+      ],
+      [
+        475144,
+        0,
+        null,
+        null,
+        "torb_turret",
+        "DARKNEST",
+        [
+        ],
+        null
+      ],
+      [
+        477027,
+        0,
+        "winston",
+        "BUVVLE",
+        "widowmaker",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        480153,
+        0,
+        "zarya",
+        "RRRRRRANK1",
+        "dva_mech",
+        "THEBEAN",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        487708,
+        0,
+        "zarya",
+        "RRRRRRANK1",
+        "hanzo",
+        "MCLUTCHED",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        488226,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "dva",
+        "THEBEAN",
+        [
+        ],
+        null
+      ],
+      [
+        490311,
+        1,
+        "mei",
+        "TREX",
+        "zenyatta",
+        "CHEWY",
+        [
+        ],
+        null
+      ],
+      [
+        490823,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "mercy",
+        "BISHAMON",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        492357,
+        0,
+        "tracer",
+        "KORZAN7S7",
+        "mei",
+        "TREX",
+        [
+        ],
+        null
+      ]
+    ],
+    "map": "Dorado",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 335966,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 40133
+      },
+      {
+        "checkpoints": [
+          [
+            497446,
+            1
+          ]
+        ],
+        "end": 503216,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 398433
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGOO",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2686,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        60,
+        100,
+        1006,
+        1210,
+        1210,
+        1210,
+        1403,
+        1403,
+        1403
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        587,
+        587,
+        1071,
+        1511,
+        2307,
+        2307,
+        2307,
+        2307,
+        2307,
+        2307,
+        2307,
+        2307
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "junkrat",
+        "junkrat",
+        "widowmaker",
+        "widowmaker",
+        "widowmaker",
+        "widowmaker",
+        "widowmaker"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        24,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        33,
+        33,
+        33
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        22,
+        31,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        10,
+        10,
+        11,
+        20,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29,
+        29
+      ],
+      "time": [
+        43630,
+        62700,
+        68227,
+        73753,
+        79270,
+        135029,
+        141032,
+        159152,
+        183746,
+        251674,
+        327042,
+        342789,
+        400007,
+        444892,
+        480153,
+        515116,
+        521654
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 243653,
+              "hero": "mercy",
+              "start": 132044
+            },
+            {
+              "end": 334560,
+              "hero": "junkrat",
+              "start": 313830
+            },
+            {
+              "end": 492357,
+              "hero": "widowmaker",
+              "start": 477027
+            }
+          ],
+          "name": "MAGOO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 322807,
+              "hero": "zarya",
+              "start": 154650
+            },
+            {
+              "end": 492357,
+              "hero": "torb",
+              "start": 475144
+            }
+          ],
+          "name": "DARKNEST"
+        },
+        {
+          "heroes": [
+            {
+              "end": 260167,
+              "hero": "zenyatta",
+              "start": 139534
+            },
+            {
+              "end": 492357,
+              "hero": "mercy",
+              "start": 313830
+            }
+          ],
+          "name": "BISHAMON"
+        },
+        {
+          "heroes": [
+            {
+              "end": 180238,
+              "hero": "winston",
+              "start": 180238
+            },
+            {
+              "end": 331218,
+              "hero": "dva",
+              "start": 268560
+            },
+            {
+              "end": 492357,
+              "hero": "mei",
+              "start": 490311
+            }
+          ],
+          "name": "TREX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 284755,
+              "hero": "tracer",
+              "start": 123463
+            },
+            {
+              "end": 328125,
+              "hero": "mccree",
+              "start": 328125
+            },
+            {
+              "end": 492357,
+              "hero": "hanzo",
+              "start": 467746
+            }
+          ],
+          "name": "MCLUTCHED"
+        },
+        {
+          "heroes": [
+            {
+              "end": 136520,
+              "hero": "s76",
+              "start": 136520
+            },
+            {
+              "end": 203038,
+              "hero": "reaper",
+              "start": 203038
+            },
+            {
+              "end": 292756,
+              "hero": "widowmaker",
+              "start": 252181
+            },
+            {
+              "end": 328125,
+              "hero": "lucio",
+              "start": 328125
+            },
+            {
+              "end": 492357,
+              "hero": "dva",
+              "start": 488226
+            }
+          ],
+          "name": "THEBEAN"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 492357,
+              "hero": "tracer",
+              "start": 203038
+            }
+          ],
+          "name": "KORZAN7S7"
+        },
+        {
+          "heroes": [
+            {
+              "end": 331218,
+              "hero": "dva",
+              "start": 136520
+            },
+            {
+              "end": 492357,
+              "hero": "zarya",
+              "start": 480153
+            }
+          ],
+          "name": "RRRRRRANK1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 492357,
+              "hero": "mercy",
+              "start": 469380
+            }
+          ],
+          "name": "LGOODYO1"
+        },
+        {
+          "heroes": [
+            {
+              "end": 492357,
+              "hero": "zenyatta",
+              "start": 180238
+            }
+          ],
+          "name": "CHEWY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 492357,
+              "hero": "winston",
+              "start": 139534
+            }
+          ],
+          "name": "BUVVLE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 334560,
+              "hero": "mccree",
+              "start": 123463
+            },
+            {
+              "end": 492357,
+              "hero": "genji",
+              "start": 467746
+            }
+          ],
+          "name": "GUN"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 511,
+    "end_sr": 2665,
+    "heroes_played": [
+      [
+        "mercy",
+        0.674759975655727
+      ],
+      [
+        "widowmaker",
+        0.24759841601359847
+      ],
+      [
+        "junkrat",
+        0.07764160833067459
+      ]
+    ],
+    "key": "Magic-11407/2017-07-14-05-44-Px9fridPfsrxxKwLFkBHpY",
+    "map": "Dorado",
+    "player_name": "MAGOO",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2686,
+    "time": 1500010549,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-14-05-44-Px9fridPfsrxxKwLFkBHpY/game.json",
+    "user_id": 151467
+  }
+}

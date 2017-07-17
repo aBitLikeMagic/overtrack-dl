@@ -1,0 +1,1637 @@
+{
+  "data": {
+    "assists": [
+      [
+        242210,
+        "JOKER",
+        1,
+        0
+      ],
+      [
+        290821,
+        "JOKER",
+        1,
+        0
+      ],
+      [
+        341912,
+        "JOKER",
+        1,
+        0
+      ],
+      [
+        343411,
+        "ROBINRUTHZ",
+        1,
+        0
+      ],
+      [
+        529295,
+        "BETINYY",
+        1,
+        0
+      ],
+      [
+        531793,
+        "AWESOMISTA",
+        1,
+        0
+      ],
+      [
+        543323,
+        "JOKER",
+        1,
+        0
+      ],
+      [
+        584899,
+        "BETINYY",
+        1,
+        0
+      ],
+      [
+        637011,
+        "BETINYY",
+        1,
+        0
+      ],
+      [
+        641518,
+        "MALOLO",
+        1,
+        0
+      ],
+      [
+        643524,
+        "ROBINRUTHZ",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      1915
+    ],
+    "custom_game": false,
+    "deaths": 5,
+    "end_sr": 1897,
+    "game_duration": 645,
+    "game_ended": 1499680088,
+    "game_started": 1499679406,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 4315,
+        "deaths": 5,
+        "elims": 8,
+        "healing": 0,
+        "hero_stat_1": 11,
+        "hero_stat_2": 0,
+        "hero_stat_3": 7,
+        "hero_stat_5": 11,
+        "hero_stat_6": 645022,
+        "objective_kills": 4,
+        "objective_time": 22,
+        "tab_health": 0.5,
+        "time_played": 538572
+      },
+      "pharah": {
+        "damage": 3301,
+        "deaths": 2,
+        "elims": 7,
+        "healing": 0,
+        "hero_stat_1": 52,
+        "hero_stat_2": 0,
+        "hero_stat_3": 4,
+        "hero_stat_4": 25,
+        "hero_stat_5": 4,
+        "objective_kills": 4,
+        "objective_time": 9,
+        "tab_health": 0.5,
+        "time_played": 378266
+      },
+      "tracer": {
+        "damage": 1014,
+        "deaths": 3,
+        "elims": 1,
+        "healing": 0,
+        "hero_stat_1": 28,
+        "hero_stat_2": 0,
+        "hero_stat_3": 1,
+        "hero_stat_4": 1,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 13,
+        "tab_health": 0.5,
+        "time_played": 153801
+      }
+    },
+    "heroes_played": [
+      [
+        "pharah",
+        0.608763631853995
+      ],
+      [
+        "tracer",
+        0.39123636814600504
+      ]
+    ],
+    "key": "notrob-1514/2017-07-10-09-48-QNuGZmaeVuPJLNSYtwpNv3",
+    "killfeed": [
+      [
+        126976,
+        0,
+        "orisa",
+        "AWESOMISTA",
+        "mercy",
+        "DARKLORD",
+        [
+          "junkrat"
+        ],
+        null
+      ],
+      [
+        135498,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "tracer",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        144510,
+        0,
+        "junkrat",
+        "KONOMIEZ",
+        "hanzo",
+        "KERMITBOY",
+        [
+        ],
+        null
+      ],
+      [
+        146016,
+        0,
+        "zenyatta",
+        "BETINYY",
+        "zarya",
+        "LATLE",
+        [
+        ],
+        null
+      ],
+      [
+        150524,
+        0,
+        "junkrat",
+        "KONOMIEZ",
+        "reinhardt",
+        "CAPTAINNOY",
+        [
+          "mercy",
+          "zenyatta",
+          "orisa"
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        179082,
+        0,
+        "zenyatta",
+        "BETINYY",
+        "tracer",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        189098,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "junkrat",
+        "KONOMIEZ",
+        [
+        ],
+        null
+      ],
+      [
+        189098,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "zarya",
+        "LATLE",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        194620,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "ana",
+        "OURMOM",
+        [
+        ],
+        null
+      ],
+      [
+        197118,
+        3,
+        "mercy",
+        "DARKLORD",
+        "zarya",
+        "LATLE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        203129,
+        0,
+        "orisa",
+        "AWESOMISTA",
+        "reinhardt",
+        "CAPTAINNOY",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        208136,
+        0,
+        "reinhardt",
+        "JOKER",
+        "mercy",
+        "DARKLORD",
+        [
+        ],
+        null
+      ],
+      [
+        219174,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "hanzo",
+        "KERMITBOY",
+        [
+        ],
+        null
+      ],
+      [
+        242210,
+        1,
+        "tracer",
+        "ROBUJANAI",
+        "reinhardt",
+        "JOKER",
+        [
+        ],
+        null
+      ],
+      [
+        243715,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "tracer",
+        "ROBUJANAI",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        244714,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "reinhardt",
+        "CAPTAINNOY",
+        [
+          "reinhardt"
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        256231,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "zenyatta",
+        "BETINYY",
+        [
+        ],
+        null
+      ],
+      [
+        256734,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "mercy",
+        "MALOLO",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        259242,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "reaper",
+        "ROBINRUTHZ",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        264774,
+        0,
+        "junkrat",
+        "KONOMIEZ",
+        "hanzo",
+        "KERMITBOY",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        277775,
+        0,
+        "reinhardt",
+        "JOKER",
+        "mercy",
+        "DARKLORD",
+        [
+        ],
+        null
+      ],
+      [
+        288809,
+        0,
+        "reinhardt",
+        "JOKER",
+        "ana",
+        "OURMOM",
+        [
+          "zenyatta",
+          "orisa"
+        ],
+        null
+      ],
+      [
+        289817,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "zarya",
+        "LATLE",
+        [
+        ],
+        null
+      ],
+      [
+        290821,
+        1,
+        "pharah",
+        "ROBUJANAI",
+        "reinhardt",
+        "JOKER",
+        [
+          "ana",
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        291307,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "reinhardt",
+        "CAPTAINNOY",
+        [
+          "orisa"
+        ],
+        null
+      ],
+      [
+        315857,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "junkrat",
+        "KONOMIEZ",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        323881,
+        0,
+        "reinhardt",
+        "JOKER",
+        "winston",
+        "CAPTAINNOY",
+        [
+          "orisa",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        326373,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "orisa",
+        "AWESOMISTA",
+        [
+          "mercy",
+          "zarya"
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        333390,
+        3,
+        "mercy",
+        "DARKLORD",
+        "winston",
+        "CAPTAINNOY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        334906,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "lucio",
+        "OURMOM",
+        [
+          "reinhardt",
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        339904,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "zenyatta",
+        "BETINYY",
+        [
+        ],
+        null
+      ],
+      [
+        341428,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "reinhardt",
+        "JOKER",
+        [
+        ],
+        null
+      ],
+      [
+        343411,
+        1,
+        "pharah",
+        "ROBUJANAI",
+        "reaper",
+        "ROBINRUTHZ",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        343917,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "zenyatta",
+        "BETINYY",
+        [
+        ],
+        null
+      ],
+      [
+        343917,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "reinhardt",
+        "JOKER",
+        [
+        ],
+        null
+      ],
+      [
+        343917,
+        1,
+        "pharah",
+        "ROBUJANAI",
+        "reaper",
+        "ROBINRUTHZ",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        343917,
+        1,
+        null,
+        null,
+        "zenyatta",
+        "BETINYY",
+        [
+        ],
+        null
+      ],
+      [
+        344911,
+        2,
+        "mercy",
+        "MALOLO",
+        "reaper",
+        "ROBINRUTHZ",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        344911,
+        2,
+        "mercy",
+        "MALOLO",
+        "zenyatta",
+        "BETINYY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        344911,
+        2,
+        "mercy",
+        "MALOLO",
+        "reinhardt",
+        "JOKER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        348929,
+        0,
+        "reinhardt",
+        "JOKER",
+        "hanzo",
+        "KERMITBOY",
+        [
+        ],
+        null
+      ],
+      [
+        353434,
+        1,
+        "winston",
+        "CAPTAINNOY",
+        "mercy",
+        "MALOLO",
+        [
+        ],
+        null
+      ],
+      [
+        360451,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "zarya",
+        "LATLE",
+        [
+        ],
+        null
+      ],
+      [
+        363961,
+        0,
+        "junkrat",
+        "KONOMIEZ",
+        "winston",
+        "CAPTAINNOY",
+        [
+        ],
+        null
+      ],
+      [
+        367458,
+        0,
+        "s76",
+        "AWESOMISTA",
+        "mercy",
+        "DARKLORD",
+        [
+          "zenyatta"
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        368461,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "lucio",
+        "OURMOM",
+        [
+        ],
+        [
+          "reaper",
+          "deathblossom"
+        ]
+      ],
+      [
+        370467,
+        0,
+        "s76",
+        "AWESOMISTA",
+        "pharah",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        505743,
+        1,
+        "reaper",
+        "OURMOM",
+        "dva_mech",
+        "JOKER",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        506764,
+        0,
+        "s76",
+        "AWESOMISTA",
+        "zenyatta",
+        "LATLE",
+        [
+        ],
+        [
+          "s76",
+          "helixrockets"
+        ]
+      ],
+      [
+        515767,
+        1,
+        "reaper",
+        "OURMOM",
+        "reaper",
+        "ROBINRUTHZ",
+        [
+        ],
+        null
+      ],
+      [
+        522779,
+        0,
+        "s76",
+        "AWESOMISTA",
+        "mercy",
+        "DARKLORD",
+        [
+        ],
+        null
+      ],
+      [
+        524282,
+        1,
+        "reaper",
+        "OURMOM",
+        "mercy",
+        "MALOLO",
+        [
+        ],
+        null
+      ],
+      [
+        526284,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "sombra",
+        "KONOMIEZ",
+        [
+        ],
+        null
+      ],
+      [
+        529295,
+        1,
+        "reinhardt",
+        "CAPTAINNOY",
+        "reinhardt",
+        "BETINYY",
+        [
+        ],
+        null
+      ],
+      [
+        531793,
+        1,
+        "reinhardt",
+        "CAPTAINNOY",
+        "s76",
+        "AWESOMISTA",
+        [
+        ],
+        [
+          "reinhardt",
+          "firestrike"
+        ]
+      ],
+      [
+        543323,
+        1,
+        "pharah",
+        "ROBUJANAI",
+        "dva",
+        "JOKER",
+        [
+        ],
+        null
+      ],
+      [
+        562857,
+        0,
+        "winston",
+        "KONOMIEZ",
+        "zenyatta",
+        "LATLE",
+        [
+        ],
+        null
+      ],
+      [
+        576882,
+        0,
+        "s76",
+        "AWESOMISTA",
+        "reinhardt",
+        "CAPTAINNOY",
+        [
+        ],
+        null
+      ],
+      [
+        576882,
+        1,
+        "reaper",
+        "OURMOM",
+        "winston",
+        "KONOMIEZ",
+        [
+        ],
+        null
+      ],
+      [
+        584899,
+        1,
+        "pharah",
+        "ROBUJANAI",
+        "zenyatta",
+        "BETINYY",
+        [
+        ],
+        null
+      ],
+      [
+        585406,
+        1,
+        "reaper",
+        "OURMOM",
+        "s76",
+        "AWESOMISTA",
+        [
+        ],
+        null
+      ],
+      [
+        586911,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "reaper",
+        "OURMOM",
+        [
+        ],
+        null
+      ],
+      [
+        586911,
+        0,
+        "dva",
+        "JOKER",
+        "mercy",
+        "DARKLORD",
+        [
+        ],
+        null
+      ],
+      [
+        590919,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "hanzo",
+        "KERMITBOY",
+        [
+          "zenyatta"
+        ],
+        null
+      ],
+      [
+        594919,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "zenyatta",
+        "LATLE",
+        [
+        ],
+        null
+      ],
+      [
+        600437,
+        0,
+        "reaper",
+        "ROBINRUTHZ",
+        "pharah",
+        "ROBUJANAI",
+        [
+        ],
+        null
+      ],
+      [
+        601437,
+        1,
+        "pharah",
+        "ROBUJANAI",
+        "dva_mech",
+        "JOKER",
+        [
+          "zenyatta"
+        ],
+        [
+          "pharah",
+          "barrage"
+        ]
+      ],
+      [
+        617968,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "dva",
+        "JOKER",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        617968,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "mercy",
+        "MALOLO",
+        [
+        ],
+        [
+          "hanzo",
+          "dragonstrike"
+        ]
+      ],
+      [
+        633506,
+        0,
+        "zenyatta",
+        "BETINYY",
+        "zarya",
+        "LATLE",
+        [
+          "reinhardt"
+        ],
+        null
+      ],
+      [
+        637011,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "zenyatta",
+        "BETINYY",
+        [
+        ],
+        null
+      ],
+      [
+        641518,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "mercy",
+        "MALOLO",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        643524,
+        1,
+        "hanzo",
+        "KERMITBOY",
+        "reaper",
+        "ROBINRUTHZ",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ]
+    ],
+    "map": "Numbani",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 375480,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 39800
+      },
+      {
+        "checkpoints": [
+          [
+            599437,
+            1
+          ]
+        ],
+        "end": 601437,
+        "end_score": 1,
+        "stage": "Defend",
+        "start": 430095
+      }
+    ],
+    "owner": "notrob#1514",
+    "player": "ROBUJANAI",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 1917,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        342,
+        342,
+        342,
+        525,
+        1014,
+        1014,
+        1014,
+        1014,
+        1410,
+        2490,
+        2490,
+        2490,
+        2490,
+        2490,
+        2490,
+        2490,
+        4315,
+        4315,
+        4315,
+        4315,
+        4315
+      ],
+      "deaths": [
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero": [
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "tracer",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah",
+        "pharah"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        23,
+        23,
+        23,
+        28,
+        28,
+        28,
+        0,
+        0,
+        67,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        58,
+        52,
+        52,
+        52,
+        52,
+        52
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        6,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        25,
+        25,
+        25,
+        25,
+        25
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "objective_time": [
+        0,
+        0,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        13,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        22,
+        22,
+        22,
+        22,
+        22
+      ],
+      "time": [
+        95424,
+        105437,
+        135000,
+        140503,
+        145509,
+        179592,
+        244214,
+        249225,
+        255730,
+        260747,
+        298823,
+        371968,
+        431095,
+        439115,
+        444119,
+        450639,
+        471180,
+        479691,
+        599929,
+        605442,
+        618970,
+        624478,
+        633996
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 243715,
+              "hero": "tracer",
+              "start": 135498
+            },
+            {
+              "end": 643524,
+              "hero": "pharah",
+              "start": 290821
+            }
+          ],
+          "name": "ROBUJANAI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 643524,
+              "hero": "hanzo",
+              "start": 144510
+            }
+          ],
+          "name": "KERMITBOY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 360451,
+              "hero": "zarya",
+              "start": 146016
+            },
+            {
+              "end": 594919,
+              "hero": "zenyatta",
+              "start": 506764
+            },
+            {
+              "end": 643524,
+              "hero": "zarya",
+              "start": 633506
+            }
+          ],
+          "name": "LATLE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 288809,
+              "hero": "ana",
+              "start": 194620
+            },
+            {
+              "end": 368461,
+              "hero": "lucio",
+              "start": 334906
+            },
+            {
+              "end": 643524,
+              "hero": "reaper",
+              "start": 505743
+            }
+          ],
+          "name": "OURMOM"
+        },
+        {
+          "heroes": [
+            {
+              "end": 643524,
+              "hero": "mercy",
+              "start": 126976
+            }
+          ],
+          "name": "DARKLORD"
+        },
+        {
+          "heroes": [
+            {
+              "end": 291307,
+              "hero": "reinhardt",
+              "start": 150524
+            },
+            {
+              "end": 363961,
+              "hero": "winston",
+              "start": 323881
+            },
+            {
+              "end": 643524,
+              "hero": "reinhardt",
+              "start": 529295
+            }
+          ],
+          "name": "CAPTAINNOY"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 344911,
+              "hero": "zenyatta",
+              "start": 146016
+            },
+            {
+              "end": 529295,
+              "hero": "reinhardt",
+              "start": 529295
+            },
+            {
+              "end": 643524,
+              "hero": "zenyatta",
+              "start": 584899
+            }
+          ],
+          "name": "BETINYY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 348929,
+              "hero": "reinhardt",
+              "start": 208136
+            },
+            {
+              "end": 643524,
+              "hero": "dva",
+              "start": 543323
+            }
+          ],
+          "name": "JOKER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 643524,
+              "hero": "reaper",
+              "start": 135498
+            }
+          ],
+          "name": "ROBINRUTHZ"
+        },
+        {
+          "heroes": [
+            {
+              "end": 326373,
+              "hero": "orisa",
+              "start": 126976
+            },
+            {
+              "end": 643524,
+              "hero": "s76",
+              "start": 367458
+            }
+          ],
+          "name": "AWESOMISTA"
+        },
+        {
+          "heroes": [
+            {
+              "end": 643524,
+              "hero": "mercy",
+              "start": 256734
+            }
+          ],
+          "name": "MALOLO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 363961,
+              "hero": "junkrat",
+              "start": 144510
+            },
+            {
+              "end": 526284,
+              "hero": "sombra",
+              "start": 526284
+            },
+            {
+              "end": 643524,
+              "hero": "winston",
+              "start": 562857
+            }
+          ],
+          "name": "KONOMIEZ"
+        }
+      ]
+    },
+    "user_id": 2235147
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 645,
+    "end_sr": 1897,
+    "heroes_played": [
+      [
+        "pharah",
+        0.608763631853995
+      ],
+      [
+        "tracer",
+        0.39123636814600504
+      ]
+    ],
+    "key": "notrob-1514/2017-07-10-09-48-QNuGZmaeVuPJLNSYtwpNv3",
+    "map": "Numbani",
+    "player_name": "ROBUJANAI",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 1917,
+    "time": 1499679406,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/notrob-1514/2017-07-10-09-48-QNuGZmaeVuPJLNSYtwpNv3/game.json",
+    "user_id": 2235147
+  }
+}

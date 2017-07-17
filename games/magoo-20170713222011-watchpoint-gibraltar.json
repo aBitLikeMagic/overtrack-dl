@@ -1,0 +1,1954 @@
+{
+  "data": {
+    "assists": [
+      [
+        218125,
+        "ZUVE",
+        0,
+        1
+      ],
+      [
+        274183,
+        "ALEX",
+        0,
+        1
+      ],
+      [
+        282325,
+        "ZUVE",
+        0,
+        1
+      ],
+      [
+        287935,
+        "KKRAKER",
+        0,
+        1
+      ],
+      [
+        300031,
+        "STORMMASTER",
+        0,
+        1
+      ],
+      [
+        358646,
+        "TALON",
+        0,
+        1
+      ],
+      [
+        371710,
+        "ALEX",
+        0,
+        1
+      ],
+      [
+        391514,
+        "ZUVE",
+        0,
+        1
+      ],
+      [
+        403539,
+        "STORMMASTER",
+        0,
+        1
+      ],
+      [
+        403539,
+        "ALEX",
+        0,
+        1
+      ],
+      [
+        530405,
+        "ALEX",
+        1,
+        0
+      ],
+      [
+        577740,
+        "INEEDHEALING",
+        1,
+        0
+      ],
+      [
+        584340,
+        "KKRAKER",
+        1,
+        0
+      ],
+      [
+        641112,
+        "STORMMASTER",
+        1,
+        0
+      ],
+      [
+        673149,
+        "INEEDHEALING",
+        1,
+        0
+      ],
+      [
+        685199,
+        "ALEX",
+        1,
+        0
+      ],
+      [
+        737951,
+        "INEEDHEALING",
+        1,
+        0
+      ],
+      [
+        746478,
+        "ALEX",
+        1,
+        0
+      ],
+      [
+        770876,
+        "TALON",
+        1,
+        0
+      ],
+      [
+        810058,
+        "TALON",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      2708
+    ],
+    "custom_game": false,
+    "deaths": 4,
+    "end_sr": 2684,
+    "game_duration": 816,
+    "game_ended": 1499985257,
+    "game_started": 1499984411,
+    "group_size": 0,
+    "hero_statistics": {
+      "ALL": {
+        "damage": 3277,
+        "deaths": 3,
+        "elims": 11,
+        "healing": 7158,
+        "hero_stat_1": 10,
+        "hero_stat_2": 10,
+        "hero_stat_3": 3,
+        "hero_stat_5": 11,
+        "hero_stat_6": 816631,
+        "objective_kills": 5,
+        "objective_time": 149,
+        "tab_health": 0.35714285714285715,
+        "time_played": 735678
+      },
+      "mercy": {
+        "damage": 60,
+        "deaths": 2,
+        "elims": 0,
+        "healing": 7158,
+        "hero_stat_1": 11,
+        "hero_stat_2": 0,
+        "hero_stat_3": 17,
+        "hero_stat_4": 396,
+        "hero_stat_5": 1,
+        "objective_kills": 0,
+        "objective_time": 107,
+        "tab_health": 0.35714285714285715,
+        "time_played": 323813
+      },
+      "winston": {
+        "damage": 3217,
+        "deaths": 1,
+        "elims": 11,
+        "healing": 0,
+        "hero_stat_1": 3488,
+        "hero_stat_2": 21,
+        "hero_stat_3": 10,
+        "hero_stat_5": 2,
+        "objective_kills": 5,
+        "objective_time": 42,
+        "tab_health": 0.35714285714285715,
+        "time_played": 338540
+      }
+    },
+    "heroes_played": [
+      [
+        "mercy",
+        0.547902149018079
+      ],
+      [
+        "winston",
+        0.45209785098192096
+      ]
+    ],
+    "key": "Magic-11407/2017-07-13-22-34-ijhiZstCLqrN2LXxaw6BB8",
+    "killfeed": [
+      [
+        132737,
+        0,
+        "genji",
+        "TALON",
+        "bastion",
+        "MRBLUESKY",
+        [
+        ],
+        null
+      ],
+      [
+        132737,
+        0,
+        "junkrat",
+        "KKRAKER",
+        "junkrat",
+        "SINISJECHT",
+        [
+        ],
+        null
+      ],
+      [
+        148815,
+        1,
+        "s76",
+        "MRBLADE",
+        "winston",
+        "STORMMASTER",
+        [
+        ],
+        null
+      ],
+      [
+        155733,
+        2,
+        "mercy",
+        "INEEDHEALING",
+        "winston",
+        "STORMMASTER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        167080,
+        0,
+        "genji",
+        "TALON",
+        "junkrat",
+        "SINISJECHT",
+        [
+        ],
+        [
+          "genji",
+          "swiftstrike"
+        ]
+      ],
+      [
+        174242,
+        1,
+        "winston",
+        "DREW",
+        "lucio",
+        "ALEX",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        177320,
+        0,
+        "junkrat",
+        "KKRAKER",
+        "bastion",
+        "MRBLUESKY",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        177320,
+        3,
+        "mercy",
+        "MAGOO",
+        "bastion",
+        "MRBLUESKY",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        181038,
+        0,
+        "junkrat",
+        "KKRAKER",
+        "mercy",
+        "MAGOO",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        185342,
+        0,
+        "winston",
+        "STORMMASTER",
+        "s76",
+        "MRBLADE",
+        [
+          "mercy",
+          "junkrat"
+        ],
+        null
+      ],
+      [
+        186146,
+        0,
+        "mccree",
+        "ZUVE",
+        "winston",
+        "DREW",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        198720,
+        0,
+        "genji",
+        "TALON",
+        "bastion",
+        "MRBLUESKY",
+        [
+        ],
+        null
+      ],
+      [
+        204417,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "winston",
+        "STORMMASTER",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        213796,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "genji",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        217224,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "mccree",
+        "ZUVE",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        221157,
+        1,
+        "dva",
+        "STUFFYTHEMAN",
+        "mercy",
+        "INEEDHEALING",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        223444,
+        0,
+        "junkrat",
+        "KKRAKER",
+        "junkrat",
+        "SINISJECHT",
+        [
+        ],
+        null
+      ],
+      [
+        223444,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "junkrat",
+        "KKRAKER",
+        [
+        ],
+        null
+      ],
+      [
+        249055,
+        1,
+        "dva",
+        "STUFFYTHEMAN",
+        "winston",
+        "STORMMASTER",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        255608,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "genji",
+        "TALON",
+        [
+          "mercy"
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        260299,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "mccree",
+        "ZUVE",
+        [
+        ],
+        [
+          "bastion",
+          "configurationtank"
+        ]
+      ],
+      [
+        262795,
+        0,
+        "mccree",
+        "ZUVE",
+        "dva_mech",
+        "STUFFYTHEMAN",
+        [
+          "mercy"
+        ],
+        [
+          "mccree",
+          "deadeye"
+        ]
+      ],
+      [
+        262795,
+        2,
+        "mercy",
+        "INEEDHEALING",
+        "mccree",
+        "ZUVE",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        262795,
+        2,
+        "mercy",
+        "INEEDHEALING",
+        "genji",
+        "TALON",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        266394,
+        1,
+        "winston",
+        "DREW",
+        "mercy",
+        "INEEDHEALING",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        267912,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "junkrat",
+        "KKRAKER",
+        [
+          "mercy"
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        268676,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "genji",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        274183,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "lucio",
+        "ALEX",
+        [
+        ],
+        null
+      ],
+      [
+        282325,
+        1,
+        "hanzo",
+        "MRBLADE",
+        "mccree",
+        "ZUVE",
+        [
+        ],
+        [
+          "hanzo",
+          "scatterarrow"
+        ]
+      ],
+      [
+        287935,
+        1,
+        "winston",
+        "DREW",
+        "junkrat",
+        "KKRAKER",
+        [
+        ],
+        null
+      ],
+      [
+        290202,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "dva_mech",
+        "STORMMASTER",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        295088,
+        1,
+        "winston",
+        "DREW",
+        "lucio",
+        "ALEX",
+        [
+        ],
+        null
+      ],
+      [
+        300031,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "dva",
+        "STORMMASTER",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        307748,
+        0,
+        "mercy",
+        "INEEDHEALING",
+        "winston",
+        "DREW",
+        [
+        ],
+        null
+      ],
+      [
+        314569,
+        0,
+        "widowmaker",
+        "ZUVE",
+        "junkrat",
+        "SINISJECHT",
+        [
+        ],
+        null
+      ],
+      [
+        321180,
+        0,
+        "junkrat",
+        "KKRAKER",
+        "hanzo",
+        "MRBLADE",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        321180,
+        0,
+        "junkrat",
+        "KKRAKER",
+        "mercy",
+        "MAGOO",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        325998,
+        0,
+        "lucio",
+        "ALEX",
+        "bastion",
+        "MRBLUESKY",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        327796,
+        0,
+        "genji",
+        "STORMMASTER",
+        "dva_mech",
+        "STUFFYTHEMAN",
+        [
+        ],
+        null
+      ],
+      [
+        328914,
+        0,
+        "widowmaker",
+        "ZUVE",
+        "dva",
+        "STUFFYTHEMAN",
+        [
+        ],
+        null
+      ],
+      [
+        343576,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "junkrat",
+        "KKRAKER",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        351461,
+        0,
+        "widowmaker",
+        "ZUVE",
+        "hanzo",
+        "MRBLADE",
+        [
+        ],
+        null
+      ],
+      [
+        358646,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "zarya",
+        "TALON",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        362510,
+        2,
+        "mercy",
+        "INEEDHEALING",
+        "zarya",
+        "TALON",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        365146,
+        1,
+        "winston",
+        "DREW",
+        "widowmaker",
+        "ZUVE",
+        [
+        ],
+        null
+      ],
+      [
+        368062,
+        1,
+        "dva",
+        "STUFFYTHEMAN",
+        "mercy",
+        "INEEDHEALING",
+        [
+          "mercy",
+          "junkrat"
+        ],
+        null
+      ],
+      [
+        370637,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "zarya",
+        "TALON",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        371710,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "lucio",
+        "ALEX",
+        [
+        ],
+        null
+      ],
+      [
+        377589,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "reinhardt",
+        "KKRAKER",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        383104,
+        0,
+        "widowmaker",
+        "ZUVE",
+        "hanzo",
+        "MRBLADE",
+        [
+        ],
+        null
+      ],
+      [
+        387593,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "genji",
+        "STORMMASTER",
+        [
+        ],
+        null
+      ],
+      [
+        390482,
+        1,
+        "winston",
+        "DREW",
+        "mercy",
+        "INEEDHEALING",
+        [
+        ],
+        null
+      ],
+      [
+        391514,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "widowmaker",
+        "ZUVE",
+        [
+        ],
+        null
+      ],
+      [
+        398244,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "reinhardt",
+        "KKRAKER",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        403539,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "genji",
+        "STORMMASTER",
+        [
+          "mercy"
+        ],
+        [
+          "junkrat",
+          "steeltrap"
+        ]
+      ],
+      [
+        403539,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "lucio",
+        "ALEX",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        529492,
+        0,
+        "widowmaker",
+        "ZUVE",
+        "mercy",
+        "DREW",
+        [
+        ],
+        null
+      ],
+      [
+        530405,
+        1,
+        "winston",
+        "MAGOO",
+        "lucio",
+        "ALEX",
+        [
+        ],
+        null
+      ],
+      [
+        536818,
+        1,
+        "dva",
+        "STUFFYTHEMAN",
+        "dva_mech",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        538656,
+        0,
+        "widowmaker",
+        "ZUVE",
+        "reaper",
+        "MRBLUESKY",
+        [
+        ],
+        null
+      ],
+      [
+        540976,
+        0,
+        "pharah",
+        "STORMMASTER",
+        "widowmaker",
+        "MRBLADE",
+        [
+        ],
+        null
+      ],
+      [
+        543027,
+        0,
+        "pharah",
+        "STORMMASTER",
+        "junkrat",
+        "SINISJECHT",
+        [
+        ],
+        null
+      ],
+      [
+        570714,
+        1,
+        "widowmaker",
+        "MRBLADE",
+        "pharah",
+        "STORMMASTER",
+        [
+        ],
+        null
+      ],
+      [
+        577740,
+        1,
+        "dva",
+        "STUFFYTHEMAN",
+        "winston",
+        "INEEDHEALING",
+        [
+          "junkrat"
+        ],
+        null
+      ],
+      [
+        584340,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "mercy",
+        "KKRAKER",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        585498,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "dva_mech",
+        "TALON",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        591279,
+        1,
+        "dva",
+        "STUFFYTHEMAN",
+        "dva",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        593352,
+        1,
+        "widowmaker",
+        "MRBLADE",
+        "widowmaker",
+        "ZUVE",
+        [
+        ],
+        null
+      ],
+      [
+        598482,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "lucio",
+        "ALEX",
+        [
+        ],
+        null
+      ],
+      [
+        610097,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "winston",
+        "INEEDHEALING",
+        [
+        ],
+        null
+      ],
+      [
+        610097,
+        0,
+        "pharah",
+        "STORMMASTER",
+        "reaper",
+        "MRBLUESKY",
+        [
+        ],
+        null
+      ],
+      [
+        626614,
+        1,
+        "widowmaker",
+        "MRBLADE",
+        "widowmaker",
+        "ZUVE",
+        [
+        ],
+        null
+      ],
+      [
+        633429,
+        1,
+        "widowmaker",
+        "MRBLADE",
+        "lucio",
+        "ALEX",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        636384,
+        0,
+        "dva",
+        "TALON",
+        "junkrat",
+        "SINISJECHT",
+        [
+        ],
+        null
+      ],
+      [
+        641112,
+        1,
+        "reaper",
+        "MRBLUESKY",
+        "pharah",
+        "STORMMASTER",
+        [
+        ],
+        null
+      ],
+      [
+        644405,
+        2,
+        "mercy",
+        "KKRAKER",
+        "pharah",
+        "STORMMASTER",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        654269,
+        1,
+        "winston",
+        "MAGOO",
+        "mercy",
+        "KKRAKER",
+        [
+          "junkrat"
+        ],
+        null
+      ],
+      [
+        655986,
+        1,
+        "reaper",
+        "MRBLUESKY",
+        "pharah",
+        "STORMMASTER",
+        [
+        ],
+        null
+      ],
+      [
+        667431,
+        1,
+        "dva",
+        "STUFFYTHEMAN",
+        "dva_mech",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        673149,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "winston",
+        "INEEDHEALING",
+        [
+        ],
+        null
+      ],
+      [
+        685199,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "lucio",
+        "ALEX",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        693704,
+        1,
+        "reaper",
+        "MRBLUESKY",
+        "dva_mech",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        717289,
+        1,
+        "widowmaker",
+        "MRBLADE",
+        "dva",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        718209,
+        0,
+        "lucio",
+        "ALEX",
+        "reaper",
+        "MRBLUESKY",
+        [
+        ],
+        null
+      ],
+      [
+        720789,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "mercy",
+        "KKRAKER",
+        [
+        ],
+        null
+      ],
+      [
+        724176,
+        1,
+        "widowmaker",
+        "MRBLADE",
+        "pharah",
+        "STORMMASTER",
+        [
+        ],
+        null
+      ],
+      [
+        736509,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "zarya",
+        "INEEDHEALING",
+        [
+        ],
+        null
+      ],
+      [
+        738853,
+        0,
+        "widowmaker",
+        "ZUVE",
+        "widowmaker",
+        "MRBLADE",
+        [
+        ],
+        null
+      ],
+      [
+        746478,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "lucio",
+        "ALEX",
+        [
+        ],
+        null
+      ],
+      [
+        751002,
+        1,
+        "reaper",
+        "MRBLUESKY",
+        "widowmaker",
+        "ZUVE",
+        [
+        ],
+        null
+      ],
+      [
+        752463,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "mercy",
+        "KKRAKER",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        759334,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "zarya",
+        "INEEDHEALING",
+        [
+        ],
+        [
+          "junkrat",
+          "riptire"
+        ]
+      ],
+      [
+        761157,
+        0,
+        "pharah",
+        "STORMMASTER",
+        "winston",
+        "MAGOO",
+        [
+        ],
+        null
+      ],
+      [
+        762074,
+        3,
+        "mercy",
+        "DREW",
+        "winston",
+        "MAGOO",
+        [
+        ],
+        [
+          "mercy",
+          "resurrect"
+        ]
+      ],
+      [
+        763739,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "lucio",
+        "ALEX",
+        [
+        ],
+        [
+          "junkrat",
+          "concussionmine"
+        ]
+      ],
+      [
+        764862,
+        1,
+        "dva",
+        "STUFFYTHEMAN",
+        "pharah",
+        "STORMMASTER",
+        [
+        ],
+        null
+      ],
+      [
+        767416,
+        0,
+        "widowmaker",
+        "ZUVE",
+        "junkrat",
+        "SINISJECHT",
+        [
+        ],
+        null
+      ],
+      [
+        769451,
+        1,
+        "reaper",
+        "MRBLUESKY",
+        "dva_mech",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        770876,
+        1,
+        "reaper",
+        "MRBLUESKY",
+        "dva",
+        "TALON",
+        [
+        ],
+        null
+      ],
+      [
+        805645,
+        1,
+        "junkrat",
+        "SINISJECHT",
+        "widowmaker",
+        "ZUVE",
+        [
+        ],
+        null
+      ],
+      [
+        810058,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "zarya",
+        "TALON",
+        [
+          "mercy"
+        ],
+        null
+      ],
+      [
+        812081,
+        1,
+        "bastion",
+        "MRBLUESKY",
+        "reinhardt",
+        "KKRAKER",
+        [
+          "mercy"
+        ],
+        null
+      ]
+    ],
+    "map": "Watchpoint: Gibraltar",
+    "map_type": "Escort",
+    "objective_stages": [
+      {
+        "checkpoints": [
+          [
+            241693,
+            1
+          ],
+          [
+            302655,
+            2
+          ],
+          [
+            403539,
+            3
+          ]
+        ],
+        "end": 405509,
+        "end_score": 3,
+        "stage": "Attack",
+        "start": 39860
+      },
+      {
+        "checkpoints": [
+        ],
+        "end": 772013,
+        "end_score": null,
+        "stage": "Defend",
+        "start": 481322
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "MAGOO",
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2643,
+    "tab_statistics": {
+      "damage": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        60,
+        60,
+        1222,
+        3277,
+        3277,
+        3277
+      ],
+      "deaths": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3
+      ],
+      "elims": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        11,
+        11,
+        11
+      ],
+      "healing": [
+        0,
+        0,
+        0,
+        2470,
+        3024,
+        3024,
+        5185,
+        5869,
+        5869,
+        7158,
+        7158,
+        7158,
+        7158,
+        7158,
+        7158
+      ],
+      "hero": [
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "mercy",
+        "winston",
+        "winston",
+        "winston",
+        "winston",
+        "winston"
+      ],
+      "hero_stat_1": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        5,
+        6,
+        6,
+        11,
+        0,
+        1013,
+        3488,
+        3488,
+        3488
+      ],
+      "hero_stat_2": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        21,
+        21,
+        21
+      ],
+      "hero_stat_3": [
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        6,
+        9,
+        9,
+        17,
+        0,
+        3,
+        10,
+        10,
+        10
+      ],
+      "hero_stat_4": [
+        0,
+        0,
+        0,
+        19,
+        28,
+        28,
+        217,
+        235,
+        235,
+        396,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "hero_stat_5": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        2,
+        2,
+        2
+      ],
+      "hero_stat_6": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "objective_kills": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        5,
+        5,
+        5
+      ],
+      "objective_time": [
+        0,
+        0,
+        0,
+        11,
+        13,
+        13,
+        51,
+        77,
+        77,
+        107,
+        107,
+        116,
+        149,
+        149,
+        149
+      ],
+      "time": [
+        80953,
+        86042,
+        94014,
+        166315,
+        182890,
+        188317,
+        273009,
+        323628,
+        329457,
+        404766,
+        478091,
+        590443,
+        774938,
+        811549,
+        816631
+      ]
+    },
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 321180,
+              "hero": "mercy",
+              "start": 177320
+            },
+            {
+              "end": 812081,
+              "hero": "winston",
+              "start": 530405
+            }
+          ],
+          "name": "MAGOO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 812081,
+              "hero": "dva",
+              "start": 221157
+            }
+          ],
+          "name": "STUFFYTHEMAN"
+        },
+        {
+          "heroes": [
+            {
+              "end": 812081,
+              "hero": "junkrat",
+              "start": 132737
+            }
+          ],
+          "name": "SINISJECHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 398244,
+              "hero": "bastion",
+              "start": 132737
+            },
+            {
+              "end": 770876,
+              "hero": "reaper",
+              "start": 538656
+            },
+            {
+              "end": 812081,
+              "hero": "bastion",
+              "start": 810058
+            }
+          ],
+          "name": "MRBLUESKY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 390482,
+              "hero": "winston",
+              "start": 174242
+            },
+            {
+              "end": 812081,
+              "hero": "mercy",
+              "start": 529492
+            }
+          ],
+          "name": "DREW"
+        },
+        {
+          "heroes": [
+            {
+              "end": 185342,
+              "hero": "s76",
+              "start": 148815
+            },
+            {
+              "end": 383104,
+              "hero": "hanzo",
+              "start": 282325
+            },
+            {
+              "end": 812081,
+              "hero": "widowmaker",
+              "start": 540976
+            }
+          ],
+          "name": "MRBLADE"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 282325,
+              "hero": "mccree",
+              "start": 186146
+            },
+            {
+              "end": 812081,
+              "hero": "widowmaker",
+              "start": 314569
+            }
+          ],
+          "name": "ZUVE"
+        },
+        {
+          "heroes": [
+            {
+              "end": 812081,
+              "hero": "lucio",
+              "start": 174242
+            }
+          ],
+          "name": "ALEX"
+        },
+        {
+          "heroes": [
+            {
+              "end": 390482,
+              "hero": "mercy",
+              "start": 155733
+            },
+            {
+              "end": 673149,
+              "hero": "winston",
+              "start": 577740
+            },
+            {
+              "end": 812081,
+              "hero": "zarya",
+              "start": 736509
+            }
+          ],
+          "name": "INEEDHEALING"
+        },
+        {
+          "heroes": [
+            {
+              "end": 268676,
+              "hero": "genji",
+              "start": 132737
+            },
+            {
+              "end": 370637,
+              "hero": "zarya",
+              "start": 358646
+            },
+            {
+              "end": 770876,
+              "hero": "dva",
+              "start": 591279
+            },
+            {
+              "end": 812081,
+              "hero": "zarya",
+              "start": 810058
+            }
+          ],
+          "name": "TALON"
+        },
+        {
+          "heroes": [
+            {
+              "end": 343576,
+              "hero": "junkrat",
+              "start": 132737
+            },
+            {
+              "end": 398244,
+              "hero": "reinhardt",
+              "start": 377589
+            },
+            {
+              "end": 752463,
+              "hero": "mercy",
+              "start": 584340
+            },
+            {
+              "end": 812081,
+              "hero": "reinhardt",
+              "start": 812081
+            }
+          ],
+          "name": "KKRAKER"
+        },
+        {
+          "heroes": [
+            {
+              "end": 249055,
+              "hero": "winston",
+              "start": 148815
+            },
+            {
+              "end": 300031,
+              "hero": "dva",
+              "start": 300031
+            },
+            {
+              "end": 403539,
+              "hero": "genji",
+              "start": 327796
+            },
+            {
+              "end": 812081,
+              "hero": "pharah",
+              "start": 540976
+            }
+          ],
+          "name": "STORMMASTER"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "custom_game": false,
+    "duration": 816,
+    "end_sr": 2684,
+    "heroes_played": [
+      [
+        "mercy",
+        0.547902149018079
+      ],
+      [
+        "winston",
+        0.45209785098192096
+      ]
+    ],
+    "key": "Magic-11407/2017-07-13-22-34-ijhiZstCLqrN2LXxaw6BB8",
+    "map": "Watchpoint: Gibraltar",
+    "player_name": "MAGOO",
+    "rank": null,
+    "result": "WIN",
+    "score": [
+      3,
+      0
+    ],
+    "start_sr": 2643,
+    "time": 1499984411,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-13-22-34-ijhiZstCLqrN2LXxaw6BB8/game.json",
+    "user_id": 151467
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "data": {
+    "assists": [
+      [
+        484876,
+        "FIFI",
+        1,
+        0
+      ],
+      [
+        599271,
+        "MEMEY8OI",
+        1,
+        0
+      ]
+    ],
+    "avg_sr": [
+      null,
+      null
+    ],
+    "custom_game": false,
+    "deaths": 0,
+    "end_sr": 2341,
+    "game_duration": 606,
+    "game_ended": 1499196550,
+    "game_started": 1499195900,
+    "group_size": null,
+    "hero_statistics": {
+    },
+    "heroes_played": [
+      [
+        "dva",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-04-19-29-BPsCPCCxzswyBt5Z2MZ96h",
+    "killfeed": [
+      [
+        134995,
+        0,
+        "dva",
+        "XI8RQ",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        170175,
+        0,
+        "mccree",
+        "FIFI",
+        "winston",
+        "MFMFY8QI",
+        [
+        ],
+        null
+      ],
+      [
+        281457,
+        0,
+        "dva",
+        "KI8RO",
+        "winston",
+        "MFMFY8QI",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        281457,
+        0,
+        "dva",
+        "KI8RO",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        281457,
+        0,
+        "dva",
+        "XI8RQ",
+        "dva_mech",
+        "LELOUCH84",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        286734,
+        0,
+        "dva",
+        "XI8RQ",
+        "dva",
+        "LELOUCH84",
+        [
+        ],
+        null
+      ],
+      [
+        288249,
+        0,
+        "mccree",
+        "FIFI",
+        "tracer",
+        "PWNAQFPFTF",
+        [
+        ],
+        null
+      ],
+      [
+        291513,
+        1,
+        null,
+        null,
+        "orisa_supercharger",
+        "CLQUOY",
+        [
+        ],
+        null
+      ],
+      [
+        332552,
+        0,
+        "dva",
+        "XI8RQ",
+        "mercy",
+        "MIGHT",
+        [
+        ],
+        null
+      ],
+      [
+        334571,
+        0,
+        "mccree",
+        "FIFI",
+        "winston",
+        "MFMFY8QI",
+        [
+        ],
+        null
+      ],
+      [
+        598730,
+        1,
+        "dva",
+        "XI8RO",
+        "mercy",
+        "MIQHT",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ],
+      [
+        598730,
+        1,
+        "dva",
+        "XI8RO",
+        "winston",
+        "MEMEY8OI",
+        [
+        ],
+        [
+          "dva",
+          "selfdestruct"
+        ]
+      ]
+    ],
+    "map": "Eichenwalde",
+    "map_type": "Hybrid",
+    "objective_stages": [
+      {
+        "checkpoints": [
+        ],
+        "end": 360332,
+        "end_score": null,
+        "stage": "Attack",
+        "start": 39949
+      },
+      {
+        "checkpoints": [
+          [
+            563178,
+            1
+          ]
+        ],
+        "end": 570362,
+        "end_score": null,
+        "stage": "Defend",
+        "start": 417076
+      }
+    ],
+    "owner": "Magic#11407",
+    "player": "XI8RO",
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2366,
+    "tab_statistics": null,
+    "teams": {
+      "blue": [
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "dva",
+              "start": 598730
+            }
+          ],
+          "name": "XI8RO"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "mercy",
+              "start": 134995
+            }
+          ],
+          "name": "MIGHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "tracer",
+              "start": 288249
+            }
+          ],
+          "name": "PWNAQFPFTF"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "mccree",
+              "start": 170175
+            }
+          ],
+          "name": "FIFI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "dva",
+              "start": 286734
+            }
+          ],
+          "name": "LELOUCH84"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "winston",
+              "start": 170175
+            }
+          ],
+          "name": "MFMFY8QI"
+        }
+      ],
+      "red": [
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "mccree",
+              "start": 170175
+            }
+          ],
+          "name": "FIFI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "dva",
+              "start": 134995
+            }
+          ],
+          "name": "XI8RQ"
+        },
+        {
+          "heroes": [
+          ],
+          "name": "CLQUOY"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "winston",
+              "start": 598730
+            }
+          ],
+          "name": "MEMEY8OI"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "mercy",
+              "start": 598730
+            }
+          ],
+          "name": "MIQHT"
+        },
+        {
+          "heroes": [
+            {
+              "end": 598730,
+              "hero": "dva",
+              "start": 281457
+            }
+          ],
+          "name": "KI8RO"
+        }
+      ]
+    },
+    "user_id": 151467
+  },
+  "meta": {
+    "duration": 606,
+    "end_sr": 2341,
+    "heroes_played": [
+      [
+        "dva",
+        1
+      ]
+    ],
+    "key": "Magic-11407/2017-07-04-19-29-BPsCPCCxzswyBt5Z2MZ96h",
+    "map": "Eichenwalde",
+    "player_name": "MAGIC",
+    "rank": null,
+    "result": "LOSS",
+    "score": [
+      0,
+      1
+    ],
+    "start_sr": 2366,
+    "time": 1499195900,
+    "url": "https://s3-us-west-2.amazonaws.com/overtrack-parsed-games/Magic-11407/2017-07-04-19-29-BPsCPCCxzswyBt5Z2MZ96h/game.json",
+    "user_id": 151467
+  }
+}
