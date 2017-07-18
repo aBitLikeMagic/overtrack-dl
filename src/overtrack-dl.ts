@@ -29,10 +29,8 @@ export class OvertrackUser {
     let headers:{[index: string]: string} = {};
     if (this.sessionId_) headers['Cookie'] = `session=${this.sessionId_}`;
 
-    console.log(url, headers);
     const response = await fetch(url, { headers: headers });
     const data = await response.json();
-    //console.log(data);
     const games:OvertrackGame[] = data['games'].map((game: Object) => new OvertrackGame(game));
     
     games.sort((a, b) => a.meta.time - b.meta.time);
