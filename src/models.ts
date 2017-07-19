@@ -166,15 +166,15 @@ export class OvertrackGame {
     const path = `games/${this.key()}.json`;
 
     try {
-      this.data = JSON.parse(await fse.readFile(path, 'utf8')).data;
-      console.log(`Loaded ${path}.`);
+      console.log(`Loading ${path}.`);
+      this.data = OvertrackGameData.check(JSON.parse(await fse.readFile(path, 'utf8')).data);
     } catch (error) {
       const response = await fetch(this.meta.url);
-      this.data = await response.json();
+      this.data = OvertrackGameData.check(await response.json());
       console.log(`Fetched ${path}.`);
       await fse.writeFile(path, this.stringify());
     }
 
-    return this.data as OvertrackGameData;
+    return this.data;
   }
 }
