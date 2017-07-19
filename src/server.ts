@@ -98,8 +98,15 @@ export const makeServer = () => {
   });
 
   app.post('/download-personal', async (request, response) => {
-    await OvertrackUser.getGamesWithData(request.body.session);
-    response.redirect(`/?session=${request.body.session}`);
+    try {
+      await OvertrackUser.getGamesWithData(request.body.session);
+      response.redirect(`/?session=${request.body.session}`);
+    } catch (error) {
+      console.error(error);
+      response.status(500);
+      response.header('Content-Type', 'text/plain');
+      response.send(String(error.stack));
+    }
   });
 
   app.post('/download-shared', async (request, response) => {

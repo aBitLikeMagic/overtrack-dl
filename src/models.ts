@@ -2,7 +2,8 @@ import fetch from 'node-fetch';
 import * as fse from 'fs-extra';
 import * as jsonStableStringify from 'json-stable-stringify';
 
-import {RawOvertrackGameMetadata, RawOvertrackGameData, MinimalGame} from './overtrack';
+//import {MinimalGame} from './types/games';
+import {OvertrackGameMetadata, OvertrackGameData} from './types/overtrack';
 
 
 // interface Manager<ModelType extends Model<KeyType>, KeyType> {
@@ -17,22 +18,6 @@ import {RawOvertrackGameMetadata, RawOvertrackGameData, MinimalGame} from './ove
 // class Game implements Model<string> {
 //   key: string;
 // }
-
-type TaggedGame = MinimalGame & {source: string} & (
-  ({source: 'overtrack'} & OvertrackGame) |
-  ({source: 'csv'})
-);
-
-
-class Game {
-  data: TaggedGame;
-
-  private constructor() {}
-
-  static all(): Game[] {
-    return [];
-  }
-}
 
 
 export class OvertrackUser {
@@ -140,11 +125,16 @@ export class OvertrackUser {
 
 
 export class OvertrackGame {
-  meta: RawOvertrackGameMetadata;
-  data?: RawOvertrackGameData;
+  meta: OvertrackGameMetadata;
+  data?: OvertrackGameData;
 
   constructor(meta: Object) {
-    this.meta = meta as any;
+    try {
+      this.meta = OvertrackGameMetadata.check(meta);
+    } catch(error) {
+      console.log(meta);
+      throw error;
+    }
     this.data = undefined;
   }
 
@@ -168,7 +158,7 @@ export class OvertrackGame {
     return jsonStableStringify(this, {space: 2});
   }
   
-  async getData(): Promise<RawOvertrackGameData> {
+  async getData(): Promise<OvertrackGameData> {
     if (this.data) return this.data;
     
     try { await fse.mkdir('games'); } catch (error) {}
@@ -185,6 +175,6 @@ export class OvertrackGame {
       await fse.writeFile(path, this.stringify());
     }
 
-    return this.data as RawOvertrackGameData;
+    return this.data as OvertrackGameData;
   }
 }

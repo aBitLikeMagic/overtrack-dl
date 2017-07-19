@@ -9,7 +9,7 @@ export class HTMLString extends String {
             .replace(/</g, '&lt;')
             .replace(/>/g, '&gt;')
             .replace(/"/g, '&quot;')
-            .replace(/\\/g, '&#39;'));
+            .replace(/'/g, '&#39;'));
   }
 }
 
@@ -17,8 +17,11 @@ export  const HTML = (strings: TemplateStringsArray, ...substitutions: string[])
   const escapedFlattenedSubstitutions =
       substitutions.map(s => ([] as string[]).concat(s).map(HTMLString.escape).join(''));
   const pieces = [];
-  for (const i of strings.keys()) {
-    pieces.push(strings[i], escapedFlattenedSubstitutions [i] || '');
+  for (let i = 0; i < strings.length; i++) {
+    pieces.push(strings[i]);
+    if (i < escapedFlattenedSubstitutions.length) {
+      pieces.push(escapedFlattenedSubstitutions[i]);
+    }
   }
   return new HTMLString(pieces.join(''));
 };

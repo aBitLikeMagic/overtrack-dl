@@ -1,64 +1,66 @@
+import {Literal as L} from 'runtypes';
 import * as t from 'runtypes';
+
+import {MinimalGame} from './games';
 
 // Type definitions for the raw data from Overtrack.
 
 
-export type HeroName =
-  'doomfist' | 'genji' | 'mccree' | 'pharah' | 'reaper' | 's76' | 'sombra' | 'tracer' |
-  'bastion' | 'hanzo' | 'junkrat' | 'mei' | 'torb' | 'widowmaker' |
-  'dva' | 'orisa' | 'reinhardt' | 'roadhog' | 'winston' | 'zarya' |
-  'ana' | 'lucio' | 'symmetra' | 'zenyatta';
+export const HeroName = t.Union(
+  t.Union(L('doomfist'), L('genji'), L('mccree'), L('pharah'), L('reaper')),
+  t.Union(L('s76'), L('sombra'), L('tracer'), L('bastion'), L('hanzo')),
+  t.Union(L('junkrat'), L('mei'), L('torb'), L('widowmaker'), L('dva')),
+  t.Union(L('orisa'), L('reinhardt'), L('roadhog'), L('winston'), L('zarya')),
+  t.Union(L('ana'), L('lucio'), L('symmetra'), L('zenyatta'), L('mercy')));
+export type HeroName = t.Static<typeof HeroName>;
 
-export type TeamName = 'red' | 'blue';
-
-export const MinimalGame = t.Record({
-  // The player's SR after a match.
-  end_sr: t.Number
-});
-export type MinimalGame = t.Static<typeof MinimalGame>;
-
+export const TeamName = t.Union(L('red'), L('blue'));
+export type TeamName = t.Static<typeof TeamName>;
 
 // Data that is identical in both Overtrack's game data and metadata.
-interface RawOvertrackGameCommon extends MinimalGame {
+export const OvertrackGameCommon = t.Intersect(MinimalGame, t.Record({
   // The Overtrack key identifying this game.
-  key: string;
+  key: t.String,
 
   // The Overtrack user ID which owns this game.
-  user_id: number;
+  user_id: t.Number,
   
   // The player's SR before this match
-  start_sr: number;
+  start_sr: t.Union(t.Void, t.Number),
   
   // The name of the map.
-  map: string;
+  map: t.String,
  
   // The result of the game.
-  result: 'UNKNOWN' | 'WIN' | 'DRAW' | 'LOSS';
+  result: t.Union(L('UNKNOWN'), L('WIN'), L('DRAW'), L('LOSS')),
+
   // ...and the specific team scores.
-  score: [number, number];
+  score: t.Union(t.Void, t.Tuple(t.Number, t.Number)),
   
   // The heroes the player used, and the fractions of the match for which they did.
-  heroes_played: [HeroName, number][]
-}
+  heroes_played: t.Array(t.Tuple(HeroName, t.Number))
+}));
+export type OvertrackGameCommon = t.Static<typeof OvertrackGameCommon>;
 
 // The short metadata used to display this in Overtrack game lsits.
-export interface RawOvertrackGameMetadata extends RawOvertrackGameCommon {
+export const OvertrackGameMetadata = t.Intersect(OvertrackGameCommon, t.Record({
   // The name of the current player.
-  player_name: string;
+  player_name: t.String,
 
   // The URL where the full detailed parsed game information is available.
-  url: string;
+  url: t.String,
   
   // The timestamp at which the game started, and duration in seconds.
-  time: number;
-  duration: number;
+  time: t.Number,
+  duration: t.Number,
 
   // not sure what this is.
-  rank: null;
-}
+  rank: t.Null
+}));
+export type OvertrackGameMetadata = t.Static<typeof OvertrackGameMetadata>;
 
 // The full detailed parsed game information used to display the game view.
-export interface RawOvertrackGameData extends RawOvertrackGameCommon {
+export interface OvertrackGameData extends OvertrackGameCommon {
   // The primary BattleTag associated with the owner's Overtrack account.
   owner: string;
 
