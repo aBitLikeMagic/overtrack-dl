@@ -1,3 +1,5 @@
+import * as t from 'runtypes';
+
 // Type definitions for the raw data from Overtrack.
 
 
@@ -9,10 +11,12 @@ export type HeroName =
 
 export type TeamName = 'red' | 'blue';
 
-export interface MinimalGame {
-  // The player's SR after this match.
-  end_sr: number;
-}
+export const MinimalGame = t.Record({
+  // The player's SR after a match.
+  end_sr: t.Number
+});
+export type MinimalGame = t.Static<typeof MinimalGame>;
+
 
 // Data that is identical in both Overtrack's game data and metadata.
 interface RawOvertrackGameCommon extends MinimalGame {
@@ -27,7 +31,7 @@ interface RawOvertrackGameCommon extends MinimalGame {
   
   // The name of the map.
   map: string;
-
+ 
   // The result of the game.
   result: 'UNKNOWN' | 'WIN' | 'DRAW' | 'LOSS';
   // ...and the specific team scores.

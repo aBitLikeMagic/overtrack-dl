@@ -1,4 +1,4 @@
-import {OvertrackUser} from './overtrack-dl';
+import {OvertrackUser} from './models';
 
 
 const sessionId = process.env['session'];

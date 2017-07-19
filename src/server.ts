@@ -1,7 +1,7 @@
-import * as fs from 'fs-extra';
+import * as fse from 'fs-extra';
 import * as express from 'express';
 
-import {OvertrackUser} from './overtrack-dl';
+import {OvertrackUser} from './models';
 import {HTML} from './html';
 import {serveGraph} from './graph';
 
@@ -78,7 +78,13 @@ export const makeServer = () => {
       <h2>downloaded</h2>`];
 
     let count = 0;
-    for (const filename of await fs.readdir('games')) {
+    let games: any[] = [];
+    try {
+      games = await fse.readdir('games');
+    } catch (error) {
+      console.error(error);
+    }
+    for (const filename of games) {
       if (filename.match(/\.(json|csv)$/)) {
         parts.push(HTML`<p><a href="games/${filename}" id="games/${filename}">${filename}</a></p>`);
         count += 1;

@@ -1,5 +1,4 @@
-/node_modules/
-/games/*.json
-/games/*.csv
-/dist/*.js
-
+node_modules/
+games/*.json
+games/*.csv
+dist/*.js

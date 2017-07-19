@@ -1,9 +1,38 @@
 import fetch from 'node-fetch';
-import * as fs from 'fs-extra';
+import * as fse from 'fs-extra';
 import * as jsonStableStringify from 'json-stable-stringify';
 
-import {RawOvertrackGameMetadata, RawOvertrackGameData} from './overtrack-data.d';
+import {RawOvertrackGameMetadata, RawOvertrackGameData, MinimalGame} from './overtrack';
 
+
+// interface Manager<ModelType extends Model<KeyType>, KeyType> {
+//   all():ModelType[];
+//   get(KeyType): ModelType;
+// }
+
+// interface Model<KeyType> {
+//   key: KeyType;
+// };                  
+                
+// class Game implements Model<string> {
+//   key: string;
+// }
+
+type TaggedGame = MinimalGame & {source: string} & (
+  ({source: 'overtrack'} & OvertrackGame) |
+  ({source: 'csv'})
+);
+
+
+class Game {
+  data: TaggedGame;
+
+  private constructor() {}
+
+  static all(): Game[] {
+    return [];
+  }
+}
 
 
 export class OvertrackUser {
@@ -58,6 +87,8 @@ export class OvertrackUser {
     }
     
     const eraseUnknown = (x: any) => String(x || '').replace(/^UNKNOWN$/, '');
+
+    try { await fse.mkdir('games'); } catch (error) {}
     
     for (const playerName of Object.keys(gamesByPlayer)) {
       const csvRows: string[] = [];
@@ -92,7 +123,7 @@ export class OvertrackUser {
       csvRows.push('\n');
       const csv = csvRows.join('\n');
       const path = `games/${playerName}.csv`
-      await fs.writeFile(path, csv, {encoding: 'utf8'});
+      await fse.writeFile(path, csv, {encoding: 'utf8'});
       paths.push(path);
     }
     
@@ -140,16 +171,18 @@ export class OvertrackGame {
   async getData(): Promise<RawOvertrackGameData> {
     if (this.data) return this.data;
     
+    try { await fse.mkdir('games'); } catch (error) {}
+
     const path = `games/${this.key()}.json`;
 
     try {
-      this.data = JSON.parse(await fs.readFile(path, 'utf8')).data;
+      this.data = JSON.parse(await fse.readFile(path, 'utf8')).data;
       console.log(`Loaded ${path}.`);
     } catch (error) {
       const response = await fetch(this.meta.url);
       this.data = await response.json();
       console.log(`Fetched ${path}.`);
-      await fs.writeFile(path, this.stringify());
+      await fse.writeFile(path, this.stringify());
     }
 
     return this.data as RawOvertrackGameData;

@@ -1,7 +1,7 @@
 import * as express from 'express';
 import * as fs from 'fs-extra';
 
-import {OvertrackGame} from './overtrack-dl';
+//import {OvertrackGame} from './models';
 import {HTML} from './html';
 
 
@@ -30,7 +30,7 @@ export const serveGraph: express.RequestHandler = async (request, response) => {
 
   const allowedNames = new Set(specifiedNames);
 
-  const datas: OvertrackGame[] = [];
+  const datas: any[] = [];
   
   for (const filename of await fs.readdir('games')) {
     const match = filename.match(/^([^\-]+)\-[0-9].+\.json/);
@@ -38,32 +38,32 @@ export const serveGraph: express.RequestHandler = async (request, response) => {
       const name = match[1];
       if (!games[name]) games[name] = [];
       if (!labels[name]) labels[name] = [];
-      const data = JSON.parse(await fs.readFile('games/' + filename, 'utf8')) as OvertrackGame;
+      const data = JSON.parse(await fs.readFile('games/' + filename, 'utf8')) as any;
       data['name'] = name;
       datas.push(data);
     }
   }
   
-  let previous = null;
+  let previous: any = null;
   // fill missing SR forwards
   // TODO: be more intelligent about this?
   for (const data of datas) {
-    if (!data.meta.end_sr) {
-      data.meta.end_sr = previous;
-      data['interpolated'] = true;
-    } else {
-      previous = data.meta.end_sr;
+    if (previous && !data.meta.end_sr) {
+      data.meta.end_sr = previous.meta.end_sr + 0.111;
+      if (data.meta.result === 'WIN') data.meta.end_sr += 25;
+      if (data.meta.loss === 'LOSS') data.meta.end_sr -= 25;
     }
+    previous = data;
   }
-  let next = 0;
+  let next: any = null;
   // fill missing SR backwards
   for (const data of datas.slice().reverse()) {
-    if (!data.meta.end_sr) {
-      data.meta.end_sr = next;
-      data['interpolated'] = true;
-    } else {
-      next = data.meta.end_sr;
+    if (next && !data.meta.end_sr) {
+      data.meta.end_sr = next.meta.end_sr - 0.111;
+      if (next.meta.result === 'WIN') data.meta.end_sr -= 25;
+      if (next.meta.loss === 'LOSS') data.meta.end_sr += 25;
     }
+    next = data;
   }
   
   
@@ -87,7 +87,7 @@ export const serveGraph: express.RequestHandler = async (request, response) => {
         pieces.push('on ' + data.meta.map);
       }
       if (data.meta.heroes_played) {
-        pieces.push(`<br>${data.meta.heroes_played.map(x => `${(x[1] * 100)|0}% ${capitalize(x[0])}`).join(', ')}`);
+        pieces.push(`<br>${data.meta.heroes_played.map((x: any) => `${(x[1] * 100)|0}% ${capitalize(x[0])}`).join(', ')}`);
       }
       labels[name].push(pieces.join(' '));
     }
